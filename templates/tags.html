@@ -9,7 +9,7 @@
 		integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<link href="static/css/style.css" rel="stylesheet" type="text/css" />
 
-	<script type="text/javascript" src="style/js/custom.js"></script>
+	<script type="text/javascript" src="static/js/custom.js"></script>
 	<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.slim.min.js"
 		integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
 		crossorigin="anonymous"></script>
@@ -31,13 +31,13 @@
 			</div>
 			<div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 				<a class="nav-link inactive" id="v-pills-home-tab" data-toggle="pill" href="/" role="tab"
-					aria-controls="v-pills-home" aria-selected="true">Home</a>
+					aria-controls="v-pills-home" aria-selected="true" onclick=javascript:f(this);>Home</a>
 				<h5 class="page-header"></h5>
 				{% for item in tag_list %}
 
 				<a class={% if item == tag %} "nav-link active" {% else %} "nav-link inactive" {% endif %}
 					id="v-pills-profile-tab" data-toggle="pill" href="/{{item}}" role="tab"
-					aria-controls="v-pills-profile" aria-selected="false">{{item}}</a>
+					aria-controls="v-pills-profile" aria-selected="false" onclick=javascript:f(this);>{{item}}</a>
 				{% endfor %}
 			</div>
 		</div>
@@ -67,7 +67,7 @@
 									</div>
 									<div class="col-md-9 right">
 										{% for tag in data.tags %}
-										<button type="button" class="btn btn-info">#{{tag}}</button>
+										<button type="button" class="btn btn-info" href=/{{tag}} onclick=javascript:f(this);>#{{tag}}</button>
 										{% endfor %}
 									</div>
 								</div>
