@@ -57,10 +57,10 @@
 						<div class="card">
 							{% for data in data_list %}
 							<div class="card-body">
-								<h5 class="card-title">data.title</h5>
+								<h5 class="card-title">{{data.title}}</h5>
 								<h6 class="card-subtitle mb-2 text-muted">url</h6>
-								<p class="card-text">data.content</p>
-								<p class="card-link">data.time</p>
+								<p class="card-text">{{data.content}}</p>
+								<p class="card-link">{{data.time}}</p>
 									<div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
 										<div class="btn-group mr-2" role="group" aria-label="First group">
 											{% for tag in data.tags %}
