@@ -10,8 +10,6 @@ import nltk
 from nltk.tokenize import word_tokenize
 from nltk.stem.wordnet import WordNetLemmatizer
 
-
-
 def process(textori):
     dictionary = {}
     stopwords = ['、','（','）','，','。','：','“','”',
@@ -20,7 +18,6 @@ def process(textori):
                 'the','of',',',' ','and','this','to','be',
                 'that','it','was','by']
     output_wr = ""
-    #delete unimportant character
     for line in textori:
         for word in line:
             if word.isalpha() or word == ' ':
@@ -38,14 +35,11 @@ def process(textori):
     
     for localkey in fredist.keys(): # 所有词频合并。 如果存在词频相加，否则添加
         if localkey in stopwords: # 检查是否为停用词
-         #   print('-->停用词：', localkey)
             continue
         if localkey in dictionary.keys(): # 检查当前词频是否在字典中存在
-         #   print('--> 重复值：', localkey, dictionary[localkey]+fredist[localkey],fredist[localkey])
             dictionary[localkey] = dictionary[localkey] + fredist[localkey] # 如果存在，将词频累加，并更新字典值
         else: # 如果字典中不存在
             dictionary[localkey] = fredist[localkey] # 将当前词频添加到字典中
-        #    print('--> 新增值：', localkey, dictionary[localkey])
     
     words = []
     for word in dictionary:
