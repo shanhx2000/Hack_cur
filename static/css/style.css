@@ -1,0 +1,49 @@
+#id{
+    margin: 25px;
+}
+div a.active{
+    background-color: #2196f3;
+}
+div.nav-pills a.inactive{
+    color: #2196f3;
+}
+.btn-info{
+    background-color: #009688;
+}
+#length{
+    background-color: #90caf9;
+    font-size: 75%;
+}
+#page-title{
+    text-align: center;
+}
+
+#big{
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-right-width: 20px;
+    border-left-width: 20px;
+    border-top-width: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+    align-content: center;
+}
+
+#tag-in-button{
+    align-self: center;
+}
+
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+
+#text-inside{
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-right: 16px;
+}
