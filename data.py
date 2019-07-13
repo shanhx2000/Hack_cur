@@ -1,4 +1,3 @@
-
 from pymongo import MongoClient
 from string_dispose import process
 import time
@@ -15,7 +14,8 @@ class profile:
     def add(self,dict):
         (self.file).insert_one(dict)
         for tag in dict['tags']:
-            self.taglist.append(tag)
+            if(dict.tags not in self.taglist):
+                self.taglist.append(tag)
 
     def add_auto(self,text):
         dict = data()
