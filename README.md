@@ -10,13 +10,13 @@ For the server mode, starting the progarm with:
     $ python app.py
 ```
 
-## Files
+## Structure
 >Hack_cur  
->&emsp;|--templates  
->&emsp;&emsp;|--index.html  
->&emsp;&emsp;|--inside.html    
->&emsp;|--static  
->&emsp;|--data  
->&emsp;&emsp;|--db  
->&emsp;|--app.py
+>&emsp;&emsp;|--templates  
+>&emsp;&emsp;&emsp;&emsp;|--index.html  
+>&emsp;&emsp;&emsp;&emsp;|--inside.html    
+>&emsp;&emsp;|--static  
+>&emsp;&emsp;|--data  
+>&emsp;&emsp;&emsp;&emsp;|--db  
+>&emsp;&emsp;|--app.py
 
