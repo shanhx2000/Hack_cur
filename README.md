@@ -4,8 +4,6 @@
 >Intro: This is an intelligent knowledge management system.  
 >Members: Chen Yanjun, Shan Haoxuan, Wang Hanyu, Yang Jiamin. 
 
-## Background
-
 ## Guide
 For the server mode, starting the progarm with:
 ```
@@ -13,8 +11,12 @@ For the server mode, starting the progarm with:
 ```
 
 ## Files
-project  
-    |-tempalates  
-    |-static  
-    |-app.py  
+>Hack_cur  
+>...|--templates
+>...|.....|--index.html  
+>...|.....|--inside.html    
+>...|--static  
+>...|--data  
+>...|.....|--db
+>...|--app.py
 

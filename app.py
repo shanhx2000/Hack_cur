@@ -1,7 +1,7 @@
 from flask import Flask, session, redirect, url_for, escape, request, render_template
-import pymongo
+from pymongo import MongoClient
 
-myclient = pymongo.MongoClient('mongoodb://localhost:27017/')
+myclient = MongoClient('mongodb://localhost:27017/')
 mydb = myclient['db']
 mycol = mydb['name']
 
