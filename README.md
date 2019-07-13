@@ -12,11 +12,11 @@ For the server mode, starting the progarm with:
 
 ## Files
 >Hack_cur  
->.....templates  
->..........index.html  
->..........inside.html    
->.....static  
->.....data  
->..........db
->.....app.py
+>&emsp;|--templates  
+>&emsp;&emsp;|--index.html  
+>&emsp;&emsp;|--inside.html    
+>&emsp;|--static  
+>&emsp;|--data  
+>&emsp;&emsp;|--db  
+>&emsp;|--app.py
 
