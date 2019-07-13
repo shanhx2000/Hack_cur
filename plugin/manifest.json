@@ -1,0 +1,11 @@
+{  
+    "name": "Faker",  
+    "manifest_version":2, 
+    "version": "0.0.1",  
+    "description": "Fake!",
+    "browser_action": {  
+      "default_icon": "icon.png" ,
+      "default_title": "Faker",
+      "default_popup": "index.html"
+    }
+}

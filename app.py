@@ -1,9 +1,10 @@
 from flask import Flask, session, redirect, url_for, escape, request, render_template
-#import pymongo
 
-#myclient = pymongo.MongoClient('mongoodb://localhost:27017/')
-#mydb = myclient['db']
-#mycol = mydb['name']
+from pymongo import MongoClient
+
+myclient = MongoClient('mongodb://localhost:27017/')
+mydb = myclient['db']
+mycol = mydb['name']
 
 #mydict = {'name':'run','alexa':'1000','url':'http://www.runoob.com'}
 
