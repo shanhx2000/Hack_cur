@@ -9,8 +9,9 @@ mytags = mydb['tag_list']
 mydata = mydb['data_list']
 
 mydata.delete_many({})
-mydata.insert_one(data('Chen Yanjun','He is a fake man.','2019.7.13',['fake','human']).todict());
-mydata.insert_one(data('Shan Haoxuan','He is tired.','2019.7.13',['tired','human']).todict());
+mydata.insert_one(data('Chen Yanjun','He is a fake man.','2019.7.13',['fake','human']).todict())
+mydata.insert_one(data('Shan Haoxuan','He is tired.','2019.7.13',['tired','human']).todict())
+
 taglist = ['fake','tired','C++','python','html']
 
 app = Flask(__name__)
