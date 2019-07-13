@@ -13,8 +13,8 @@ For the server mode, starting the progarm with:
 ```
 
 ## Files
-project 
-    |-tempalates
-    |-static
-    |-app.py
+project  
+    |-tempalates  
+    |-static  
+    |-app.py  
 
