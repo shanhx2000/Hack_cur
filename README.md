@@ -16,3 +16,4 @@ For the server mode, starting the progarm with:
 project |--tempaltes
         |--static
         |--app.py
+
