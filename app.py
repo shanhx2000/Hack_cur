@@ -10,7 +10,7 @@ def indexsearch():
         newtag = request.form['search-key']
         if(newtag not in mydata.taglist):
             mydata.add_auto(newtag)
-            return render_template('index.html')
+            return redirect("/" + mydata.taglist[0])
         else:
             return render_template('tags.html',tag_list=mydata.taglist, tag=newtag, data_list=mydata.Find(newtag),length=len(mydata.Find(newtag)))
     else:
