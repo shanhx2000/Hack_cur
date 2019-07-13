@@ -1,7 +1,7 @@
 from flask import Flask, session, redirect, url_for, escape, request, render_template
 
 from pymongo import MongoClient
-from data import data,tolist
+from data import data
 
 myclient = MongoClient('mongodb://localhost:27017/')
 mydb = myclient['db']
@@ -17,16 +17,16 @@ app = Flask(__name__)
 def Find(database):
     ret = []
     for x in mydata.find():
-        ret.append(tolist(x))
+        ret.append(x)
     return ret
 
 @app.route('/')
 def index():
-    return render_template('second.html', tag_list=["23","32","$243"], tag="23")
+    return render_template('index.html', tag_list=["23","32","$243"], tag="23")
 
 @app.route('/<tag>')
 def loadtag(tag):
     return render_template('inside.html',tag_list=taglist, tag=tag, data_list=Find(mydata))
 
-#if(__name__=='__main__'):
-#    app.run()
+if(__name__=='__main__'):
+    app.run()

@@ -8,7 +8,4 @@ class data:
         return [self.title,self.content,self.time,self.tags]
     def todict(self):
         return {'title':self.title, 'content':self.content,'time':self.time,'tags':self.tags}
-        
-def tolist(x):
-        return [x['title'],x['content'],x['time'],x['tags']]
     
