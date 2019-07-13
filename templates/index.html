@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-	<head>
+
+<head>
 	<meta charset="utf-8" />
 	<title> This is a title </title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,11 +12,13 @@
 	<script type="text/javascript" src="style/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="style/js/custom.js"></script>
 </head>
+
 <body>
 	<div class="container">
 		<header class="header col-md-12">
 			<div class="page-header">
-				<h1><small><span class="glyphicon glyphicon-book" aria-hidden="true"></span> This is another title </small> <span class="badge"></span></h1>
+				<h1><small><span class="glyphicon glyphicon-book" aria-hidden="true"></span> This is another title
+					</small> <span class="badge"></span></h1>
 			</div>
 		</header>
 
@@ -23,7 +26,11 @@
 
 			<div class="list-group">
 				{% for item in tag_lists %}
-					<a href="{{item.href}}" class="list-group-item"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> {{item.name}} </a>
+					<a href="{{item.href}}" class="list-group-item">
+						<span class="glyphicon glyphicon-book" aria-hidden="true"> 
+							{{item}}
+						</span>
+					</a>
 				{% endfor %}
 			</div>
 
@@ -36,4 +43,5 @@
 		</footer>
 	</div>
 </body>
+
 </html>
