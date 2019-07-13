@@ -25,6 +25,7 @@ class profile:
         dict.tags = process(text)
         self.add(dict.todict())
 
+
     def Find(self,tagname):
         ret = []
         for x in (self.file).find({'tags':tagname}):

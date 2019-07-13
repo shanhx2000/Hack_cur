@@ -25,8 +25,8 @@
 	<div class="container row" id="big">
 		<div class="col-md-3">
 			<div class="form-group">
-				<form>
-					<input type="text" class="form-control" placeholder="Search" />
+				<form method="POST">
+					<input type="text" class="form-control" placeholder="Search" name="search-key">
 				</form>
 			</div>
 			<div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
@@ -41,6 +41,7 @@
 				{% endfor %}
 			</div>
 		</div>
+		
 		<div class="col-md-9">
 			<div class="container">
 				<header class="header col-md-12">
