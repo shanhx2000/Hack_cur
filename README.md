@@ -32,11 +32,33 @@ Then add the path:
     $ mongod --dbpath /data/db
 ```
 
-### Run server program
+## Run server program
 For the server mode, starting the progarm with:
 ```
+    $ mongod --dbpath /data/db
     $ python app.py
 ```
+
+## Related Functions
+
+### >string_dispose.py
+`process(string)`: Return the list of high frequence words.  
+
+### >app.py
+`app.route('/')`: Show the index interface.  
+`app.route('/<tag>')`: Show the inside interface.
+
+### >data.py
+#### >>class profile
+`__init__`: connect to the MongoClient 'mongodb://localhost:27017/' and clear the original files.  
+`add(dictionay)`: add the dictionary to the database.  
+`add_auto(string)`: autometically add the context to the database.  
+`Find(string)`: Return the list of records with given tag.  
+
+#### >>class data
+`__init__`: create a piece of new data  
+`tolist`: convert the data in to a list  
+`todict`: convert the data in to a dictionary  
 
 ## Structure
 >Hack_cur  
@@ -46,5 +68,9 @@ For the server mode, starting the progarm with:
 >&emsp;&emsp;|--static  
 >&emsp;&emsp;|--data  
 >&emsp;&emsp;&emsp;&emsp;|--db  
->&emsp;&emsp;|--app.py
-
+>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|--data  
+>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|--stopwords  
+>&emsp;&emsp;|--app.py  
+>&emsp;&emsp;|--data.py  
+>&emsp;&emsp;|--process.py  
+>&emsp;&emsp;|--plugin  
