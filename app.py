@@ -8,15 +8,16 @@ mydb = myclient['db']
 mytags = mydb['tag_list']
 mydata = mydb['data_list']
 
-x = mydata.insert_one(data('Chen Yanjun','He is a fake man.','2019.7.13','fake').todict());
-x = mydata.insert_one(data('Shan Haoxuan','He is tired.','2019.7.13','tired').todict());
+mydata.delete_many({})
+mydata.insert_one(data('Chen Yanjun','He is a fake man.','2019.7.13',['fake','human']).todict());
+mydata.insert_one(data('Shan Haoxuan','He is tired.','2019.7.13',['tired','human']).todict());
 taglist = ['fake','tired','C++','python','html']
 
 app = Flask(__name__)
 
-def Find(database):
+def Find(databasem,tagname):
     ret = []
-    for x in mydata.find():
+    for x in mydata.find({'tags':tagname}):
         ret.append(x)
     return ret
 
@@ -26,7 +27,7 @@ def index():
 
 @app.route('/<tag>')
 def loadtag(tag):
-    return render_template('inside.html',tag_list=taglist, tag=tag, data_list=Find(mydata))
+    return render_template('inside.html',tag_list=taglist, tag=tag, data_list=Find(mydata,tag))
 
 if(__name__=='__main__'):
     app.run()
