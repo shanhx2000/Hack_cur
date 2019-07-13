@@ -28,7 +28,7 @@ def index():
 
 @app.route('/<tag>')
 def loadtag(tag):
-    return render_template('inside.html',tag_list=taglist, tag=tag, data_list=Find(mydata,tag))
+    return render_template('tags.html',tag_list=taglist, tag=tag, data_list=Find(mydata,tag), length=7)
 
 if(__name__=='__main__'):
     app.run()

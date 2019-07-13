@@ -30,44 +30,46 @@
 				</form>
 			</div>
 			<div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-				<a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="/" role="tab"
+				<a class="nav-link inactive" id="v-pills-home-tab" data-toggle="pill" href="/" role="tab"
 					aria-controls="v-pills-home" aria-selected="true">Home</a>
+				<h5 class="page-header"></h5>
 				{% for item in tag_list %}
-				<a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="/{{item}}" role="tab"
+
+				<a class={% if item == tag %} "nav-link active" {% else %} "nav-link inactive" {% endif %}
+					id="v-pills-profile-tab" data-toggle="pill" href="/{{item}}" role="tab"
 					aria-controls="v-pills-profile" aria-selected="false">{{item}}</a>
 				{% endfor %}
 			</div>
 		</div>
 		<div class="col-md-9">
 			<div class="container">
-				<header class="header col-md-9">
-					<div class="page-header">
+				<header class="header col-md-12">
+					<div class="page-header" id="page-title">
 						<h1>
-							<small>
-								<span class="glyphicon glyphicon-book" aria-hidden="true"></span> {{tag}}
-							</small>
-							<span class="badge badge-dark">2</span>
+							<span class="glyphicon glyphicon-book" aria-hidden="true"></span> {{tag}}
+							<span class="badge badge-primary" id="length"> {{length}} </span>
 						</h1>
 					</div>
 				</header>
 
-				<div class="col-md-10">
+				<div class="col-md-12">
 
 					<article>
 						<div class="card">
 							{% for data in data_list %}
 							<div class="card-body">
 								<h5 class="card-title">{{data.title}}</h5>
-								<h6 class="card-subtitle mb-2 text-muted">url</h6>
-								<p class="card-text">{{data.content}}</p>
-								<p class="card-link">{{data.time}}</p>
-									<div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
-										<div class="btn-group mr-2" role="group" aria-label="First group">
-											{% for tag in data.tags %}
-											<button type="button" class="btn btn-secondary">#{{tag}}</button>
-											{% endfor %}
-										</div>
+								<p class="card-text" id="text-inside">{{data.content}}</p>
+								<div class="row container" style="padding-left: 0px; padding-right: 0px;">
+									<div class="col-md-3 left">
+										<button type="button" class="btn btn-light">{{data.time}}</button>
 									</div>
+									<div class="col-md-9 right">
+										{% for tag in data.tags %}
+										<button type="button" class="btn btn-info">#{{tag}}</button>
+										{% endfor %}
+									</div>
+								</div>
 							</div>
 							{% endfor %}
 						</div>
