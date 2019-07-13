@@ -12,10 +12,10 @@ class profile:
         self.taglist = []
     
     def add(self,dict):
-        (self.file).insert_one(dict)
         for tag in dict['tags']:
             if(tag not in self.taglist):
                 self.taglist.append(tag)
+                self.file.insert_one(dict)
 
     def add_auto(self,text):
         dict = data()
@@ -24,7 +24,6 @@ class profile:
         dict.time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
         dict.tags = process(text)
         self.add(dict.todict())
-
 
     def Find(self,tagname):
         ret = []

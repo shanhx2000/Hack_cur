@@ -52,6 +52,6 @@ def process(textori):
 
     tmp = sorted(words,key=lambda x:x[1],reverse=True)
     output = []
-    for i in range(4):
+    for i in range(min([4,len(tmp)])):
         output.append(tmp[i][0])
     return output
