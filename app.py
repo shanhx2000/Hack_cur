@@ -13,7 +13,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return render_template('index.html', tag_lists=["23","32","$243"])
+    return render_template('second.html', tag_list=["23","32","$243"], tag="23")
 
 #if(__name__=='__main__'):
 #    app.run()
