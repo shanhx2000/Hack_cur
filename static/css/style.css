@@ -47,3 +47,10 @@ div.nav-pills a.inactive{
     margin-top: 16px;
     margin-right: 16px;
 }
+body,html {
+    height: 100%;
+}
+
+input{
+    text-align:center;
+ }
