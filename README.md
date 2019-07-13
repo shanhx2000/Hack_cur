@@ -1,8 +1,8 @@
 # The Hack 2019 召集假人精灵元素极壁
 
 ## Description
-| Intro: | This is an intelligent knowledge management system.|
-| Members: | Chen Yanjun, Shan Haoxuan, Wang Hanyu, Yang Jiamin.| 
+| Intro: | This is an intelligent knowledge management system. |
+| Members: | Chen Yanjun, Shan Haoxuan, Wang Hanyu, Yang Jiamin. | 
 
 ## Background
 
@@ -13,7 +13,8 @@ For the server mode, starting the progarm with:
 ```
 
 ## Files
-project |--tempaltes
-        |--static
-        |--app.py
+project 
+1. tempalates
+2. static
+3. app.py
 
