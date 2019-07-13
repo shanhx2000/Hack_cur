@@ -1,4 +1,5 @@
 from flask import Flask, session, redirect, url_for, escape, request, render_template
+
 from pymongo import MongoClient
 from data import data,tolist
 
@@ -21,7 +22,7 @@ def Find(database):
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('second.html', tag_list=["23","32","$243"], tag="23")
 
 @app.route('/<tag>')
 def loadtag(tag):
