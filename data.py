@@ -27,7 +27,6 @@ class profile:
         for tag in dict.tags:
             self.taglist.append(tag)
 
-
     def Find(self,tagname):
         ret = []
         for x in (self.file).find({'tags':tagname}):
