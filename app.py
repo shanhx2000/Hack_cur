@@ -15,4 +15,4 @@ def loadtag(tag):
     return render_template('tags.html',tag_list=mydata.taglist, tag=tag, data_list=mydata.Find(tag),length=len(mydata.Find(tag)))
 
 if(__name__=='__main__'):
-    app.run(host='0.0.0.0')
+    app.run()
