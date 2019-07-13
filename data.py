@@ -14,7 +14,7 @@ class profile:
     def add(self,dict):
         (self.file).insert_one(dict)
         for tag in dict['tags']:
-            if(dict.tag not in self.taglist)
+            if(dict.tag not in self.taglist):
                 self.taglist.append(tag)
 
     def add_auto(self,text):
