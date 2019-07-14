@@ -9,13 +9,15 @@ class profile:
         mydata = mydatabase['data_list']
         mydata.delete_many({})
         self.file = mydata
-        self.taglist = []
+        self.taglist = ['fake']
+        self.badtag = [' ','is','and','to','are','?',',','.','if','what','where','when']
     
     def add(self,dict):
         for tag in dict['tags']:
-            if(tag not in self.taglist):
+            if(tag not in self.taglist and tag not in self.badtag):
                 self.taglist.append(tag)
-                self.file.insert_one(dict)
+        if self.file.find({'content':dict['content']}):
+            self.file.insert_one(dict)
 
     def add_auto(self,text):
         dict = data()
