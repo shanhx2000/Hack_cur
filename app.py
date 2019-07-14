@@ -7,10 +7,10 @@ mydata = profile()
 @app.route('/', methods=['POST', 'GET'])
 def indexsearch():
     if request.method == 'POST':
-        newtag = request.form['search-key']
+        newtag = str(request.form['search-key'])
         if(newtag not in mydata.taglist):
             mydata.add_auto(newtag)
-            return redirect("/" + mydata.taglist[0])
+            return redirect('/fake')
         else:
             return render_template('tags.html',tag_list=mydata.taglist, tag=newtag, data_list=mydata.Find(newtag),length=len(mydata.Find(newtag)))
     else:
@@ -25,4 +25,4 @@ def loadnewtag(tag):
         return render_template('tags.html',tag_list=mydata.taglist, tag=tag, data_list=mydata.Find(tag),length=len(mydata.Find(tag)))
 
 if(__name__=='__main__'):
-    app.run()
+    app.run(host='0.0.0.0')
