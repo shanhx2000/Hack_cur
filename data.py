@@ -10,7 +10,7 @@ class profile:
         mydata.delete_many({})
         self.file = mydata
         self.taglist = ['fake']
-        self.badtag = [' ','is','and','to','are']
+        self.badtag = [' ','is','and','to','are','?',',','.','if','what','where','when']
     
     def add(self,dict):
         for tag in dict['tags']:
