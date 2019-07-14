@@ -1,0 +1,106 @@
+[See also 250. LOGIC ; 312. PHILOSOPHY ; 354. RHETORIC and RHETORICAL DEVICES ., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Argumentation."
+
+-Ologies and -Isms.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Argumentation." 
+-Ologies and -Isms.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/argumentation
+, 
+"Argumentation." 
+-Ologies and -Isms.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/argumentation
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+ar·gu·men·ta·tion 
+/ ˌärgyəmənˈtāshən/
+•
+n.
+the action or process of reasoning systematically in support of an idea, action, or theory.
+
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"argumentation."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"argumentation." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/argumentation
+, 
+"argumentation." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/argumentation
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, An argumentation is defined as an expression signifying the inference of one truth from another truth. Just as a term is the sign of a concept, and a proposition the sign of a judgment, so argumentation is the sign of the act of the mind known as reasoning. As a sign, it is expressed primarily in spoken words and secondarily in written words. An example of the latter would be: "Everything white reflects light, and snow is white; hence snow reflects light.", Elements of Argumentation. Every argumentation consists of three elements: the antecedent, the conclusion, and the inference. The antecedent is the truth or truths already known as a starting point; the conclusion, sometimes called the consequent, is the truth newly arrived at; the inference, also called the illation or consequence, is the mental act involved in drawing the conclusion from the antecedent. The first two elements are found explicitly in an argumentation, while the third is indicated implicitly by a "therefore," "so," or "hence." Of the three inference is the most important element, because it gives unity and meaning to the other two, fashioning them into a logical unit. Thus, an argumentation is not merely a list of truths connected by a "therefore"; rather it signifies a growth of truth. And just as a growing organism has parts that are unified by its soul or vital principle, so argumentation has parts that are unified by the act of inference., , One difficulty in understanding argumentation comes from the inadequacy of examples. A teacher can communicate antecedent and conclusion to a student, but he cannot communicate or exemplify the inference. The act of inferring must take place in the student's mind, and there alone. As a result, examples of argumentation given in standard logic texts can be meaningless to the reader. Unless he proceeds step by step and sees the conclusion as a new truth drawn from the old, there is for him no argumentation. Inference, therefore, is not to be confused with mere succession. In argumentation one truth does not follow another; rather it follows from another. There must be a causal dependence of the conclusion on the antecedent, and precisely this is difficult to convey by means of examples., Valid Inference. The rules or laws of argumentation are phrased as follows: (1) from a true antecedent there always follows a true conclusion; (2) from a false antecedent there sometimes follows a true conclusion; and (3) the conclusion always follows the weaker part, i.e., if the antecedent is negative or particular, the conclusion will correspondingly be negative or particular. These rules govern the inferences made in a reasoning process., Another type of inference is found in judgment, when, from the truth or falsity of a given proposition, one infers the truth and falsity of related propositions. This is done in the matrices of symbolic logic and in the traditional square of opposition. Such a procedure is improperly called immediate inference by some writers. Mediate inference, which is said to be employed in argumentation, requires, on the other hand, that the conclusion be a new truth and not merely the rephrasing of a truth already known., , Because of the role of inference, argumentation is not said to be true or false (although obviously the conclusion can be so called), but rather argumentation is valid if it observes the necessary dependence of the conclusion on the antecedent, and invalid if it does not. Some authors speak of good and bad argumentation. Thus a geometrical proof that leads to a true conclusion through the observance of proper method is known as a good or valid argumentation., Kinds of Argumentation. Argumentation can be divided on the basis of either its form or its matter. The division on the basis of form or structure has two principal members: argumentation that is good, and argumentation that is only apparently good. The latter is called fallacy or sophistry. Although it has the appearance, at least to the neophyte, of valid argumentation, some fault hidden in its structure or content renders it invalid., Argumentations that are good or valid are of two types: inductive and deductive (see induction; deduction). The inductive process is one whose antecedent is less general than the conclusion; the deductive process, on the other hand, is one whose antecedent is more general than its conclusion. Both induction and deduction are equally argumentations. When arranged artificially by the logician, deduction is formulated in the syllogism. The argumentation already given as an example can be cast in syllogistic form as follows:, Everything white reflects light. But snow is white. Therefore snow reflects light., Another division is that on the basis of matter or content. Argumentation is apodictic when the matter involved is necessary, i.e., the various terms of the antecedent cannot be related other than they are. When this obtains within the deductive process the argumentation is a demonstration. When the matter is only contingent or probable, the argumentation is dialectical (see dialectics). When the matter is such that it involves the emotions, but in a hidden way, the argumentation is rhetorical (see rhetoric). Finally, when open appeal is made to the emotions, the argumentation may be called poetic [see poetics (aristotelian)]. Thus argumentation can express a reasoning process in a variety of ways, ranging from the strictest scientific reasoning to the subtle intimations of poetry. It embraces inductive and deductive processes, and often combines both., The universal scope of argumentation is often lost on the rationalist, who overemphasizes deduction, and on the empiricist, who stresses induction to an extreme. Neither the rationalist nor the empiricist considers rhetorical and poetical forms of argument as legitimate forms of reasoning. This is in sharp contrast to the cultural and scientific appreciation accorded this means of attaining truth by the ancient Greeks and medieval schoolmen., See Also: logic; proof., Bibliography: s. j. hartman, Fundamentals of Logic (St. Louis 1949). j. a. oesterle, Logic: The Art of Defining and Reasoning (2d ed. Englewood Cliffs, N.J. 1963), v. e. smith, The Elements of Logic (Milwaukee 1957). e. d. simmons, The Scientific Art of Logic (Milwaukee 1961)., [e. bondi], 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Argumentation."
+
+New Catholic Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Argumentation." 
+New Catholic Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/argumentation
+, 
+"Argumentation." 
+New Catholic Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/argumentation
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

@@ -1,0 +1,274 @@
+[In the visual arts, the English word perspective refers to the optical illusion whereby a picture on a flat, two-dimensional plane appears to be three-dimensional; as if the represented objects were actually in a deep space receding behind the picture surface (like looking at them through a window or in a mirror), and in some cases seeming even to project forward in front of the picture. The term itself derives from the Latin participle perspectus of the verb perspicere, meaning "to see through." While artists in nearly every world culture since the beginning of the human race have sought to create some kind of illusion of visual reality in their image-making, none were so preoccupied with perspective mathematics as the painters of the Italian (and then pan-European) Renaissance., Alternative means of creating the illusion of visual reality in other times and cultures will be discussed later, but this entry will begin with a review of what is generally taken for granted in our Western culture as the one "legitimate" construction, the method invented during the early Italian Renaissance (or rediscovered, if one believes the ancient Greeks and Romans already had discerned the basic geometric principles). Sometime in the late thirteenth century in central Italy, artists hired to paint frescoes on the walls of the new churches began to conceive of their pictures not as flat patterns in the traditional Romanesque manner, but as if they thought of their painted spaces as framed theatrical proscenia behind which the sacred scenes of the life of Christ and his saints were being acted out. Indeed, these artists may well have been inspired by the plethora of miracle plays performed on street corners, town squares, and even in the portals of churches in cities all over Europe during those intense years of religious uncertainty after the Crusades failed and the papacy fell into schism. Italian painters from Rome (who still remembered ancient wall-painting techniques) and from Florence—including the brilliant Giotto di Bondone (c. 1266/67–1337)—all working in the new basilica dedicated to the recently canonized Saint Francis in the Umbrian town of Assisi (Fig. 1), inadvertently began a revolution that was to radically change the style, and ultimately the content of Western art for the next six hundred years. No longer would artists simply repeat traditional medieval formulas for representing the sacred narratives. No longer would viewers sense these images only as abstracted iconic symbols. Rather, they should now feel as if they could reach beyond the frames right into the picture space and actually touch the holy beings represented on the other side—"seeing and believing" in the manner of St. Thomas, who, according to Scripture, put his finger into the very wounds of Christ in order to prove his Savior had really come back from the dead., , While these early perspective paintings did not depend on the old two-dimensional symbolic manner of representation, they also did not employ any systematic geometry for creating their exciting new optical illusions. The Italian artists were simply intent on depicting religious scenes as if they were being acted out before their eyes de naturale, or according to nature. They even introduced cast shadows and modeling as if the subjects they painted were illuminated on one side and in shade on the other, giving an effect of sculpture in relief. This nascent perspective style is often called empirical to distinguish it from the more systematic mathematization of art that followed in the fifteenth century., Art historians remain in some disagreement as to whether this early development of perspective from the thirteenth to the fifteenth century was an evolution within the painters' profession itself, that is, isolated from the ideology and politics of contemporaneous Christian Europe, or whether it was nudged, so to speak, by a remarkable science, ancient to the Greeks and Arabs, but quite new to the Latin West when manuscripts of it were first discovered in Moorish Spain and Sicily after the Christian reconquest in the twelfth century. This science was called, in Greek, optika, that is, optics, which translated into Latin as perspectiva, but having no association yet to the art of painting, later termed perspectiva artificialis to distinguish it from the original perspectiva naturalis. In fact, the original perspectiva had only to do with explaining the nature of light rays, how they always travel in straight lines, how they are reflected in mirrors, refracted when entering a denser medium, and, especially, how they affect the way the human eye sees., Perspectiva naturalis was regarded as the special handmaiden of Euclidean geometry, the latter also just revealed in the West in the twelfth century. Since light rays were understood by the ancient Greeks as always radiating from their source in the shape of a pyramid (a three-dimensional triangle), Euclid reasoned that the images framed by them must conform to his fundamental law of similar triangles; for instance, in Fig. 2, if A be the point of light source, and BCD the surface illuminated, then a consistent proportion always exists between the distance of AC from BCD and the relative size of BCD; in other words, AC:BCD as AF:EFG as AI:HIJ, etc. Greek and Arab commentators on Euclid were quick to realize the significance of this in explaining how the images of very large objects can penetrate the tiny pupil of the eye. Let A in Fig. 2 now stand for the human eye, and HIJ the object being observed (Arab commentators liked to use the camel as their example). As the distance AI between these points diminishes to AF and then to AC and so on, the illuminated "camel" will grow ever smaller in proportion until it is finally able to enter the eye and be "seen.", , Medieval Christian theologians were fascinated by these Greek and Arab revelations. The English bishop Robert Grosseteste (c. 1175–1253) noted that since God created light on the first day (Genesis), he intended to apply the absolute laws of geometry in the creation of the universe. Indeed, he must have formed its tiny shape a priori in his divine mind's eye and then projected it full-scale into the void, creating the world's three-dimensional space and volume according to the same Euclidean theorems. In other words, the science of optics seemed to be the very key to the mind of God., Members of the young Franciscan order, headquartered in the Basilica of their founding saint in Assisi, were especially moved by these ideas, and none more so than his fellow Englishman, Roger Bacon (c. 1220–1292). Bacon's famous treatise, the Opus majus (Great work), is replete with calls upon Christian leaders to study both Euclidean geometry and perspectiva naturalis as weapons against the Moors. Bacon was particularly intrigued by the way concave mirrors can convert light to heat, and so considered how they might be made to
+burn Moorish ships! Furthermore, he advised, geometry had application to the visual arts. If only religious pictures of, say, the Ark of Noah and other sacred objects mentioned in Scripture, were represented in the exact scale of their biblical description, Christians would be inspired as never before to renew the holy crusade and retake Jerusalem., Speculum, Latin for mirror, became almost a synonym for divine revelation during the Middle Ages. Numbers of treatises with titles like Speculum salvationis humanis (Mirror of human salvation) were published everywhere in Christian Europe. Moreover, the technology of manufacturing mirrors was improving at this time, too, particularly in Venice where both flat and convex mirrors of glass began to be manufactured in convenient size, eventually becoming upper-class household items where their reflections might be compared, both actually and symbolically, with painted pictures., , According to medieval optical theory, the eye itself was nothing less than a mirror. The convex lens within the eye was understood (incorrectly, as we now know) to receive and display the minutely scaled image of whatever object is being seen,
+just as if reflected in a mirror; the image then passed to the optic nerve for cognition in the brain. It should come as no surprise that the next critical development in the history of Renaissance perspective involved comparison to a mirror reflection. It is now generally agreed that the great Florentine architect, engineer, and impresario Filippo Brunelleschi (1377–1446) created the first picture ever to be constructed by adapting the geometric laws of perspectiva naturalis. The fact is that the optical pyramid explains both how a large image can be reduced to scale, and also how a small image might be similarly increased in reverse, in much the way that a modern film projector magnifies a small transparency that becomes enlarged to the same scale when it reaches the screen. Indeed, by this means, God must have formed the universe: first, it was a tiny shape in His divine mind's eye, and then God projected it full-blown into the void. What Brunelleschi apparently realized is that the eye level of the person looking into a mirror sees not only his or her own eye reflected at that same level, but the edges of other reflected objects parallel to the ground on which the viewer stands, all appearing to converge to "vanishing points" on that same eye-level line. This is referred to as the "horizon" principle (Fig. 3)., In any event, sometime between 1413 and 1425, Brunelleschi did paint a small picture of the Baptistery of Florence as seen from the portal of the Duomo. Unfortunately, this historic painting is lost, but its composition was probably based on a geometric diagram combining mirror principles with certain other traditional measuring techniques employed by land surveyors, and possibly new projection methods inspired by cartography. We may presume the mirror connection because Brunelleschi's biographer distinctly recalled that his hero demonstrated the first perspective picture by having the viewer hold its back side against one eye, the front side of the picture facing away, then peep through a small hole bored through the back side and see the painted image of the Baptistery on the obverse side reflected in a flat mirror held in the viewer's other hand (Fig. 4). This was apparently the earliest acknowledgement of the true vanishing point in a perspective picture on line with the artist's eye from which the depicted scene was imagined, and at which all receding perpendicular edges of objects represented in the picture appear illusionistically to converge., In 1435 and 1436, the humanist Leon Battista Alberti (1404–1472), having just returned to Florence after a lifelong exile from the home of his forefathers, was so impressed by the city's fecund artistic activities that he wrote a treatise, Della pittura (On painting), dedicated to Brunelleschi and other contemporary artists. At the beginning of his book, Alberti advocated that painters must learn geometry if they are to be successful; he even spelled out the basic Euclidean definitions of point, line, and plane, and then proposed a simple geometric optical formula for laying out a perspective picture, perhaps a simplified codification of Brunelleschi's method. (See the sidebar for Alberti's textual explanation with accompanying illustrations.) Rather than comparing his system to a mirror, he likened it to looking through a window fixed with a gridwork of strings (Fig. 6). "Alberti's window" has since become the metaphor of Western civilization's concept of linear perspective, that is, perspective determined only by drawn lines signifying edges of things seen that converge or recede toward a single horizon., , Why was linear perspective so unique to Western civilization? As argued above, the advent of artificial linear perspective in the West had much to do with an idealized geometry that seemed to reveal the workings of God's mind, and thus, when applied to the making of holy pictures, should reenergize Christian faith. Perhaps it was no coincidence that the very first monumental painting to be constructed according to Brunelleschi's perspective had as its subject the Holy Trinity (Fig. 5), a large fresco depicting near-life-size figures on the nave wall of the Church of Santa Maria Novella painted c. 1425 by his friend Masaccio (1401–1428). This picture was certainly an attempt
+to convince Christian viewers that the most metaphysical mystery in all Christian theology could actually be manifested in physical form before their very eyes., Some present-day scholars, nonetheless, still maintain that Masaccio's Trinity, as well as Renaissance perspective from the very beginning, were secular reactions to medieval religiosity. Hubert Damisch, for example, thinks its advent is better explained ahistorically, by means of postmodern structuralism and Lacanian psychoanalysis (Damisch, 1994). In any case, by the sixteenth century, artists and their aristocratic patrons were showing less interest in applying perspective to uplifting religious pictures than to the revival of pagan antiquity. Indeed, instead of elevating human eyes to an intensified contemplation of the divine, Alberti's window had actually succeeded in
+bringing heaven down to earth, revealing more materiality than spirituality in its ethereal essence. Even angels were henceforth transmogrified as secular solids, rigid Euclidean volumes that raised questions as to how they could convincingly appear to take flight. Galileo Galilei (1564–1642), beginning his career as a teacher of perspective at the Florentine Academy of Art, grew so expert that he built his own optical telescope in order to observe the moon. With an eye long nurtured by artificial perspective, especially from drawing shades and shadows of spherical solids, he was able to discern what no one in the world had ever understood before: that the lunar surface was covered not with mysterious supernatural blotches, but high mountains and low valleys catching sunlight and casting shadows—just like the Alpine region of northern Italy., In the long run, linear perspective's most important contribution to Western art has been to its technology rather than its aesthetics. Even more importantly, it changed not just the way we draw pictures, but how we can actually see what we draw—but that's another story., Although every human being (of whatever ethnicity) experiences the natural visual illusion of parallel edges—like
+roadsides or railroad tracks—appearing to converge toward a point as they approach the horizon, it is not natural to reproduce this illusion in pictures. In other words, while everybody sees the same phenomenon in reality, no one, no matter how artistically talented, is innately predisposed to picture it (except, remarkably, certain autistic prodigies). Perspective is a technique that generally must be learned. Therefore there is no reason to believe that nature rather than nurture had anything to do with why artists in other ages and cultures did not pursue the "realism" preferred in the West., , Young children do instinctively make pictures from a number of viewpoints simultaneously, as in Fig. 7, a drawing by Anna, a five-year-old Ukrainian girl. Notice how she shows the trees and hammock in schematic side view but, because she wants to indicate her mother lying inside the hammock, depicts her posed as teetering on the edge; it is as if her mother is now imagined as being viewed from above. Until the infusion of Euclidean geometry and optics in the arts of western Europe during the early Renaissance, no artists anywhere had cultural need to have their pictures replicate the optics of single-viewpoint vision, and almost all the conventions they employed for signifying solid form and distant space—even in the most sophisticated art of the pre-Renaissance West and all other non-Western cultures—evolved from similar expressions found in the instinctive art of children., This does not mean that non-perspectival pictures should be labeled "childlike" in the sense of being primitive (or inferior) to the Western style. Quite the contrary. Multiple viewpoints and other innate pictorial signifiers, such as placing nearby figures and objects at the bottom of the picture surface and those more distant at the top, have been refined into some of the most aesthetically beautiful and stylish painting in all art history. Manuscript illumination in medieval Persia is a fine example (Fig. 8). Interestingly, while medieval Islam possessed Greek optics, including Euclidean geometry, long before the West—with Muslim philosophers even adding their own commentary—Muslim painters never applied optics to art, and only used geometry for the creation of elaborate abstract designs in their magnificent architecture., Artists in China and Japan, on the other hand, refined two perspective conventions that had naught to do with optical geometry. (Euclid was unknown in the Far East until the seventeenth century.) One method was a kind of axonometric projection whereby rectilinear objects were drawn as if their perpendicular sides were set at an angle, just as in Western perspective, but with their parallel edges remaining parallel and never converging (Fig. 9). The other convention, called aerial or atmospheric perspective, provided an effective illusion of distant landscape simply through the tonality of color. Far-off mountains, for instance, were painted in hazy gray or blue in contrast to the brighter colors of nearer foreground objects, thus creating an ideal complement to the Chinese predilection for philosophic contemplation. During the Renaissance, atmospheric perspective was also explored by Western artists, notably Leonardo da Vinci., , Another perspective convention, foreshortening, does not necessarily involve optical geometry and was also independently realized in other cultures. This is the pictorial illusion of an object appearing to extend forward or backward in space even though only one end of it can be observed, such as a body limb depicted as if thrust directly at the viewer. (Think of James Montgomery Flagg's famous "I Want You" World War I recruiting poster.) Ancient Mayan artists in Central America, for ideological reasons peculiar to their culture, applied a similar foreshortening convention when representing their rulers seated with one leg bent sharply sideways (Fig. 10): note the twisted right foot of the seated male. This pose had special meaning because it signified the auto-sacrificial ritual in which Maya, Let me tell you what I do when I am painting. First of all, on the surface of which I am going to paint, I draw a rectangle of whatever size I want, which I regard as an open window through which the subject to be painted is seen; and I decide how large I wish the human figures in the painting to be. I divide the height of a man into three parts, which will be proportional to the measure commonly called a braccio [.5836 meters]; for, as may be seen from the relationship of his limbs, three braccia is just about the average height of a man's body. With this measure I divide the bottom line of my rectangle into as many parts as it will hold; and this bottom line of the rectangle is for me proportional to the next transverse equidistant quantity seen on the pavement [Illus. A]. Then I establish a point in the rectangle wherever I wish; and as it occupies the place where the centric ray [from the painter's eye] strikes, I shall call this the centric [vanishing] point [Illus. B]. The suitable position for this centric point is no higher from the base line than the height of the man to be represented in the painting, for in this way both the viewers and objects in the painting will seem to be on the same plane. Having placed the centric point, I draw straight lines from it to each of the divisions on the base line. These lines show me how successive transverse quantities visually change to an almost infinite distance [Illus. C].…, I have [another] drawing surface on which I inscribe a straight line, and this I divide into parts
+like those into which the base line of the rectangle is divided. Then I place a point above this line, directly over one end of it, at the same height as the centric point is from the base line of the rectangle, and from this point I draw lines to each of the divisions of the line [Illus. D]. Then I determine the distance I want between the eye of the spectator and the painting, and, having established the position of the intersection at this distance, I effect the intersection with what mathematicians call a perpendicular.… This perpendicular will give me, at the places it cuts the other lines, the measure of what the distance
+should be in each case between the transverse equidistant lines of the pavement. In this way I have all the parallels of the pavement drawn [Illus. E].… A proof of whether they are correctly drawn will be if a single straight line forms a diameter of connected quadrangles in the pavement [Illus. F]. When I have carefully done these things, I draw a line across, equidistant from the other lines below, which cuts the two upright sides of the large rectangle and passes through the centric point [Illus. G]. This line is for me a limit or boundary, which no quantity exceeds that is not higher than the eye of the spectator. As it passes through the centric point, this line may be called the centric [horizon] line. This is why men depicted standing in the parallel furthest away are a great deal smaller than those in nearer ones, a phenomenon which is clearly demonstrated by nature herself, for in churches we see the heads of men walking about, moving at more or less the same height, while the feet of those further away may correspond to the knee-level of those in front., kings spread their legs apart in order to draw blood from the penis and offer it to the gods., See also Arts  ; Geometry  ; Landscape in the Arts  ; Realism  ; Visual Culture  ., Damisch, Hubert. The Origin of Perspective. Cambridge, Mass.: MIT Press, 1994., Edgerton, Samuel Y. The Renaissance Rediscovery of Linear Perspective. New York: BasicBooks, 1975., Kemp, Martin. The Science of Art: Optical Themes in Western Art from Brunelleschi to Seurat. New Haven: Yale University Press, 1990., Summers, David. Real Spaces. New York, Phaidon, 2003., White, John. The Birth and Rebirth of Pictorial Space. Cambridge, Mass.: Belknap, 1987., Samuel Y. Edgerton , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Perspective."
+
+New Dictionary of the History of Ideas.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Perspective." 
+New Dictionary of the History of Ideas.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/perspective
+, 
+"Perspective." 
+New Dictionary of the History of Ideas.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/perspective
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+ Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Although the classical Greek and Roman world was widely admired and imitated in the Renaissance, the art of antiquity was surpassed in several technical aspects by later artists. One of the most important advances was made in the science of perspective. The artists of the classical world attempted in vain to accurately portray three-dimensional space on their wall paintings, while medieval artists had depicted scenes and figures on a flat plane, with no attempt to create an illusion of depth. The techniques of perspective were finally developed in Italy in the early Renaissance, in the work and the writings of several Italian artists. “Linear perspective” makes use of a single vanishing point, toward which objects appear to grow smaller and the lines of structures and surroundings appear to converge., The basic principles of this system were discovered by the Florentine architect Filippo Brunelleschi in the early fifteenth century. While observing the Baptistery, an octagonal structure near the cathedral of Florence, Brunelleschi painted the structure directly onto a mirror, then held up a second blank mirror in order to verify that his painted version was an exact replica. He then carefully analyzed and measured his painting to discover the underlying mathematical principles that governed perspective. The Baptistery instructed Brunelleschi in the use of a vanishing point and the horizon line, where the lines of different planes and objects converged., Brunelleschi published his findings to be used by other artists, and Renaissance painting took on the most important aspect of its naturalistic, lifelike quality. Paolo Uccello, another artist of Florence, used perspective with surprising effect on his mural The Battle of San Romano, where horses, weapons, and human figures all serve to emphasize lines of perspective and the vanishing point. The science of perspective was further explored in Della Pittura, a work by Leon Battista Alberti, who offered precise mathematical formulas for the use of artists. Later artists developed new systems of perspective, including aerial perspective, in which objects go out of focus and appear in a bluish light with greater distance. Leonardo da Vinci put aerial perspective to use in The Virgin of the Rocks, in which a sense of great depth and mystery is achieved by the rendering of the natural landscape as well as the contours of the figures., See Also: painting, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"perspective."
+
+The Renaissance.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"perspective." 
+The Renaissance.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/arts/arts-construction-medicine-science-and-technology-magazines/perspective
+, 
+"perspective." 
+The Renaissance.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/arts/arts-construction-medicine-science-and-technology-magazines/perspective
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, perspective, in art, any method employed to represent three-dimensional space on a flat surface or in relief sculpture. Although many periods in art showed some progressive diminution of objects seen in depth, linear perspective, in the modern sense, was probably first formulated in 15th-century Florence by the architects Brunelleschi and Alberti. Brunelleschi designed (c.1420) two panels depicting architectural views of Florence, in which he constructed a mathematically proportioned system of perspective. Alberti, in his De pittura (1435), harnessed the technique of perspective to the theory that painting is an imitation of reality. He viewed the picture plane as a window through which one looks at the visible world. Objects in the picture were to be systematically foreshortened as they receded into the distance. Orthogonal lines converged to a single vanishing point, which was to correspond to the fixed viewpoint of the spectator. Reflecting the growth of humanism, the spectator played a new role in art, as man was to determine the measurement of all things. The Italian artists who experimented with perspective, including Donatello, Masaccio, Uccello, and Piero della Francesca, sometimes diverged from the rules for a greater artistic effect. In general, however, the 15th-century Italian artists tended to work within a geometrical system, whereas the contemporary Flemish painters used more empirical means to achieve a convincing delineation of space. The technique of linear perspective had an immense influence on the development of Western art. In the 20th cent., however, its use has considerably declined, since many artists have rebelled against the conception of art as a mirror image of reality. Aerial or atmospheric perspective was developed primarily by Leonardo da Vinci. In general, it is based on the perception that contrasts of color and of light and dark appear greater, and contours more defined, in near objects than in far. Aerial perspective takes note of the recessive character of cool colors and the prominence of warm colors. In East Asian art, perspective effects were achieved by the atmospheric method, often incorporating zones of mist to separate near and far space.
+, See R. V. Cole, Perspective for Artists (1976); J. Cody, Atlas of Foreshortening (1984); M. Kubovy, The Psychology of Perspective and Renaissance Art (1988)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"perspective."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"perspective." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/perspective
+, 
+"perspective." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/perspective
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+per·spec·tive 
+/ pərˈspektiv/
+•
+n.
+1.
+the art of drawing solid objects on a two-dimensional surface so as to give the right impression of their height, width, depth, and position in relation to each other when viewed from a particular point: [as  adj.]
+a perspective drawing. See also linear perspective and aerial perspective.
+ ∎ 
+a picture drawn in such a way, esp. one appearing to enlarge or extend the actual space, or to give the effect of distance.
+ ∎ 
+a view or prospect.
+ ∎ 
+ Geom. 
+the relation of two figures in the same plane, such that pairs of corresponding points lie on concurrent lines, and corresponding lines meet in collinear points.
+
+2.
+a particular attitude toward or way of regarding something; a point of view:
+most guidebook history is written from the editor's perspective.
+ ∎ 
+true understanding of the relative importance of things; a sense of proportion:
+we must keep a sense of perspective about what he's done.
+
+
+3.
+an apparent spatial distribution in perceived sound.
+
+
+PHRASES: 
+in
+(or out of) perspective
+showing the right (or wrong) relationship between visible objects.
+ ∎ 
+correctly (or incorrectly) regarded in terms of relative importance:
+these expenses may seem high, but they need to be put into perspective.
+DERIVATIVES: 
+per·spec·tiv·al
+/ -tivəl/ adj.
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"perspective."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"perspective." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/perspective
+, 
+"perspective." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/perspective
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , Bibliography,  Fraser Reekie (1946); Malton (1800); Mohrle (1994); Nicholson (1835); Sinisgalli et al. (2000); Jane Turner (1996), 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"perspective."
+
+A Dictionary of Architecture and Landscape Architecture.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+
+"perspective." 
+A Dictionary of Architecture and Landscape Architecture.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/perspective
+, 
+"perspective." 
+A Dictionary of Architecture and Landscape Architecture.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/perspective
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"perspective."
+
+The Concise Oxford Dictionary of English Etymology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+ "perspective." 
+The Concise Oxford Dictionary of English Etymology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/perspective-0
+, 
+"perspective." 
+The Concise Oxford Dictionary of English Etymology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/perspective-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"perspective."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"perspective." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/perspective
+, 
+"perspective." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/perspective
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

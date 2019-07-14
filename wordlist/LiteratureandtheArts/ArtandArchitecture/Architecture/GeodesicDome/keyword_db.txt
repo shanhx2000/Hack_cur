@@ -1,0 +1,270 @@
+[A geodesic sphere is an arrangement of polygons that approximates a true sphere. A geodesic dome is a portion of a geodesic sphere. Buildings or roofs have been constructed out of geodesic domes that range from 5-100% of a sphere. Domes used for houses are usually arrays of triangles that form three-or five-eighths of a geodesic sphere., Geodesic domes are efficient structures in several ways. The triangle is a very stable shape; for example, a force applied to the corner of a rectangle can deform it into a parallelogram, but the same force will not deform a triangle. This makes geodesic dome buildings highly resistant to such forces as snow coverings, earthquakes, wind, and even tornadoes. The surface area of a geodesic dome is only 38% of the surface area of a box-shaped building enclosing the same floor space. There is less surface exposed to outdoor temperature fluctuations, making the building cheaper to heat and cool than a rectilinear structure. Geodesic domes can be constructed quickly without heavy equipment. Using prefabricated components, it takes just a few people to erect the dome for a 2,000-sq ft (185-sq m) home in 10 hours or less., , A geometric dome supports itself without needing internal columns or interior load-bearing walls. This property makes such structures appealing for use as churches, sports arenas, and exhibition halls. The aesthetic appeal of lofty ceilings makes them attractive as homes, and full or partial second-story floors are easily suspended halfway up the enclosure without any support other than attachment to the dome itself., In 1919, seeking a way to build a larger planetarium, German engineer Walter Bauersfeld decided to mount movable projectors within a stationary dome. Until that time, planetarium domes rotated while external light entered through holes on the dome shell to simulate stars and planets. This limited the practical size of the dome and the number of people it could hold. Bauersfeld's concept of interior projection would work in a much larger dome. The first model constructed was more than half of a sphere; 52 ft (16 m) in diameter. Bauersfeld solved the problem of how to construct such a large sphere by approximating it with an icosahedron (20-sided solid with equal triangular faces) and subdividing each face into smaller triangles. He framed the triangles from nearly 3,500 thin iron rods. To construct a spherical shell over this framework, he erected a sphefical wooden form inside the frame and sprayed on a pasty concrete mixture. The shell was designed to be the same proportional thickness as that of an eggshell compared to its diameter, a ratio later considered appropriate for geodesic domes., Thirty years later, R. Buckminster Fuller, an American architect, engineer, poet, and philosopher, independently invented a similar structural system. Following World War II, Fuller wanted to design affordable, efficient housing that could be built quickly from mass-produced components. Willing to look outside of conventional approaches, Fuller began to work with spherical shapes because they enclose a given space with a minimum of surface area. He first framed spheres with a network of strips approximating great circles (circles on a sphere with
+centers that coincide with the sphere's center); the strips formed triangles as they crossed one another. He called the product a geodesic dome because great circles are known as geodesics (from a Greek word meaning earth dividing). Eventually, Fuller began forming spheres from hexagons and pentagons (like the panels on a soccer ball) and dividing them into triangles for strength and ease of construction., , In 1953, Fuller used his new system to cover the 93-ft (28-m) diameter courtyard surrounded by Ford Motor Company's headquarters building. The building was not designed to support the great weight of a traditional dome, but Fuller's creation weighed 95% less. He completed the design and construction in only three months. A temporary mast erected in the center of the courtyard supported the dome during construction, and the structure was incrementally raised and rotated following completion of each new section. The frame consisted of 12,000 aluminum struts weighing a total of 3,750 lb (1,700 kg) that were connected to form triangles and then lifted into position and riveted to the growing frame. When the dome was completed, it was gently lowered onto mounts that had been installed on the existing building. A clear fiberglass panel was installed in each triangle to complete the dome., In 1954, Fuller received a patent on geodesic domes. During the 1960s and 1970s, an era in which unconventionality was prized, geometric domes became popular as an inexpensive way for environmentally conscious people to build their own homes. Instructions were widely available, but the quality of materials (including such strange choices as paper mache and discarded tin cans) and the skill of do-it-yourself builders were inconsistent. Amateur-built domes tended to leak when it rained, insufficient use of insulation limited their energy efficiency, and inadequate numbers of skylights left interiors dreary., Fuller predicted that a million geodesic domes would be built by the mid-1980s, but by the early 1990s, estimates placed the worldwide number somewhere between 50,000 and 300,000. A small but persistent contingent of unconventional homebuilders continue to build geodesic dome homes, primarily from kits. However, Newsday reported in 1992 that the majority of geodesic dome structures have been built for green-houses, storage sheds, defense shelters, and tourist attractions. One of the most recognizable of these is the 165-ft (48-m) diameter sphere at Walt Disney World's Epcot Center. Built of composite panels of ethylene plastic and aluminum in 1982, the structure houses a ride called Spaceship Earth, a termed coined by Fuller himself., , Geodesic domes range in size from the 460-ft (143-m) Poliedro de Caracas sports arena in Venezuela to temporary shelters that are 15 ft (5 m) or less in diameter. Consequently, construction materials vary widely. Simple, movable structures may be built of polyvinyl chloride (PVC) pipe or galvanized steel conduit frames covered with plastic sheeting or parachute canopies. Large, permanent structures like arenas and factories have been built from materials like aluminum and steel frame struts covered with aluminum, copper, structural gypsum, acrylic, or Plexiglas panels., Most residential dome kit manufacturers use wood components, primarily kiln-dried Douglas fir struts covered with 0.5-in (1.3-cm) exterior-or structural-grade plywood. Such kits include various designs of connectors to securely fasten the wood struts together in the proper configuration; high-strength aluminum, or steel coated with zinc, epoxy, or industrial primer are commonly used for connectors. Zinc-plated steel bolts secure the connectors and paneling is nailed on., A few kit manufacturers use altemative materials to make prefabricated panels that combine the frame and exterior covering. One, for example, makes molded fiberglass panels. Another supplies reinforced concrete panels; steel mesh extending from the panel edges is overlapped with mesh from the adjoining panel, and the joint is sealed with concrete., , Most dome kits are built atop concrete foundation slabs. Often, these slabs are recessed into the ground to provide a basement level. Foundation walls and riser walls (vertical walls below the dome that may be used to raise its overall height) are usually made of concrete or wood. Interior insulation generally
+consists of fiberglass batting or sprayed-on urethane, cellulose, or Icynene plastic foam., Although dome homes are built from manufactured kits, designs are flexible. As many as half of the triangles in the dome's lowest row can be removed without weakening the structure, so door and window openings can be plentiful. Vertical-walled extensions can be built out from such openings to increase the floor space. The dome can sit directly on ground-level footings (short walls recessed into the ground to bear the building's weight), or it can be erected atop a riser wall up to 8 ft (2.5 m) tall., Space must be provided between the interior and exterior walls to accommodate insulation. Some manufacturers create this space by making the struts from wood that is 4-8 in (10-20 cm) thick. Others make this space 14.5-21 in (37-53 cm) thick by using compound struts consisting of two strips of lumber joined with plywood gussets., The following is a composite of techniques used by several individuals using kits from various manufacturers., The superstructure typically consists of 60 triangular panels. Depending on the desired size of the dome, the panels are usually 6-10 ft (1.8-3 m) on a side. They may be prefabricated with the exterior panels installed, or they may constructed on site from precut lumber and metal connectors., , If dome panels were supplied with the kit, they are set atop the foundation or riser walls and connected to one another in a sequence prescribed by the manufacturer. Until enough panels are connected to support themselves, they must be braced with poles radiating out from a block in the center of the floor. The following steps describe the more common case of frame erection followed by exterior panel installation:, A quality geodesic dome structure is airtight and structurally sound. These are the factors that lower energy costs, the main consideration when building a geodesic home. Because the structure is basically airtight, condensation can sometimes be a problem. Normally it is controlled by the heating and cooling system but when the house has been closed up for a few days, moisture can build up. This is easily solved by turning the air system on or opening a door or window., Richard Buckminster Fuller was born July 12, 1895, in Milton, Massachusetts. He entered Harvard University in 1913 but was expelled two years later. In 1917, he married Anne Hewlett and formed a construction company. In 1923, Fuller invented the stockade brick-laying method—bricks with vertical holes reinforced with concrete. In 1927 he designed a factory-assembled Dymaxion house, a self-contained unit suspended from a central mast with a complete recycling system. Dymaxion was a term he used for anything deriving maximum output from minimum input. Fuller also designed a Dymaxion car—an omnidirectional vehicle that gave minimum wind resistance—in 1928. This vehicle could seat 12, make 180° turns, run easily at 120 mph (193 kmph), and average 28 mi/gal (12 km/I) but was unprofitable because automobile manufacturers wouldn't mass produce it. , , Fuller's financial break came in 1940 with his Dymaxion Deployment Unit (DDUj, a circular self-cooled living unit with pie-shaped, corrugated steel rooms. The British used DDUs in World War II. In 1949, Fuller started work on geodesic domes. He applied for a patent in 1951 and received a contract in 1953 from Ford Motor Company to build a dome over their head-quarters' courtyard in Detroit. The U.S. Defense Department became Fuller's largest customer, using domes as temporary housing units and to protect radar equipment from harsh environments. , At the time of his death in 1983, Fuller's domes were used worldwide. In 1985, fullerene was discovered. Fullerenes are carbon atoms arranged in sphere-like shapes with pentagonal and hexagonal faces, similar to geodesic domes. These "bucky balls" have up to 980 carbon atoms. , Future refinements in geodesic dome construction may come from improved building materials. For example, in 1997 a concrete block manufacturer developed a hollow, beveled, triangular block with scored edges
+that could interlock with adjacent blocks. Properly shaped, such blocks could be used to construct domes., Another innovation involves designing domes based on a different mathematical premise. In a true geodesic dome, the edges of the triangular elements align to form great circles. Although not geodesic, a new design patented in 1989 uses hexagons and pentagons to form domes with an elliptical cross section. Because of its mathematical derivation, this design is called geotangent., Although geodesic domes maximize strength while minimizing construction materials, elliptical-profile domes offer two different advantages. They can cover a circular area without rising as high as a spherical dome. And they can cover elongated or irregularly shaped areas that vary in elevation. Located in northern Mexico, the world's largest industrial domes are a pair of manufacturing buildings covered with elliptical roofs 735 ft (224 m) long and 260 ft (80 m) wide., DiChristina, Mariette. "Elliptical Dome." Popular Science (January 1990): 74., Horton, Ted. "The Dome." Mother Earth News (June/July 1999): 64., Sieden, Lloyd Steven. "The Birth of the Geodesic Dome: How Bucky Did It." The Futurist (November/December 1989): 14+. http://www.Isi.usp.br/usp/rod/bucky/geodesic_domes.txt. (January 6, 2000)., "An Introduction to Geodesic Domes." http://Owww.dnaco.net/-michael/domes/intro.html (December 2, 1999)., "Design and Construction of Alpine Dome Homes." Alpine Domes. http://www.freeyellow.com/alpinedomes (January 6, 2000)., "Home Sweet Dome." http://future.newsday.com (January 6, 2000)., Timberline Geodesics. http://www.dome-home.com (April 4, 2000)., —LorettaHall, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Geodesic Dome."
+
+How Products Are Made.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Geodesic Dome." 
+How Products Are Made.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/manufacturing/news-wires-white-papers-and-books/geodesic-dome
+, 
+"Geodesic Dome." 
+How Products Are Made.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/manufacturing/news-wires-white-papers-and-books/geodesic-dome
+, 
+ Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, GEODESIC DOME, a type of building invented by the American engineer R. Buckminster Fuller in the late 1940s. Geodesic domes are composed of triangles of various sizes that are assembled into roughly hemispherical structures. They are exceptionally lightweight, strong, and require no interior supports. Geodesic domes first came to prominence in the 1950s, when they were used as radar shelters in the Distant Early Warning line and for exhibit pavilions in international trade fairs (most notably the Montreal Expo in 1967). These uses helped, solidify Fuller's reputation as a visionary yet practical thinker, and domes likewise became symbols of American ingenuity and the strength of Cold War capitalism. In the 1960s, domes were embraced by the counterculture, and thousands were built for use as homes, especially in rural communes. For these dome builders, domes were symbols of an ecologically friendly, pacifist, and anticorporate lifestyle—the rejection of precisely those values the dome embodied in the 1950s. The dome faded as countercultural architecture in the 1970s; since then, domes have principally been used in industrial applications requiring wide-span structures., Kahn, Lloyd, ed. Domebook 2. Bolinas, Calif.: Pacific Domes, 1971., Pang, Alex Soojung-Kim. "Whose Dome Is It, Anyway?" American Heritage of Invention and Technology (spring 1996), 28–31., ———. "Dome Days: Buckminster Fuller in the Cold War." In Cultural Babbage: Technology, Time, and Invention. Edited by Francis Spufford and Jenny Uglow. London: Faber and Faber, 1996., Wong, Yunn Chii. "The Geodesic Works of Richard Buckminster Fuller, 1948–1968 (The Universe as a Home of Man)." Ph. D. diss. Massachusetts Institute of Technology, 1999., AlexSoojung-KimPang, See alsoArchitecture ., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Geodesic Dome."
+
+Dictionary of American History.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Geodesic Dome." 
+Dictionary of American History.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/geodesic-dome
+, 
+"Geodesic Dome." 
+Dictionary of American History.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/geodesic-dome
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, geodesic dome (jē´ədĕs´Ĭk, –dē´sĬk), structure that roughly approximates a hemisphere. Popular in recent years as economical, easily erected buildings, geodesic domes are geometrically determined from a model and may be constructed from limited materials. The architect Buckminster Fuller was an early proponent of geodesics for housing and other functions. Among the best-known examples of geodesic domes have been the United States Pavilion at Montreal's Expo 67 and Biosphere II, an experimental recreation of the ecosystem in Arizona., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"geodesic dome."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"geodesic dome." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/geodesic-dome
+, 
+"geodesic dome." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/geodesic-dome
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+ge·o·des·ic dome 
+•
+n.
+a dome constructed of short struts following geodesic lines and forming an open framework of triangles or polygons. The principles of its construction were described by Buckminster Fuller.
+
+, geodesic dome, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"geodesic dome."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"geodesic dome." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/geodesic-dome
+, 
+"geodesic dome." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/geodesic-dome
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"geodesic dome."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"geodesic dome." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/geodesic-dome
+, 
+"geodesic dome." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/geodesic-dome
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"geodesic dome."
+
+A Dictionary of Architecture and Landscape Architecture.
+ .
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"geodesic dome." 
+A Dictionary of Architecture and Landscape Architecture.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/geodesic-dome
+, 
+"geodesic dome." 
+A Dictionary of Architecture and Landscape Architecture.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/geodesic-dome
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, A geodesic dome is an almost spherical structure (often a building) in which the supporting network of struts are positioned on great circles (called geodesics), which lie on the surface of a sphere. It is composed of a lattice of interconnecting tetrahedrons (a pyramid with three sides and a base) and octahedrons (an, eight-sided figure—two pyramids with four sides and a base, placed base to base)., The first contemporary geodesic dome on record is the one built by German inventor and engineer Walter Bauersfeld. He realized the utility of projecting the constellations on the inner surface of an icosasphere, Omnimax-style, thereby creating a breakthrough planetarium in Jena, Germany, in 1922. After gaining the patient on the invention, the geodesic dome was constructed at the German optical company Carl Zeiss, where Bauersfeld worked. However, the geodesic dome common today was invented and patented in the United States by American architect Buckminster Fuller (1895–1983) in 1947., Geodesic domes are fractional parts of complete geodesic spheres. Actual structures range from less than 5 to 100% (a full sphere). The Spaceship Earth Pavilion constructed by Tishman Construction for AT&amp;T at Walt Disney World’s EPCOT is the bestknown example of a full sphere., Several physical and mathematical ideas factor into building a geodesic dome. For example, a con-vexly curved surface is stronger than a flat one, most materials are stronger in tension than in compression, and the most rigid structure is a triangle. A hemisphere encloses the most space with the least amount of material while the tetrahedron encloses the least volume with the most surface. These principles make geodesic domes the strongest, lightest, most energy efficient buildings ever devised. Structural patterns of geodesic domes vary in complexity. Some domes have been built using simple interconnecting triangles as a support structure while others have icosahedrons as their supporting structure. An icosahedron is the geometric form having the greatest number of identical and symmetrical faces—it has 20 faces, 12 vertices, and 30 edges. The more complex the structure is, the stronger it is., Geodesic spheres and domes come in various frequencies. The frequency of a dome relates to the number of smaller triangles into which it is subdivided. A high frequency dome has more triangular components and is more smoothly curved and sphere-like., Geodesic dome structures are used as private residences, commercial buildings, places of worship, schools, sports arenas, theaters, and vacation homes. Dome homes can be found in all 50 of U.S. states. They can be found in many places throughout the world such as China, Africa, Europe, and the Antarctic. Some notable geodesic domes are the Climatron, a climate controlled botanical garden in St. Louis, Missouri (which was built in 1960), the Houston Astrodome (1965), and the dome for the American pavilion (now called the Montreal Biosphere) at Expo ’67 in Montreal (1967). In addition, humans have been living in domes such as mud huts, igloos, and thatch huts for millions of years., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Geodesic Dome."
+ 
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Geodesic Dome." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/geodesic-dome
+, 
+"Geodesic Dome." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/geodesic-dome
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, A geodesic dome is a spherical building in which the supporting structure is a lattice of interconnecting tetrahedrons (a pyramid with three sides and a base) and octahedrons (an eight sided figure—two pyramids with four sides and a base, placed base to base). The first contemporary geodesic dome on record is Walter Bauersfeld's, who realized the utility of projecting the constellations on the inner surface of an icosasphere, Omnimax-style, thereby creating a breakthrough planetarium in Jena, Germany, in 1922. However, the geodesic dome common today was invented and patented by R. Buckminster Fuller in 1947., Geodesic domes are fractional parts of complete geodesic spheres. Actual structures range from less than 5%-100% (a full sphere ). The Spaceship Earth Pavilion constructed by Tishman Construction for AT&amp;T at Walt Disney World's EPCOT is the best-known example of a full sphere., Several physical and mathematical ideas factor into building a geodesic dome. For example, a convexly curved surface is stronger than a flat one, most materials are stronger in tension than in compression, and the most rigid structure is a triangle. A hemisphere encloses the most space with the least amount of material while the tetrahedron encloses the least volume with the most surface. These principles make geodesic domes the strongest, lightest, most energy efficient buildings ever devised. Structural patterns of geodesic domes vary in complexity. Some domes have been built using simple interconnecting triangles as a support structure while others have icosahedrons as their supporting structure. An icosahedron is the geometric form having the greatest number of identical and symmetrical faces—it has 20 faces, 12 vertices, and 30 edges. The more complex the structure is, the stronger it is., Geodesic spheres and domes come in various frequencies. The frequency of a dome relates to the number of smaller triangles into which it is subdivided. A high frequency dome has more triangular components and is more smoothly curved and sphere-like., Geodesic dome structures are used as private residences, commercial buildings, places of worship, schools, sports arenas, theaters, and vacation homes. Dome homes can be found in all 50 of the United States. They can be found in many places throughout the world such as China, Africa , Europe , and the Antarctic. Some notable geodesic domes are the Climatron, a climate controlled botanical garden in St. Louis, Missouri (1960), the Houston Astrodome (1965), and the dome for the American pavilion at Expo '67 in Montreal. Humans
+
+have been living in domes such as mud huts, igloos, and thatch huts for millions of years., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Geodesic Dome."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Geodesic Dome." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/geodesic-dome-0
+, 
+"Geodesic Dome." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/geodesic-dome-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

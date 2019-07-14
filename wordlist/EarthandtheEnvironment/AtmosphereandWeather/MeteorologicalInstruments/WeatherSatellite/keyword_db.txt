@@ -1,0 +1,164 @@
+[The first attempt to look at Earth's weather from space occurred early in the space program of the United States. In 1959, Vanguard II was launched with light-sensitive cells able to provide information about Earth's cloud cover. Unfortunately, the satellite tumbled in orbit and was unable to return any information. Explorer VI, also launched in 1959, was more successful and transmitted the first photographs of Earth's atmosphere from space., In 1960, the United States launched the first experimental weather satellite, TIROS 1. The acronym for Television and Infra Red Observation Satellite, TIROS 1 televised over 22,000 photos before it failed six weeks later. It detected potential hurricanes days before they could have been spotted by any other means. It watched the spring breakup of the ice in the St. Lawrence River and helped forecast weather for the Antarctic bases. TIROS 1 also used infrared detectors to measure the amount of heat radiated by the earth's surface and the clouds . Later versions of TIROS improved upon the original with television cameras that provided direct, real-time readouts of pictures to simple stations around the world. In 1970, ITQS-l was launched with the capability of not only direct-readout, automatic picture transmission but also the ability to store global images for later transmission and processing. Another successful series was called NOAA after the National Oceanic and Atmospheric Administration. Some of these satellites were placed in geostationary orbit (moving at the same speed as Earth) and thus were able to continuously observe one area . This helped in the detection of severe storms and tornadoes and provided real-time coverage at an earlier stage of cloud and frontal weather movements. Other TIROS-type satellites, such as NIMBUS (1960s) and NOAA-9 (1980s–1990s), are in polar orbit, where their infrared sensors measure temperatures and water vapor over the entire globe., Several GOES (Geostationary Operational Environmental Satellites) also cover the western and eastern hemispheres. These satellites are able to provide weather reports for places that have not been covered very well in the past: ocean regions, deserts, and polar areas. They also trace hurricanes, typhoons, and tropical storms, in the process save many lives. Their data are used to produce state-of-the-art charts showing sea-surface temperatures, information useful to the shipping and fishing industries. New satellites that probe Earth's atmosphere by day and night in all weather are being developed in many countries. Since the weather satellite is now an established tool of meteorologists all over the world, both developed and developing nations will continue to rely on these crafts., See also  Weather forecasting methods; Weather radar, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Weather Satellite."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Weather Satellite." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/weather-satellite
+, 
+"Weather Satellite." 
+World of Earth Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+ https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/weather-satellite
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, WEATHER SATELLITES are robotic spacecraft that observe changes in terrestrial weather patterns. Their forecasting sharply reduces deaths from hurricanes and other violent weather. The first weather satellite, TIROS I, was launched in 1960 and functioned only eighty-nine days. TIROS (an acronym for Television and Infrared Observation Satellite) recorded television images of cloud patterns below, enabling meteorologists to track the movement of weather patterns and fronts. Weather satellites have since grown much more durable and can register more data, including wind speeds, atmospheric and surface temperatures, water temperatures, wave heights, and height of the polar ice caps. The U.S. government operates separate weather satellite programs for civilians and the military., Weather satellites fall into two types. A geostationary satellite remains parked over a given point of the earth's equator, keeping continuous watch over a large portion of the earth from an altitude of 22,000 miles. A polarorbiting satellite flies at about 500 miles in an orbit that carries it nearly over the earth's north and south poles. This satellite views a much smaller portion of Earth than a geostationary satellite but can make more detailed observations. The U.S. government typically has maintained two geostationary satellites and two polar-orbiting satellites in orbit at all times, but satellite weather forecasting ran into a snag in 1989, when the GOES-6 failed in orbit. A replacement, GOES-8, was to have been launched on a space shuttle mission, but the Challenger shuttle explosion interrupted all shuttle launches. The replacement was further delayed until 1994 by technical problems. To fill the gap a European weather satellite was repositioned over the Atlantic Ocean to provide coverage of the eastern United States., Burroughs, William J. Watching the World's Weather. New York: Cambridge University Press, 1991., Hubert, Lester F. Weather Satellites. Waltham, Mass.: Blaisdell Pub. Co., 1967., VincentKiernan/h. s., See alsoHurricanes ; Meteorology ; Space Program ., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Weather Satellites."
+
+Dictionary of American History.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Weather Satellites." 
+Dictionary of American History.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/weather-satellites
+, 
+"Weather Satellites." 
+Dictionary of American History.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/weather-satellites
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, weather satellite, artificial satellite used to gather data on a global basis for improvement of weather forecasting. Information includes cloud cover, storm location, temperature, and heat balance in the earth's atmosphere. The first weather satellites in the United States were those of the Tiros series, which began in 1960; the Nimbus series, which moved in a polar orbit, was next; the Environmental Science Services Administration (ESSA) started in 1966 and launched weather satellites; and in 1972, the Earth Resources Technology Satellite (ERTS) provided photographs to help forecasting. Other meteorological satellites include a series of Geostationary Operational Environmental Satellites (GOES), which send weather data and pictures that cover a section of the United States; China, Japan, India, and the European Space Agency (ESA) have similar craft. The National Oceanic and Atmospheric Administration's satellite series relay meteorological data to stations on the surface, including information on possible changes in various weather parameters that may signal climate change.
+, See R. Taggart, Weather Satellite Handbook (5th ed. 1995); S. Q. Kidder et al., Satellite Meteorology: An Introduction (1995)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"weather satellite."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"weather satellite." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/weather-satellite
+, 
+"weather satellite." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/weather-satellite
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"weather satellite."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"weather satellite." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/weather-satellite
+, 
+"weather satellite." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/weather-satellite
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, meteorological satellite: see satellite, artificial; weather satellite., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"meteorological satellite."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"meteorological satellite." 
+ The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/meteorological-satellite
+, 
+"meteorological satellite." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/meteorological-satellite
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

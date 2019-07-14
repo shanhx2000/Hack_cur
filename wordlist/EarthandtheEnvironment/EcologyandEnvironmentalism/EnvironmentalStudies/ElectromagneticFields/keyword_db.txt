@@ -1,0 +1,71 @@
+[The potential health effects of human-made electromagnetic fields (EMFs) have been a topic of scientific interest since the late 1800s, particularly in the last twenty years. Electromagnetic fields are natural phenomena that have always been present on earth. However, during the twentieth century, environmental exposure to human-made EMFs increased steadily, predominantly due to increased electricity and wireless technology use. Nearly all people are exposed to a complex mix of different types of weak electric and magnetic fields, both at home and at work., EMFs can be broadly divided into two categories: extremely lowfrequency electric and magnetic fields (ELF EMFs), common sources of which include power lines, household electrical appliances, and computers; and high-frequency or radiofrequency electric and magnetic fields (RF EMFs), of which the main sources are telecommunications and broadcast facilities, and mobile telephones and their base stations., Electrical currents exist naturally in the human body and are an essential part of normal bodily functioning. Nerves relay signals by transmitting electric impulses, and most biochemical reactions, from those associated with digestion to those involved in brain activity, proceed by means of rearranging charged particles., , ELF EMFs influence the human body just as they would any other substance consisting of conducting materials and charged particles. ELF EMFs may induce circulating currents within the human body. The strength of these induced currents depends on the intensity of the outside magnetic field and the size of the loop through which the current flows. When sufficiently large, these currents can cause neural and muscular stimulation (among other biological effects ). However, at the EMF exposure levels normally found in the environment, the currents induced in the body by ELF EMFs are much weaker than those occurring in the body naturally., At RFs, the main biological effect of EMFs is heating, the same effect that microwave ovens utilize. The levels of RF EMFs to which people are normally exposed are far lower than those need to produce significant heating., ELF EMFs. In 2001, the International Agency for Research on Cancer (IARC) evaluated studies to determine whether ELF EMFs could increase cancer risk. Using the standard classification that weighs laboratory, human, and animal evidence, magnetic fields were classified as possibly carcinogenic (potentially cancer-causing) to humans based on epidemiological studies of childhood leukemia. Evidence for all other cancers, as well as for exposure to static and electric fields, was considered insufficient. "Possibly carcinogenic to humans" is a classification used to denote an agent for which there is limited evidence of carcinogenicity in humans, and insufficient evidence of carcinogenicity in experimental animals. This classification is the weakest of three categories ("carcinogenic to humans," "probably carcinogenic to humans," and "possibly carcinogenic to humans"). For reference, gasoline exhaust and coffee have also been classified as possible human carcinogens. Despite the classification of ELF magnetic fields as possibly carcinogenic to humans, it remains possible that there are other explanations for the observed association between exposure to ELF magnetic fields and childhood leukemia. Research and evaluation of this issue are continuing., RF EMFs. For higher-frequency fields, the balance of evidence to date suggests that exposure to RF EMFs, such as those emitted by mobile phones and their base stations, does not cause adverse health effects. Some scientists have reported minor effects of mobile phone use, including changes in brain activity, reaction times, and sleep patterns. These effects, however, are small and appear to lie within the normal bounds of human variation., , Current debate and research are centered on whether long-term, low-level exposure (below thermal) can cause adverse health effects or influence people's well-being. Several recent epidemiological studies of mobile phone users found no convincing evidence of increased brain cancer risk. However, the technology is too recent to rule out possible long-term effects. Mobile phone handsets and base stations present quite different exposure situations. RF exposure is far higher for mobile phone users than for those living near cellular base stations. However, apart from infrequent signals used to maintain links with nearby base stations, handsets transmit RF energy only while a call is being made, whereas base stations are continuously transmitting signals. Given the widespread use of technology, the degree of scientific uncertainty, and the levels of public apprehension, rigorous scientific studies are needed., see also
+Cancer;
+Health, Human;
+Risk., ICNIRP. (1998). "International Commission on Non-Ionising Radiation Protection Guidelines for Limiting Exposure to Time-varying Electric, Magnetic and Electromagnetic Fields (up to 300 GHz)." Health Physics 74(4):494–522. Also available from http://www.ICNIRP.de., Independent Expert Group on Mobile Phones (IEGMP). "Mobile Phones and Health." National Radiological Protection Board (UK). Available from http://www.iegmp.org.uk/IEGMPtxt.htm., Portier, C.J., and Wolfe, M.S., eds. (1998). "Assessment of Health Effects from Exposure to Power-line Frequency Electric and Magnetic Fields." NIEHS (National Institute of Environmental Health Sciences) Working Group Report, Research Triangle Park, NC. NIH Publication No. 98–3981. Also available from http://www.niehs.nih.gov., World Health Organization (WHO). "Background on Cautionary Policies, March 2000." Available from www.who.int/peh-emf., Leeka Kheifets and
+Nathan Thrall , Electrical currents exist naturally in the human body and are an essential part of normal bodily functioning. Nerves relay signals by transmitting electric impulses. Most biochemical reactions, from those associated with digestion to those involved in brain activity, proceed by means of rear-ranging charged particles., Strategy to reduce risk when information about potential risk is incomplete. For cell phones, one advisory panel, IEGMP, recently recommended the adoption of a precautionary approach: discouraging the use of mobile phones for nonessential children's calls. They noted that if there are currently unrecognized health effects from the use of cell phones, children might be more vulnerable. Anyone concerned might limit exposure by reducing the length of calls or using "hands-free" devices to keep mobile phones away from the head and body., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Electromagnetic Fields."
+
+Pollution A to Z.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Electromagnetic Fields." 
+Pollution A to Z.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/educational-magazines/electromagnetic-fields
+, 
+"Electromagnetic Fields." 
+Pollution A to Z.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/educational-magazines/electromagnetic-fields
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Technically, the term "electromagnetic field" (EMF) refers to all fields throughout the electromagnetic spectrum. In common usage, however, the term usually refers to so-called extremely low-frequency nonionizing radiation fields—those fields below 300 Hertz (Hz)—and often only to those fields in the 50 to 60 Hz range, which are also known as power-frequency EMFs. As a type of nonionizing radiation, EMFs in this range do not have sufficient energy to remove an electron from an atom or molecule, but generally transfer thermal energy to other particles. Power-frequency EMFs are those generated by electric power delivery systems—those for which there has been the greatest public concern and research about possible adverse human health effects., Power-frequency EMFs have two components: electric fields and magnetic fields. The electric fields are generated from potential energy, or the presence of voltage on a power line. The magnetic fields, on the other hand, are generated from the actual electrical current, or the flow of electricity. Thus, when a standard household electric light is plugged into a live electrical socket, but turned off, it generates only an electric field. Once turned on, it generates both electric and magnetic fields, since the voltage is still present but current is now flowing. The size of a magnetic field increases as the amount of current flow increases, as the size of the source increases, and as one gets nearer to the source. Adverse health effects from acute exposures include shocks, burns, and death (by electrocution). Generally, from chronic exposures, only magnetic fields have shown associations with adverse human health effects in epidemiologic studies., , Until the late 1970s, it had been assumed that power frequency EMFs were too weak, or had too little energy, to cause biologic effects. Then, in 1979, Nancy Wertheimer and Ed Leeper published an epidemiologic study that showed that children in Denver, Colorado, who died of cancer, particularly leukemia, were more likely to live in houses with higher EMF exposures than children of similar ages living in the same neighborhoods. This set off a flurry of research seeking to determine whether those with high exposures to magnetic fields at home or in the workplace might be at greater risk of getting and/or dying of cancer than those with lower exposures. In general, the most consistent and compelling cancer data are found in the studies of children exposed to EMFs in their homes. While there is still much controversy, the most well-conducted studies suggest a slight excess of childhood leukemia, particularly among those most highly exposed. In workers, the data show weaker support for excess leukemia and brain cancers. A variety of other adverse effects have also been investigated, including adverse reproductive outcomes, neurodegenerative diseases, and cardiac abnormalities. However, there are fewer of these studies, the studies have more methodologic limitations, and the results are more uncertain., There are some methods for reducing exposure to magnetic fields. For large sources, such as outdoor power lines, sometimes similar strength currents can be set up to run in opposite direction to each other so that they cancel out most of the magnetic fields. For smaller sources, such as appliances (e.g., electric blankets, hair dryers, televisions), the magnetic fields fall off rapidly with distance, so increasing the distance from a source rapidly reduces exposure., Daniel Wartenberg, (see also: Nonionizing Radiation; Radiation, Ionizing ), National Research Council (1997). Possible Health Effects of Exposure to Residential Electric and Magnetic Fields. Washington, DC: National Academy Press., NIEHS Working Group (1998). Assessment of Health Effects from Exposure to Power-Line Frequency Electric and Magnetic Fields, ed. C. J. Portier and M. S. Wolfe. NIH Publication No. 98–3981. Research Triangle Park, NC: National Institute of Environmental Health Sciences., Reilly, J. P. (1998). Applied Bioelectricity. New York: Springer-Verlag., Figure 1  , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Electromagnetic Fields."
+
+Encyclopedia of Public Health.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Electromagnetic Fields." 
+Encyclopedia of Public Health.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/encyclopedias-almanacs-transcripts-and-maps/electromagnetic-fields
+, 
+"Electromagnetic Fields." 
+Encyclopedia of Public Health.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/encyclopedias-almanacs-transcripts-and-maps/electromagnetic-fields
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

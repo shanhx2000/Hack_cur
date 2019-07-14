@@ -1,0 +1,359 @@
+[Sources, Scientific Process. The technology involved in lithography was developed by a Bavarian named Alois Senefelder in 1795. It spread to France in 1816 and by 1822 was being used in London. In the United States, Bass Otis, a student of the great portrait painter Gilbert Stuart, began to experiment with the new techniques sometime around 1819. Lithography was a delicate technique that required a particular kind of stone, imported from Bavaria, on which the artist drew using special crayons. When the design was finished, the stone would be bathed in gum and acids which would harden the crayon, design and cause it to stand out in relief, turning the stone into a plate that, when wet and inked, could be pressed onto paper to make a print., Publishing. Before lithography was introduced, pictures in books and magazines were reproduced from copperplate engravings or from woodcuts, which were slow and difficult processes. Lithography made book and magazine illustration easier and less expensive. More and more, authors were able to add illustrations to their books, a step that subtly altered how literature was received. Magazine editors were able to vary the visual appeal of their products so that Godey’s Lady’s Book, for example, could draw on lithographic technology to print fashion plates and other illustrated material for its readers. Sheet-music publishers also capitalized on the new technology, packaging songs with illustrations that suggested their contents., Currier and Ives. Nathaniel Currier got his start in 1828 as apprentice to William and John Pendleton of Boston, the first American company to make lithography a commercial success. Eventually Currier settled in New York and established his own business at 1 Wall Street in 1835. Currier’s company, later known as Currier and Ives after James M. Ives, a skilled business manager and self-educated artist, joined the firm in 1852, billed itself as offering “Colored Engravings for the People.” Over the years Currier and Ives offered a wide range of prints; today the collection of known Currier and Ives prints totals over seven thousand illustrations. Prints included views of city and country locations; political cartoons and banners; portraits of American and European celebrities and political figures; illustrations of historical events; blank certificates for birth, marriage, church membership, or death; country and pioneer home scenes; sheet music; nature scenes; and pictures of trains, horses (a Currier and Ives specialty), and sporting events. To produce this enormous range of illustrations, produced at a rate of three per week, Currier and Ives relied on various artists. The company regularly bought drawings as they were offered, hired artists as full-time staff members, and, on occasion, hired independent lithographers., Art for the Masses. Lithographic prints produced by Currier and Ives and other lithographers were an important way of disseminating art to the American public. The many Americans unable to afford original art could own reproductions produced and distributed by lithographers, a development that some criticized as a devaluation of art itself. The drawing involved in lithography also provided jobs for would-be artists to supplement the portrait painting or teaching that artists typically did in order to support their more-idealistic endeavors. Ironically, while the mass production of art threatened to outdo or overshadow the ideal of individual artistic production, at the same time it provided artists with the means they needed to earn a living while they worked on more-ambitious individual projects., Harry T. Peters, Currier &amp; Ives: Printmakers to the People (Garden City, N.Y.: Doubleday, 1942);, John W. Reps, Views and Viewmakers of Urban America: Lithographs of Towns and Cities in the United States and Canada, Notes on the Artists and Publishers, and a Union Catalog of Their Work, 1825–1925 (Columbia: University of Missouri Press, 1984)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Lithography."
+
+American Eras.
+.
+
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Lithography." 
+American Eras.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/history/news-wires-white-papers-and-books/lithography
+, 
+"Lithography." 
+American Eras.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/history/news-wires-white-papers-and-books/lithography
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, lithography (lĬthŏg´rəfē), type of planographic or surface printing. It is distinguished from letterpress (relief) printing and from intaglio printing (in which the design is cut or etched into the plate). Lithography is used both as an art process and as a commercial printing process. In commercial printing the term is used synonymously with offset printing.
+  The ProcessAll planographic printing is based on chemical action, and lithography is based on the mutual antipathy of oil and water. As the name [Gr.,=writing on stone] implies, a lithograph is printed from a stone (except in commercial processes, where grained metal or plastic plates are employed). The process was invented c.1796 by the playwright Aloys Senefelder, and the Bavarian limestone that he employed is still considered the best material for art lithography.The slab of stone is ground to a level surface, which may be of coarse or fine texture as desired. The drawing is made in reverse directly on the stone with a lithographic crayon or ink that contains soap or grease. The fatty acid of this material interacts with the lime of the stone to form an insoluble lime soap on the surface, which will accept the greasy printing ink and reject water. Accordingly, those parts of the stone that have been drawn upon have an affinity for ink.Sometimes the drawing is made on paper and transferred to a heated stone by pressure. This is known as a transfer lithograph and does not require the artist to reverse his or her drawing. Next, the surface of the stone untouched by grease is desensitized to it, and the portions drawn upon are fixed against spreading by treatment with a gum arabic and nitric acid solution. The grease has now penetrated the stone, and the drawing is washed off with turpentine and water. The stone is ready to be inked with a roller and printed, but it must be kept moist. The printing requires a special lithographic press with a sliding bed passing under a scraper.
+  ApplicationsAs a printing process lithography is probably the most unrestricted. It produces tones ranging from intense black to the most delicate gray as well as a full range of colors. It also simulates with equal facility the effects of pencil, pen, crayon, or brush drawing. White lines are readily produced by scratching through the drawing on the stone. Several hundred fine proofs can be taken from a stone. The medium was exploited by many artists in the 19th cent., including Goya, Delacroix, Daumier, Gavarni, Manet, Degas, Bonnard, Whistler, and Toulouse-Lautrec, whose posters are among the most celebrated lithographic masterworks. In the United States, A. B. Davies, George Bellows, Joseph Pennell, and Currier and Ives are among the many artists noted for their lithographs.For the commercial reproduction of art works, photolithography has played an increasingly important role. In this process a photographic negative is exposed to light over a gelatin-covered paper. Wherever the light does not strike the gelatin, the latter remains soluble while the other parts are rendered insoluble. When the soluble portions are washed away, the pattern to be printed can be inked and transferred to the stone or plate. Color lithography and color photolithography require as many stones or plates as the number of colors employed. The commercial printing applications of the lithographic process are vast in scope and almost unlimited in number.Bibliography, See J. Pennell and E. Pennell, Lithographs and Lithographers (1915); V. Strauss, Lithographers Manual (2 vol. 1958); W. Weber, A History of Lithography (1966); F. H. Man, Artists' Lithographs: A World History (1970)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"lithography."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"lithography." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/lithography
+, 
+"lithography." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/lithography
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+li·thol·o·gy 
+/ liˈ[unvoicedth]äləjē/
+•
+n.
+the study of the general physical characteristics of rocks. Compare with petrology.
+ ∎ 
+the general physical characteristics of a rock or the rocks in a particular area:
+the lithology of South Dakota.
+
+
+DERIVATIVES: 
+lith·o·log·ic
+/ ˌli[unvoicedth]əˈläjik/ adj.
+lith·o·log·i·cal
+/ ˌli[unvoicedth]əˈläjikəl/ adj.
+lith·o·log·i·cal·ly
+/ ˌli[unvoicedth]əˈläjik(ə)lē/ adv.
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"lithology."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"lithology." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/lithology
+, 
+"lithology." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/lithology
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"lithography."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"lithography." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/lithography
+, 
+"lithography." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+ from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/lithography
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+li·thog·ra·phy 
+/ liˈ[unvoicedth]ägrəfē/
+•
+n.
+the process of printing from a flat surface treated so as to repel the ink except where it is required for printing.
+ ∎ Electr. 
+an analogous method for making printed circuits.
+
+
+DERIVATIVES: 
+li·thog·ra·pher
+/ -fər/ n.
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"lithography."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"lithography." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/lithography-0
+, 
+"lithography." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/lithography-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"lithology."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"lithology." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/lithology
+, 
+"lithology." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/lithology
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"lithography."
+
+Oxford Dictionary of Rhymes.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"lithography." 
+Oxford Dictionary of Rhymes.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/lithography
+, 
+"lithography." 
+Oxford Dictionary of Rhymes.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/lithography
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Lithography in printing, Photolithography, Lithography and integrated circuits, Resources, Lithography is a method of printing an image by applying patterned layers of color to paper with a series of etched metal or stone plates. This is the process used to print many newspapers and multi-colored lithographs. It is also the general name for the techniques used to fabricate integrated circuits (ICs)., The concept of lithography was developed by German actor and playwright Johann Alois Senefelder (1771–1834) between 1796 and 1798, while in Bohemia (what is now the Czech Republic). He used a stone slab with printed grease marks and dampened it with water. When a coating of ink was applied to the stone, it adhered to the grease marks and washed away from the wet areas. The ink was then transferred to paper by pressing the stone against it., Senefelder’s method was perfected over time. Metal plates were soon used in place of stone slabs. Several chemical solutions that repelled water and adhered to ink better than grease were later used. Lithography was used with several different color inks to create color pictures, called lithographs, which were made famous by Currier and Ives., , The invention of photography in the twentieth century spurred the development of a new lithographic process called photolithography. In this method, the printer shines a bright light through a photo negative onto a thin plate coated with light-sensitive chemicals. The areas of the plate struck by the light harden into a reproduced image, serving the same function as the grease design in early lithography. Today, lithographic processes are the most widely-used printing methods., The same lithographic concepts used to reprint text and pictures on paper can be used to manufacture integrated circuits. In this case, a polymer resist is used to repel the subsequently applied layers of metal conductors, semiconductor materials, and dielectric insulators, which are the “ink.” An integrated circuit is a tiny version of a conventional electrical circuit. Thin films of various materials act as insulators between conductive material and the silicon metal substrate, or protect existing layers from implantation of other atoms. These devices are built by coating a silicon wafer with patterned layers of material, designed to allow the insulators or protective barriers to be applied, or to leave holes in the barrier layer permitting electrical contact. Sophisticated circuits may require 20 or more layers. Small features and narrow lines must be precisely placed, and the absence of material in a given spot is as critical as the presence of it somewhere else., There are several ways lithography is used to make integrated circuits, including visible and ultraviolet lithography (forms of photolithography), electron beam patterning, ion beam patterning, and x-ray lithography. The most common method is photolithography, which is well suited to high volume production of consumer electronics., In the manufacture of integrated circuits, the silicon wafer that acts as the base and a light-sensitive, Negative photoresist —A type of photosensitve polymer that leaves a barrier only where exposed to light., Photolithography —A method of integrated circuit fabrication that uses a light-sensitive polymer to pattern a silicon wafer with other materials., Photoresist —Photosensitive polymer that is used to pattern silicon wafers during integrated circuit fabrication., Positive photoresist —A type of photosensitive polymer that leaves a barrier only where not exposed to light., Reticle —A photomask used to print patterns on silicon wafers, typically made of chrome-patterned transparent glass., Stepper —A lithographic system that exposes the wafer one small section at a time before ‘stepping’ to the next location., Substrate —The foundation material on which integrated circuits are built; usually made of silicon., Wafer —A very thin disk of silicon metal on which integrated circuits are built., polymer material, called photoresist, are used to create the pattern of the circuit’s layers. Negative photoresists harden when exposed to light, adhering to the base through the developing process. Positive photoresists degrade when they are exposed to light and developed, leaving a depression. The coated wafer is then dried 10 to 30 minutes in an oven at 176 to 194°F (80 to 90°C)., After photoresist is applied to the silicon wafer, it is selectively exposed to light with the aid of a reticle. A reticle consists of a layer of patterned chrome on transparent glass; gaps in the chrome permit light to reach the resist-covered wafer. Exposure takes place in a device, called a stepper, that shines light on the wafer through the transparent regions of the reticle. Only a small region of the wafer is exposed at a time. Then, the wafer is moved, or stepped, forward and a new segment is exposed. After exposure, the wafer is put into developing solution where the positive and unex-posed photoresists are removed. It is hard-baked at temperatures between 248 to 356°F(120 to 180°C)., After the photoresist is in place, a layer of conducting, semiconducting, or insulating metal solution is applied to the wafer and adheres in the pattern opposite to the photoresist. The application and removal of photoresist and metal solutions is repeated 10 to 20 times in the manufacture of a single integrated circuit. In addition to the number of steps needed to make the circuit, the complexity of the task is increased by the necessity for precision in the manufacturing process. For instance, some circuits use printed features as small as 0.35 micron. A human hair, on the other hand, is about 100 microns in diameter., Glendinning, William, and John Helbert, eds. Handbook of VLSI Microlithography. Park Ridge, NJ: Noyes Publications, 2001., Hirsch, S. Carl. Printing from a Stone: The Story of Lithography. New York: Viking Press, 1967., Jaeger, Richard C. Introduction to Microelectronic Fabrication. Upper Saddle River, NJ: Prentice Hall, 2002., Kristin Lewotsky, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Lithography."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Lithography." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/lithography
+, 
+
+"Lithography." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/lithography
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Lithography is a method of printing an image by applying patterned layers of color to paper with a series of etched metal or stone plates. This is the process used to print many newspapers and multi-colored lithographs. It is also the general name for the techniques used to fabricate integrated circuits (ICs)., The concept of lithography was developed by German Aloys Senefelder in 1796. He used a stone slab with printed grease marks and dampened it with water . When a coating of ink was applied to the stone, it adhered to the grease marks and washed away from the wet areas. The ink was then transferred to paper by pressing the stone against it., Senefelder's method was perfected over time . Metal plates were soon used in place of stone slabs. Several chemical solutions that repelled water and adhered to ink better than grease could were experimented with. Lithography was used with several different color inks to create color pictures, called lithographs, which were made famous by Currier and Ives., The invention of photography in the twentieth century spurred the development of a new lithographic process called photolithography. In this method, the printer shines a bright light through a photo negative onto a thin plate coated with light-sensitive chemicals. The areas of the plate struck by the light harden into a reproduced image, serving the same function as the grease design in early lithography. Today, lithographic processes are the most widely-used printing methods., , The same lithographic concepts used to reprint text and pictures on paper can be used to manufacture integrated circuits. In this case, a polymer resist is used to repel the subsequently applied layers of metal conductors, semiconductor materials, and dielectric insulators which are the "ink." An integrated circuit is a tiny version of a conventional electrical circuit. Thin films of various materials act as insulators between conductive material and the silicon metal substrate, or protect existing layers from implantation of other atoms . These devices are built by coating a silicon wafer with patterned layers of material, designed to allow the insulators or protective barriers to be applied, or to leave holes in the barrier layer permitting electrical contact. Sophisticated circuits may require 20 or more layers. Small features and narrow lines must be precisely placed, and the absence of material in a given spot is as critical as the presence of it somewhere else., There are several ways lithography is used to make integrated circuits, including visible and ultraviolet lithography (forms of photolithography), electron beam patterning, ion beam patterning, and x-ray lithography. The most common method is photolithography, which is well suited to high volume production of consumer electronics ., In the manufacture of integrated circuits, the silicon wafer that acts as the base and a light-sensitive polymer material, called photoresist, are used to create the pattern of the circuit's layers. Negative photoresists harden when exposed to light, adhering to the base through the developing process. Positive photoresists degrade when they are exposed to light and developed, leaving a depression. The coated wafer is then dried 10-30 minutes in an oven at 176–194°F (80–90°C)., , After photoresist is applied to the silicon wafer, it is selectively exposed to light with the aid of a reticle. A reticle consists of a layer of patterned chrome on transparent glass ; gaps in the chrome permit light to reach the resist-covered wafer. Exposure takes place in a device, called a stepper, that shines light on the wafer through the transparent regions of the reticle. Only a small region of the wafer is exposed at a time. Then the wafer is moved, or stepped, forward and a new segment is exposed. After exposure, the wafer is put into developing solution where the positive and unexposed photoresists are removed. It is hard-baked at temperatures between 248–356°F (120–180°C)., After the photoresist is in place, a layer of conducting, semiconducting, or insulating metal solution is applied to the wafer and adheres in the pattern opposite to the photoresist. The application and removal of photoresist and metal solutions is repeated 10-20 times in the manufacture of a single integrated circuit. In addition to the number of steps needed to make the circuit, the complexity of the task is increased by the necessity for precision in the manufacturing process. For instance, some circuits use printed features as small as 0.35 micron. A human hair, on the other hand, is about 100 microns in diameter., Glendinning, William, and John Helbert, eds. Handbook of VLSI Microlithography. Park Ridge, NJ: Noyes Publications, 1991., Jaeger, Richard. Introduction to Microelectronic Fabrication. New York, NY: Addison-Wesley, 1988., Kristin Lewotsky, —A type of photosensitve polymer that leaves a barrier only where exposed to light., —A method of integrated circuit fabrication that uses a light-sensitive polymer to pattern a silicon wafer with other materials., —Photosensitive polymer that is used to pattern silicon wafers during integrated circuit fabrication., —A type of photosensitive polymer that leaves a barrier only where not exposed to light., —A photomask used to print patterns on silicon wafers, typically made of chrome-patterned transparent glass., —A lithographic system that exposes the wafer one small section at a time before 'stepping' to the next location., —The foundation material on which integrated circuits are built; usually made of silicon., —A very thin disk of silicon metal on which integrated circuits are built., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Lithography."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Lithography." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/lithography-0
+, 
+"Lithography." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/lithography-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Lithology is the study of rocks, emphasizing their macroscopic physical characteristics, including grain size, mineral composition, and color. Lithology and its related field, petrography (the description and systematic classification of rocks), are subdisciplines of petrology, which also considers microscopic and chemical properties of minerals and rocks as well as their origin and decay., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Lithology."
+
+Environmental Encyclopedia.
+.
+
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Lithology." 
+Environmental Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/lithology
+, 
+"Lithology." 
+Environmental Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/lithology
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

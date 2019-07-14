@@ -1,0 +1,196 @@
+[IVAN PAVLOV, CLASSICAL CONDITIONING, APPETITIVE/AVERSIVE CONDITIONING, EXTINCTION, THERAPEUTIC/CLINICAL APPROACHES, PSYCHOLOGICAL PHENOMENA, DRUG ADDICTION, OPERANT/INSTRUMENTAL CONDITIONING, BIBLIOGRAPHY, The formation of connections or associations between related sensations, emotions, or thoughts is the basis for an evolutionarily old and important form of learning known as classical conditioning. Since the late nineteenth century, a collection of standardized conditioning (training) procedures have been used to study associative learning and, more recently, its neurobiological underpinnings., The Russian physiologist Ivan Pavlov (1849-1936) is customarily credited with discovering classical conditioning. In fact, the idea that associations develop between stimuli that are close together (contiguous) in space or time was first articulated by the Greek philosopher Aristotle (384-322 BCE). Pavlov did discover (i.e., identify and develop) an empirical approach for studying classical conditioning, codifying the procedures and terminology that remain the standard (Pavlov 1927)., , Pavlov’s interest in classical conditioning emerged out of his research on the physiology of digestion, for which he was awarded the Nobel Prize in medicine in 1904. Pavlov and his technicians realized that a dog’s stomach secretions could be triggered not only by food reaching the stomach, but also by seeing or chewing the food, and even by the environment in which the food is delivered. The secretion of saliva was also found to be associable, with dogs salivating to stimuli that regularly preceded the presentation of food, including novel stimuli, such as a bell, that had never before induced salivation., With classical or Pavlovian conditioning, the neutral conditioned stimulus (CS) is paired with a biologically significant unconditioned stimulus (US), until such time that the CS comes to elicit a learned or conditioned response (CR). Returning to Pavlov’s dogs, after experiencing repeated pairings of the bell (CS) and food (US), the previously neutral bell began to elicit salivation. In this example, both the CR and the unconditioned response (UR) happen to be a salivatory response. This need not always be the case—the CR can also oppose or be entirely unrelated to the UR., Two aspects of the CS-US temporal relationship impact the strength of Pavlovian conditioning: (1) the amount of time that elapses between the onset of the first and second stimulus (i.e., the interstimulus interval, or ISI); and (2) the order in which the CS and US are presented. In short- and long-delay conditioning, the CS precedes the US with a shorter or longer ISI, respectively. The addition of a break between the offset of the CS and the onset of the US results in trace conditioning. Simultaneous conditioning, as its name implies, requires that the CS and US be presented at the same time. Finally, with backward conditioning, the CS is presented after the onset of the US. As a general rule, the rate of learning in classical conditioning accelerates as the CS grows progressively more accurate in predicting the US. Delay conditioning is normally acquired fastest, followed by trace conditioning. Simultaneous and backward conditioning typically produce little or no learning., , Appetitive conditioning utilizes a positive reinforcing stimulus—for example, access to food, water, or sex. Interestingly, animals conditioned with an appetitive stimulus, such as food, will often approach and contact the stimulus signaling its availability. If a localized visual stimulus (CS) repeatedly signals the delivery of food (US), pigeons will often peck at the CS before approaching the food cup, although pecking is not required for food access. Interestingly, the tracking of a food signal appears to be modality-specific. When trained with an auditory CS, which is presumably less localized in space, pigeons do not peck at the CS but instead advance toward the food cup directly (Brown and Jenkins 1968)., Aversive conditioning is accomplished with a mildly painful or otherwise unpleasant US. The two-process model of aversive conditioning posits that emotional (i.e., fear) CRs emerge first, followed by more specialized and adaptive motor CRs (Konorski 1967). Fear and motor conditioning are normally studied independently of one another—each utilizing distinct experimental procedures., In a typical fear-conditioning experiment, the tone or light CS is paired with a mild electrical shock or loud noise US. Fear conditioning, which engenders a variety of autonomic and behavioral responses, is a very rapid form of learning—requiring only a single CS-US pairing under the right conditions (LeDoux 2000)., The most commonly studied motor CR is the anticipatory eyeblink. After being paired with an air puff or a mild shock to the eye (US), the tone or light CS comes to elicit a blink CR. Hundreds of trials are often required to properly time the response, but subjects eventually learn to execute the CR just before US onset (Christian and Thompson 2003)., The amygdala, in the brain’s medial temporal lobe, is critical for acquiring conditioned fear. The anticipatory eyeblink, on the other hand, is reliant on circuitry in the brain stem and cerebellum. In both cases, the repeated pairing of the CS and US allows the neural signals initiated by each stimulus to converge and interact. CS-US associative synaptic plasticity in the amygdala and cerebellum enables changes in CS neural activation patterns, bringing emotional and motor-conditioned responses, respectively, under control of the CS., , To this point, classical conditioning has been discussed in terms of nascent or established associations among stimuli. In the real world, such relationships rarely remain static—the CS may over time lose its ability to accurately predict the US. In a procedure called extinction, the CS is presented alone, once conditioning is complete, in order to weaken or extinguish the CS-US association and, by extension, the behavioral CR. The reduction in conditioned responding is not due to simple forgetting, however, which may occur following a prolonged absence of the CS. Extinction requires new learning on the part of the organism—learning that the CS is no longer predictive of the US., Results from several behavioral phenomena make clear that extinction is not the result of unlearning the CS-US association. First, relearning the CS-US association is significantly faster following extinction then during the original acquisition. Second, an extinguished CR can temporarily reappear if an arousing or sensitizing stimulus is presented just before the CS. Third, over time an extinguished CR can spontaneously recover if the CS is represented. All three findings support the idea that the original CS-US association remains intact—though inhibited—once extinguished., Classical conditioning principles underlie many therapeutic techniques. Exposure therapy, for instance, is designed to aid patients who respond to particular objects or situtions with unrealistic or excessive fear. For instance, Counterconditioning requires that the triggering stimulus be paired with a positive event or object. A patient might be shown a spider and then given a teddy bear—associating the spider with the comfort afforded by the bear. With desensitization, a patient’s irrational fears are rendered incompatible by slowly introducing progressively stronger versions of the triggering stimulus—for example, a picture of a spider, a plastic spider, and then a real spider., , Classical conditioning can also be applied to clinical studies that focus on human behavioral and cognitive processing. The brain regions engaged by classical eyeblink conditioning—including the brain stem, cerebellum, and limbic system—are the same brain regions affected by numerous clinical disorders. Discerning differences in the acquisition and timing of eyeblink CRs for patients, relative to control subjects, is an effective diagnostic tool for studying the brain-behavior correlates of clinical pathology. Autistic subjects, for instance, acquire eyeblink CRs at a faster rate and with an earlier onset time than age-matched controls (see Steinmetz et al. [2001] for a review)., Classical conditioning plays a role in many psychological phenomena. Emotions, as already noted, condition rapidly and easily, especially when the emotion is intensely felt. A traumatic experience can elicit strong emotions that become associated with other aspects of the situation, including the location, other people involved, and even the time of day. Attitudes and preferences are equally susceptible to modification by association. Attitudes toward people of other races, nationalities, or religions can be influenced by how they are portrayed in the news or entertainment media. Similarly, advertisers have long recognized the benefits of linking a consumer product, be it beer, jeans, or a car—with a positive reinforcer, such as an attractive model., Drug use is typically associated with a specific environment and a specific administration ritual (e.g., injection). These cues can be conditioned to predict the onset of the drug’s effect and, in turn, generate compensatory responses to counteract those effects—helping the body maintain homeostasis. A drug that decreases a user’s heartbeat would eventually, if taken in the same place and way, be offset by a compensatory heart rate increase. The activation of compensatory CRs also coincides and contributes to drug tolerance, necessitating more drug be taken for the same effect. Inasmuch, the chance of an overdose increases—due to a limited compensatory CR—if the drug is taken in a new environment or administered in a novel fashion (Siegel 1999)., , Another form of associative learning, termed operant or instrumental conditioning, depends on association formation between the stimulus and response (S-R learning), unlike classical conditioning, which relies on S-S learning. Edward Thorndike (1874-1949) pioneered much of the early research on operant conditioning. He famously observed that a cat placed inside a latched cage would, through trial and error, learn how to unlatch the cage if rewarded with a piece of fish on the outside. From these observations and others, Thorndike formulated the law of effect, which states: the S-R association is strengthened or weakened depending on whether the consequent effect (US) is reinforcing or punishing., By the mid-twentieth century, the premiere researcher on operant conditioning was B. F. Skinner (1904-1990). Skinner found that an animal’s behavior could be shaped by progressively narrowing the range of reinforced behaviors, a process called successive approximation. He also developed free-operant procedures for studying S-R learning. The typical Skinner box contained one or more stimulus lights, one or more levers that an animal could press, and one or more places in which reinforcers, like food, could be delivered. With hundreds to thousands of potential lever-press responses per session, Skinner focused his analyses on how rapidly the animal repeated the response., SEE ALSO Operant Conditioning; Pavlov, Ivan; Reinforcement Theories , Brown, Paul L., and Herbert M. Jenkins. 1968. Auto-shaping of the Pigeon’s Key Peck. Journal of Experimental Analysis of Behavior 11: 1-8., Christian, Kimberly M., and Richard F. Thompson. 2003. Neural Substrates of Eyeblink Conditioning: Acquisition and Retention. Learning and Memory 10: 427-455., Konorski, Jerzy. 1967. Integrative Activity of the Brain: An Interdisciplinary Approach. Chicago: University of Chicago Press., LeDoux, Joseph E. 2000. Emotion Circuits in the Brain. Annual Review of Neuroscience 23: 155-184., Pavlov, Ivan P. 1927. Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex. Trans. G. V. Anrep. London: Oxford University Press., Siegel, Shephard. 1999. Drug Anticipation and Drug Addiction: The 1998 H. David Archibald Lecture. Addiction 94 (8): 1113-1124., Steinmetz, Joseph E., Jo-Anne Tracy, and John T. Green. 2001. Classical Eyeblink Conditioning: Clinical Models and Applications. Integrative Physiological and Behavioral Science 36 (3): 220-238., Derick H. LindquistJoseph E. Steinmetz  , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Classical Conditioning."
+
+International Encyclopedia of the Social Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Classical Conditioning." 
+International Encyclopedia of the Social Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/classical-conditioning
+, 
+"Classical Conditioning." 
+International Encyclopedia of the Social Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/classical-conditioning
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The process of closely associating a neutral stimulus with one that evokes a reflexive response so that eventually the neutral stimulus alone will evoke the same response., Classical conditioning is an important concept in the school of psychology known as behaviorism , and it forms the basis for some of the techniques used in behavior therapy ., Classical conditioning was pioneered by the Russian physiologist Ivan Pavlov (1849-1936) in the 1890s in the course of experiments on the digestive systems of dogs (work which won him the Nobel Prize in 1904). Noticing that the dogs salivated at the mere sight of the person who fed them, Pavlov formulated a theory about the relationship between stimuli and responses that he believed could be applied to humans as well as to other animals. He called the dogs' salivation in response to the actual taste and smell of meat an unconditioned response because it occurred through a natural reflex without any prior training (the meat itself was referred to as an unconditioned stimulus ). A normally neutral act, such as the appearance of a lab assistant in a white coat or the ringing of a bell, could become associated with the appearance of food, thus producing salivation as a conditioned response (in response to a conditioned stimulus ).Pavlov believed that the conditioned reflex had a physiological basis in the creation of new pathways in the cortex of the brain by the conditioning process. In further research early in the 20th century, Pavlov found that in order for the conditioned response to be maintained, it had to be paired periodically with the unconditioned stimulus or the learned association would be forgotten (a process known as extinction ). However, it could quickly be relearned if necessary., In humans, classical conditioning can account for such complex phenomena as a person's emotional reaction to a particular song or perfume based on a past experience with which it is associated. Classical (sometimes called Pavlovian) conditioning is also the basis for many different types of fears or phobias, which can occur through a process called stimulus generalization (a child who has a bad experience with a particular dog may learn to fear all dogs). In addition to causing fears, however, classical conditioning can also help eliminate them through a variety of therapeutic techniques. One is systematic desensitization , in which an anxiety-producing stimulus is deliberately associated with a positive response, usually relaxation produced through such techniques as deep breathing and progressive muscle relaxation. The opposite result (making a desirable stimulus unpleasant) is obtained through aversion therapy, in which a behavior that a person wants to discontinue— often an addiction, such as alcoholism—is paired with an unpleasant stimulus, such as a nausea-producing drug., Gormezano, Isidore, William F. Prokasy, and Richard F. Thompson. Classical Conditioning. 3rd ed. Hillsdale, NJ:L. Erlbaum, 1987., Lieberman, David A. Learning: Behavior and Cognition. Belmont, CA: Wadsworth Publishing Co., 1990., Mackintosh, N.J. Conditioning and Associative Learning. New York: Oxford University, 1983., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Classical Conditioning."
+
+Gale Encyclopedia of Psychology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Classical Conditioning." 
+Gale Encyclopedia of Psychology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/medicine/encyclopedias-almanacs-transcripts-and-maps/classical-conditioning
+, 
+"Classical Conditioning." 
+Gale Encyclopedia of Psychology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/medicine/encyclopedias-almanacs-transcripts-and-maps/classical-conditioning
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"classical conditioning."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"classical conditioning." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/classical-conditioning
+, 
+"classical conditioning." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/classical-conditioning
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"classical conditioning."
+
+A Dictionary of Zoology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"classical conditioning." 
+A Dictionary of Zoology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/classical-conditioning-0
+, 
+"classical conditioning." 
+A Dictionary of Zoology.
+
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/classical-conditioning-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"classical conditioning."
+
+A Dictionary of Sociology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"classical conditioning." 
+A Dictionary of Sociology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/social-sciences/dictionaries-thesauruses-pictures-and-press-releases/classical-conditioning
+, 
+"classical conditioning." 
+A Dictionary of Sociology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/social-sciences/dictionaries-thesauruses-pictures-and-press-releases/classical-conditioning
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Classical conditioning is a basic behavioral process in which stimuli come to evoke responses: When an object or event (such as food) that already evokes a behavior (such as salivation) is associated with one that does not (such as a bell), the latter may evoke a reaction similar to that of the first object or event. When the stimuli are no longer associated, the conditioning weakens (called extinction); when stimuli resemble the conditioned stimulus, they evoke similar reactions (called generalization). First systematically studied by Ivan P. Pavlov (1849-1936), classical conditioning became a model for all behavioral development. B. F. Skinner's (1904-1990) research, for a while, on the conditioning of voluntary (operant) behavior through reinforcement restricted its scope. Classical conditioning occurs only in the involuntary (respondent) behavior of reflexes, glands, and internal organs (e.g., orienting reactions, intestinal functions, insulin secretion, heart rate), especially as they participate in emotional behavior (e.g., anxiety, elation). Today, classical conditioning and extinction are widely used in the treatment of emotional disorders (e.g., phobias) and the side-effects of medical treatments (e.g., nausea caused by chemotherapy)., See also:LEARNING; SKINNER, B. F., Catania, A. Charles. Learning, 4th edition. Upper Saddle River, NJ:Prentice-Hall, 1998., Kehoe, E. J., and M. Macrae. "Classical Conditioning." In WilliamO'Donohue ed., Learning and Behavior Therapy. Boston: Allyn and Bacon, 1998., Rescorla, R. A. "Pavlovian Conditioning: It's Not What You Think It Is." American Psychologist 43 (1988):151-160., Edward K.Morris, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Classical Conditioning."
+
+Child Development.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Classical Conditioning." 
+Child Development.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/children/applied-and-social-sciences-magazines/classical-conditioning
+, 
+"Classical Conditioning." 
+Child Development.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/children/applied-and-social-sciences-magazines/classical-conditioning
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

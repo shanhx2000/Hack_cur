@@ -1,0 +1,215 @@
+[The surface of Earth is covered with various landforms, a number of which are discussed in various entries throughout this book. This essay is devoted to the study of landforms themselves, a subdiscipline of the geologic sciences known as geomorphology. The latter, as it has evolved since the end of the nineteenth century, has become an interdisciplinary study that draws on areas as diverse as plate tectonics, ecology, and meteorology. Geomorphology is concerned with the shaping of landforms, through such processes as subsidence and uplift, and with the classification and study of such landforms as mountains, volcanoes, and islands., Geomorphology is an area of geology concerned with the study of landforms, with the forces and processes that have shaped them, and with the description and classification of various physical features on Earth. The term, which comes from the Greek words geo, or "Earth," and morph, meaning "form," was coined in 1893 by the American geologist William Morris Davis (1850-1934), who is considered the father of geomorphology., During Davis's time, geomorphology was concerned primarily with classifying different structures on Earth's surface, examples of which include mountains and islands, discussed later in this essay. This view of geomorphology as an essentially descriptive, past-oriented area of study closely aligned with historical geology prevailed throughout the late nineteenth and early twentieth centuries., , By the mid-twentieth century, however, the concept of geomorphology inherited from Davis had fallen into disfavor, to be replaced by a paradigm, or model, oriented toward physical rather than historical geology. (These two principal branches of geology are concerned, in the first instance, with Earth's past and the processes that shaped it and, in the second instance, with Earth's current physical features and the processes that continue to shape it.), As reconceived in the 1950s and thereafter, geomorphology became an increasingly exact science. As has been typical of many sciences in their infancy, early geomorphology focused on description rather than prediction and tended to approach its subject matter in a qualitative fashion. The term qualitative suggests a comparison between qualities that are not defined precisely, such as "fast" and "slow" or "warm" and "cold." On the other hand, a quantitative approach, as has been implemented for geomorphology from the mid-twentieth century onward, centers on a comparison between precise quantities—for instance, 10 lb. (4.5 kg) versus 100 lb. (45 kg) or 50 MPH (80.5 km/h) versus 120 MPH (193 km/h)., As part of its shift in focus, geomorphology began to treat Earth's physical features as systems made up of complex and ongoing interactions. This view fell into line with a general emphasis on the systems concept in the study of Earth. (See Earth Systems for more about the systems concept.) As geomorphology evolved, it became more interdisciplinary, as we shall see. This, too,
+was part of an overall trend in the earth sciences toward an approach that viewed subjects in broad, cross-disciplinary terms as opposed to a narrow focus on specific areas of study., , Two concerns are foremost within the realm of geomorphology, and these concerns reflect the stages of its history. First, in line with Davis's original conception of geomorphology as an area of science devoted to classifying and describing natural features, there is its concern with topography. The latter may be defined as the configuration of Earth's surface, including its relief (elevation and other in equalities) as well as the position of physical features., These physical features are called landforms, examples of which include mountains, plateaus, and valleys. Geomorphology always has involved classification, and early scientists working in this subdiscipline addressed the classification of landforms. Other systems of classification, however, are not so concerned with cataloging topographical features themselves as with differentiating the processes that shaped them. This brings us to the other area of interest in geomorphology: the study of how landforms came into being., Among the processes that drive the shaping of landforms is plate tectonics, or the shifting of large, movable segments of lithosphere (the crust and upper layer of Earth's mantle). Plate tectonics is discussed
+in detail within its own essay and more briefly in other areas throughout this book, as befits its status as one of the key areas of study in the earth sciences., , Other processes also shape landforms. Included among these processes are weathering, the breakdown of rocks and minerals at or near the surface of Earth due to physical or chemical processes; erosion, the movement of soil and rock due to forces produced by water, wind, glaciers, gravity, and other influences; and mass wasting or mass movement, the transfer of earth material, by processes that include flow, slide, fall, and creep, down slopes. Also of interest are fluvial and eolian processes (those that result from water flow and wind, respectively) as well as others related to glaciers and coastal formations., Human activity also can play a significant role in shaping Earth. This effect may be direct, as when the construction of cities, the building of dams, or the excavation of mines alters the landscape. On the other hand, it can be indirect. In the latter instance, human activity in the biosphere exerts an impact, as when the clearing of forest land or the misuse of crop land results in the formation of a dust bowl., As noted earlier, geomorphology is characteristic of the earth sciences as a whole in its emphasis on an interdisciplinary approach. As is true of earth scientists in general, those studying landforms and the processes that shape them do not work simply in one specialty. Among the areas of interest in geomorphology are, for example, deep-sea geomorphology, which draws on oceanography, and planetary geomorphology, the study of landscapes on other planets., , When studying coastal geomorphology, a geologist may draw on realms as diverse as fluid mechanics (an area of physics that studies the behavior of gases and liquids at rest and in motion) and sedimentology. The investigation of such processes as erosion and mass wasting calls on knowledge in the atmospheric sciences as well as the physics and chemistry of soil. It is almost inevitable that a geomorphologic researcher will draw on geophysics as well as on such subspecialties as volcanology. These studies may go beyond the "hard sciences," bringing in such social sciences as geography., Subsidence refers to the process of subsiding (settling or descending), on the part of either an air column or the solid earth, or, in the case of solid earth, to the resulting formation or depression. Subsidence in the atmosphere is discussed briefly in the entry Convection. Subsidence that occurs in the solid earth, known as geologic subsidence, is the settling or sinking by a body of rock or sediment. (The latter can be defined as material deposited at or near Earth's surface from a number of sources, most notably preexisting rock.), As noted earlier, many geomorphologic processes can be caused either by nature or by human beings. An example of natural subsidence takes place in the aftermath of an earthquake, during which large areas of solid earth may simply drop by several feet. Another example can be observed at the top of a volcano some time after it has erupted, when it has expelled much of its material (i.e., magma) and, as a result, has collapsed., , Natural subsidence also may result from cave formation in places where underground water has worn away limestone. If the water erodes too much limestone, the ceiling of the cave will subside, usually forming a sinkhole at the surface. The sinkhole may fill with water, making a lake; the formation of such sinkholes in many spots throughout an area (whether the sinkholes become lakes or not), is known as karst topography., In places where the bedrock is limestone—particularly in the sedimentary basins of rivers—karst topography is likely to develop. The United States contains the most extensive karst region in the world, including the Mammoth cave system in Kentucky. Karst topography is very pronounced in the hills of southern China, and karst landscapes have been a prominent feature of Chinese art for centuries. Other extensive karst regions can be found in southern France, Central America, Turkey, Ireland, and England., Man-made subsidence often ensues from the removal of groundwater or fossil fuels, such as petroleum or coal. Groundwater removal can be perfectly safe, assuming the area experiences sufficient
+rainfall to replace, or recharge, the lost water. If recharging does not occur in the necessary proportions, however, the result will be the eventual collapse of the aquifer, a layer of rock that holds groundwater., , In so-called room-and-pillar coal mining, pillars, or vertical columns, of coal are left standing, while the areas around them are extracted. This method maintains the ceiling of the "room" that has been mined of its coal. After the mine is abandoned, however, the pillar eventually may experience so much stress that it breaks, leading to the collapse of the mined room. As when the ceiling of a cave collapses, the subsidence of a coal mine leaves a visible depression above ground., As its name implies, uplift describes a process and results opposite to those of subsidence. In uplift the surface of Earth rises, owing either to a decrease in downward force or to an increase in upward force. One of the most prominent examples of uplift is seen when plates collide, as when India careened into the southern edge of the Eurasian landmass some 55 million years ago. The result has been a string of mountain ranges, including the Himalayas, Karakoram Range, and Hindu Kush, that contain most of the world's tallest peaks., Plates move at exceedingly slow speeds, but their mass is enormous. This means that their inertia (the tendency of a moving object to keep moving unless acted upon by an outside force) is likewise gargantuan in scale. Therefore, when plates collide, though they are moving at a rate equal to only a few inches a year, they will keep pushing into each other like two automobiles crumpling in a head-on collision. Whereas a car crash is over in a matter of seconds, however, the crumpling of continental masses takes place over hundreds of thousands of years., , When sea floor collides with sea floor, one of the plates likely will be pushed under by the other one, and, likewise, when sea floor collides with continental crust, the latter will push the sea floor under. (See Plate Tectonics for more about oceanic-oceanic and continental-oceanic collisions.) This results in the formation of volcanic mountains, such as the Andes of South America or the Cascades of the Pacific Northwest, or volcanic islands, such as those of Japan, Indonesia, or Alaska's Aleutian chain., In many other instances, collision, compression, and extension cause uplift. On the other hand, as noted, uplift may result from the removal of a weight. This occurs at the end of an ice age, when glaciers as thick as 1.9 mi. (3 km) melt, gradually removing a vast weight pressing down on the surface below., This movement leads to what is called isostatic compensation, or isostatic rebound, as the crust pushes upward like a seat cushion rising after a person is longer sitting on it. Scandinavia is still experiencing uplift at a rate of about 0.5 in. (1 cm) per year as the after-effect of glacial melting from the last ice age. The latter ended some 10,000 years ago, but in geologic terms this is equivalent to a few minutes' time on the human scale., Geomorphology, as noted earlier, is concerned with landforms, such as mountains and volcanoes as well as larger ones, including islands and even continents. Islands present a particularly interesting area of geomorphologic study. In general, islands have certain specific characteristics in terms of their land structure and can be analyzed from the standpoint of the geosphere, but particular islands also have unique ecosystems, requiring an interdisciplinary study that draws on botany, zoology, and other subjects., In addition, there is something about an island that has always appealed to the human imagination, as evidenced by the many myths, legends, and stories about islands. Some examples include Homer's Odyssey, in which the hero Odysseus visits various islands in his long wanderings; Thomas More's Utopia, describing an idealized island republic; Robinson Crusoe, by Daniel Defoe, in which the eponymous hero lives for many years on an island with no companion but the trusty native Friday; Treasure Island, by Robert Louis Stevenson, in which the island is the focus of a treasure hunt; and Mark Twain's Adventures of Huckleberry Finn, depicting Jackson Island in the Mississippi River, to which Huckleberry Finn flees to escape "civilization.", One of the favorite subjects of cartoonists is that of a castaway stranded on a desert island, a mound of sand with no more than a single tree.
+Movies, too, have long portrayed scenarios, from the idyllic to the brutal, that take place on islands, particularly deserted ones, a notable example being Cast Away (2000). A famous line by the English poet John Donne (1572-1631) warns that "no man is an island," implying that many wish they could enjoy the independence suggested by the concept of an island. Within the Earth system, however, nothing is fully independent, and, as we shall see, this is certainly the case where islands are concerned., Earth has literally tens of thousands of islands. Just two archipelagos (island chains), those that make up the Philippines and Indonesia, include thousands of islands each. While there are just a few dozen notable islands on Earth, many more dot the planet's seas and oceans. The largest are these:, The list could go on and on, but it stops at Sumatra because the next-largest island, Honshu (part of Japan), is less than half as large, at 88,925 sq. mi. (230,316 sq km). Clearly, not all islands are created equal, and though some are heavily populated or enjoy the status of independent nations (e.g., Great Britain at number eight or Cuba at number 15), they are not necessarily the largest. On the other hand, some of the largest are among the most sparsely populated., Of the 32 largest islands in the world, more than a third are in the icy northern Atlantic and Arctic, with populations that are small or practically nonexistent. Greenland's population, for instance, was just over 59,000 in 1998, while that of Baffin Island was about 13,200. On both islands, then, each person has about 14 frozen sq. mi. (22 sq km) to himself or herself, making
+them among the most sparsely populated places on Earth., Australia, of course, is not an island but a continent, a difference that is not related directly to size. If Australia were an island, it would be by far the largest. Australia is regarded as a continent, however, because it is one of the principal landmasses of the Indo-Australian plate, which is among a handful of major continental plates on Earth. Whereas continents are more or less permanent (though they have experienced considerable rearrangement over the eons), islands come and go, seldom lasting more than 10 million years. Erosion or rising sea levels remove islands, while volcanic explosions can create new ones, as when an eruption off the coast of Iceland resulted in the formation of an island, Surtsey, in 1963., Islands are of two types, continental and oceanic. Continental islands are part of continental shelves (the submerged, sloping ledges of continents) and may be formed in one of two ways. Rising ocean waters either cover a coastal region, leaving only the tallest mountains exposed as islands or cut off part of a peninsula,
+which then becomes an island. Most of Earth's significant islands are continental and are easily spotted as such, because they lie at close proximity to continental landmasses. Many other continental islands are very small, however; examples include the barrier islands that line the East Coast of the United States. Formed from mainland sand brought to the coast by rivers, these are technically not continental islands, but they more clearly fit into that category than into the grouping of oceanic islands., Oceanic islands, of which the Hawaiian-Emperor island chain and the Aleutians off the Alaskan coast are examples, form as a result of volcanic activity on the ocean floor. In most cases, there is a region of high volcanic activity,
+called a hot spot, beneath the plates, which move across the hot spot. This is the situation in Hawaii, and it explains why the volcanoes on the southern islands are still active while those to the north are not: the islands themselves are moving north across the hot spot. If two plates converge and one subducts (see Plate Tectonics for an explanation of this process), a deep trench with a parallel chain of volcanic islands may develop. Exemplified by the Aleutians, these chains are called island arcs., The ecosystem, or community of all living organisms, on islands can be unique owing to their separation from continents. The number of life-forms on an island is relatively small and can encompass some
+unusual circumstances compared with the larger ecosystems of continents. Ireland, for instance, has no native snakes, a fact "explained" by the legend that Saint Patrick drove them away. Hawaii and Iceland are also blessedly free of serpents., Oceanic islands, of course, tend to have more unique ecosystems than do continental islands. The number of land-based animal life-forms is necessarily small, whereas the varieties of birds, flying insects, and surrounding marine life will be greater owing to those creatures' mobility across water. Vegetation is relatively varied, given the fact that winds, water currents, and birds may carry seeds., Nonetheless, ecosystems of islands tend to be fairly delicate and can be upset by the human introduction of new predators (e.g., dogs) or new creatures to consume plant life (e.g., sheep). These changes sometimes can have disastrous effects on the overall balance of life on islands. Overgrazing may even open up the possibility of erosion, which has the potential of bringing an end to an island's life., Color Landform Atlas of the United States (Web site). &lt;http://fermi.jhuapl.edu/states/states.html&gt;., Erickson, Jon. Rock Formations and Unusual Geologic Structures: Exploring the Earth's Surface. New York: Facts on File, 1993., Erickson, Jon. Making the Earth: Geologic Forces That Shape Our Planet. New York: Facts on File, 2000., Gerrard, John. Rocks and Landforms. Boston: Unwin Hyman, 1988., Image Gallery of Landforms (Web site). &lt;http://www.athena.ivv.nasa.gov/curric/land/landform/landform.html&gt;., Selby, Michael John. Earth's Changing Surface: An Introduction to Geomorphology. New York: Clarendon Press, 1985., Tinkler, K. J. A Short History of Geomorphology. Totowa, NJ: Barnes and Noble, 1985., The Virtual Geomorphology (Web site). &lt;http://main.amu.edu.pl/~sgp/gw/gw.htm&gt;., Wells, Lisa. "Images Illustrating Principles of Geomorphology" (Web site). &lt;http://geoimages.berkeley.edu/GeoImages/Wells/wells.html&gt;., Zoehfeld, Kathleen Weidner, and James Graham Hale. How Mountains Are Made. New York: HarperCollins, 1995., A combination of all living things on Earth—plants, animals, birds, marine life, insects, viruses, single-cell organisms, and so on—as well as all formerly living things that have not yet decomposed., A tectonic process whereby plates move toward each other. Usually associated with subduction, convergence typically occurs in the ocean, creating an oceanic trench. It is one of the three ways, along with divergence and transform motion, in which plates interact., The uppermost division of the solid earth, representing less than 1% of its volume and varying in depth from 3 to 37 mi. (5 to 60 km). Below the crust is the mantle., The movement of soil and rock due to forces produced by water, wind, glaciers, gravity, and other influences., The study of the solid earth, in particular its rocks, minerals, fossils, and land formations., An area of geology concerned with the study of land-forms, with the forces and processes that have shaped them, and with the description and classification of various physical features on Earth., A branch of the earth sciences that combines aspects of geology and physics. Geophysics addresses the planet's physical processes as well as its gravitational, magnetic, and electric properties and the means by which energy is transmitted through its interior., The upper part of Earth's continental crust, or that portion of the solid earth on which human beings live and which provides them with most of their food and natural resources., The study of Earth's physical history. Historical geology is one of two principal branches of geology, the other being physical geology., A notable topographical feature, such as a mountain, plateau, or valley., The upper layer of Earth's interior, including the crust and the brittle portion at the top of the mantle., The transfer of earth material, by processes that include flow, slide, fall, and creep, down slopes. Also known as mass movement., The study of the material components of Earth and of the forces that have shaped the planet. Physical geology is one of two principal branches of geology, the other being historical geology., The name both of a theory and of a specialization of tectonics. As an area of study, plate tectonics deals with the large features of the lithosphere and the forces that shape them. As atheory, it explains the processes that have shaped Earth in terms of plates and their movement., Large, movable segments of the lithosphere., Involving a comparison between qualities that are not defined precisely, such as "fast" and "slow" or "warm" and "cold.", Involving a comparison between precise quantities—for instance, 10 lb. versus 100 lb. or 50 mi. per hour versus 120 mi. per hour., Elevation and other in equalities on a land surface., Material deposited at or near Earth's surface from a number of sources, most notably preexisting rock., The study and interpretation of sediments, including sedimentary processes and formations., A term that refers either to the process of subsiding (settling or descending), on the part of either air or solid earth or, in the case of solid earth, to the resulting formation. Subsidence thus is defined variously as the downward movement of air, the sinking of ground, or a depression in Earth's crust., Any set of interactions that can be set apart mentally from the rest of the universe for the purposes of study, observation, and measurement., The study of tectonism, including its causes and effects, most notably mountain building., The deformation of the lithosphere., The configuration of Earth's surface, including its relief, as well as the position of physical features., A process whereby the surface of Earth rises, due to either a decrease in downward force or an increase in upward force., The breakdown of rocks and minerals at or near the surface of Earth due to physical or chemical processes., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Geomorphology."
+
+Science of Everyday Things.
+ .
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Geomorphology." 
+Science of Everyday Things.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/geomorphology
+, 
+"Geomorphology." 
+Science of Everyday Things.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/geomorphology
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, geomorphology, study of the origin and evolution of the earth's landforms, both on the continents and within the ocean basins. It is concerned with the internal geologic processes of the earth's crust, such as tectonic activity and volcanism that constructs new landforms, as well as externally driven forces of wind, water, waves, and glacial ice that modify such landforms. Geomorphology developed from the works of James Hutton and James Playfair in the 18th cent.; G. K. Gilbert described landform evolution; William Morris Davis developed the geomorphic cycle, set forth in his Geographic Essays (1909). By the 1970s, geomorphology had grown to include the environmental problems involved in landform processes, including subsidence, landslides, and coastal processes (see coast protection), which all affect humans who live in certain susceptible regions. Satellite images and data help geomorphologists to describe and map landforms and observe rapid or slow changes on the earth's surface. Development of mathematical models of landform processes have influenced the direction of modern geomorphic research. Geomorphology principles also have been applied to the study of landform development of other planets and moons of the solar system, based on images sent back to earth by flyby and orbiting satellites., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"geomorphology."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"geomorphology." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/geomorphology
+, 
+"geomorphology." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/geomorphology
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+ge·o·mor·phol·o·gy 
+/ ˌjēōˌmôrˈfäləjē/
+•
+n.
+the study of the physical features of the surface of the earth and their relation to its geological structures.
+
+DERIVATIVES: 
+ge·o·mor·pho·log·i·cal
+/ -ˌmôrfəˈläjikəl/ adj.
+ge·o·mor·phol·o·gist
+/ -jist/ n.
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"geomorphology."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"geomorphology." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/geomorphology
+, 
+"geomorphology." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/geomorphology
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"geomorphology."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"geomorphology." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/geomorphology
+, 
+"geomorphology." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/geomorphology
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"geomorphology."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"geomorphology." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/geomorphology-0
+, 
+"geomorphology." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/geomorphology-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"geomorphology."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"geomorphology." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/geomorphology
+, 
+"geomorphology." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/geomorphology
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

@@ -1,0 +1,195 @@
+[█ ALEXANDR IOFFE, Varieties of the same chemical element, but with different atomic weights, are called isotopes. Isotopic analysis (IA) is the analysis of the isotope composition of a sample. Samples in IA can contain almost anything: different objects of everyday life, pieces of rocks, pieces of wood, samples of tissue taken from a human body, chemical compounds, and so on. In general, and with some degree of simplification, isotopic analysis is used for identification of a sample and for the determination of its age. Isotopic analysis is based upon the use of mass spectrometers or radioactive radiation counters. A mass spectrometer is a device that determines the quantity and composition of different isotopes (of the same chemical element as well as various elements) in the sample., The Oak Ridge National Laboratory in 2001 designed a portable mass spectrometer that is capable of detecting chemical and biological agents of war in the air, and can also detect chemical warfare agents on the ground. Called the chemical-biological mass spectrometer (CBMS), the device works by collecting an air sample or chemical sample via a chemical probe and classifying it first according to its size, then according to its unique ion products. The system can detect a wide range of chemical and biological weapons on the battlefield, such as anthrax spores, nerve gas, viruses, and toxins. The CMBS is scheduled to be manufactured in sufficient numbers to be operational in the field by 2004., , Another new mass spectrometry device, similar to the walk-through scanners used in airports, may soon be able to detect microscopic amounts of explosives or narcotic substances hidden in clothing or on a person. When passing through the scanner, a jet of air puffs clothing and air samples immediately surrounding the person are concentrated and analyzed using ion mobility spectrometry. Minute amounts of explosives, chemical weapons, and illegal drugs that cling to the skin or clothing can be easily found. The highly sensitive nature of the scanner can also be a drawback, as targeted substances may be found on persons unaware of their presence. For example, the scanner could detect a narcotic residue on coins randomly received at an airport vending machine by an unsuspecting person. The likelihood for false positive results, along with the high cost of the machine and the seven-second period necessary to scan each individual, may inhibit its widespread use in airports. Some airports do use similar technology to screen checked baggage., The isotope composition of many objects is unique (relative to the composition itself as well as to the isotope concentrations), and because of this, isotopic analysis offers the possibility for identification of a sample. Isotopic analysis is also utilized in varying disciplines, including chemistry, medicine, biology, geology, archeology, and criminal forensics. Recently, isotopic analysis has seen use in the diagnosis of some diseases through analysis of air exhaled by the patient. Often, isotopic analysis permits the scientist to distinguish the genuine product from its imitation. For example, the technology is used to distinguish expensive types of wine and liquor from their imitations. When archaeologists investigate various fragments of ancient objects, they sometimes use isotopic analysis to determine where these objects were made, or to elucidate the source of the raw material for their production., Isotopes can be both stable and radioactive. Isotopic analysis of radioactive isotopes permits scientists to determine the age of the investigated sample. Often the isotope C14 is used for this purpose. This isotope itself is unstable and decays with time, and in the decay process, other stable isotopes are created. In nature, the concentration of C14 is maintained because of cosmic radiation. While a tree lives, for example, the concentration of C14 in its wood is equal to the C14 concentration in the environment, because atoms of radioactive carbon penetrate the wood from the atmosphere with CO2 molecules due to photosynthesis, and also through the tree root system. But when the tree dies, these exchange processes cease, and the C14 concentration in the tree begins to decrease. The law of radioactive carbon concentration alteration in the sample is known, hence if its concentration is measured in the sample and compared with the concentration of the isotope in nature, the age of the tree itself can be determined (or more precisely, the time since the tree died). When the decay period of the radioisotope is considered, the age of the sample can be determined within an accuracy of several decades. For this analysis, a sample weight of only several milligrams (mg) is often sufficient. For example, a mammoth calf whose body was recently found in Siberia in the frozen ground was determined to have lived about 27,000 years ago, and only 4 mg of the mammoth muscle tissue was needed for the analysis., Lawrence Livermore National Laboratory. "National Resource for Biomedical Accelerator Mass Spectrometry." &lt;http://www.llnl.gov/bioams/index.html&gt; (January, 4, 2003)., "New Airport Security Measures." I-mass.com. &lt;http://imass.com/airp1100.html&gt; (January, 4, 2003)., Oak Ridge National Laboratory. "Chemical Biological Mass Spectrometer." &lt;http://infosrv1.ctd.ornl.gov/ORNLReview/measure/analy/direct/chem-bio.htm&gt; (January, 4, 2003)., Air Plume and Chemical AnalysisBiological WarfareGas Chromatograph-Mass SpectrometerMicrobiology: Applications to Espionage, Intelligence, and Security , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Isotopic Analysis."
+
+Encyclopedia of Espionage, Intelligence, and Security.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Isotopic Analysis." 
+Encyclopedia of Espionage, Intelligence, and Security.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/politics/encyclopedias-almanacs-transcripts-and-maps/isotopic-analysis
+, 
+"Isotopic Analysis." 
+Encyclopedia of Espionage, Intelligence, and Security.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/politics/encyclopedias-almanacs-transcripts-and-maps/isotopic-analysis
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Varieties of the same chemical element, but with different atomic weights, are called isotopes. Isotopic analysis (IA) is the analysis of the isotope composition of a sample. Samples in IA can contain almost anything: different objects of everyday life, pieces of rocks, pieces of wood, samples of tissue taken from a human body, chemical compounds, and so on. In general, IA is used for identification of a sample and for the determination of its age. Determining the age of an object can be important in a forensic examination, especially when examining human remains from cold cases, ancient sites, or mass graves. IA is based upon the use of mass spectrometers or radioactive radiation counters. A mass spectrometer is a device that determines the quantity and composition of different isotopes (of the same chemical element as well as various elements) in the sample., The isotope composition of many objects is unique (relative to the composition itself as well as to the isotope concentrations), and because of this, isotopic analysis offers the possibility for identification of a sample. Isotopic analysis is also utilized in varying disciplines, including chemistry, medicine , biology, geology , archeology, and criminal forensics. Recently, isotopic analysis has seen use in the diagnosis of some diseases through analysis of air exhaled by the patient. Often, isotopic analysis permits the scientist to distinguish the genuine product from its imitation. For example, the technology is used to distinguish expensive types of wine and liquor from their imitations., Isotopes can be both stable and radioactive. IA of radioactive isotopes permits scientists to determine the age of the investigated sample. Often the isotope14C is used for this purpose. This isotope itself is unstable and decays with time, and in the decay process, other stable isotopes are created. In nature, the concentration of14C is maintained because of cosmic radiation. While a tree lives, for example, the concentration of14C in its wood is equal to the 14C concentration in the environment, because atoms of radioactive carbon penetrate the wood from the atmosphere with carbon dioxide (CO2) molecules due to photosynthesis, and also through the tree root system. But when the tree dies, these exchange processes cease, and the 14C concentration in the tree begins to decrease. The law of radioactive carbon concentration alteration in the sample is known, hence if its concentration is measured in the sample and compared with the concentration of the isotope in nature, the age of the tree itself can be determined (or more precisely, the time since the tree died). When the decay period of the radioisotope is considered, the age of the sample can be determined within an accuracy of several decades., see also Analytical instrumentation; Radiation damage to tissues., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Isotopic Analysis."
+
+World of Forensic Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Isotopic Analysis." 
+ World of Forensic Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/isotopic-analysis-0
+, 
+"Isotopic Analysis." 
+World of Forensic Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/isotopic-analysis-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"isotopic dating."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"isotopic dating." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/isotopic-dating
+, 
+"isotopic dating." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/isotopic-dating
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"isotopic dating."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+ "isotopic dating." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/isotopic-dating-0
+, 
+"isotopic dating." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/isotopic-dating-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"isotopic dating."
+
+A Dictionary of Plant Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"isotopic dating." 
+A Dictionary of Plant Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/isotopic-dating-1
+, 
+"isotopic dating." 
+A Dictionary of Plant Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/isotopic-dating-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Varieties of the same chemical element, but with different atomic weights, are called isotopes. Isotopic analysis (IA) is the analysis of the isotope composition of a sample. Samples in IA can contain almost anything: different objects of everyday life, pieces of rocks, pieces of wood, samples of tissue taken from a human body, chemical compounds, and so on. In general, isotopic analysis is used for identification of a sample and for the determination of its age. Determining the age of an object can be important in a forensic examination, especially when examining human remains from cold cases, ancient sites, or mass graves. Isotopic analysis is based upon the use of mass spectrometers or radioactive radiation counters. A mass spectrometer is a device that determines the quantity and composition of different isotopes (of the same chemical element as well as various elements) in the sample., The isotope composition of many objects is unique (relative to the composition itself as well as to the isotope concentrations), and because of this, isotopic analysis offers the possibility for identification of a sample. Isotopic analysis is also utilized in varying disciplines, including chemistry, medicine, biology, geology, archeology, and criminal forensics. Recently, isotopic analysis has seen use in the diagnosis of some diseases through analysis of air exhaled by the patient. Often, isotopic analysis permits the scientist to distinguish the genuine product from its imitation. For example, the technology is used to distinguish expensive types of wine and liquor from their imitations., Isotopes can be both stable and radioactive. Isotopic analysis of radioactive isotopes permits scientists to determine the age of the investigated sample. Often the isotope 14C (carbon-14) is used for this purpose. This isotope itself is unstable and decays with time, and in the decay process, other stable isotopes are created. In nature, the concentration of 14C is maintained because of cosmic radiation. While a tree lives, for example, the concentration of 14C in its wood is equal to the 14C concentration in the environment, because atoms of radioactive carbon penetrate the wood from the atmosphere with carbon dioxide (CO2) molecules due to photosynthesis, and also through the tree root system. But when the tree dies, these exchange processes cease, and the 14C concentration in the tree begins to decrease. The law of radioactive carbon concentration alteration in the sample is known, hence if its concentration is measured in the sample and compared with the concentration of the isotope in nature, the age of the tree itself can be determined (or more precisely, the time since the tree died). When the decay period of the radioisotope is considered, the age of the sample can be determined within an accuracy of several decades., Alexandr Ioffe, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Isotopic Analysis."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Isotopic Analysis." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/isotopic-analysis
+, 
+"Isotopic Analysis." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/isotopic-analysis
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

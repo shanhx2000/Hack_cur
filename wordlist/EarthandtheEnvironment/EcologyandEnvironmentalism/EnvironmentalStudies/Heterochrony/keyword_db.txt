@@ -1,0 +1,196 @@
+[Heterochrony—literally, "different timing"—describes the occurrence of a change in the timing of the development of different body parts between an ancestor and its descendants. The concept of heterochrony is intimately associated with allometry , which describes the relationship between the size of different structures or organs of an organism throughout its life; both concepts involve the study of growth patterns., Heterochronic phenomena may be described with respect to somatic (body) and gonadal (reproductive) maturation and may be global (effecting the entire individual) or local (affecting only one structure, organ, or system). Further, the growth of a structure or organ may be isometric with respect to other structures (shape does not change with growth) or it may follow either a positive or negative allometric path (shape changes with growth). Finally, different kinds of heterochronies can occur in different parts of the body, producing ontogenies (courses of development in an organism) that are "dissociated" or "mosaic." That is, some aspects of development are accelerated while others are retarded. Any change in a body part's growth rate relative to that of other structures is described as either acceleration or retardation (also called neoteny)., Developmental heterochronic phenomena result in either paedomorphosis or peramorphosis. Paedomorphosis describes the retention of juvenile traits in a structure (the trait in the descendant resembles that of juveniles in the ancestor). Peramorphosis describes cases where a trait in the descendant has a more extreme morphology than in its ancestor., , Heterochrony can be further classified in terms of changes in the length of the duration, rate, or timing of events in ontogeny . Change in the duration of growth without any change in rate or timing is described as hypermorphosis (increased period of somatic growth with respect to gonadal development) or progenesis (decreased period of somatic growth with respect to gonadal development). Change in the timing at which growth of a structure occurs is described as predisplacement (onset of growth occurs earlier in ontogeny) or postdisplacement (onset of growth occurs later in ontogeny)., Heterochronic changes are often driven by selection on life history traits. For example, some species may be under selection to reproduce at an earlier age than others and correlate with paedomorphic or hypermorphic results. Paedomorphosis by means of progenesis (structures stop developing at an earlier stage than in the ancestral ontogeny) may occur when there is selection for rapid maturation. Paedomorphosis is frequently associated with small adult size in many groups of animals (some tiny salamanders have simplified skeletons that are reminiscent of earlier developmental stages in their ancestors). Paedomorphosis via neoteny often results from selection operating under particular stable larval environments., Peramorphosis via hypermorphosis can result from selection for increased body size or sexual selection and may result in exaggerated features. The relatively more elaborate antlers of some large deer species compared to those of smaller, ancestral species are hypermorphic. Peramorphosis by acceleration can result from selection for acceleration of prenatal growth. An example of peramorphosis via acceleration is the rapid larval development of many desert-adapted frogs (including the spadefoot toads of the American Southwest), which breed in temporary pools of water. Some species can transform from egg to froglet in less than three weeks compared to the three months required in many species whose tadpoles live in more stable environments., , Predisplacement (initiation of development of a structure occurs earlier in development in the descendant than in the ancestor) may occur in
+response to selection in unstable larval environments. In some frog species, adult skull structures may begin to form during the larval stage depending on the availability of food. The presence of these structures allows the tadpoles to eat larger food items, including other tadpoles. This development expands the range of food the tadpole is capable of consuming, therefore increasing its chances of survival., Perhaps the best known example of heterochrony in nature is the axolotl, an aquatic salamander from Mexico. Axolotls were not thought to be salamanders until 1863, when some individuals on display at the Natural History Museum in Paris began to metamorphose (probably because of some environmental stress associated with their conditions in captivity). Ordinarily, amphibians undergo metamorphosis from egg to larva, and finally, to the adult form. The axolotl, along with a number of other amphibians, remains in its larval form, meaning that it retains its gills and fins and doesn't develop protruding eyes, eyelids, and characteristics of other adult salamanders. It reaches sexual maturity in the larval stage. The axolotl is completely aquatic, and although it possesses rudimentary lungs , it breathes primarily through its gills and to a lesser extent, the skin. This species descended from a terrestrial ancestor with an aquatic larval stage (probably the tiger salamander, Ambystoma tigrinum ). These salamanders were historically found in lakes with relatively constant temperatures, abundant food sources, and no competition from or predation by fish. Unfortunately, introduced predatory fish and heavy pollution threaten most wild populations. The unusual life history and large eggs of this species make it an excellent organism for studies of genetics and development, and large colonies are maintained in universities and research institutions throughout the world., Identification of heterochronic phenomena requires a hypothesis of relationships among the life-forms being considered and information on the development patterns of the ancestor and descendant. Detailed information on the duration, timing, and rate of developmental phenomena in both the ancestral and descendant ontogeny may be required to discriminate between various types of paedomorphosis and peramorphosis. Mutations causing heterochronic changes play an important role in evolution and developmental constraints and can result in powerful relationships between the processes of embryonic development and the resulting evolutionary history., see also Allometry; Embryonic Development; Ontogeny; Phylogenetics Systematics., Andrew G. Gluesenkamp , Duellman, W. E., and L. Trueb. Biology of Amphibians. New York: McGraw-Hill,1986., Futuyma, D. J. Evolutionary Biology. Sunderland, MA: Sinauer Associates, Inc., 1986., Gould, S. J. Ontogeny and Phylogeny. Cambridge, MA: Harvard University Press, Belknap Press, 1977., Jeffery, W. R., and R. A. Raff, eds. Time, Space, and Pattern in Embryonic Development. New York: Alan R. Liss, 1983., Raff, R. A. The Shape of Life. Chicago: University of Chicago Press, 1996., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Heterochrony."
+
+Animal Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Heterochrony." 
+Animal Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/heterochrony
+, 
+"Heterochrony." 
+ Animal Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/heterochrony
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"heterochrony."
+
+A Dictionary of Biology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"heterochrony." 
+A Dictionary of Biology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/heterochrony-3
+, 
+"heterochrony." 
+A Dictionary of Biology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/heterochrony-3
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"heterochrony."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"heterochrony." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/heterochrony-0
+, 
+"heterochrony." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/heterochrony-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"heterochrony."
+
+A Dictionary of Zoology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"heterochrony." 
+A Dictionary of Zoology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/heterochrony-2
+, 
+"heterochrony." 
+A Dictionary of Zoology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/heterochrony-2
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"heterochrony."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"heterochrony." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/heterochrony
+, 
+"heterochrony." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/heterochrony
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"heterochrony."
+
+A Dictionary of Plant Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"heterochrony." 
+A Dictionary of Plant Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/heterochrony-1
+, 
+"heterochrony." 
+A Dictionary of Plant Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/heterochrony-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

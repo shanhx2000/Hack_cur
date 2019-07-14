@@ -1,0 +1,271 @@
+[BIBLIOGRAPHY, The term scarcity implies a lack of a given thing, of it not being plentiful or easy to find. It is a term that does not impress one as having anything to do with science. For economics, however, scarcity is the starting point, a state of affairs that gives rise to a series of deductions that build the whole formal structure of economic science., In the somewhat technical jargon of economics, scarcity represents a situation in which the existing means (resources, goods, etc.) are not sufficient for the achievement of all existing ends (goals, wishes, desires, etc.). Under such circumstances, it is indispensable to make decisions about which ends one will strive to achieve and which ones will be left unattended to. All such decisions imply the existence of some benefits (or utility ), associated with the achievement of certain ends, and of some costs, corresponding to the benefits associated with the achievement of ends that were forgone. It is in terms of benefits and costs that economists conceive of every decision, and it is through benefits and costs that changes in external conditions have an impact on human behavior., , It is easy to see that in a world where everything was abundant—where scarcity would not apply—all the above categories would be meaningless and economics would not exist. However, scarcity does exist, and it is not a mere empirical coincidence. It is a condition of life as human beings perceive it, and as such it cannot be undone. One can certainly imagine having many times more resources at one’s disposal and having more of every good than could possibly be enjoyed (although humans are very far from experiencing this scenario). And yet this would not free one from having to make any decision whatsoever: One would still be forced to choose between different ways of enjoying all those superabundant supplies of goods, for human beings cannot engage in mutually exclusive activities. Thus, due to the inescapable scarcity of time, it is not possible to conceive of a world in which scarcity would not be known. This is why most scholars (or economists, at any rate) consider scarcity to be a universal and necessary human condition., The presence of the scarcity problem people face, and in particular the need for trade-offs in dealing with scarcity, is reflected in popular common-sense adages such as “there ain’t no such thing as a free lunch” (coined by Robert A. Heinlein in The Moon Is a Harsh Mistress [1966] and popularized in economics by Milton Friedman). In economic science, it is typically illustrated by the “production possibility frontier,” a two-dimensional graph showing maximum amounts of two goods (e.g., “guns and butter”) that can be produced with given resources. The frontier, which graphically represents the finiteness of options, also illustrates the concept of cost, for it shows that as long as all resources are being used, the output of one good can be increased only at the expense of a lower output of the other good., While scarcity may be considered an omnipresent condition of human life, it is possible to view human behavior as a struggle to reduce its acuteness. The extent to which people are successful at narrowing the gap between means and ends can, in turn, be seen as a subjective degree of wealth as perceived by the person in question., In economics, this process of reducing the problem of scarcity can also be shown with the help of the production possibility frontier. A more efficient use of resources allows for greater production of both goods, which in turn allows for more ends to be achieved and (with given wants) gives rise to a feeling of being wealthier than before. This more efficient use of resources, graphically pictured as an outward shift of the frontier, is usually attributed to three different sources of improvement: (1) improvement in human capital, (2) accumulation in physical capital, and (3) human cooperation (a division of labor and exchange)., , The omnipresence of scarcity and its central position in orthodox economics has been challenged both from within economics and from without it. The attack from within has come from progressively minded economists. Believers in the enormous capacities of technological progress and the human mind have claimed there is a possibility of doing away with scarcity at some point in the future by devising ever more efficient ways of using resources, and thus making goods so plentiful as to accommodate all practical needs., While this theory is usually propounded by some lesser lights among economists, there have been notable exceptions. John Maynard Keynes, for example, insisted that scarcity is kept unnecessarily high by an artificially high interest rate. In a similar vein, John Kenneth Galbraith, not incidentally an admirer of Keynes and a well-known economist as well, undermined the importance of scarcity with his concept of the “affluent society.” Our society is supposed to have reached a sufficient degree of affluence to enable it to provide all the genuine needs people may have. The remaining feelings of scarcity are a product of artificial wants, as Galbraith would have it, created by advertising. None of these authors, however, have attacked scarcity directly, nor have they claimed that scarcity would cease to exist altogether. Instead, they have alluded to its man-made, and thus unnecessary, nature, and to a possibility of its substantial elimination through proper government policy., From outside of economics, the assault on scarcity has come from anthropologists such as Marshall Sahlins. Their point is that a large degree of affluence did exist before the advent of civilization, among the Paleolithic hunter-gatherers. They show that, contrary to conventional wisdom, such societies did not struggle, but rather enjoyed a life of relative plenty, with more leisure time and (some claim) greater happiness than an average modern person would have today. All this, of course, is due to their having had drastically more modest needs., While these ideas, just like those of Galbraith, can be justly considered as criticism of the modern consumer civilization, they do not show the logical possibility of a world without scarcity. Even the most austere monks living on water would surely have to make some decisions, if only what to meditate about. Thus, these criticisms may well play down the necessity of the scarcity in human affairs (i.e., its severity and centrality in the human mind), but they will hardly cause the orthodox economics to crumble under its weight., SEE ALSO Anthropology; Choice in Economics; Economics; Friedman, Milton; Galbraith, John Kenneth; Keynes, John Maynard; Microeconomics; Opportunity Cost; Poverty; Production Frontier; Sahlins, Marshall; Trade-offs , Galbraith, John Kenneth. 1958. The Affluent Society. Boston: Houghton Mifflin., Heinlein, Robert A. 1966. The Moon Is a Harsh Mistress. New York: Putnam., Sahlins, Marshal. 1972. Stone Age Economics. Chicago: Aldine-Atherton., Sievert, Dale M.1989. Economics: Dealing with Scarcity. Waukesha, WI: Glengarry., Dan Stastny  , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Scarcity."
+
+International Encyclopedia of the Social Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Scarcity." 
+International Encyclopedia of the Social Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/scarcity
+, 
+"Scarcity." 
+International Encyclopedia of the Social Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/scarcity
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, A shortage exists when there is a greater demand for a product or service than there is a supply of the product or service. A shortage usually occurs when the price of a product or service in the marketplace is below its equilibrium price. The equilibrium price is the price at which there is neither an insufficient supply nor an over abundance of the product or service. When the price of a product or service is less than equilibrium, consumers will demand more of the product or service than the suppliers are willing to sell, which in turn creates a shortage. Consumers will then bid up the price of the product or service until it reaches its equilibrium. The equilibrium price is the one that brings the market into balance by equating supply and demand. If the government interferes with or takes control of a shortage situation, a black market may develop. A shortage may also be referred to as an excess demand., See also:  Price, Surplus , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Shortage."
+
+Gale Encyclopedia of U.S. Economic History.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Shortage." 
+Gale Encyclopedia of U.S. Economic History.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/shortage
+, 
+"Shortage." 
+Gale Encyclopedia of U.S. Economic History.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/shortage
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Scarcity and its opposite, abundance, are relative and vague descriptions as to the availability of useful resources for human purposes. Resources that command a price in economic transactions, like fertile land, machines, or human talent, may be considered scarce. This market oriented definition of scarcity can be summed up in the following way: scarcity exists in a marketplace when a resource of any type commands a price in the market which make some producers forgo otherwise rewarding applications of the resource. The price of a resource in unrestricted economic transactions is a useful way to measure the scarcity of the resource. The more scarce a resource, the higher its price will tend to be. At times, when there is a limit to the availability of a resource, the resource will obviously be regarded as scarce in the marketplace. This scarcity will tend to drive prices up, or will cause the market to look elsewhere for more plentiful and less costly alternatives. Questions are always raised as to how human societies will respond to the depletion of resources, and how society will respond during times of acute general scarcity to avoid catastrophic suffering and mortality. Historically, scarcity has frequently caused changes in lifestyle, land migration, consumption-patterns, increased exploration for new material, development of general ecological awareness, and ecologically-oriented technology, so as to minimize the scarcity of resources needed for subsistence., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Scarcity."
+
+Gale Encyclopedia of U.S. Economic History.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Scarcity." 
+Gale Encyclopedia of U.S. Economic History.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/scarcity
+, 
+"Scarcity." 
+Gale Encyclopedia of U.S. Economic History.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/scarcity
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+short·age 
+/ ˈshôrtij/
+•
+n.
+a state or situation in which something needed cannot be obtained in sufficient amounts:
+a shortage of hard cash
+food shortages.
+
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"shortage."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"shortage." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/shortage-0
+, 
+"shortage." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/shortage-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"scarcity."
+
+Oxford Dictionary of Rhymes.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"scarcity." 
+Oxford Dictionary of Rhymes.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/scarcity
+, 
+"scarcity." 
+Oxford Dictionary of Rhymes.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/scarcity
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"shortage."
+
+Oxford Dictionary of Rhymes.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"shortage." 
+Oxford Dictionary of Rhymes.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/shortage
+, 
+"shortage." 
+Oxford Dictionary of Rhymes.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/shortage
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, As most commonly used, the term scarcity refers to a limited supply of some material. With the rise of environmental consciousness in the 1960s, scarcity of natural resources became an important issue. Critics saw that the United States and other developed nations were using natural resources at a frightening pace. How long, they asked, could nonrenewable resources such as coal , oil, natural gas , and metals last at the rate they were being consumed?, A number of studies produced some frightening predictions. The world's oil reserves could be totally depleted in less than a century, according to some experts, and scarce metals such as silver, mercury , zinc, and cadmium might be used up even faster at then-current rates of use., One of the most famous studies of this issue was that of the Club of Rome , conducted in the early 1970s. The Club of Rome was an international group of men and women from 25 nations concerned about the ultimate environmental impact of continued population growth and unlimited development. The Club commissioned a complex computer study of this issue to be conducted by a group of scholars at the Massachusetts Institute of Technology. The result of that study was the now famous book The Limits to Growth., , Limits presented a depressing view of the Earth's future if population and technological development were to continue at then-current rates. With regard to non-renewable resources such as metals and fossil fuels , the study concluded that the great majority of those resources would become "extremely costly 100 years from now." Unchecked population growth and development would, therefore, lead to widespread scarcity of many critical resources., The Limits argument appears to make sense. There is only a specific limited supply of coal, oil, chromium, and other natural resources on Earth. As population grows and societies become more advanced technologically, those resources are used up more rapidly. A time must come, therefore, when the supply of those resources becomes more and more limited, that is, they become more and more scarce., Yet, as with many environmental issues, the obvious reality is not necessarily true. The reason is that there is a second way to define scarcity, an economic definition. To an economist, a resource is scarce if people pay more money for it. Resources that are bought and sold cheaply are not scarce., One measure of the Limits argument, then is to follow the price of various resources over time, to see if they are becoming more scarce in an economic sense. When that study is conducted, an interesting result is obtained. Supposedly "scarce" resources such as coal, oil, and various metals have actually become less costly since 1970 and must be considered, therefore, to be less scarce than they were two decades ago., , How this can happen has been explained by economist Julian Simon, a prominent critic of the Limits message. As the supply of a resource diminishes, Simon says, humans become more imaginative and more creative in finding and using the resource. For example, gold mines that were once regarded as exhausted have been re-opened because improved technology makes it possible to recover less concentrated reserves of the metal. Industries also become more efficient in the way they use resources, wasting less and making what they have go further., In one sense, this debate is a long-term versus short-term argument. One can hardly argue that the Earth's supply of oil, for example, will last forever. However, given Simon's argument, that supply may last much longer than the authors of Limits could have imagined twenty years ago., [David E. Newton ], Meadows, D. H., et al. The Limits to Growth. New York: Universe Books, 1972., Ophuls, W., and A. S. Boyan Jr. Ecology and the Politics of Scarcity Revisited. San Francisco: W. H. Freeman, 1992., Simon, J. L. and H. Kahn, eds. The Resourceful Earth. Oxford: Basil Blackwell, 1984., ——. The Ultimate Resource. Princeton, NJ: Princeton University Press, 1981., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Scarcity."
+
+Environmental Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Scarcity." 
+Environmental Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/scarcity
+, 
+"Scarcity." 
+Environmental Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/scarcity
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The world is not like the Garden of Eden, where all desires are always fulfilled. Instead, the earth’s supply of resources is limited. Our desires as individuals and societies always exceed the world’s ability to satisfy those desires. This central truth of life is what economists call scarcity
+., The problem of scarcity is plainly visible in poor societies. In drought-prone parts of Africa, for instance, there often is not enough food to go around. But increases in wealth at the individual or the societal level do not solve the problem of scarcity. Middle-class people in the United States may not be in danger of starving, but this does not mean that their desires are fully satisfied. A construction worker might want a nicer car and a larger house than he is currently able to obtain, but if he came into possession of those things, he would likely still have unsatisfied desires. We are all familiar with the phenomenon of celebrities who feel that they need houses the size of palaces equipped with private movie theaters, bowling alleys, and garages capable of housing dozens of luxury vehicles. Rare is the celebrity who, having acquired such things, stops wanting any more possessions. Because the supply of goods and services in the world is limited, even billionaires find it impossible to satisfy every single desire they have., , The problems faced by someone who wants but cannot obtain a private jet clearly pale in comparison with the problems faced by someone who is starving. Economists do not contend that all individuals and societies are equally affected by the problem of scarcity. They do, however, maintain that all individuals and societies are subject to the problem of scarcity and that this causes them to act in particular ways. Economics is the study of the ways in which people and societies respond to the problem of scarcity., Scarcity as defined by economists has always been a fact of life. The ways in which societies have dealt with scarcity, however, have changed a great deal throughout history. Today capitalist systems are the chief means of determining how societies allocate scarce resources. In a capitalist economy businesses are largely owned by private individuals rather than the government, and prices are determined through the unrestricted dealings between buyers and sellers. Up through the Middle Ages (about 500 to about 1500), however, societies responded very differently to the problem of scarcity., Prior to the rise of capitalism (which developed in Europe after the Middle Ages, during the sixteenth through eighteenth centuries), tradition and central authority figures determined how society’s scarce resources were allocated. In most precapitalist systems only an elite group of people could own land and possess wealth, and these elites (along with the traditions that allowed them to remain in a privileged societal position) limited the production and distribution of goods and services. Farmers, bakers, cobblers, and blacksmiths may have existed in a medieval English village, but they did not own their land or the property they used to produce their goods, and they made only as much as tradition or a nobleman told them to produce. In general, only products left over after these conditions were met found their way to markets (places where buyers and sellers of goods and services come together)., , Capitalist systems, by contrast, rely on markets to set the terms for the production and distribution of scarce goods and services. Once capitalism began to take hold in Europe, individuals such as farmers, bakers, cobblers, and blacksmiths could pursue their own self-interest with relative freedom from the dictates of tradition and authority figures. The competition among such tradesmen worked to the benefit of buyers. Because buyers were free to choose one baker’s bread over another’s, for instance, bakers had to produce high-quality bread at reasonable prices. Likewise, competition among buyers for a limited amount of bread meant that the price of bread could not fall too low. Demand (the amount of bread people were willing to buy over a range of prices) affected supply (the amount of bread a baker was willing to produce over a range of prices), and vice versa. Resources were thus more efficiently allocated than in previous systems, but this did not solve the problem of scarcity. According to economists, scarcity is the motor that propels market-based capitalism, and it will always be a fact of life., Although scarcity is a central issue in any economic theory, economists over the years have viewed it in different ways. In his book The Wealth of Nations,
+considered the foundational text in the field of economists, Adam Smith (1723–90) discussed the relationship between scarcity and value. The value of precious metals, such as gold, Smith wrote, “is greatly enhanced by their scarcity.” He noted, “With the greater part of rich people, the chief enjoyment of riches consists in the parade of riches, which in their eye is never so complete as when they appear to possess those decisive marks of opulence which nobody can possess but themselves.”, Writing not long after Smith, Thomas Malthus (1766-1834) concentrated on a decidedly more grim view of scarcity, one in which even basic needs could not be met. He believed that population would always grow faster than the supply of food, leading to food shortages. Because, Malthus believed, humans had little ability to solve this problem, population would be kept in check by war, famine, disease, abortion, and infanticide., , A more positive approach to scarcity was taken by John Maynard Keynes (1883–1946), whose ideas during the Great Depression (a worldwide economic downturn that lasted from about 1929 to 1939) revolutionized economic thought. In discussing scarcity, Keynes proposed two types of human needs: absolute needs, such as food and shelter, which are independent of what other people have; and relative needs, those that exist “only if their satisfaction lifts us above, makes us feel superior to, our fellows.”, In modern economic thought, scarcity is viewed more simply as an imbalance between people’s virtually unlimited desires and the limited resources available to satisfy those desires. We can understand unlimited human desire by contemplating our own desires and the impossibility of completely satisfying them. But what, exactly, do we mean by resources
+? Economists divide resources into three categories: land, labor, and capital. These three kinds of resources are also commonly referred to as the factors of production., In economic terms, land is not simply the plots of earth upon which people undertake economic activity; it also includes all of the natural resources connected to those plots of earth. A farmer’s fields are land, but so are the trees on his or her property, the wildlife that populates his or her fields and forests, any gold or oil that may be underneath the ground, the rivers and lakes on the property, and even the air above that property. The natural resources included in the definition of land can be divided into two types: nonrenewable resources and renewable resources. Nonrenewable resources are those that, once used, are gone forever. For example, once all of the world’s gold and oil has been extracted from the earth, there will never be any more. Renewable resources are those that, left alone, will naturally replenish themselves; examples include soil, forests, and rivers. But the fact that a resource is renewable does not mean that it is unlimited. For instance, there is a limited amount of forested land in the world. Likewise, even though a river’s waters can eventually be renewed after being polluted, there is a finite amount of clean water on the planet at any given time., Labor refers to both the total number of available workers and the mental and physical capacities of those workers. The number of people willing and able to work is always limited, as are the skills that those workers must possess in order to produce various goods and services. The nature of the workforce within a given country greatly affects the kinds of goods and services that can be produced there., Capital is all of the man-made items used to produce goods and services. Examples of capital are factories, machines, computers, trucks, warehouses, and office space. Such items are distinguished from those that are meant to satisfy human desires directly. There is always a limited supply of capital in the world, and various types of capital are scarcer in some countries than in others. Capital everywhere is also subject to limitations imposed by technology. Computers and trucks, for instance, are only as productive as current technologies can make them., Together, the factors of production dictate the amount of various goods and services that can be produced. Because each factor is subject to its own limitations, there can never be a situation in which production could be as unlimited as consumer desire. Given this gap between production and desire (which is the problem of scarcity), choices must be made in any society about what will be produced, how it will be produced, and for whom it will be produced., In modern-day capitalist countries most of these choices are made through the interaction of buyers and sellers in market settings. Governments, however, also have the power to influence these choices through fiscal policy (which involves raising and lowering taxes and making laws relating to the economy) and monetary policy (which involves increasing and decreasing the amount of money in circulation)., According to economists, every society must determine how best to allocate its scarce resources. This entails answering the questions of what will be produced, how it will be produced, and for whom. In a perfectly competitive economy, economic theory tells us, these questions would be answered in a way that maximized efficiency and provided for the greatest good. In other words, market mechanisms and competition would ensure that the goods and services that people most want and need would be produced at the lowest prices according to the most efficient methods., But today there are people (even some who believe that the free market has the potential to allocate scarce resources efficiently) who wonder whether the global economy is competitive enough to make this possible. Many industries in the global marketplace are dominated by a few multinational corporations that are not subject to unfettered competition or national laws and limitations, and the world’s wealth has become increasingly concentrated in the hands of a few rich nations and, within those nations, ever-smaller circles of extremely rich individuals. Thus, substantial numbers of ordinary citizens, government officials, and economists around the world wonder how global capitalism might be altered to allow for a more sustainable allocation of scarce resources and, by extension, a more equitable distribution of income., Meanwhile, some critics of modern capitalism question whether scarcity truly exists. In economic terms, scarcity implies that the humans desire for goods and services is virtually unlimited. These critics have suggested that the supposedly unlimited desire for goods and services might be cultural rather than innate, artificially created by such phenomena as advertising and status seeking., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Scarcity."
+
+Everyday Finance: Economics, Personal Money Management, and Entrepreneurship.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Scarcity." 
+Everyday Finance: Economics, Personal Money Management, and Entrepreneurship.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/finance/encyclopedias-almanacs-transcripts-and-maps/scarcity
+, 
+"Scarcity." 
+Everyday Finance: Economics, Personal Money Management, and Entrepreneurship.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/finance/encyclopedias-almanacs-transcripts-and-maps/scarcity
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

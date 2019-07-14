@@ -1,0 +1,450 @@
+[Copyright The Columbia University Press, fault, in geology, fracture in the earth's crust in which the rock on one side of the fracture has measurable movement in relation to the rock on the other side. Faults on other planets and satellites of the solar system also have been recognized. Evidence of faults are found either at the surface (fault surface) or underground (fault plane). Faults are most evident in outcrops of sedimentary formations where they conspicuously offset previously continuous strata. Movement along a fault plane may be vertical, horizontal, or oblique in direction, or it may consist in the rotation of one or both of the fault blocks, with most movements associated with mountain building and plate tectonics. The two classes of faults include the dip-slip (up and down movement), which is further divided into normal and thrust (reverse) faults; and strike-slip (movement parallel to the fault plane). The San Andreas fault of California is of this type. In dip-slip faults the term
+"hanging wall"
+is used for the side that lies vertically above the other, called the
+"footwall."
+A fault in which the hanging wall moves down and the footwall is stationary is called a normal fault. Normal faults are formed by tensional, or pull-apart, forces. A fault in which the hanging wall is the upthrown side is called a thrust fault because the hanging wall appears to have been pushed up over the footwall. Such faults are formed by compressional forces that push rock together and are by far the most common of the dip-slip faults. All types of faults have been recognized on the ocean floor: normal faults occur in the rift valleys associated with mid ocean ridges spreading at slow rates; strike-slip faults appear between the offset portions of mid-ocean ridges; and thrust faults occur at subducting plate boundaries. Active faults, though they may not move for decades, can move many feet in a matter of seconds, producing an earthquake. The largest earthquakes occur along thrust faults. Some faults creep from a half inch to as much as 4 in. (1 to 10 cm) per year. Fault movements are measured using laser and other devices. Faults create interpretation problems for geologists by altering the relations of strata (see stratification), such as making the same rock layer offset in two vertical cross sections of a formation or making layers disappear altogether. Faults are often seen on the surface as topographical features, including offset streams, linear lakes, and fault scarps., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fault."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"fault." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/fault
+, 
+"fault." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/fault
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, A fault is a crack or fracture in Earth's crust caused by the movement of landmasses, called plates, on either side of the fault line. Faults are found either at the surface (fault surface) or underground (fault plane). Most earthquakes occur along fault lines. The principle types of faults are: normal, reverse, thrust, and slip-strike., Normal faults form when two plates are under tension and are being pulled or stretched apart. When this occurs, Earth's crust thins and one plate rises or drops against the other. More than 200 million years ago, North America and Africa were one huge landmass. Plates on either side of a massive fault line ruptured and began drifting apart. Oceanic waters, now known as the Atlantic Ocean, surged into the valley between, and two separate continents were born., In contrast, reverse faults form from compression: two plates are being pushed into one another. The compression forces one plate up and over the other. (See photo on page 856.), Thrust faults are low-angled reverse faults. Such faults are noteworthy because they produce great horizontal movement. Thrust faults have created most of the great mountain chains found around the world., Strike-slip faults move horizontally along the fault line. The edge of one plate grinds against the edge of the other as it slips sideways. Most of these movements are quiet and continuous. Sometimes, however, plates shift with a sudden lurch, causing earthquakes. Such is the case with the San Andreas Fault in the western United States where the North American and Pacific plates meet. Land west of this fault is edging northwest., [See also Earthquake; Geologic map; Plate tectonics ], 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Fault."
+
+UXL Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Fault." 
+UXL Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fault-1
+, 
+"Fault." 
+UXL Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fault-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+fault 
+/ fôlt/
+•
+n.
+1.
+an unattractive or unsatisfactory feature, esp. in a piece of work or in a person's character:
+my worst fault is impatience.
+ ∎ 
+a break or other defect in an electrical circuit or piece of machinery:
+a fire caused by an electrical fault.
+ ∎ 
+a misguided or dangerous action or habit.
+ ∎ 
+(in tennis and similar games) a service of the ball not in accordance with the rules.
+
+2.
+responsibility for an accident or misfortune:
+an ordinary man thrust into peril through no fault of his own.
+
+3.
+ Geol. 
+an extended break in a body of rock, marked by the relative displacement and discontinuity of strata on either side of a particular surface.
+
+
+•
+v. [tr.]
+1.
+criticize for inadequacy or mistakes:
+you cannot fault him for the professionalism of his approach.
+2.
+(be faulted)  Geol. 
+(of a rock formation) be broken by a fault or faults.
+
+
+PHRASES: 
+at fault
+1.
+responsible for an undesirable situation or event; in the wrong:
+we recover compensation from the person at fault.
+2.
+mistaken or defective:
+he suspected that his calculator was at fault.
+
+
+find fault
+make an adverse criticism or objection, sometimes unfairly or destructively:
+he finds fault with everything I do.
+— to a fault
+(of someone who displays a particular commendable quality) to an extent verging on excess:
+you're kind, caring and generous to a fault.
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fault."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"fault." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/fault-0
+, 
+"fault." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/fault-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fault."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"fault." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/fault
+, 
+"fault." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/fault
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fault."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"fault." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/fault
+, 
+"fault." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/fault
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Neglect of care; an act to which blame or censure is attached. Fault implies anynegligence, error, or defect of judgment., Fault has been held to embrace a refusal to perform an action that one is legally obligated to do, such as the failure to make a payment when due., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Fault."
+
+West's Encyclopedia of American Law.
+.
+Encyclopedia.com.
+13 Jul. 2019
+ &lt;https://www.encyclopedia.com&gt;.
+, 
+"Fault." 
+West's Encyclopedia of American Law.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/law/encyclopedias-almanacs-transcripts-and-maps/fault
+, 
+"Fault." 
+West's Encyclopedia of American Law.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/law/encyclopedias-almanacs-transcripts-and-maps/fault
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fault."
+
+The Concise Oxford Dictionary of English Etymology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"fault." 
+The Concise Oxford Dictionary of English Etymology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/fault-1
+, 
+"fault." 
+The Concise Oxford Dictionary of English Etymology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/fault-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fault."
+
+A Dictionary of Computing.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"fault." 
+A Dictionary of Computing.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/computing/dictionaries-thesauruses-pictures-and-press-releases/fault
+, 
+"fault." 
+A Dictionary of Computing.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/computing/dictionaries-thesauruses-pictures-and-press-releases/fault
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fault."
+
+Oxford Dictionary of Rhymes.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"fault." 
+Oxford Dictionary of Rhymes.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/fault
+, 
+"fault." 
+Oxford Dictionary of Rhymes.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/fault
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, In popular religious usage, fault is often taken to be synonymous with the various meanings of imperfection, that is, an act less perfect than it might be, either because it is less good than its alternative, but not against God's law, or against God's law but in a slight matter or is done with little or no deliberation., In stricter theological usage, fault denotes the objective state of being responsible for a sinful act. The term is then synonymous with culpability or blameworthiness. Theological fault implies at least some realization of wrongdoing and some free choice of the will. In its essence it is a deformity of the agent's will as compared with that of God. It is Catholic teaching that theological fault is removed by perfect contrition or by imperfect contrition with the Sacraments of baptism, penance, or the anointing of the sick. The remission of theological fault does not necessarily imply the remission of all reparation or punishment due to the fault. These and other effects of sin may be removed by good works, especially by reception of the Sacraments and by indulgences. Some Protestant reformers held that fault was never truly removed but only covered over, as it were, by application of the merits of Christ., As distinct from theological fault, juridical fault is said to be present whenever one performs an act against the law, either knowingly and willingly, or at least in circumstances in which one objectively should have been aware of what he was doing. For a court award for damages to be just, there must be at least some juridical fault. To incur an obligation in justice to pay for damages apart from a court order, there must be theological fault. There can, in certain circumstances, be an obligation in charity to pay for damages of which one is the physical cause even without any fault., Bibliography: thomas aquinas, Summa contra Gentiles 3.10., [j. j. farraher], 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Fault."
+
+New Catholic Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Fault." 
+New Catholic Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/fault
+, 
+"Fault." 
+New Catholic Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/fault
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Plate tectonics, History of our understanding of faults, Types of faults, Mountain-building by small movements along faults, Earthquake generation by large sudden movements along faults, Famous or infamous faults, Earthquakes caused by human activities, Advances in fault studies, Resources, A fault is a geologic term describing a fracture at which two bodies of rock have been displaced relative to each other. Bedrock faults are those in which bodies of rock meet; small, local movements may occur on, bedrock faults. Much larger movements or displacements occur along faults where plates of Earth’s crust abut each other. Faults may be inches (centimeters) to hundreds of miles (kilometers) in length, and movements or displacements have the same range in length. Major fault systems are typically found where plates meet; for example, the San Andreas fault in California is really a fault system that includes many smaller faults that branch off of the main trace of the San Andreas as well as faults that parallel the main fault. It may be more accurate to call these systems “fault zones” or “fault belts” that contain known and unknown faults. The Northridge earthquake in the Los Angeles area in January 1994 occurred along a thrust fault that had not previously been known but is within the San Andreas zone. A fault zone may be hundreds of feet (meters) wide and each has a unique character; some include countless faults and others have very few., To understand faults, it is helpful to understand plate tectonics. Earth’s crust is not a solid skin. Instead, it is made up of huge blocks of rock that fit together to form the entire surface of the planet, including the continents or landmasses and the ocean floors. Scientists believe the crust is composed of about 12 of these plates. Each plate is relatively rigid, and, where the plates meet, they can spread apart, grind against each other, or ride one over the other in a process called subduction. Spreading plates most commonly occur in the oceans in the phenomenon known as sea-floor spreading; when plates spread within landmasses, they create huge valleys called rifts. The process of plates grinding together causes near-surface earthquakes, and the collision and subduction of plates causes the most intense earthquakes much deeper in the crust., , The engine driving the movement of the plates originates deep in the earth. The mantle, a zone underlying the crust, is very dense rock that is almost liquid. Deeper still is Earth’s core, which is molten rock. Because it is fluid, the core moves constantly. The mantle responds to this, as well as to centrifugal force caused by the rotation of Earth on its axis and to the force of gravity. The slower motions of the mantle pulse through the thin crust, causing earthquakes, volcanic activity, and the movement of tectonic plates. Together, the pulses caused by the heat engine inside Earth result in over a million earthquakes per year that can be detected by instruments. Only one third of these can be felt by humans, most of which are very small and do not cause any damage. About 100-200 earthquakes per year cause some damage, and one or two per year are catastrophic., In the history of the study of faults, Robert Mallet, an Irish engineer, was the first to believe that simple mechanics of Earth’s crust cause earthquakes. Until 1859, when he proposed his theory, earthquakes were believed to be caused by huge explosions deep within Earth, and the origin of these explosions was never questioned. Mallet knew that iron, which appears indestructible, ruptures under extreme stress, and Mallet theorized that earthquakes are caused “either by the sudden flexure and constraint of the elastic materials forming a portion of Earth’s crust, or by their giving way and become fractured.” Mallet was not supported, primarily because he was not a scholar, and because he lived in Ireland where earthquakes seldom occur. In 1891, however, Professor Bunjiro Koto, a Japanese specialist in seismology, or the study of earthquakes, endorsed Mallet’s theory. After the Mino-Iwari earthquake, which occurred along a remarkably clear fault line crossing the island of Honshu, he said the shaking earth caused quakes and not the other way around. Harry Fielding Reid, an American scientist, was the first to relate the stresses along faults to tectonic plate boundaries after the 1906 Great San Francisco Earthquake., Faults themselves do not cause earthquakes; instead, they are the lines at which plates meet. When the plates press together (compress) or pull apart (are in tension), earthquakes occur. The fault line is essentially a stress concentration. If a rubber band is cut partially through then pulled, the rubber band is most likely to break at the cut (the stress concentration). Similarly, the “break” (stress release or earthquake) occurs along a fault when the plates or rock bodies that meet at the fault press together or pull apart., , Movement along a fault can be vertical (up and down, changing the surface elevation), horizontal (flat at the surface but with one side moving relative to the other), or a combination of motions that inclines at any angle. The angle of inclination of the fault plane measured from the horizontal is called the dip of the fault plane. This movement occurs along a fault surface or fault plane. Any relative vertical motion will produce a hanging wall and a footwall. The hanging wall is the block that rests upon the fault plane, and the footwall is the block upon which you would stand if you were to walk on the fault plane., Dip-slip faults are those in which the primary motion is parallel to the dip of the fault plane. A normal fault is a dip-slip fault produced by tension that stretches or thins Earth’s crust at a normal fault, the hanging wall moves downward relative to the footwall. Two normal faults are often separated by blocks of rock or land created by the thinning of the crust. When such a block drops down relative to two normal faults dipping toward each other, the block is called a graben. The huge troughs or rift valleys created as plates move apart from each other are grabens. The Rhine Valley of Germany is a graben. An extreme example is the Atlantic Ocean; over 250 million years ago, North America and Africa were a single mass of land that slowly split apart and moved away from each other (a process called divergence), creating a huge graben that became the Atlantic Ocean basin two normal faults dipping away from each other can create an uplifted block between them that is called a horst. These look like raised plateaus instead of sunken valleys. If the block between normal faults tilts from one side to the other, it is called a tilted fault block., A reverse fault is another type of dip-slip fault caused by compression of two plates or masses in the horizontal direction that shortens or contracts Earth’s surface. When two crustal masses butt into each other at a reverse fault, the easiest path of movement is, upward. The hanging wall moves up relative to the footwall. When the dip is less than (flatter than) 45°, the fault is termed a thrust fault, which looks much like a ramp when the angle of dip is much less than 45° and the total movement or displacement is large, the thrust fault is called an overthrust fault. In terms of plate movement, the footwall is slipping underneath the hanging wall in a process called subduction., , Strike-slip faults are caused by shear (side-by-side) stress, resulting in a horizontal direction, parallel to the nearly vertical fault plane strike-slip faults are common in the sea floor and create the extensive offsets mapped along the midoceanic ridges. The San Andreas Fault is perhaps the best-known strike-slip fault, and, because much of its length crosses land, its offsets are easily observed. Strike-slip faults have many other names including lateral, transcurrent, and wrench faults. Strike-slip faults located along midoceanic ridges are called transform faults. As the sea floor spreads, new crust is formed by magma (molten rock) that flows up through the break in the crust. This new crust moves away from the ridge, and the plane between the new crust and the older ridge is the transform fault., Relative fault movement is difficult to measure because no point on Earth’s surface, including sea level is fixed or absolute. Geologists usually measure displacement by relative movement of markers that include veins or dikes in the rock. Sedimentary rock layers are especially helpful in measuring relative uplift over time. Faults also produce rotational movements in which the blocks rotate relative to each other; some sedimentary strata have been rotated completely upside down by fault movements. These beds can also be warped, bent, or folded as the comparatively soft rock tries to resist compressional forces and friction caused by slippage along the fault. Geologists look for many other kinds of evidence of fault activity such as slickensides, which are polished or scratched fault-plane walls, or fault gouge, which is clayey, finegrained crushed rock caused by compression. Coarsegrained fault gouge is called fault breccia., Compression of land masses along faults has built some of the great mountain ranges of the world. Mountain-building fault movements are extremely slow, but, over a long time, they can cause displacements of thousands of feet (meters). Examples of mountain ranges that have been raised by cumulative lifting along faults are the Wasatch Range in Utah, the uplifting of layer upon layer of sedimentary rocks that form the eastern front of the Rocky Mountains in Wyoming and Montana, the large thrust faults that formed the Ridge and Valley Province of the Appalachian Mountains in Virginia and Tennessee, and the Himalayas (including Mount Everest and several of the other tallest mountains in the world) that continue to be pushed upward as the tectonic plate bearing the Indian Subcontinent collides with the Eurasian plate. Tension along smaller faults has created the mountain ranges that bracket the Great Basin of Nevada and Utah. These mountains may have been formed by the hanging walls of the many local faults that slid downward by thousands of feet (meters) until they became valley floors., , Most fault motions are slow and creeping movements, unlikely to be felt by humans at ground surface. Some occur as rapid spasms that happen in a few seconds and can cause ground displacements of inches or feet (centimeters or meters). These movements are resisted by friction along the two faces of the fault plane until the tensional, compressional, or shear stress exceeds the frictional force. Earthquakes are caused by these sudden jumps or spasms. Severe shaking can result, and ground rupture can create fault scarps., The San Andreas fault may well be the best-known fault in the world. It marks a major fracture in Earth’s crust, passing from southern through northern California for a length of about 650 miles (1,050 km) and then traversing under part of the northern Pacific Ocean. The San Andreas marks a plate boundary between the Northern Pacific and North American plates, and, because this transform fault extends to the surface in a heavily populated area, movement along the fault causes major earthquakes. The forces that cause these movements are the same ones responsible for continental drift., The Great San Francisco Earthquake of 1906 occurred along the main San Andreas, and the Loma Prieta earthquake of 1989 was caused by movement on a branch of the San Andreas. The motion of the Northern Pacific plate as it grinds past the North American plate causes strike-slip fault movements. The plate is moving at an average of about 0.4 inches (1 cm) per year, but its speed accelerated during the 1900s to between 1.6-2.4 inches (4-6 cm) per year as it pushes Los Angeles northward toward San Francisco. Much more rapid jumps occur during earthquakes; in 1906, movements as great as 21 feet (6.4 m) were measured in some locations along the San Andreas fault., , The San Andreas fault is infamous for another reason. The major cities of California including Los Angeles, Oakland, San Jose, and San Francisco, home to millions of people, straddle this fault zone. Such development in this and other parts of the world puts many at risk of the devastation of major fault movements. Sudden fault movements fill the headlines for weeks, but, over the course of geologic time, they are relatively rare so the chances to study them and their effects are limited. Similarly, our knowledge and ability to predict fault motions and to evacuate citizens suffers. An estimated 100 million Americans live on or near an active earthquake fault., The New Madrid fault is more properly called a seismic zone because it is a large fracture zone within a tectonic plate. It is a failed rift zone; had it developed like the East African Rift Valley, it would have eventually split the North American continent into two parts. The zone crosses the mid-section of the United States, passing through Missouri, Arkansas, Tennessee, and Kentucky in the center of the North American Plate. The zone is about 190 miles (300 km) long and 45 miles (70 km) wide, and it lies very deep below the surface. The zone is covered by alluvial material (soil and rock carried and deposited by water) from the Mississippi, Ohio, and Missouri rivers; because this alluvial material is soft and unstable, movement within the fracture zone transmits easily to the surface and is felt over a broad area., On December 16, 1811, and January 23 and February 7, 1812, three earthquakes estimated to have measured greater than magnitude 8.0 on the Richter scale had their epicenters near the town of New Madrid, Missouri, then part of the American Frontier. An area of 3,000-5,000 square miles (7,800-13,000 sq km) was scarred by landslides, fissures, heaved-up land, leveled forests, and lakes, swamps, and rivers that were destroyed, rerouted, or created. These earthquakes were felt as far away as the East Coast, north into Canada, and south to New Orleans., , On January 16, 1995, the city of Kobe, Japan, was struck by a magnitude 7.2 earthquake that killed more than 4,000 people and left almost 275,000 homeless. Like the California cities along the San Andreas, Kobe is a port city, so the earthquake also caused tremendous losses to the region’s economy. Also like Oakland and San Francisco, California, Kobe is located next to a deep bay. Osaka Bay is encircled by a host of faults and fault zones with complicated relationships. The Nojima fault on Awaji Island appears to have been the fault that hosted the Hyogogen-Nambu Earthquake of 1995. The North American Plate, Pacific Plate, Eurasian Plate, and Philippine Sea Plate all impact each other near the islands of Japan. Thick, relatively young deposits of alluvial soil overly the faults that pass under Osaka Bay; these amplified the earth’s movements along the fault in this highly populated area., Although the most devastating earthquakes occur in nature, humans have been able to learn more about, Continental drift— A theory that explained the relative positions and shapes of the continents, and other geologic phenomena, by lateral movement of the continents. This was the precursor to plate tectonic theory., Core— The molten center of Earth., Crust— The outermost layer of Earth, situated over the mantle and divided into continental and oceanic crust., Dip— The angle of inclination (measured from the horizontal) of faults and fractures in rock., Footwall— The block of rock situated beneath the fault plane., Graben— A block of land that has dropped down between the two sides of a fault to form a deep valley., Hanging wall— The block of rock that overlies the fault plane., Horst— A block of land that has been pushed up between the two sides of a fault to form a raised plain or plateau., Mantle— The middle layer of Earth that wraps around the core and is covered by the crust. The mantle consists of semisolid, partially melted rock., Normal fault— A fault in which tension is the primary force and the footwall moves up relative to the hanging wall., Plate tectonics— The theory, now widely accepted, that the crust of Earth consists of about twelve massive plates that are in motion due to heat and movement within Earth., Reverse fault— A fault resulting from compressional forces and the hanging wall moves up relative the footwall., Seismic gap— A length of a fault, known to be historically active, that has not experienced an earthquake recently and may be storing strains that will be released as earthquake energy., Strike-slip fault— A fault at which two plates or rock masses meet and move lateral or horizontally along the fault line and parallel to the compression., Subduction— In plate tectonics, the movement of one plate down into the mantle where the rock melts and becomes magma source material for new rock., Thrust fault— A low-angle reverse fault in which the dip of the fault plane is 45° or less and displacement is primarily horizontal., faults and earthquake mechanisms since we have had the power to produce earthquakes ourselves. Nuclear weapons testing in the desert near Los Alamos, New Mexico, was the first known human activity to produce measurable earthquakes that were found to propagate along existing faults. Our ability to build major dams that retain huge quantities of water has also generated earthquakes by so-called “hydrofracturing,” in which the weight of the water stresses fractures in the underlying rock. Pumping of oil and natural gas from deep wells and the disposal of liquid wastes through injection wells have also produced small motions along faults and fractures., Our understanding of how faults move has improved greatly with modern technology and mapping. Laser survey equipment and satellite photogrammetry (measurements made with highly accurate photographs) have helped measure minute movements on faults that may indicate significant patterns and imminent earthquakes. Seismic gaps have been identified along plate boundaries. Through detailed mapping of tiny earthquakes, zones where strains in the earth have been relieved are identified; similarly, seismic gap areas without those strain-relieving motions are studied as the most likely zones of origin of coming earthquakes., Erickson, Jon. “Quakes, Eruptions, and Other Geologic Cataclysms.” The Changing Earth Series. New York: Facts on File, 1994., Keller, Edward. Environmental Geology. Upper Saddle River, NJ: Prentice-Hall, Inc., 2000., Japanese Geotechnical Society. Soils and Foundations: Special Issue on Geotechnical Aspects of the January 17, 1995, Hyogoken-Nambu Earthquake. Tokyo: Japanese Geotechnical Society, January 1996., Walker, Bryce and the Editors of Time-Life Books. Planet Earth: Earthquake. Alexandria, VA: Time-Life Books, 1982., University of Nevada, Reno: Seismological Laboratory. “Plate Tectonics, the Cause of Earthquakes” &lt;http://www.seismo.unr.edu/ftp/pub/louie/class/100/platetectonics.html&gt; (accessed November 24, 2006)., U.S. Geological Survey. “Earthquake Hazards Program— FAQ—Earthquakes, Faults, Plate Tectonics, Earth Structre” &lt;http://earthquake.usgs.gov/learning/faq.php?categoryID=1&gt; (accessed November 16, 2006)., Gillian S. Holmes, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Fault."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Fault." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fault
+, 
+"Fault." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fault
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, A fault is a geologic term describing a fracture at which two bodies of rock have been displaced relative to each other. Bedrock faults are those in which bodies of rock meet; small, local movements may occur on bedrock faults. Much larger movements or displacements occur along Faults where plates of Earth's crust abut each other. Faults may be inches (centimeters) to hundreds of miles (kilometers) in length, and movements or displacements have the same range in length. Major fault systems are typically found where plates meet; for example, the San Andreas Fault in California, is really a fault system including many smaller faults that branch off of the main trace of the San Andreas as well as faults that parallel the main fault. It may be more accurate to call these systems "fault zones" or "fault belts" that contain known and unknown faults. The Northridge earthquake in the Los Angeles, California, area in January 1994, occurred along a thrust fault that had not previously been known but is within the San Andreas zone. A fault zone may be hundreds of feet (meters) wide and each has a unique character; some include countless faults and others have very few., To understand faults, it is helpful to understand plate tectonics . Earth's crust is not a solid skin. Instead, it is made up of huge blocks of rock that fit together to form the entire surface of the planet , including the continents or land masses and the floors of the oceans. Scientists believe the crust is composed of about 12 of these plates. Each plate is relatively rigid, and, where the plates meet, they can spread apart, grind against each other, or ride one over the other in a process called subduction. Spreading plates most commonly occur in the oceans in the phenomenon known as sea-floor spreading; when plates spread within land masses, they create huge valleys called rifts. The process of plates grinding together causes near-surface earthquakes, and the collision and subduction of plates causes the most intense earthquakes much deeper in the crust., , The engine driving the movement of the plates originates deep in the earth . The mantle, a zone underlying the crust, is very dense rock that is almost liquid. Deeper still is Earth's core, which is molten rock. Because it is fluid, the core moves constantly. The mantle responds to this, as well as to centrifugal force caused by the rotation of Earth on its axis and to the force of gravity. The slower motions of the mantle pulse through the thin crust, causing earthquakes, volcanic activity, and the movement of tectonic plates. Together, the pulses caused by the heat engine inside Earth result in over a million earthquakes per year that can be detected by instruments. Only one third of these can be felt by humans, most of which are very small and do not cause any damage. About 100–200 earthquakes per year cause some damage, and one or two per year are catastrophic., In the history of the study of faults, Robert Mallet, an Irish engineer, was the first to believe that simple mechanics of the earth's crust cause earthquakes. Until 1859, when he proposed his theory, earthquakes were believed to be caused by huge explosions deep within the earth, and the origin of these explosions was never questioned. Mallet knew that iron , which appears indestructible, ruptures under extreme stress, and Mallet theorized that earthquakes are caused "either by the sudden flexure and constraint of the elastic materials forming a portion of the earth's crust, or by their giving way and become fractured." Mallet was not supported, primarily because he was not a scholar and lived in Ireland where earthquakes seldom occur. In 1891, however, Professor Bunjiro Koto, a Japanese specialist in seismology, or the study of earthquakes, endorsed Mallet's theory. After the Mino-Iwari earthquake, which occurred along a remarkably clear fault line crossing the island of Honshu, he said the shaking earth caused quakes and not the other way around. Harry Fielding Reid, an American scientist, was the first to relate the stresses along faults to tectonic plate boundaries after the 1906 Great San Francisco Earthquake., Faults themselves do not cause earthquakes; instead, they are the lines at which plates meet. When the plates press together (compress) or pull apart (are in tension), earthquakes occur. The fault line is essentially a stress concentration. If a rubber band is cut partially through then pulled, the rubber band is most likely to break at the cut (the stress concentration). Similarly, the "break" (stress release or earthquake) occurs along a fault when
+
+the plates or rock bodies that meet at the fault press together or pull apart., , Movement along a fault can be vertical (up and down, changing the surface elevation), horizontal (flat at the surface but with one side moving relative to the other), or a combination of motions that inclines at any angle . The angle of inclination of the fault plane measured from the horizontal is called the dip of the fault plane. This movement occurs along a fault surface or fault plane. Any relative vertical motion will produce a hanging wall and a footwall. The hanging wall is the block that rests upon the fault plane, and the footwall is the block upon which you would stand if you were to walk on the fault plane., Dip-slip faults are those in which the primary motion is parallel to the dip of the fault plane. A normal fault is a dip-slip fault produced by tension that stretches or thins Earth's crust. At a normal fault, the hanging wall moves downward relative to the footwall. Two normal faults are often separated by blocks of rock or land created by the thinning of the crust. When such a block drops down relative to two normal faults dipping toward each other, the block is called a graben. The huge troughs or
+
+rift valleys created as plates move apart from each other are grabens. The Rhine Valley of Germany is a graben. An extreme example is the Atlantic Ocean; over 250 million years ago, North America and Africa were a single mass of land that slowly split apart and moved away from each other (a process called divergence), creating a huge graben that became the Atlantic Ocean basin . Two normal faults dipping away from each other can create an uplifted block between them that is called a horst. Horsts look like raised plateaus instead of sunken valleys. If the block between normal faults tilts from one side to the other, it is called a tilted fault block., A reverse fault is another type of dip-slip fault caused by compression of two plates or masses in the horizontal direction that shortens or contracts the earth's surface. When two crustal masses butt into each other at a reverse fault, the easiest path of movement is upward. The hanging wall moves up relative to the footwall. When the dip is less than (flatter than) 45°, the fault is termed a thrust fault, which looks much like a ramp. When the angle of dip is much less than 45° and the total movement or displacement is large, the thrust fault is called an overthrust fault. In terms of plate movement, the footwall is slipping underneath the hanging wall in a process called subduction., , Strike-slip faults are caused by shear (side-by-side) stress, resulting in a horizontal direction, parallel to the nearly vertical fault plane. Strike-slip faults are common in the sea floor and create the extensive offsets mapped along the mid-oceanic ridges. The San Andreas Fault is perhaps the best-known strike-slip fault, and, because much of its length crosses land, its offsets are easily observed. Strike-slip faults have many other names including lateral, transcurrent, and wrench faults. Strike-slip
+
+faults located along mid-oceanic ridges are called transform faults. As the sea floor spreads, new crust is formed by magma (molten rock) that flows up through the break in the crust. This new crust moves away from the ridge, and the plane between the new crust and the older ridge is the transform fault., Relative fault movement is difficult to measure because no point on the earth's surface, including sea level is fixed or absolute. Geologists usually measure displacement by relative movement of markers that include veins or dikes in the rock. Sedimentary rock layers are especially helpful in measuring relative uplift over time . Faults also produce rotational movements in which the blocks rotate relative to each other; some sedimentary strata have been rotated completely upside down by fault movements. These beds can also be warped, bent, or folded as the comparatively soft rock tries to resist compressional forces and friction caused by slippage along the fault. Geologists look for many other kinds of evidence of fault activity such as slickensides, which are polished or scratched fault-plane walls, or fault gouge, which is clayey, fine-grained crushed rock caused by compression. Coarse-grained fault gouge is called fault breccia., Compression of land masses along faults has built some of the great mountain ranges of the world. Mountain-building fault movements are extremely slow, but, over a long time, they can cause displacements of thousands of feet (meters). Examples of mountain ranges that have been raised by cumulative lifting along faults are the Wasatch Range in Utah, the uplifting of layer upon layer of sedimentary rocks that form the eastern front of
+
+the Rocky Mountains in Wyoming and Montana, the large thrust faults that formed the Ridge and Valley Province of the Appalachian Mountains in Virginia and Tennessee, and the Himalayas (including Mount Everest and several of the other tallest mountains in the world) that are continuing to be pushed upward as the tectonic plate bearing the Indian Subcontinent collides with the Eurasian plate. Tension along smaller faults has created the mountain ranges that bracket the Great Basin of Nevada and Utah. These mountains may have been formed by the hanging walls of the many local faults that slid downward by thousands of feet (meters) until they became valley floors., , The majority of fault motion are slow and creeping movements, unlikely to be felt by humans at ground surface. Some movements occur as rapid spasms that happen in a few seconds and can cause ground displacements of inches or feet (centimeters or meters). These movements are resisted by friction along the two faces of the fault plane until the tensional, compressional or shear stress exceeds the frictional force. Earthquakes are caused by these sudden jumps or spasms. Severe shaking can result, and ground rupture can create fault scarps., The San Andreas Fault may well be the best known fault in the world. It marks a major fracture in the Earth's crust, passing from Southern through Northern California for a length of about 650 mi (1,050 km) and then traversing under part of the northern Pacific Ocean. The San Andreas does mark a plate boundary between the Northern Pacific and North American plates, and, because this transform fault extends to the surface in a heavily populated area, movement along the fault causes major earthquakes. The forces that cause these movements are the same ones responsible for continental drift . The Great San Francisco Earthquake of 1906 occurred along the main San Andreas, and the Loma Prieta earthquake of 1989 was caused by movement on a branch of the San Andreas. The motion of the Northern Pacific plate as it grinds past the North American plate causes strike-slip fault movements. The plate is moving at an average of about 0.4-in (1 cm) per year, but its speed accelerated during the 1900s to between 1.6–2.4 in (4–6 cm) per year as it pushes Los Angeles northward toward San Francisco. Much more rapid jumps occur during earthquakes; in 1906, movements as great as 21 ft (6.4 m) were measured in some locations along the San Andreas Fault., The San Andreas Fault is infamous for another reason. The major cities of California including Los Angeles, Oakland, San Jose, and San Francisco, home to millions of people, straddle this fault zone. Such development in this and other parts of the world puts many at risk of the devastation of major fault movements. Sudden fault movements fill the headlines for weeks, but, over the course of geologic time , they are relatively rare so the chances to study them and their effects are limited. Similarly, our knowledge and ability to predict fault motions and to evacuate citizens suffers. An estimated 100 million Americans live on or near an active earthquake fault., , The New Madrid Fault is more properly called a seismic zone because it is a large fracture zone within a tectonic plate. It is a failed rift zone; had it developed like the East African Rift Valley, it would have eventually split the North American continent into two parts. The zone crosses the mid-section of the United States, passing through Missouri, Arkansas, Tennessee, and Kentucky in the center of the North American Plate. The zone is about 190 mi (300 km) long and 45 mi (70 km) wide, and it lies very deep below the surface. The zone is covered by alluvial material (soil and rock carried and deposited by water ) from the Mississippi, Ohio, and Missouri rivers ; because this alluvial material is soft and unstable, movement within the fracture zone transmits easily to the surface and is felt over a broad area., On December 16, 1811, and January 23 and February 7, 1812, three earthquakes estimated to have measured greater than magnitude 8.0 on the Richter scale had their epicenters near the town of New Madrid, Missouri, then part of the American Frontier. An area of 3,000–5,000 sq mi (7,800–13,000 sq km) was scarred by landslides, fissures, heaved-up land, leveled forests , and lakes, swamps, and rivers that were destroyed, rerouted, or created. These earthquakes were felt as far away as the East Coast, north into Canada, and south to New Orleans., On January 16, 1995, the city of Kobe, Japan was struck by a magnitude 7.2 earthquake that killed more than 4,000 people and left almost 275,000 homeless. Like the California cities along the San Andreas, Kobe is a port city, so the earthquake also caused tremendous losses to the economy of the region. Also like Oakland and San Francisco, California, Kobe is located next to a deep bay. Osaka Bay is encircled by a host of faults and fault zones with complicated relationships. The Nojima Fault on Awaji Island appears to have been the fault that hosted the Hyogogen-Nambu Earthquake of 1995. The North American Plate, Pacific Plate, Eurasian Plate, and Philippine Sea Plate all impact each other near the islands united as Japan. Thick, relatively young deposits of alluvial soil overly the faults that pass under Osaka Bay; these amplified the earth's movements along the fault in this highly populated area., , Although the most devastating earthquakes occur in nature, humans have been able to learn more about faults and earthquake mechanisms since we have had the power to produce earthquakes ourselves. Nuclear weapons testing in the desert near Los Alamos, New Mexico, was the first known human activity to produce measurable earthquakes that were found to propagate along existing faults. Our ability to build major dams that retain huge quantities of water has also generated earthquakes by so-called "hydrofracturing," in which the weight of the water stresses fractures in the underlying rock. Pumping of oil and natural gas from deep wells and the disposal of liquid wastes through injection wells have also produced small motions along faults and fractures., Our understanding of how faults move has improved greatly with modern technology and mapping. Laser survey equipment and satellite photogrammetry (measurements made with highly accurate photographs) have helped measure minute movements on faults that may indicate significant patterns and imminent earthquakes. Seismic gaps have been identified along plate boundaries. Through detailed mapping of tiny earthquakes, zones where strains in the earth have been relieved are identified; similarly, seismic gap areas without those strain-relieving motions are studied as the most likely zones of origin of coming earthquakes., Erickson, Jon. "Quakes, Eruptions, and Other Geologic Cataclysms." The Changing Earth Series. New York: Facts on File, 1994., Halacy, D. S., Jr. Earthquakes: A Natural History. Indianapolis, IN: The Bobbs-Merrill Company, Inc., 1974., Keller, Edward. Environmental Geology. Upper Saddle River, NJ: Prentice-Hall, Inc., 2000., Japanese Geotechnical Society. Soils and Foundations: Special Issue on Geotechnical Aspects of the January 17, 1995, Hyogoken-Nambu Earthquake. Tokyo: Japanese Geotechnical Society, January 1996., Verney, Peter. The Earthquake Handbook. New York: Paddington Press Ltd., 1970., Walker, Bryce and the Editors of Time-Life Books. Planet Earth: Earthquake. Alexandria, VA: Time-Life Books, 1982., Gillian S. Holmes, —A theory that explained the relative positions and shapes of the continents, and other geologic phenomena, by lateral movement of the continents. This was the precursor to plate tectonic theory., —The molten center of the earth., —The outermost layer of the earth, situated over the mantle and divided into continental and oceanic crust., —The angle of inclination (measured from the horizontal) of faults and fractures in rock., —The block of rock situated beneath the fault plane., —A block of land that has dropped down between the two sides of a fault to form a deep valley., —The block of rock that overlies the fault plane., —A block of land that has been pushed up between the two sides of a fault to form a raised plain or plateau., —The middle layer of the earth that wraps around the core and is covered by the crust. The mantle consists of semi-solid, partially melted rock., —A fault in which tension is the primary force and the footwall moves up relative to the hanging wall., —The theory, now widely accepted, that the crust of the earth consists of about twelve massive plates that are in motion due to heat and motion within the earth., —A fault resulting from compressional forces and the hanging wall moves up relative the footwall., —A length of a fault, known to be historically active, that has not experienced an earthquake recently and may be storing strains that will be released as earthquake energy., —A fault at which two plates or rock masses meet and move lateral or horizontally along the fault line and parallel to the compression., —In plate tectonics, the movement of one plate down into the mantle where the rock melts and becomes magma source material for new rock., —A low-angle reverse fault in which the dip of the fault plane is 45° or less and displacement is primarily horizontal., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Fault."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Fault." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fault-0
+, 
+"Fault." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fault-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

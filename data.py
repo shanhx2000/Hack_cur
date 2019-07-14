@@ -1,5 +1,5 @@
 from pymongo import MongoClient
-from string_dispose import process
+from string_dispose_new import process
 import time
 
 class profile:

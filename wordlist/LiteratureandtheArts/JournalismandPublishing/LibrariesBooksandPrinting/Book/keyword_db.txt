@@ -1,0 +1,387 @@
+[A book can be broadly defined as a written document of at least 49 text pages that communicates thoughts, ideas, or information. Throughout the ages, books have changed dramatically, assuming a number of different forms. To a great extent, the evolution of the book has followed the expansion of communication forms and methods and the ever-increasing demand for information., The first known forms of written documentation were the clay tablet of Mesopotamia and the papyrus roll of Egypt. Examples of both date back as early as 3000 b.c. Independent of these developments were Chinese books, made of wood or bamboo strips bound together with cords. These books dated back to 1300 b.c., Modern book production came about as a result of the invention of printing press. Although the invention of printing most likely occurred earlier in China as well, the introduction of movable type and the printing press to Europe is credited to Johann Gutenberg of Germany. Gutenberg, in collaboration with his partners Johann Fust and Peter Schoffer, printed a Latin Bible using a hand printing press with movable lead type by about 1456. Each individual letter of early hand-set type was designed in a style closely resembling script or handlettering. Thus, the first books printed in Europe appeared much like books produced by scribes. Books printed in the fifteenth century are now called incunabula, a word derived from the Latin word for cradle. In 1640, Stephen Day printed the first book in North America, in Cambridge, Massachusetts., Because the printing press and moveable type mechanized the book production process, books became available in greater numbers. By the nineteenth century, however, the demand for books could not be met quickly enough by the process of hand printing. Printers developed larger presses to accommodate larger sheets of paper and/or the newly invented continuous rolls of paper. These improvements allowed printers to produce books at a much faster rate. During the decades of the mid-1800s, further progress was made, including the invention of the papermaking machine (1820s), binding machinery (1860), and the cylinder press (1840s); later, the linotype (invented in 1884), cast type by line rather than by individual letter., , Book production in America and throughout the industrialized world has flourished and expanded during the twentieth century. Important advances in printing, such as the introduction of the offset printing press and computerized typesetting, have made mass production more economical. The development of the paperback book, which was introduced in the 1940s to provide a less expensive alternative to the traditional hardback book, has also made books more accessible to the public. While the invention of other forms of media, such as radio and television, has had an adverse impact on reading in general, books remain the primary source of knowledge throughout most of the world., Books are made from a variety of different coated and uncoated paper stocks that differ in weight and size. In addition, different color inks may be used. Also, while front
+and back covers are generally made from a heavier stock of paper, they will vary in terms of weight. For example, hardback books have a durable cardboard stock cover while paperback books are made from a thinner paper stock. Usually, cover stocks are coated with different colors or designs., Since the nineteenth century, book production has entailed the use of sophisticated machinery, including typesetting machines, a web or sheet-fed printing press, and book binding machines., The process of designing a book is ongoing throughout the stages of production. Initially, the author, in conjunction with an editor and book agent, will consider elements of design that pertain to the scope and purpose of the book, the desired approach to the subject matter, whether illustrations should be used, and other issues such as chapter headings and their placement. In determining those elements, the intended audience for the manuscript will be considered, along with accepted editorial standards. Other design considerations include whether a book should have a preface, a foreword, a glossary to define specific terms, an index to reference key words and concepts, and an appendix of supplementary material., , Once the book manuscript is written, editors and authors must refine the manuscript to attain a final edited version prior to production. In most cases, this involves a process of reviewing, editing, proofreading, revising and final approval. After such manuscript design factors are completed, editors and art directors will determine the following features:, Since the days of Johannes Gutenberg and well into the twentieth century, printers have considered themselves a special lot. They needed to be literate to set type by hand, and they needed physical strength and endurance to operate a hand press. Because their work put them into contact with intellectuals, politicians, and community leaders, they often had social contacts beyond those commonly available to workers. Because they had constant access to ideas and information, they were generally considered to be learned individuals. Sometimes called the intellectuals of the working class, printers were distinguished by the fact that their work was a unique combination of mental and manual labor., Like most skilled tradesmen, nineteenth-century printers developed a special language for their work. There were, of course, technical terms naming processes or tools. But much of the language, drawing on Anglo-European traditions, dealt with social relationships. Knowledge of this language was part of the training of an apprentice and separated the "fraternity" from the uninitiated. The youngest apprentice was called a "devil," reflecting his low status, responsibility for menial work, and propensity for getting dirty. Workers "jeffed," or used type as dice, to see who got certain work, who paid for drinks, or who laid off a night so that a "sub" (substitute) could get some work. The workers in an office would unofficially organize themselves into a "chapel" and elect a "chairman" or "father." These traditions eventually evolved into the union shop and union steward., William S. Pretzer , , After the book is written and appropriate design elements are agreed upon, book production can begin. The first stage is type-setting,
+in which the actual text is converted into the appropriate typeface style (known as font) and size (known as point size). After the typeset version of the book has been reviewed and any necessary changes made, it is ready for printing and binding, in which the actual pages are printed and bound together with the cover, resulting in a finished book. The typesetting and printing—"printing" consists of filming and all subsequent steps—are typically done not by the publisher but by specialized vendors., To help ensure that a quality product is produced, print shops conduct a number of periodic checks. In addition to checking blueprints for accuracy, printers will pull a press proof, or sample, before the print run is begun. If certain areas of the proof are too light or too dark, adjustments to the press may be required., After the book signatures are sewn together, the print shop will spot-check them to make sure they have been folded and sewn correctly. They will also check to see if the book covers are properly bound to prevent the books from deteriorating with use., Some of the instruments used to control quality include densitometers and colorimeters, both of which are used to evaluate color printing processes; paper hygroscopes, which measure the moisture balance of paper against the relative humidity of printing rooms; and inkometers, which measure the quality of the ink to be used in printing., Book production has remained much the same since the early twentieth century, except for changes in typesetting. While dedicated typesetting machines (linotype or monotype) have been standard equipment in print shops and typesetting businesses since 1900, desktop publishing on microcomputers has become a cost-effective alternative. With the proper typesetting software and a laser printer, users can generate text, insert graphics, and create layouts and page designs that are as sophisticated and detailed as those produced by traditional typesetting machines. As a result, authors, publishers, print shops, and virtually any other business have been able to set type and perform page layout and design on microcomputers. Furthermore, depending on the resolution and quality of the laser printer, users can create type that a printer can use to shoot a negative. Such type is referred to as camera-ready., , In addition, desktop publishing accessories such as scanners and graphics software allow
+users to insert still more computer graphics and scan in photographs, hardcopy graphics, and text into their desktop system., For book production, many authors, publishers, and design shops now have their own desktop publishing equipment, allowing them to give printers camera-ready copy. If they do not have laser printers with sufficient print-quality resolution, they can simply give the printer the book in disk form and have the printer run the type out on a laser printer with high resolution. Either way, desktop publishing gives the user more design control and cuts down on production costs., Because desktop publishing is relatively new, changes and enhancements continue to make the systems more user-friendly. As more people gain access to such systems, book publication and publishing in general will see more widespread use of desktop publishing in the future., Foot, Miriam. Studies in the History of Bookbinding. Ashgate Publishing Co., 1992., Harrison, Thomas. The Bookbinding Craft &amp; Industry. Garland Publishing, Inc., 1990., Hollick, Richard. Book Manufacturing. Cambridge University Press, 1986., Lyman, Ralph. Binding &amp; Finishing. Graphic Arts Technical Foundation, 1993., Matthews, Brander. Bookbinding Old &amp; New. Garland Publishing, Inc., 1990., McMurtrie, Douglas C. The Book: Story of Printing &amp; Bookmaking. Dorset Press, 1990., Pocket Pal: A Graphic Arts Production Handbook. International Paper, 14th ed., 1989., Poynter, Dan. Book Production: Composition, Layout, Editing &amp; Design —Getting It Ready for Printing, 3rd ed. Para Publishing, 1992., Angstadt, Richard. "Why Typesetting Isn't as Good as It Should Be: An Experienced Typesetter Laments the Communications Problems in a Changing Industry," Publishers Weekly. September 7, 1990, p. 60., Monkerud, Don. "Plate Full of Promises: Direct-to-Plate Technology Offers Faster and Cheaper Short-Run Color Printing," Publish. January, 1993, p. 48., —Greg Ling , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Book."
+
+How Products Are Made.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Book." 
+How Products Are Made.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/manufacturing/news-wires-white-papers-and-books/book
+, 
+"Book." 
+How Products Are Made.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/manufacturing/news-wires-white-papers-and-books/book
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, book: The word book has come to have many meanings, e.g., any collection of sheets of paper, wood, or other material sewn or bound together; a division of a written work (books of the Bible, books of Caesar's Gallic War); and statements of financial accounting (bookkeeping). The primary meaning today is, however, a written work either in manuscript or in printed or electronic form that is of substantial length.
+  Early BooksEarly in the history of bookmaking the printed book was distinguished in size by the number of times the original large sheet of paper on which the type was printed had been folded, i.e., folio, quarto, octavo, and duodecimo. With the advent of machine-made paper, these sizes were standardized. The standard octavo, according to the American Library Association, is between 20 cm and 25 cm in height.Books apparently did not come into existence until long after writing, e.g., inscription, was widespread. Fragmentary early papyri represent literature in ancient Egypt and may possibly be considered as books, although it is customary to speak of the Book of the Dead as the first of the Egyptian papyrus books. The cuneiform tablets gathered into the great Assyrian library of Assurbanipal represented an enormous collection of works, but the book as we know it may be said to be derived from the Egyptian writings on papyrus.The vast literature of the Greeks, collected in the greatest library of the ancient world, in Alexandria, was generally written on large sheets of papyrus, which were glued together and rolled up. The rolls varied greatly in size; many were about 1 ft (30 cm) wide and about 30 ft (9 m) long when unrolled. In the Hellenistic era large works were divided into tomes [Gr.,=cutting] that were stored together in cylinders and labeled.The method of having the leaves held together in quires (24 or 25 sheets) in the fashion of the modern book seems not to have originated until about the 2d cent. AD From at least the early part of the 2d cent. BC the more permanent vellum (a type of fine parchment first used in the Middle East) was also used for writing books, and this grew to be very popular in the Middle Ages when books were copied by monks in the scriptoria of monasteries. In the scriptoria the art of illumination flourished, making artistic masterpieces of many medieval liturgical volumes.
+  Book PrintingThe production of books in great quantity had to await the mechanical processes of printing from movable type. Printing was invented in China, where the first book printed by means of woodblocks is thought to date from the 9th cent. Korea developed movable metal type during the 13th cent. In the West movable metal type was developed by Johann Gutenberg of Mainz, and to a very large extent the history of the book is henceforth the history of printing.Book production developed very rapidly, the craft becoming enormously sophisticated by the 16th cent. Italian printers set the standards of format and quality retained in Europe until the 19th cent. Great printing houses also arose in France and the Netherlands and, after a general decline in the 17th cent., in England and the United States. The 19th cent. witnessed machine replacement of all the old manual processes. By the end of the century printing quality had been so debased that a revolution, led by William Morris during the arts and crafts movement in England, was necessary to restore the concept of beauty to bookmaking.
+  Modern Book ProductionIn recent years computer technology has revolutionized book production and the printing and distribution of comparatively inexpensive softcover books, or paperbacks, has expanded. Since the late 20th cent. the standing of the book as an information source has been challenged by other media including television, computers, and on-line databases. Also, the very definition of a book as a collection of printed sheets of paper is being challenged as books recorded in various audio formats have become increasingly common, and some works are being produced as audiobooks, appearing in audio form without ever being published in print. In addition, electronic book readers—small computers designed to display pages of digital books (e-books) on their screens as well as software that functions similarly on less specialized electronic devices—have been introduced.
+  Related EntriesSee also book clubs; book collecting; book publishing; incunabula; library; manuscript; type; typography; writing.Bibliography, For a brief and excellent bibliography, see H. Lehmann-Haupt, One Hundred Books about Bookmaking (1949). See also F. G. Kenyon, Books and Readers in Ancient Greece and Rome (2d ed. 1951); E. Chiera, They Wrote on Clay (1958); F. L. Schick, The Paperbound Book in America (1959); H. D. Vervliet, ed., The Book through Five Thousand Years (1972); W. Morris, The Ideal Book (reprints of essays and lectures on the book arts, ed. by W. S. Petersen, 1982); N. Howard, The Book (2005); A. Pettegree, The Book in the Renaissance (2010); M. Lyons, Books: A Living History (2011)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"book."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"book." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/book
+, 
+"book." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/book
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+book 
+/ boŏk/
+•
+n.
+1.
+a written or printed work consisting of pages glued or sewn together along one side and bound in covers:
+a book of selected poems.
+ ∎ 
+a literary composition that is published or intended for publication as such a work:
+the book is set in the 1940s.
+ ∎  (the books)
+used to refer to studying:
+he is so deep in his books he would forget to eat.
+ ∎ 
+a main division of a classic literary work, an epic, or the Bible:
+the Book of Genesis.
+ ∎  (the book)
+the local telephone directory:
+is your name in the book?
+ ∎  (the Book)
+the Bible.
+ ∎ inf. 
+a magazine.
+ ∎ fig. 
+an imaginary record or list (often used to emphasize the thoroughness or comprehensiveness of someone’s actions or experiences):
+she felt every emotion in the book of love.
+
+2.
+a bound set of blank sheets for writing or keeping records in:
+an accounts book.
+ ∎  (books)
+a set of records or accounts:
+he can balance the books.
+ ∎ 
+a bookmaker's record of bets accepted and money paid out.
+
+
+3.
+a set of tickets, stamps, matches, checks, samples of cloth, etc., bound together:
+a pattern book.
+ ∎ 
+(the book)
+the first six tricks taken by the declarer in a hand of bridge.
+
+
+
+•
+v. [tr.]
+1.
+reserve (accommodations, a place, etc.); buy (a ticket) in advance:
+I have booked a table at the Swan. 
+ ∎ 
+reserve accommodations for (someone):
+his secretary had booked him into the Howard Hotel.
+ ∎ 
+engage (a performer or guest) for an occasion or event.
+ ∎  (be booked
+(up) )
+have all appointments or places reserved; be full.
+
+2.
+make an official record of the name and other personal details of (a criminal suspect or offender):
+the cop booked me and took me down to the station.
+
+
+PHRASES: 
+by the book
+strictly according to the rules:
+a cop who doesn't exactly play it by the book.
+close the book on
+lay aside; expend no further energy on:
+Congress closed the book on wool subsidies. 
+in my book
+in my opinion:
+that counts as a lie in my book.
+make book
+take bets on the outcome of an event:
+fig. 
+I wouldn't make book on it. 
+one for the books
+an extraordinary feat or event.
+throw the book at inf. 
+charge or punish (someone) as severely as possible. 
+wrote the book
+be the leader in the field:
+John wrote the book on goatpacking.DERIVATIVES: 
+book·a·ble
+adj.
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"book."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"book." 
+ The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/book-1
+, 
+"book." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/book-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"book."
+
+The Oxford Dictionary of Phrase and Fable.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"book." 
+The Oxford Dictionary of Phrase and Fable.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/book
+, 
+"book." 
+The Oxford Dictionary of Phrase and Fable.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/book
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"book."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"book." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/book
+, 
+"book." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/book
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"book."
+
+A Dictionary of Computing.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"book." 
+A Dictionary of Computing.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/computing/dictionaries-thesauruses-pictures-and-press-releases/book
+, 
+"book." 
+A Dictionary of Computing.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/computing/dictionaries-thesauruses-pictures-and-press-releases/book
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, collection of tablets, sheets of paper, or similar material strung or bound together., Examples: book of beauty, 1595; of bitter passion, 1532; of gold leaf [separated by vellum leaves]; of knowledge, 1667; of love, 1592; of nature, 1830; of precepts, 1380; of scorn, 1847; of silk [bundle of skeins of raw silk]., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Book."
+
+Dictionary of Collective Nouns and Group Terms.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Book." 
+Dictionary of Collective Nouns and Group Terms.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/book
+, 
+"Book." 
+Dictionary of Collective Nouns and Group Terms.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/book
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"book."
+
+The Concise Oxford Dictionary of English Etymology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"book." 
+The Concise Oxford Dictionary of English Etymology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/book-2
+, 
+"book." 
+The Concise Oxford Dictionary of English Etymology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/book-2
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"book."
+
+Oxford Dictionary of Rhymes.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"book." 
+Oxford Dictionary of Rhymes.
+. Encyclopedia.com.
+ (July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/book-0
+, 
+"book." 
+Oxford Dictionary of Rhymes.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/book-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

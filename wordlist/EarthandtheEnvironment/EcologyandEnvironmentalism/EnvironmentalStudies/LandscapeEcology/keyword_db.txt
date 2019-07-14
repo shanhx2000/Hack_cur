@@ -1,0 +1,100 @@
+[Landscape ecology is the study of the causes and ecological consequences of spatial pattern in landscapes. While there is no specific spatial extent that defines a landscape, most landscape ecologists are interested in large areas ranging from a few square kilometers to entire continents. Within landscapes it is usually possible to define a series of different ecosystem types occurring as patches within the greater landscape. For example, in an agricultural landscape the patches might be different fields, woodlots, hedgerows, buildings, and ponds. The goal of a landscape ecologist is to understand and describe landscape structure; how this structure influences the movement of organisms, material, or energy across the landscape; and how and why landscape structure changes over time., A landscape's structure can be quantified by describing characteristics of patches, such as their number, size, shape, position, and composition. Landscape ecologists have defined measures to quantify each of these attributes.
+For example, a shape index has been defined as the ratio of the patch's perimeter to the perimeter of a circle the same area as the patch. A circular patch would have the value of 1, and as the patch became more convoluted in shape, its shape index would increase in value., , A landscape's structure has an important influence on various ecological processes occurring in the landscape. For example, consider two landscapes having equal areas of forest and agricultural land. In one landscape the forest is divided into many small patches, whereas in the other landscape the forested area occurs as one large patch. The more fragmented landscape will provide more habitat to those organisms that thrive at boundaries between two ecosystem types, whereas the less fragmented landscape will be better for those species that require larger areas of undisturbed forest. So, just knowing what percentage of the landscape is forest versus cropland is not sufficient to predict what species may occur; it is also important to know how the patches are distributed across the landscape., Another example of how landscape structure can be important comes from studies of lakes within a forested landscape. The position of a lake within the landscape can be an important determinant of the lake's physical, chemical, and biological characteristics. Because water flows downhill, lakes that are lower in the landscape receive more water from streams and groundwater than lakes higher in the flow system, which receive most of their water from precipitation. Lakes higher in the landscape tend to be smaller, more dilute chemically, and have fewer species of fish than lakes lower in the landscape, even though all of the lakes in the landscape experience the same weather and are situated in the same geological substrate ., Landscape structure can change through natural geological or biological processes. Earthquakes, volcanoes, and landslides are examples of geological processes. The work of beavers building a dam to flood an area is an example of a biological activity that can change landscape structure. Human activity, such as the clearing of forest land for agriculture or the expansion of urban areas, has also caused significant changes in landscape structure. These changes in structure, whether caused by natural forces or by humans, can have significant impacts on the ecology of landscapes., Although landscape ecology is a relatively new scientific discipline, since the 1980s landscape ecologists have begun to understand how to characterize landscape structure, how landscape structure influences ecological processes, and how landscape structure changes., see also Community; Ecosystem; Forest, Temperate; Lakes and Ponds, Timothy K. Kratz , Forman, Richard T. T. Land Mosaics: The Ecology of Landscapes and Regions. New York: Cambridge University Press, 1995., International Association for Landscape Ecology, United States Regional Association. &lt;http://www.edc.uri.edu/iale/&gt;., Sanderson, James, and Larry D. Harris, eds. Landscape Ecology: A Top-Down Approach. Boca Raton, FL: Lewis Publishers, 2001., Turner, Monica Goigel. Landscape Ecology in Theory and Practice: Pattern and Process. New York: Springer, 2001., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Landscape Ecology."
+
+Biology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Landscape Ecology." 
+Biology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/landscape-ecology
+, 
+"Landscape Ecology." 
+Biology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/landscape-ecology
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"landscape ecology."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"landscape ecology." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/landscape-ecology
+, 
+"landscape ecology." 
+A Dictionary of Ecology.
+. Retrieved
+ July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/landscape-ecology
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Landscape ecology is an interdisciplinary field that emerged from several intellectual traditions in Europe and North America. An identifiable landscape ecology started in central Europe in the 1960s and in North America in the late 1970s and early 1980s. It became more visible with the establishment, in 1982, of the International Association of Landscape Ecology, with the publication of a major text in the field, Landscape Ecology, by Richard Forman and Michel Godron in 1984, and with the publication of the first issue of the association's journal, Landscape Ecology in 1987., The phrase 'landscape ecology' was first used in 1939 by the German geographer, Carl Troll. He suggested that the "concept of landscape ecology is born from a marriage of two scientific outlooks, the one geographical (landscape), the other biological (ecology)." Troll coined the term landscape ecology to denote "the analysis of a physico-biological complex of interrelations, which govern the different area units of a region." He believed that "landscape ecology...must not be confined to the large scale analysis of natural regions. Ecological factors are also involved in problems of population, society, rural settlement, land use , transport, etc.", Landscape has long been a unit of analysis and a conceptual centerpiece of geography, with scholars such as Carl Sauer and J. B. Jackson adept at "reading the landscape," including both the natural landscape of landforms and vegetation, and the cultural landscape as marked by human actions and as perceived by human minds., , Zev Naveh has been working on his own version of landscape ecology in Israel since the early 1970s. Like Troll, Naveh includes humans in his conception, in fact enlarges landscape ecology to a global human ecosystem science, sort of a "bio-cybernetic systems approach to the landscape and the study of its use by [humans]." He sees landscape ecology first as a holistic approach to biosystems theory, the centerpiece being "recognition of the total human ecosystem as the highest level of integration," and, second, as playing a central role in cultural evolution and as a "basis for interdisciplinary, task-oriented, environmental education.", Landscape architecture is also to some extent landscape ecology, since landscape architects design complete vistas, from their beginnings and at various scales. This concern with designing and creating complete landscapes from bare ground can certainly be considered ecological, as it includes creating or adapting local land forms, planting appropriate vegetation, and designing and building various kinds of 'fur niture' and other artifacts on site. The British Landscape Institute and the British Ecological Society held a joint meeting in 1983, recognizing "that the time for ecology to be harnessed for the service of landscape design has arrived." The meeting produced the twenty-fourth symposium of the British Ecological Society titled Ecology and Design in Landscape., Landscape planning can also to some degree be considered landscape ecology, especially in the ecological approach to landscape planning developed by Ian McHarg and his students and colleagues, and the LANDEP, or Landscape Ecological Planning, approach designed by Ladislav Miklos and Milan Ruzicka. Both of these ecological planning approaches are complex syntheses of spatial patterns, ecological processes, and human needs and wants., , Building on all of these traditions, yet slowly finding its own identity, landscape ecology is considered by some as a sub-domain of biological ecology and by others as a discipline in its own right. In Europe, landscape ecology continues to be an extension of the geographical tradition that is preoccupied with human-landscape interactions. In North America, landscape ecology has emerged as a branch of biological ecology, more concerned with landscapes as clusters of interrelated natural ecosystems. The European form of landscape ecology is applied to land and resource conservation , while in North America it focuses on fundamental questions of spatial pattern and exchange. Both traditions can address major environmental problems, especially the extinction of species and the maintenance of biological diversity., The term landscape, despite the varied traditions and emerging disciplines described above, remains somewhat indeterminate, depending on the criteria set by individual researchers to establish boundaries. Some consensus exists on its general definition in the new landscape ecology, as described in the composite form attempted here: a terrestrial landscape is miles- or kilometers-wide in area; it contains a cluster of interacting ecosystems repeated in somewhat similar form; and it is a heterogeneous mosaic of interconnected land forms, vegetation types, and land uses. As Risser and his colleagues emphasize, this interdisciplinary area focuses explicitly on spatial patterns: "Specifically, landscape ecology considers the development and dynamics of spatial hetereogeneity, spatial and temporal interactions and exchanges across heterogeneous landscapes, influences of spatial heterogeneity on biotic and abiotic processes, and management of spatial heterogeneity." Instead of trying to identify homogeneous ecosystems, landscape ecology focuses particularly on the heterogeneous patches and mosaics created by human disruption of natural systems, by the intermixing of cultural and natural landscape patterns. The real rationale for a landscape ecology perhaps should be this acknowledgment of the heterogeneity of contemporary landscape patterns, and the need to deal with the patchwork mosaics and intricate matrices that result from long-term human disturbance, modification, and utilization of natural systems., Typical questions asked by landscape ecologists include these formulated by Risser and his colleagues: "What formative processes, both historical and present, are responsible for the existing pattern in a landscape?" "How are fluxes of organisms, of material, and of energy related to landscape heterogeneity?" "How does landscape heterogeneity affect the spread of disturbances?" While the first question is similar to ones long asked in geography, the other two are questions traditional to ecology, but distinguished here by the focus on heterogeneity., , Richard Forman, a prominent figure in the evolving field of landscape ecology, thinks the field has matured enough for general principles to have emerged; not ecological laws as such, but principles backed by enough evidence and examples to be true for 95 percent of landscape analyses. His 12 principles are organized by four categories: landscapes and regions; patches and corridors; mosaics; and applications. The principles outline expected or desirable spatial patterns and relationships, and how those patterns and relationships affect system functions and flows, organismic movements and extinctions, resource protection, and optimal environmental conditions. Forman claims the principles "should be applicable for any environmental or societal land-use objective," and that they are useful in more effectively "growing wood, protecting species, locating houses, protecting soil , enhancing game, protecting water resources , providing recreation , locating roads, and creating sustainable environments.", Perhaps Andre Corboz provided the best description when he wrote of "the land as palimpsest:" landscape ecology recognizes that humans have written large on the land, and that behind the current writing visible to the eye, there is earlier writing as well, which also tells us about the patterns we see. Landscape ecology also deals with gaps in the text and tries to write a more complete accounting of the landscapes in which we live and on which we all depend., [Gerald L. Young Ph.D. ], Farina, Almo. Landscape Ecology in Action. New York: Kluwer, 2000., Forman, R. T. T., and M. G. Landscape Ecology. New York: Wiley, 1986., Risser, P. G., J. R. Karr, and R. T. T. Forman. Landscape Ecology: Directions and Approaches. Champaign: Illinois Natural History Survey, 1983., Tjallingii, S. P., and A. A. de Veer, eds. Perspectives in Landscape Ecology: Contributions to Research, Planning and Management of Our Environment., Troll, C. Landscape Ecology. Delft, The Netherlands: The ITC-UNESCO Centre for Integrated Surveys, 1966., Turner, Monica, R. H. Gardner, and R. V. O'Neill. Landscape Ecology in Theory and Practice: Patterns and Processes. New York: Springer Verlag, 2001., Wageningen, The Netherlands: Pudoc, 1982. (Proceedings of the International Congress Organized by the Netherlands Society for Landscape Ecology, Veldhoven, The Netherlands, 6-11 April, 1981)., Zonneveld, I. S., and R. T. T. Forman, eds. Changing Landscapes: An Ecological Perspective. New York: Springer-Verlag, 1990., Forman, R. T. T. "Some General Principles of Landscape and Regional Ecology." Landscape Ecology (June 1995): 133–142., Golley, F.B. "Introducing Landscape Ecology." Landscape Ecology 1, no. 1 (1987): 1–3., Naveh, Z. "Landscape Ecology as an Emerging Branch of Human Ecosystem Science." Advances in Ecological Research 12 (1982): 189–237., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Landscape Ecology."
+
+Environmental Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Landscape Ecology." 
+Environmental Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/landscape-ecology
+, 
+"Landscape Ecology." 
+Environmental Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/landscape-ecology
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

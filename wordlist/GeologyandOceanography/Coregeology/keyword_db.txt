@@ -1,0 +1,308 @@
+[Seismographs are instruments designed to detect and measure vibrations within the earth, and the records they produce are known as seismograms. Like the many other terms beginning with this prefix, these words derive from the Greek seismos, meaning "shock" or "earthquake." Although certain types of seismographs are used for underground surveying, the devices are best known for studying earthquakes., A seismograph consists of a pendulum mounted on a support base. The pendulum in turn is connected to a recorder, such as an ink pen. When the ground vibrates, the pendulum remains still while the recorder moves, thus creating a record of the earth's movement. A typical seismograph contains 3 pendulums: one to record vertical movement and two to record horizontal movement., Seismographs evolved from seismoscopes, which can detect the direction of tremors or earthquakes but cannot determine the intensity or the pattern of the vibration. The earliest known device used to detect earthquakes was created by a Chinese scholar, Chang Heng, around A.D. 132. Detailed accounts reveal that it was a beautiful and ingenious apparatus consisting of a richly decorated copper cylinder with eight dragon heads positioned around its upper circumference, facing outwards. Fixed around the lower circumference, directly beneath the dragon heads, were eight copper frogs. In its mouth, each dragon held a small ball that dropped into the mouth of the frog below it when a rod inside the cylinder, flexible and weighted at its upper end, was triggered by an earthquake. The particular frog that captured a fallen ball indicated the general direction of the earthquake., , For over seventeen hundred years the study of earthquakes depended on imprecise instruments such as Chang Heng's. Over the centuries a wide variety of seismoscopes were constructed, many relying on the detection of ripples in a pool of water or liquid mercury. One such device, similar to the frog and dragon mechanism, featured a shallow dish of mercury that would spill into little dishes placed around it when a tremor occurred. Another type of seismoscope, developed during the eighteenth century, consisted of a pendulum suspended from the ceiling and attached to a pointer that dragged in a tray of fine sand, moving when vibrations swayed the pendulum. During the nineteenth century, the first seismometer was constructed; it used various types of pendulums to measure the size of underground vibrations., The first true seismograph may have been a complex mechanism designed by the Italian scientist Luigi Palmieri in 1855. This machine used tubes filled with mercury and fitted with electrical contacts and floats. When tremors disturbed the mercury, the electrical contacts concurrently stopped a clock and triggered a device that recorded the movements of the floats, roughly indicating both the time and the intensity of the earthquake. The first accurate seismographs were developed in Japan in 1880 by the British geologist John Milne, often known as the father of seismology. Together with fellow expatriate scientists James Alfred Ewing and Thomas Gray, Milne invented many different seismological devices, one of which was the horizontal pendulum seismograph. This sophisticated instrument consisted of a weighted rod that,
+when disturbed by tremors, shifted a slitted plate. The plate's movement permitted a reflected light to shine through the slit, as well as through another stationary slit below it. Falling onto light-sensitive paper, the light then inscribed a record of the tremor. Today most seismographs still rely on the basic designs introduced by Milne and his associates, and scientists continue to evaluate tremors by studying the movement of the earth relative to the movement of a pendulum., The first electromagnetic seismograph was invented in 1906 by a Russian Prince, Boris Golitsyn, who adapted the principle of electromagnetic induction developed by the English physicist Michael Faraday during the nineteenth century. Faraday's law of induction postulated that changes in magnetic intensity could be used to generate electric currents. Incorporating this precept, Golitsyn built a machine in which tremors cause a coil to move through magnetic fields, thereby producing an electrical current which is fed into a galvanometer, a device that measures and directs the current. The current then fluctuates a mirror similar to the one that directed the light in Milne's apparatus. The advantage of this electronic system is that the recorder can be set up in a convenient place such as a laboratory, while the seismograph itself can be installed in a remote location., , During the twentieth century, the Nuclear Test Detection Program has made modern seismology possible. Despite the real danger of earthquakes, seismology could not command a large number of seismographs until the threat of subterranean nuclear explosions prompted the establishment of the World-Wide Standardized Seismograph Network (WWSSN) in 1960. The Network set up 120 seismographs in 60 countries, and, under its auspices, seismographs became much more sophisticated. Developed after World War II, the Press-Ewing seismograph enabled researchers to record so-called long period seismic waves, vibrations that travel long distances at relatively slow speeds. This seismograph uses a pendulum like that used in the Milne model, but replaces the pivot supporting the rod with an elastic wire to reduce friction. Other post-war innovations included atomic clocks to make timings more accurate, and digital readouts that could be fed into a computer. However, the most important
+development during modern times has been the implementation of seismograph arrays. These arrays, some consisting of hundreds of seismographs, are linked to a single central recorder. By comparing the discrete seismograms produced by various stations, researchers can determine the earthquake's epicenter (the point on the earth's surface directly above the origin of the quake)., Today, three types of seismographs are used in earthquake research, each with a period corresponding to the scale of the vibrations it will measure (the period is the length of time
+a pendulum requires to complete one full oscillation). Short-period seismographs are used to study primary and secondary vibrations, the fastest-moving seismic waves. Because these waves move so quickly, the short-period seismograph takes less than a second to complete one full oscillation; it also magnifies the resulting seismograms so that scientists can perceive the pattern of the earth's swift motions. The pendulums in long (intermediate) period seismographs generally take up to twenty seconds to oscillate, and they are used to measure slower-moving waves such as Love and Rayleigh waves, which follow primary and secondary waves. The WWSSN currently uses this type of instrument. The seismographs whose pendulums have the longest periods are called ultra-long or broad-band instruments. Broad-band seismographs are used increasingly often to develop a more comprehensive understanding of global vibrations., The components of a seismograph are standard. The most important material is aluminum, followed by normal electrical equipment composed of copper, steel, glass, and plastic. A modern seismograph consists of one or more seismometers that measure the vibrations of the earth. A seismometer comprises a pendulum (an inert mass) inside an airtight container that is attached by a hinge and a wire (for horizontal units) or a spring (for vertical units) to a supporting frame set firmly in the ground. One or more electric coils is attached to the pendulum and placed within the field of a magnet. Even miniscule movements of the coil will generate electrical signals that are then fed into an amplifier and a filter and stored in computer memory for later printing. A less sophisticated seismograph will have either a mirror that shines light onto light-sensitive paper (as in Milne's seismograph), a pen that writes with quick-drying ink upon a roll of paper, or a heat pen that marks thermal paper., , The demand for earthquake seismographs is not that high; it can be met by a few manufacturers who design custom-made seismographs to meet the needs of particular researchers. Thus, while the basic components of the seismograph are standard, certain features can be adapted to serve specific purposes. For instance, someone might need a more sensitive instrument to study seismic events thousands of miles away. Another seismologist might select an instrument whose pendulum has a short period of only a few seconds so as to observe the earliest tremors of an earthquake. For underwater studies, the seismograph would have to be submersible., Seismographs are designed to withstand the elements. They are waterproof and dustproof, and many are designed to function despite extreme temperatures and high humidity, depending on where they will be installed. Despite their sensitivity and protection requirements, many seismographs have been known to last 30 years. Quality control workers in the factory check the design and the final product to see if they meet the customer's demands. All parts are checked for tolerance and fit, and the seismograph is tested to see if it works properly. In addition, most seismographs have built-in testing devices so that they can be tested after
+being installed and before being put to work. Qualified computer programmers also test the software for bugs before shipment. While sensitivity and accuracy are important, timing is also critical, particularly in earthquake prediction. Most modern seismographs are connected to an atomic clock that is calibrated to Universal Time (formerly called Greenwich Time), thus insuring highly accurate information that all researchers can understand., Another critical aspect of quality control with modern seismographs is minimizing human error. While earlier seismographs were simple, and practically anyone could learn how to use them, contemporary seismographs are precise, sensitive devices that are complex and difficult to use. Today, seismograph researchers and workers must be trained by engineers and scientists from the manufacturing facility if they are not already qualified engineers and scientists themselves. They must learn how to run and maintain the seismograph as well as all auxiliary equipment such as a computer., , Seismology is best known for the study of earthquakes. Its emphasis has not been on theoretical study of the earth's structure, but rather on predicting and lessening the impact of earthquakes in vulnerable regions. Study of the earth's interior has been directed towards searching for oil deposits, testing for ground instabilities before construction, and tracking down subterranean nuclear explosions. Earthquake prediction, however, is foremost. If researchers can determine beforehand that a quake will take place, precautions such as increasing hospital and safety personnel can be scheduled. The first official earthquake prediction issued by the United States government took place only in 1985. Hence, earthquake prediction is in its infancy. Recent major earthquakes such as the one that occurred in San Francisco in 1989 have intensified study of the San Andreas fault. Currently, a team of seismologists is studying the Parkfield segment of that fault to determine if they can predict a minor earthquake. The data from this attempt could come in handy to predict major earthquakes in more heavily populated areas. Other developments include more sensitive and more durable seismographs that can record both long and short period waves. One earth scientist believes that an earthquake warning system could be set up. Such a system would require a seismograph to pick up the vibrations, a computer to interpret them as an imminent earthquake, and a communication system to warn emergency
+personnel in time. Some experts envision large arrays of seismographs in earthquake-prone areas, where individual seismograph owners could collect and transmit data to seismologists., Bolt, Bruce A. Earthquakes: A Primer. W. H. Freeman and Company, 1978., Eiby, George A. Earthquakes. Van Nostrand Reinhold, 1980., Golden, Frederic. The Trembling Earth: Probing and Predicting Quakes. Charles Scribner's Sons, 1983., Iacopi, Robert. Earthquake Country. Lane Books, 1971., Vogt, Gregory. Predicting Earthquakes. Franklin Watts, 1989., Walker, Bruce. Earthquake. Time-Life Books, 1982., Lindh, Allan G. "Earthquake Prediction Comes of Age," Technology Review. February/March 1990, pp. 42-51., "[Interview with] Allan Lindh," Omni. March, 1991, pp. 68-71., "The Amateur Scientist," Scientific American. July, 1957, pp. 152-162., Van Dam, Laura. "Reducing Disasters During Earthquakes," Technology Review. February/March 1990, pp. 12-13., —Rose Secrest , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Seismograph."
+
+How Products Are Made.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Seismograph." 
+How Products Are Made.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/manufacturing/news-wires-white-papers-and-books/seismograph
+, 
+"Seismograph." 
+How Products Are Made.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/manufacturing/news-wires-white-papers-and-books/seismograph
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, █ LAURIE DUNCAN, A seismograph is an instrument that measures and records elastic ground vibrations called seismic waves that are generated by earthquakes and man-made explosions. By recording the arrival of seismic waves at remote seismograph stations, seismologists deduce information about the initial earthquake fault rupture or explosion, and about the physical properties of earth materials between the seismic source and the seismograph. Much of our present knowledge of Earth's large-scale interior structure came from analysis of seismograph records. Academic, petroleum, and mining geologists use other seismic techniques to study the structure of Earth's outer sedimentary layers, to prospect for petroleum, and to assess mineral ore bodies. Academic seismograph networks designed to detect earthquakes or planned survey explosions also perform double-duty as monitoring systems that detect military explosions that may indicate violations of international weapons bans., A modern seismograph includes five basic parts: a clock, a sensor called a seismometer that measures intensity of shaking at the instrument's location, a recorder that traces a chart, or seismogram, of the seismic arrivals, an electronic amplifier, and a data recorder that stores the information for later analysis. The clock records precise arrival times of specific seismic waves. The seismometer mechanically measures ground movement by comparing the motion of a support structure that moves with the land surface to a stationary or inertial mass. To measure vertical motion, the inertial mass hangs from the support by a spring; to measure horizontal motion it is suspended on a hinge. The recording device registers seismic vibrations with a pen attached to the inertial mass, and a roll of paper that moves along with the Earth's vibrations. As the paper cylinder oscillates and unwinds at a constant rate, the stationary pen traces a seismogram that shows the amplitude and frequency of shock waves that arrive over time. Today's seismographs often contain electronic sensors and recorders that perform these tasks, but the principles of their operation remain the same., , Scientists have used tools to detect ground motion since the ancient Han Dynasty when Chang Heng, a Chinese astronomer and mathematician, invented the first seismometer in about 132 a.d. Heng's "earthquake weathercock" seismoscope consisted of a pendulum that swung inside a jar surrounded by eight balanced dragon heads, each holding a bronze ball in its moveable jaws. During an earthquake, the pendulum would swing away from the approaching seismic waves, hit one of the dragons, and knock the ball out of its jaws, indicating the direction of the shock waves., Seismographs have undergone considerable refinement since Heng's time. European scientists of the 1700s and early 1800s developed a series of mercury-filled seismoscopes and pendulum seismometers that attempted to measure the amplitude and frequency of seismic waves, as well as their propagation directions. British seismologist, John Milne, and his colleagues developed the first modern seismographs to observe Japanese earthquakes in the late 1800s. Their seismographs, however, recorded only a limited range of wave sizes and seismic events, the instruments were fairly inaccurate, and they required difficult mechanical calibration. German seismologist, Emil Weichert, invented an inverted, mechanically damped pendulum seismometer that considerably improved the sensitivity and accuracy of Milne's seismometer in 1899. In 1906 Boris Golitsyn, a Soviet physicist and seismologist, devised an electromagnetic seismograph that operated without mechanical levers, an enhancement of Weichert's instrument. The first modern seismographs in the United States were installed at the University of California at Berkeley and the Lick Observatory at Mount Hamilton, California in 1877. They recorded the 1906 earthquake that devastated San Francisco., Development of precise seismographs led immediately to discoveries of Earth's interior structure and delineation of its major physical layers: solid inner core, liquid outer core, solid lower mantle, plastic upper mantle, and rigid lithosphere. British seismologist, Richard Oldham (1858 – 1936) observed that seismic events produce three of different types of waves that travel away from an earthquake focus at different speeds, and named them surface waves, P (Primary or Pressure) waves, and S (Secondary or Shear) waves. Oldham and Weichert confirmed the existence of Earth's core in 1906 by comparing the paths of P waves and S waves through the planet's interior. Yugoslavian seismologist and meteorologist, Andrija Mohorovicic (1857–1936) used seismograph records to define the Mohorovicic seismic discontinuity, or Moho, at the boundary of the iron-rich mantle and the silica-rich crust in 1909. The Danish seismologist, Inge Lehmann, discovered of the boundary between Earth's liquid outer and solid inner core in 1914., Today, seismologists continue to use seismograph records to make discoveries about Earth's interior structure, to prospect for petroleum and minerals, and to monitor large military explosions. The Incorporated Research Institutions for Seismology (IRIS) consortium, for example, operates the Global Seismograph Network (GSN) of about 120 permanent seismographs that continuously record seismic events around the planet and transmit their data to a publicly available data base. The GSN, like its precursor, the World-Wide Seismograph Network (WWSN), detects all but the smallest earthquakes worldwide, as well as seismic waves emitted by nuclear explosions and detonations of large conventional weapons. The academic members of IRIS provide data and analyses in support of the international Comprehensive Test Ban Treaty (CTBT) that seeks to monitor international weapons tests, and identify treaty violations., Fowler, C. M. R. The Solid Earth. Cambridge: University Press, 1990., Press, Frank and Raymond Siever. Understanding Earth New York: W.H. Freeman and Company, 2000., Incorporated Research Institutions for Seismology. "Welcome to the IRIS Homepage." December 3, 2001. &lt;http://www.iris.edu&gt; (December 28, 2002)., United States Geological Survey Earthquake Hazards Program. "Seismology." National Earthquake Information Center and World Data Center for Seismology, Denver. April 5, 2001. &lt;http://neic.usgs.gov/neis/seismology/&gt; (December 28, 2002)., Seismology for Monitoring Explosions , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Seismograph."
+
+Encyclopedia of Espionage, Intelligence, and Security.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Seismograph." 
+Encyclopedia of Espionage, Intelligence, and Security.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/politics/encyclopedias-almanacs-transcripts-and-maps/seismograph
+, 
+"Seismograph." 
+Encyclopedia of Espionage, Intelligence, and Security.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/politics/encyclopedias-almanacs-transcripts-and-maps/seismograph
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The Sun is the star about which Earth revolves. A typical star, Earth's sun is composed of gases and heavier elements compressed to enormous density and heated to levels that sustain nuclear fusion (the transformation of hydrogen into helium and heavier elements). The Sun consists of an inner core surrounded by a radiative zone and then a convective zone. The surface of the Sun is termed the photosphere. Surrounding the Sun is a solar corona—an atmosphere of hot plasma, gases, and outflowing particles., Nuclear fusion take place in the Sun's core and it is in this region that the bulk of the Sun's production of energy, heat, and gamma rays takes place. The radiative zone surrounding the core is of such high density that photons generated in the, core can take millions of years to pass through to the surrounding radiative zone. Undergoing an enormous number of collisions, absorptions and regenerations, photons span a spectrum frequencies that correspond to gamma rays, x ray, ultraviolet light, visible light, infrared light, microwaves, and radio waves. Photon passage through the convective zone provides energy to drive massive convective currents of hot gas., The photosphere is the visible outer or surface layer of Sun. At the photosphere, solar temperatures cool to about 5800 K. The photosphere often features sunspots (areas of surface relatively cooler due to differential temperatures in convective currents). Sunspots occur in cycles with maximum activity peaking every 11 years., Largely composed of gas, the Sun exhibits differential rotation speeds that depend on solar latitude . The rotational period varies from approximately 25 days at the equator to 29 days near the polar regions., , The chromosphere surrounds the photosphere and extends thousands of miles. Temperatures increase in the chromosphere and range up to 1,000,000 K. The chromosphere is part of the solar corona that extends millions of miles into space . Influenced by turbulent magnetic fields coronal temperatures range up to 3,500,000 K. At these high temperatures, electrons are stripped from gases and plasma streams form a solar wind . The solar chromosphere and corona are usually visible only when an eclipse blocks the photosphere., Solar flares and prominences, flame-like eruptions of hot gas, sometimes extend into the chromosphere and corona., British astronomer Fred Hoyle once described the evolution of a star—including, of course, the Sun—as a continual war between nuclear physics and gravity ., The gravity of the stellar material pulls on all the other stellar material striving to bring about a collapse. However, the gravitational compression is opposed by the internal pressure of the stellar gas that normally results from heat produced by nuclear reactions. This balance between the forces of gravity and the pressure forces forms an equilibrium, and the balance must be exact or the star will quickly respond by expanding or contracting in size. So powerful are the separate forces of gravity and pressure that should such an imbalance occur in the Sun, it would be resolved within hours. That fact that Earth's sun is about 5 billion years old emphasizes just how exactly and continuously that balance is maintained., In addition to its reliance on balance between gravity and pressure, the internal structure of a sun depends on the behavior of the stellar material itself. Most stars are made primarily of hydrogen, the dominant form of matter in the universe. However, the behavior of hydrogen will depend on the temperature , pressure, and density of the gas. Indeed, the quantities temperature, pressure, and density are known as state variables, because they describe the intrinsic state of the material. Any equation or expression that provides a relationship between these variables is called an equation of state., Most of the energy that flows (i.e., undergoes a series of transformations) from a star originates at its center. The way in which this energy flows to the surface will also influence the internal structure of the star., There are three ways by which energy flows outward through a star. They are conduction, convection, and radiation., However, the more opaque the material is, the slower the convectional and radiative transfers of heat and energy (e.g. electromagnetic radiation or "light") flow of energy will be. In the Sun, where light flowing out from in the core will travel less than a centimeter before it is absorbed, it may take a million years for the light energy to make its way to the surface., The mode of energy transport, equations of state, and equilibrium equations can be quantified and self-consistent solutions found numerically for stars of given mass, composition and age. Such solutions provide model stellar interiors, and supply the detailed internal structure of a particular star. For the vast majority of stars that derive their energy from the nuclear fusion of hydrogen into helium, the internal structure is quite similar. Such stars are termed main sequence stars and are located in a band on a Hertzsprung-Russell diagram (developed independently between 1911–13 by Danish astronomer Ejnar Hertzsprung (1873–1967) and American astronomer Henry Norris Russell (1877–1957)., The Sun is a main sequence star. The Sun's core is surrounded by a churning convective envelope that carries the energy to within a few thousand kilometers of the surface, where energy again flows primarily by radiation as it escapes into space. This structure is common to all main sequence stars with mass less than 1.5 times the mass of the Sun., Changes to the stellar structure over time are described by the theory of stellar evolution ., See also  Big Bang theory; Celestial sphere: The apparent movements of the Sun, Moon, planets, and stars; Solar energy; Solar illumination: Seasonal and diurnal patterns; Solar sunspot cycles; Solar system; Stellar life cycle, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Sun (Stellar Structure)."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Sun (Stellar Structure)." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/sun-stellar-structure
+, 
+"Sun (Stellar Structure)." 
+World of Earth Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/sun-stellar-structure
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, A seismograph is an instrument used to measure and record ground vibration caused by explosions and earthquake shock waves. In the late 1800s, John Milne (1850–1913), an English mining engineer, developed the first precise seismometer, the sensor in a seismograph that detects and measures motion. Since then, seismograms, the data recorded by a seismograph, have helped seismologists predict much more than Earth movement. These devices have also led to discoveries about the nature of the earth's core., The process of using a tool to detect ground motion dates back to the ancient Han Dynasty when Chang Heng, a first-century Chinese astronomer and mathematician, invented the first seismometer. He used a pendulum connected to an eight-spoked wheel in which each spoke was connected to a mounted dragon's head with moveable jaws. When the pendulum moved during an earthquake, a bronze ball in each of the heads would pop out if hit by the spoke of the pendulum wheel. While this did not lend clues about the force of an earthquake, it gave the ancient scientist an idea of the direction of the shock waves and their source. Since that time, Heng's concept has been refined considerably. Later seismographs employed a heavy pendulum with a stylus, or needle, suspended above a revolving drum. The drum contained a device on which the etchings from the needle could be recorded. During an earthquake, the pendulum and needle remained motionless while the drum on the base moved, recording the earth's movement. As much as these later pendulum seismographs improved upon the ancient Chinese method, they still fell short of providing answers to the many questions that arose with more precise readings. For example, once a strong motion set off a seismograph's pendulum, the pendulum would swing indefinitely, failing to record aftershocks that followed the initial disturbance. Additionally, the seismographs of the late 1800s recorded only a limited range of wave sizes and numbers. The inverted pendulum, invented by German seismologist Emil Weichert in 1899, helped overcome many of these limitations. Weichert employed a system of mechanical levers that linked the pendulum movement more closely to the earth's vibrations., In 1906, Boris Golitsyn (1862–1916), a Soviet physicist and seismologist, devised the first electromagnetic seismograph; for the first time, a seismograph could be operated without mechanical levers. Although many of the modern seismographs are complicated technical devices, these instruments contain five basic parts. The clock records the exact time that the event takes place and marks the arrival time of each specific wave. The support structure, which is always securely attached to the ground, withstands the earth's vibrations during the earthquake or explosion. The inertial mass is a surface area that does not move although the earth and the support structure oscillate around it. The pivot holds the inertial mass in place, enabling it to record the earth's vibration. The vibrations are registered through the recording device: essentially a pen attached to the inertial mass and a roll of paper. The paper moves along with the earth's vibrations while the pen remains stationary. This shows the pattern of shock waves by recording thin, wavy lines, revealing the strength of the various waves as well as the frequency with which they occurred., After the first modern seismograph was installed in the United States at the University of California at Berkeley, it recorded the 1906 earthquake that devastated San Francisco. Not long before that, Weichert and fellow scientist Richard Oldham (1858–1936) were finally able to determine the existence of the earth's core through precise recordings of seismic waves. In 1909, the use of a seismograph helped Yugoslavian seismologist and meteorologist Andrija Mohorovicic (1857–1936) discover the location at which the earth's crust meets the upper mantle. That discovery was followed in 1914 by Inge Lehmann's discovery of the boundary between the earth's outer and inner core. These important findings finally secured knowledge about the existence of boundaries for all of the earth's major layers: the inner core, the outer core, the mantle, and the crust. Seismographs also help miners determine the amount of dynamite needed for quarry blasts. Seismographs detect the force of atomic blasts and nuclear explosions, and are also used to detect the speed of seismic waves traveling in the earth. This data provides valuable information about the substances of which the earth is comprised, such as the natural resources oil and coal ., See also  Earth, interior structure; Faults and fractures; Mohorovicic discontinuity (Moho); Richter scale, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Seismograph."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Seismograph." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/seismograph
+, 
+"Seismograph." 
+World of Earth Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/seismograph
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"seismograph."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"seismograph." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/seismograph
+, 
+"seismograph." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/seismograph
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+seis·mo·graph 
+/ ˈsīzməˌgraf/
+•
+n.
+an instrument that measures and records details of earthquakes, such as force and duration.
+
+DERIVATIVES: 
+seis·mo·graph·ic
+/ ˌsīzməˈgrafik/ adj.
+seis·mo·graph·i·cal
+/ ˌsīzməˈgrafikəl/ adj.
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"seismograph."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"seismograph." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/seismograph-0
+, 
+"seismograph." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/seismograph-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"seismograph."
+
+Oxford Dictionary of Rhymes.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"seismograph." 
+Oxford Dictionary of Rhymes.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/seismograph
+, 
+"seismograph." 
+Oxford Dictionary of Rhymes.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/seismograph
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The modern seismograph, Type of seismometers, Recording systems, Practical considerations, The Richter scale, Resources, A seismograph is an instrument used to detect and record motion at Earth’s surface occurring as a result of earthquakes. Such devices have a very long history that can be dated to the second century AD, when the Chinese astronomer and mathematician Chang Heng invented a simple seismoscope. The term seismoscope is reserved for instruments that detect but do not record movements. In Chang’s device, a metal pendulum was suspended inside a jar that held metal balls on its outer rim. When an earthquake occurred, the pendulum swayed back and forth causing the release of one or more balls into the mouths of bronze toads resting at the base of the jar. The number of balls released and the direction in which they fell told the magnitude and location of the earth movement., Seismographs today consist of three essential parts. One is a seismometer, a device (like the seismo-scope ) that detects earthquake movements. A second is a device for keeping time so that each movement can be correlated with a specific hour, minute, and second. The third component is some device for recording the movement and the time at which it occurred. The written record produced by a seismograph is called a seismogram., , A number of possible arrangements have been designed for detecting the motion of Earth’s surface in comparison to some immovable standard. Early seismometers, for example, extended Chang’s invention by measuring the amount by which a pendulum attached to a fixed support moved. Today, however, most seismometers can be classified as inertial or strain devices., In an inertial seismometer, a heavy mass is suspended by a spring from a heavy support that is attached to the ground. When the ground begins to move, that motion is taken up by the spring and the mass remains motionless with reference to the frame from which it is suspended. The relative motion of the frame with regard to the mass can then be detected and recorded., A strain seismometer is also known as a linear extensometer. It consists of two heavy objects sunk into the ground. When movement occurs, the two objects change their position relative to each other, a change that can be detected and recorded. Many variations in the extent design of this system have been designed. For example, a beam of light can be aimed between the two objects, and any movement in the ground can be detected by slight changes in the beam’s path., A common variation of the strain seismometer is the tiltmeter. As the name suggests, the tiltmeter measures any variation in the horizontal orientation of the measuring device. Tiltmeters often make use of two liquid surfaces as the measuring instrument. When an earth movement occurs, the two surfaces will be displaced from each other by some amount. The amount of displacement, then, is an indication of the magnitude of the earth movement., , One of the simplest approaches to the recording of earth movements is simply to attach a pen to the moving element in a seismometer. The pen is then suspended over a rotating drum to which is attached a continuous sheet of graph paper. As the drum rotates at a constant speed, the pen draws a line on the graph paper. If no movement occurs, the line is nearly straight. Earth movements that do occur are traced as sharp upward and downward markings on the graph. Because the rate at which the drum rotates is known, the exact timing of earth movements can be known., In some kinds of recording devices, the moving pen is replaced by a beam of light. Earth movements can then be recorded photographically as the beam of light travels over a moving photographic film. This type of device has the advantage that friction between pen and rotating graph paper is eliminated., Some modern seismographs incorporate digital recorders or dataloggers that record and store movements at regular intervals. Digital seismograms can be displayed on a computer screen or printed on paper, and are convenient for mathematical analysis., Seismographs must be designed in light of the fact that small-scale earth movements are constantly taking place. The seismogram produced by a simple seismograph sitting on a laboratory table, for example, would show not a straight line but a wiggly line resulting from both microearthquakes and other vibrations, both of which are generally considered to be background noise., Two methods are commonly used to eliminate background noise. The first is to sink the supports for the seismograph as deeply into bedrock as possible. When this is done, movements in the more unstable parts of Earth’s upper layers can be eliminated. A second, Inertia —The tendency of an object in motion to remain in motion, and the tendency of an object at rest to remain at rest., Pendulum —A device consisting of a weight hung from a support system so that the weight can swing back and forth as a result of Earth’s gravitational field., Seismometer —A component of a seismograph that detects earth movements., Seismoscope —A primitive type of seismograph that was capable of detecting movements in Earth’s surface, but that did not record those movements., approach is to create a network of seismographs. The data obtained from the network can then be averaged out so as to reduce or eliminate the minor fluctuations detected by any one instrument., Several methods have been devised for expressing the size of earthquakes. For many years, the most popular of these has been the Richter scale, named after seismologist Charles F. Richter, who developed the scale in 1935. The Richter scale is logarithmic. That is, each increase of one unit on the scale represents an increase of ten in the height of seismic waves and an increase of thirty-two in the amount of energy released during the earthquake. An earthquake that measures 6.0 on the Richter scale, as an example, produces waves that are ten times as high as one that measures 5.0 and one hundred times as high as one that measures 4.0. Seismologists have developed a number of other magnitude scales to address some technical difficulties associated with the Richter scale, but the underlying principles remain the same., See also Earth’s interior., Fowler, C.M.R. The Solid Earth: An Introduction to Global Geophysics. Cambridge, United Kingdon: Cambridge University Press, 2004., Richter, C.F. Elementary Seismology. San Francisco: W. H. Freeman, 1958., Tarbuck, E.J., F.K. Lutgens, and D. Tasa. Earth: An Introduction to Physical Geology. Upper Saddle River, New Jersey: Prentice Hall, 2004., David E. Newton, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Seismograph."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Seismograph." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/seismograph-1
+, 
+"Seismograph." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/seismograph-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, A seismograph is an instrument for detecting and recording motion in the Earth's surface as a result of earthquakes. Such devices have a very long history that can be dated to the second century a.d. when the Chinese astronomer and mathematician Chang Heng invented a simple seismoscope. The term seismoscope is reserved for instruments that detect earth movements, but do not record such movements. In Chang's device, a metal pendulum was suspended inside a jar that held metal balls on its outer rim. When an earth movement occurred, the pendulum swayed back and forth causing the release of one or more balls into the mouths of bronze toads resting at the base of the jar. The number of balls released and the direction in which they fell told the magnitude and location of the earth movement., Seismographs today consist of three essential parts. One is a seismometer, a device (like the seismoscope) that detects earth movements. A second component is a device for keeping time so that each earth movement can be correlated with a specific hour, minute, and second. The third component is some device for recording the earth movement and the time at which it occurred. The written record produced by a seismograph is called a seismogram., A number of possible arrangements have been designed for detecting the motion of the Earth's surface in comparison to some immovable standard. Early seismometers, for example, extended Chang's invention by measuring the amount by which a pendulum attached to a fixed support moved. Today, however, most seismometers can be classified as inertial or strain devices., In an inertial seismometer, a heavy mass is suspended by a spring from a heavy support that is attached to the ground. When the ground begins to move, that motion is taken up by the spring and the mass remains motionless with reference to the frame from which it is suspended. The relative motion of the frame with regard to the mass can then be detected and recorded., , A strain seismometer is also known as a linear extensometer. It consists of two heavy objects sunk into the ground. When earth movement occurs, the two objects change their position relative to each other, a change that can be detected and recorded. Many variations in the extent design of this system have been designed. For example, a beam of light can be aimed between the two objects, and any movement in the ground can be detected by slight changes in the beam's path., A common variation of the strain seismometer is known as a tiltmeter. As the name suggests, the tiltmeter measures any variation in the horizontal orientation of the measuring device. Tiltmeters often make use of two liquid surfaces as the measuring instrument. When an earth movement occurs, the two surfaces will be displaced from each other by some amount. The amount of displacement, then, is an indication of the magnitude of the earth movement., One of the simplest approaches to the recording of earth movements is simply to attach a pen to the moving element in a seismometer. The pen is then suspended over a rotating drum to which is attached a continuous sheet of graph paper . As the drum rotates at a constant speed, the pen draws a line on the graph paper. If no earth movement occurs, the line is nearly straight. Earth movements that do occur are traced as sharp upward and downward markings on the graph. Since the rate at which the drum rotates is known, the exact timing of earth movements can be known., In some kinds of recording devices, the moving pen is replaced by a beam of light. Earth movements can then be recorded photographically as the beam of light travels over a moving photographic film. This type of device has the advantage that friction between pen and rotating graph paper is eliminated., Seismographs must be designed so as to take into consideration the fact that small-scale earth movements are constantly taking place. The seismogram produced by a simple seismograph sitting on a laboratory table, for example, would show not a straight line but a fairly constant wiggly line resulting from these regular microearthquakes., , Two methods are commonly used to eliminate this background noise in the detection of earthquakes. The first is to sink the supports for the seismograph as deeply into bedrock as possible. When this is done, movements in the more unstable parts of the Earth's upper layers can be eliminated. A second approach is to lay out a network of seismographs. The data obtained from this network can then be averaged out so as to reduce or eliminate the minor fluctuations detected by any one instrument., A variety of methods have been devised for expressing the magnitude, or intensity, of earth movements. For many years, the most popular of these has been the Richter scale, named after seismologist Charles F. Richter, who developed the scale in 1935. The Richter scale is logarithmic. That is, each increase of one unit on the scale represents an increase of ten in the intensity of the earth movement measured. An earthquake that measures 6.0 on the Richter scale, as an example, is ten times as intense as one that measures 5.0 and one hundred times as intense as one that measures 4.0., See also Earth's interior., Richter, C.F. Elementary Seismology. San Francisco: W. H. Freeman, 1958., Scholz, C. H. The Mechanics of Earthquakes and Faulting. New York: Cambridge University Press, 1990., Grollimund, B., and M.D. Zoback. "Did Deglaciation Trigger Intraplate Seismicity in the New Madrid Seismic Zone?" Geology 29, 2 (February 2001):175-178., David E. Newton, —The tendency of an object in motion to remain in motion, and the tendency of an object at rest to remain at rest., —A device consisting of a weight hung from a support system so that the weight can swing back and forth as a result of the Earth's gravitational field., —A component of a seismograph that detects earth movements., —A primitive type of seismograph that was capable of detecting movements in the Earth's surface, but that did not record those movements., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Seismograph."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Seismograph." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+ https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/seismograph-0
+, 
+"Seismograph." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/seismograph-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

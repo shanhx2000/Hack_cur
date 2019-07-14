@@ -1,0 +1,8 @@
+References
+ "mathematics, n.". Oxford English Dictionary. Oxford University Press. 2012. Retrieved June 16, 2012. The science of space, number, quantity, and arrangement, whose methods involve logical reasoning and usually the use of symbolic notation, and which includes geometry, arithmetic, algebra, and analysis.
+ Kneebone, G.T. (1963). Mathematical Logic and the Foundations of Mathematics: An Introductory Survey. Dover. p. 4. ISBN 978-0-486-41712-7. Mathematics ... is simply the study of abstract structures, or formal patterns of connectedness.
+ LaTorre, Donald R.; Kenelly, John W.; Biggers, Sherry S.; Carpenter, Laurel R.; Reed, Iris B.; Harris, Cynthia R. (2011). Calculus Concepts: An Informal Approach to the Mathematics of Change. Cengage Learning. p. 2. ISBN 978-1-4390-4957-0. Calculus is the study of change¡ªhow things change, and how quickly they change.
+ Ramana (2007). Applied Mathematics. Tata McGraw¨CHill Education. p. 2.10. ISBN 978-0-07-066753-2. The mathematical study of change, motion, growth or decay is calculus.
+ Ziegler, G¨¹nter M. (2011). "What Is Mathematics?". An Invitation to Mathematics: From Competitions to Research. Springer. p. vii. ISBN 978-3-642-19532-7.
+
+Sound can propagate through a medium such as air

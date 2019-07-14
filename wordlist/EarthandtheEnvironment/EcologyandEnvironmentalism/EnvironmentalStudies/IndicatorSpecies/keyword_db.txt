@@ -1,0 +1,323 @@
+[Indicator species are plants and animals that, by their presence, abundance, or chemical composition, demonstrate some distinctive aspect of the character or quality of the environment. For example, in areas where metal-rich minerals can be found at the soil surface, indicator species of plants accumulate large concentrations of those minerals in their tissues. Studies have shown levels of nickel as high as 10 percent in the tissues of some varieties of the mustard plant in Russia and as high as 25 percent in the tissues of the Sebertia acuminata from the Pacific island of New Caledonia. Similarly, a relative of the mint plant found in parts of Africa has been important in the discovery of copper deposits. This plant grows only in areas that have up to 7 percent copper in their soil., More recently, indicator species have begun being used as measures of habitat or ecosystem quality. For example, many species of lichens are very sensitive to toxic gases, such as sulfur dioxide and ozone. These organisms have been monitored in many places to study air pollution. Severe damage to lichens is especially common in cities with chronic air pollution and near large producers of toxic gases, such as metal smelters., Similarly, certain types of aquatic invertebrates and fish have been surveyed as indicators of water quality and the health of aquatic ecosystems. For example, the presence of "sewage worms" (tubificids) is an, almost certain indication that water quality has been degraded by sewage or other oxygen-consuming organic matter. In contrast with most of the animals that live in an unpolluted aquatic environment, tubificid worms can tolerate water almost totally lacking in oxygen., In some cases, indicator species can be used as measures of the quality of whole habitats or ecosystems. For example, animals with a specialized requirement for old-growth forests can be used as an indicator of the health of that type of ecosystem. Old-growth dependent birds in North America include spotted owls, red-cockaded woodpeckers, and marbled murrelets. If birds such as these thrive in a particular old-growth forest, the forest can be considered to be in good ecological health. On the other hand, if the health of such species begins to decline, the indication is that the habitat itself may be in poor condition., Many governments are currently conducting research to determine which species of animals or plants can act as sentinels or lookouts for particular environmental contaminants. Through the use of indicator species, it is hoped that potential environmental problems can be identified before they result in irreparable damage., [See also Pollution ], 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Indicator Species."
+
+UXL Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Indicator Species." 
+UXL Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/indicator-species-2
+, 
+"Indicator Species." 
+UXL Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/indicator-species-2
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Indicator organisms are used to monitor water, food or other samples for the possibility of microbial  contamination . The detection of the designated species is an indication that harmful microbes, which are found in the same environment as the indicator species, may be present in the sample., Indicator organisms serve as a beacon of fecal contamination. The most common fecal microorganism that is used have in the past been designated as fecal coliforms. Now, with more specific growth media available, testing for Escherichia coli  can be done directly. The detection of  Escherichia coli  indicates the presence of fecal material from warm-blooded animals, and so the possible presence of disease producing bacteria , such as Salmonella, Shigella, and Vibrio. , To be an indicator organism, the bacteria must fulfill several criteria. The species should always be present in the sample whenever the bacterial pathogens are present. The indicator should always be present in greater numbers than the pathogen. This increases the chances of detecting the indicator. Testing directly for the pathogen, which can be more expensive and time-consuming, might yield a negative result if the numbers of the pathogen are low. Thirdly, the indicator bacterial species should be absent, or present in very low numbers, in clean water or other uncontaminated samples. Fourth, the indicator should not grow more abundantly than the pathogen in the same environment. Fifth, the indicator should respond to disinfection or sterilization treatments in the same manner as the pathogen does. For example, Escherichia coli  responds to water disinfection treatments, such as  chlorination , ozone, and ultra-violet irradiation, with the same sensitivity as does  Salmonella. Thus, if the indicator organism is killed by the water treatment, the likelihood of  Salmonella  being killed also is high., Another indicator bacterial species that is used are of the fecal  Streptococcus group. These have been particularly useful in salt water monitoring, as they persist longer in the salt water than does Escherichia coli. In addition, the ratio of fecal coliform bacteria to fecal  streptococci can provide an indication of whether the fecal contamination is from a human or another warm-blooded animal., The use of indicator bacteria has long been of fundamental importance in the monitoring of drinking water. Similar indicator organisms will be needed to monitor water against the emerging protozoan threats of  giardia and  cryptosporidium ., See also  Antibiotic resistance, tests for; Water quality, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+ "Indicator Species."
+
+World of Microbiology and Immunology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Indicator Species." 
+World of Microbiology and Immunology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/indicator-species-0
+, 
+"Indicator Species." 
+World of Microbiology and Immunology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/indicator-species-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"indicator species."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"indicator species." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/indicator-species
+, 
+"indicator species." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/indicator-species
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"indicator species analysis."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"indicator species analysis." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/indicator-species-analysis
+, 
+"indicator species analysis." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/indicator-species-analysis
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"indicator species analysis."
+
+A Dictionary of Plant Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"indicator species analysis." 
+A Dictionary of Plant Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/indicator-species-analysis-0
+, 
+"indicator species analysis." 
+A Dictionary of Plant Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/indicator-species-analysis-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"indicator species."
+
+A Dictionary of Zoology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"indicator species." 
+A Dictionary of Zoology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/indicator-species-1
+, 
+"indicator species." 
+A Dictionary of Zoology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/indicator-species-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"indicator species."
+
+A Dictionary of Plant Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"indicator species." 
+A Dictionary of Plant Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/indicator-species-0
+, 
+"indicator species." 
+A Dictionary of Plant Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/indicator-species-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"indicator species."
+
+A Dictionary of Biology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"indicator species." 
+A Dictionary of Biology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/indicator-species-2
+, 
+"indicator species." 
+A Dictionary of Biology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/indicator-species-2
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Indicator species are plants and animals that, by their presence, abundance, lack of abundance, or chemical composition, demonstrate some aspect of the character or quality of an environment., For example, in places where minerals occur in the soil, indicator species of plants can show patterns of pollution or they can be used in prospecting for potential ore. Indicator plants can accumulate large concentrations of metals in their tissues. Nickel concentrations as large as 10% have been found in the tissues of indicator plants in the mustard family (Alyssum bertolanii and A. murale ) in Russia, and a concentration as large as 25% occurs in the blue-colored latex of Sebertia acuminata from the Pacific island of New Caledonia. Similarly, Becium homblei, related to mint, has been important in the discovery of copper deposits in parts of Africa, where it is confined to soils containing more than 0.16 oz/lb (1,000 mg/kg) of copper, because it can tolerate more than 7% copper in soil. Copper mosses have been used by prospectors as botanical indicators of surface mineralizations of this metal in Scandinavia, Alaska, and Russia., Plants are also used as indicators of serpentine minerals, a naturally occurring soil constituent that in large concentrations can render the substrate toxic to the growth of most plants. The toxicity of serpentine influenced soils is mostly caused by an imbalance of the availability of calcium and magnesium, along with the occurrence of large concentrations of toxic nickel, chromium, and cobalt, and small concentrations of potassium, phosphorus, and nitrogen. Serpentine soils are common in parts of California, where they have developed a distinctive flora with a number of indicator species, many of which are endemic to this habitat type and occur nowhere else. A genus in the mustard family, Streptanthus, has 16 species endemic to serpentine sites in California. Three species have especially narrow distributions: Streptanthus batrachopus, S. bra-chiatus, and S. niger, only occur at a few sites. Streptanthus glandulosus, S. hesperidis, and S. polyga-loides maintain wider distributions, but they are also restricted to serpentine sites., , Indicator plants also occur in many semiarid areas on soils containing selenium. Some of these plants can accumulate this element to large concentrations, and they can be poisonous to livestock, causing a syndrome known as “blind staggers” or “alkali disease.” The most important selenium-accumulating plants in North America are in the genus Astragalus, of the legume family. There are about 500 species of Astragalus in North America, 25 of which can accumulate up to 15 thousand ppm (parts per million) of selenium. These species of Astragalus can emit selenium-containing chemicals to the atmosphere, which gives the plants a distinctive and unpleasant odor., Sometimes indicator species are used as measures of habitat or ecosystem quality. For example, animals that are only found in old-growth forests can be used as an indicator of the integrity of that type of ecosystem. Old-growth dependent birds in North America include the spotted owl (Strix occidentalis ), red-cockaded woodpecker (Picoides borealis ), marbled murrelet (Brachyramphus marmoratus ), and pine marten (Martes americana ). If the area and quality of old-growth forest in some area is sufficient to allow these indicator animals to maintain viable populations, this suggests something positive about the health of the larger, old-growth ecosystem., Indicator species can also be used as measures of environmental quality. For example, many species of lichens are sensitive to toxic gases, such as sulfur dioxide and ozone. The growth of these organisms has been used to study air pollution. Severe damage to lichens is especially common in cities with chronic air pollution, and near large point sources of toxic gases, such as metal smelters., Aquatic invertebrates and fish have commonly been surveyed as indicators of water quality and the health of aquatic ecosystems. If a site has populations of sewage worms or tubificids (Tubificidae), for example, it suggests that water quality has been degraded by inputs of sewage or other oxygen-consuming organic matter. Tubificid worms can tolerate virtually anoxic water, in contrast with most of the animals of unpolluted environments, such as mayflies (Ephemeroptera) and stoneflies (Plecoptera), which require well-oxygenated conditions., In some cases, the absence of a species is indicative of environmental change or contamination. For instance, if the nymphs of stoneflies mentioned are absent from a stream where they would normally be expected to reside, it might indicate a lack of oxygen or the presence of a pollutant. Caddisfly larvae, mayfly nymphs, and stonefly nymphs are often used to evaluate water quality and the presence of acid mine drainage in western Pennsylvania, where coalmining is prevalent and can affect nearby watersheds., Much research is being done to accurately establish which species of plants and animals can act as sentinels of particular environmental contaminants. Through the use of indicator species, it is hoped that potential environmental problems may be easily, and quickly, identified., See also Ecological monitoring; Water pollution., Bill Freedman, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Indicator Species."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Indicator Species." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/indicator-species
+, 
+"Indicator Species." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/indicator-species
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Indicator species are plants and animals that, by their presence, abundance, lack of abundance, or chemical composition, demonstrate some distinctive aspect of the character or quality of an environment., For example, in places where metal-rich minerals occur at the soil surface, indicator species of plants can be examined to understand the patterns of naturally occurring pollution , and they can even be a tool used in prospecting for potential ore bodies. Often, the indicator plants accumulate large concentrations of metals in their tissues. Nickel concentrations as large as 10% have been found in the tissues of indicator plants in the mustard family (Alyssum bertolanii and A. murale) in Russia, and a concentration as large as 25% occurs in the blue-colored latex of Sebertia acuminata from the Pacific island of New Caledonia. Similarly, Becium homblei, related to mint, has been important in the discovery of copper deposits in parts of Africa , where it is confined to soils containing more than 0.16 oz/lb (1,000 mg/kg) of copper, because it can tolerate more than 7% copper in soil. So-called copper mosses have been used by prospectors as botanical indicators of surface mineralizations of this metal in Scandinavia, Alaska, Russia, and elsewhere., Plants are also used as indicators of serpentine minerals, a naturally occurring soil constituent that in large concentrations can render the substrate toxic to the growth of most plants. The toxicity of serpentine influenced soils is mostly caused by an imbalance of the availability of calcium and magnesium , along with the occurrence of large concentrations of toxic nickel, chromium, and cobalt, and small concentrations of potassium, phosphorus , and nitrogen . Serpentine soils are common in parts of California, where they have developed a distinctive flora with a number of indicator species, many of which are endemic to this habitat type (that is, they occur nowhere else). A genus in the mustard family, Streptanthus, has 16 species endemic to serpentine sites in California. Three species have especially narrow distributions: Streptanthus batrachopus, S. brachiatus, and S. niger, only occur at a few sites. Streptanthus glandulosus, S. hesperidis, and S. polygaloides maintain wider distributions, but they are also restricted to serpentine sites., , Indicator plants also occur in many semiarid areas on soils containing selenium. Some of these plants can accumulate this element to large concentrations, and they can be poisonous to livestock , causing a syndrome known as "blind staggers" or "alkali disease." The most important selenium-accumulating plants in North America are in the genus Astragalus, of the legume family. There are about 500 species of Astragalus in North America, 25 of which can accumulate up to 15 thousand ppm (parts per million) of selenium in foliage. These species of Astragalus can emit selenium-containing chemicals to the atmosphere, which gives the plants a distinctive and unpleasant odor., Sometimes indicator species are used as measures of habitat or ecosystem quality. For example, animals with a specialized requirement for old-growth forests can be used as an indicator of the integrity of that type of ecosystem. Old-growth dependent birds in North America include the spotted owl (Strix occidentalis), red-cockaded woodpecker (Picoides borealis), marbled murrelet (Brachyramphus marmoratus), and pine marten (Martes americana). If the area and quality of old-growth forest in some area is sufficient to allow these indicator animals to maintain viable populations, this suggests something positive about the health of the larger, old-growth ecosystem. In contrast, if a proposed forest-harvesting plan is considered to pose a threat to the populations of these species, this also indicates a challenge to the integrity of the old-growth forest more broadly., Indicator species can also be used as measures of environmental quality. For example, many species of lichens are very sensitive to toxic gases, such as sulfur dioxide and ozone . These "species" (actually, lichens are a symbiosis between a fungus and an alga) have been monitored in many places to study air pollution . Severe damage to lichens is especially common in cities with chronic air pollution, and near large point sources of toxic gases, such as metal smelters., Similarly, aquatic invertebrates and fish have commonly been surveyed as indicators of water quality and the health of aquatic ecosystems. If a site has populations of so-called "sewage worms" or tubificids (Tubificidae), for example, this almost always suggests that water quality has been degraded by inputs of sewage or other oxygen-consuming organic matter . Tubificid worms can tolerate virtually anoxic water, in contrast with most of the animals of unpolluted environments, such as mayflies (Ephemeroptera) and stoneflies (Plecoptera), which require well-oxygenated conditions., Often, the lacking presence of an indicator species is indicative of environmental change or contamination . For instance, the nymphs of stoneflies mentioned above, if absent from a stream where they would normally be expected to reside, might indicate a lack of oxygenation or the presence of a pollutant. Caddisfly larvae, mayfly nymphs, and stonefly nymphs are often used to evaluate water quality and the presence of acid mine drainage in western Pennsylvania, where coal mining is prevalent and can affect nearby watersheds., Another current example involves frogs and salamanders as indicator species. Populations of amphibians are declining on a global scale. Their decline is thought to be an indicator of tainted environments. Therefore, the numbers of amphibians worldwide are being closely monitored. In a related example, the eggs of certain bird species are tested for the presence of organic pesticides ., Much research is being done by governments to accurately establish which species of plants and animals can act as sentinels of particular environmental contaminants. Here, the indicator species shows directly the persistence of hazardous chemicals in the environment. Through the use of indicator species, then, it is hoped that potential environmental problems may be identified before they result in irrevocable damage., See aaalso Ecological monitoring; Water pollution., Bill Freedman, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Indicator Species."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Indicator Species." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/indicator-species-1
+, 
+"Indicator Species." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/indicator-species-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

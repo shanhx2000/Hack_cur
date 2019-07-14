@@ -1,0 +1,294 @@
+[Fitness is a central concept of evolutionary biology. We will consider individual fitness, followed by fitness as applied to alleles or genotypes., The direct fitness of an individual is related to the number of offspring that that individual produces. Specifically, it is one-half of the number of
+offspring produced, because in sexual species, only half of an offspring's genes come from either parent. That proportion, one-half, represents the degree of relatedness, or proportion of genes shared, between parent and offspring., Indirect fitness derives from shared genes with kin other than the direct offspring of an individual. This might include cousins, nieces, nephews, siblings, and so on. The indirect fitness of an individual is calculated by adding the relations of that individual multiplied by the degree of relatedness. Inclusive fitness represents the sum of direct and indirect fitness., The concept of indirect fitness was developed by the evolutionary biologist W. D. Hamilton. The idea originated with attempts to explain altruistic behavior in animals. Altruistic behavior is defined as behavior that harms the actor yet benefits the recipient, and includes such actions as alarm calling, which may draw the attention of the predator to the caller., According to natural selection theory, altruistic behavior should be eliminated from populations because it hampers individual survival and reproduction. However, Hamilton noted that if altruistic behavior benefits the kin of the actor, that behavior can nonetheless be selected for. This is because kin share genes with the actor. Hamilton's Rule dictates when altruistic behavior is beneficial: Altruism is selected for if the cost of a behavior to the actor is less than the benefit to the recipient, multiplied by the recipient's degree of relatedness to the actor. Thus, altruistic acts are more likely if they benefit close kin rather than distant kin, or unrelated individuals., Kin selection explains a wide variety of altruistic behavior. It also explains the evolution of social systems in which some individuals forego reproduction in order to help parents raise siblings. This is the situation in many pack species, such as wolves. In wolves, packs are often made up of two parents and their offspring from several mating seasons. Only the parents, which are the dominant individuals in the pack, reproduce., , Kin selection also explains more extreme examples of social behavior, such as that found in eusocial insects (species in which there are non-reproductive individuals. The primary groups of eusocial insects are the Hymenoptera (ants and bees) and the termites. Both groups have evolved special genetic systems in order to make kin selection more powerful. The Hymenoptera are characterized by haplodiploidy, a genetic system in which the males are haploid and females are diploid., One consequence of haplodiploidy is that females (who are the crucial players in the colony) share a greater proportion of genes with their sisters than they would with their own offspring. It therefore benefits females to care for sisters in the colony rather than try to reproduce on their own. Termites are not haplodiploid, but they do go through repeated cycles of inbreeding, which also results in individuals sharing an unusually large proportion of their genes., Kin selection is more complicated in the real world than Hamilton's Rule suggests because the expected reproductive success of individuals must also be factored in. For example, even though an offspring only shares half its genes with a parent, the parent may protect an offspring more vigorously
+than expected because reproductive success of the younger offspring may be greater than that of the more aged parent., So far, this discussion has focused on individual fitness. Fitness can also be defined for alleles or for genotypes rather than for individuals. Allelic or genotypic fitness describes the relative contribution of one allele or geno-type to the next generation as compared to that of possible alternate alleles or genotypes. These forms of fitness are central to population genetics., , Genotypes and alleles with higher fitness are selected for in the next generation, and make up a greater proportion of the total gene pool than other genotypes and alleles. All else being equal, alleles with greater fitness will eliminate and replace alleles of lower fitness. However, the fitness of particular alleles or genotypes may depend on numerous external factors, and changes in the relative fitnesses of alternate alleles/genotypes may help maintain polymorphisms in populations, situations in which a population has multiple alleles for a given locus., One external factor determining the fitness of alleles and genotypes is the specific environment in which they are found. One well-studied example is that of the sickle-cell anemia allele. This allele is normally disadvantageous because individuals who are homozygous for the allele (that is, carrying two copies of it) have sickle-cell anemia. However, in malaria-prone areas, it has been shown that individuals who are heterozygous (carrying one sickle-cell allele and one normal allele) are more resistant than individuals who have two normal alleles. So, in areas where malaria occurs, the fitness of the sickle-cell allele is higher than in malaria-free areas., Another external factor determining the fitness of a particular allele or genotype is the alleles an individual possesses for other genes. This is called epistasis., Yet an additional external factor that may determine the fitness of an allele or genotype is its frequency in the population. This is known as frequency-dependent selection. Frequency-dependent selection is known to operate in mimicry systems, in which there are poisonous individuals as well as non-poisonous individuals of the same species that mimic the appearance of poisonous individuals. The fitness of either type depends on the relative frequencies of poisonous and nonpoisonous individuals in the population., Jennifer Yeh , Alcock, John. Animal Behavior, 4th ed. Sunderland, MA: Sinauer Associates, 1989., Futuyma, Douglas J. Evolutionary Biology. Sunderland, MA: Sinauer Associates, 1998., Ridley, Mark. Evolution. Boston: Basil Blackwell Scientific, 1993., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Fitness."
+
+Animal Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Fitness." 
+Animal Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/fitness
+, 
+"Fitness." 
+Animal Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/fitness
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Fitness is a measure of the relative performance or adaptedness of an organism represented by its genotype in a given environment. The term fitness is sometimes also used to describe other biological units, such as the gene or the population. Classically fitness is used to describe differences in survival (viability selection as described by Charles Darwin (1809–1882) with the phrase "survival of the fittest"), mating success (sexual selection), and reproductive output (fecundity selection) between individuals characterized by their genotypes and measured as their relative contribution to the next generation in terms of the number of offspring a genotype succeeds in producing and rearing to sexual maturity. A genotype that leaves more offspring will thus have a higher fitness., In the field of classical population genetics theory, evolutionary changes are exemplified by the change in gene frequency at a single gene locus with two alleles, A1 and A2, in a diploid organism. The modes of selection depend on the fitness of the heterozygote A1A2 compared to that of the homozygotes A1A1 and A2A2. If one homozygote (e.g., A1A1 ) has the highest fitness, directional selection will favor that genotype and eventually lead to fixation of allele A1. A famous example of directional selection is the industrial melanism of the peppered moth (Biston bitularia ) in England, where the black or melanic morph increased in frequency after the industrial revolution, then decreased in the 1950s when "smokeless zones" were established and tree trunks became lighter, thus giving the black morph a disadvantage due to increased risk of predation by birds., , If the heterozygote has the highest fitness, stabilizing selection or heterozygote advantage will usually maintain both alleles in the population (an example is variation at the beta–globin gene in humans, where heterozygotes have an advantage in regions with malaria, while one type of homozygotes gets sickle cell disease), while heterozygote disadvantage will lead to disruptive selection favoring both homozygotes. This simple theory was developed for one locus in infinite populations and for constant fitness coefficients by, among others, R. A. Fisher (1890–1962) and J. S. B. Haldane (1892–1964) in the 1920s and 1930s. The theory was later modified and expanded to include multiple loci and variable environments, as well as population substructure and finite populations., The shifting balance theory of Sewall Wright (1889–1988) describes the fitness landscape of more complex multilocus genotypes, where the fitness of certain genotypes has local peak values, while simple changes in genotype will lead to a fitness decrease. Shifts from one peak to another in that landscape require more complex changes with intermittent genotypes of reduced fitness. In small populations random genetic drift may counteract the selective forces that are driven by fitness differences and push populations from one peak to another., Darwin considered fitness to be a property of the individual; later biologists sometimes use the term to refer to lower levels of organization, such as, for example, a property of the gene (the idea of the selfish gene is based on this unit) or of higher levels, such as, for example, the population. Socalled group selection is based on higher units, and the concept of inclusive fitness includes contributions of related individuals who share genes. This concept of fitness has been used to explain the evolution of altruistic behaviors, such as warning calls in birds, which may bring the altruistic individual to higher risk but may benefit its genes by improving the chance of survival of relatives., See also Adaptation; Altruism; Evolution; Selection, Levels of; Selfish Gene; Sociobiology, darwin, charles. on the origin of species by means of natural selection or the preservation of favored races in the struggle for life. london: murray, 1859., haldane, j. b. s. the causes of evolution. green, new york: longmans, 1932., fisher, r. a. the genetical theory of natural selection. oxford, uk: clarendon press, 1930., wright, sewall. "evolution in mendelian populations." genetics 16 (1931): 97–159., volker loeschcke, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Fitness."
+
+Encyclopedia of Science and Religion.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Fitness." 
+Encyclopedia of Science and Religion.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/encyclopedias-almanacs-transcripts-and-maps/fitness
+, 
+"Fitness." 
+Encyclopedia of Science and Religion.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/encyclopedias-almanacs-transcripts-and-maps/fitness
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fitness."
+
+A Dictionary of Biology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"fitness." 
+A Dictionary of Biology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/fitness-2
+, 
+"fitness." 
+A Dictionary of Biology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/fitness-2
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fitness."
+
+A Dictionary of Zoology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"fitness." 
+A Dictionary of Zoology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/fitness-1
+, 
+"fitness." 
+A Dictionary of Zoology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/fitness-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+ Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fitness."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"fitness." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/fitness
+, 
+"fitness." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/fitness
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fitness."
+
+A Dictionary of Plant Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+
+"fitness." 
+A Dictionary of Plant Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/fitness-0
+, 
+"fitness." 
+A Dictionary of Plant Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/fitness-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fitness."
+
+Oxford Dictionary of Rhymes.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"fitness." 
+Oxford Dictionary of Rhymes.
+ . Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/fitness
+, 
+"fitness." 
+Oxford Dictionary of Rhymes.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/fitness
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , , , , , , ,  Neil Spurway, Bibliography,  Morris, J. et al. , (1992). Allied Dunbar National Fitness Survey. The Sports Council, London. Sharkey, B. J. (1990). Physiology of fitness, (3rd edn). Human Kinetics, Champaign, Illinois. Wilmore, J. H. and and Costill, D. L. (2000). Physiology of sport and exercise. 2nd ed. Human Kinetics, Champaign, Illinois., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fitness."
+
+The Oxford Companion to the Body.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"fitness." 
+The Oxford Companion to the Body.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/medicine/encyclopedias-almanacs-transcripts-and-maps/fitness
+, 
+"fitness." 
+The Oxford Companion to the Body.
+ . Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/medicine/encyclopedias-almanacs-transcripts-and-maps/fitness
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Fitness is a concept that supports many sports science meanings. In its most general application, fitness describes the current levels of both physical health and physical capabilities present in an athlete. Athletes have an innate understanding of what fitness is through personal experience; physical fitness is the expression that is also used to describe the optimal physical condition or "shape" of an athlete at a given time., The traditional definition of physical fitness as employed by sport experts until the mid-twentieth century concerned the range of the physical capacity of an athlete; current definitions have evolved to include a greater focus upon the general health of every bodily system that might influence fitness. The foundation question in any determination of physical fitness is the assessment of the athlete's ability to perform athletic activities vigorously, a process that involves a consideration of five distinct benchmarks. These benchmarks include: aerobic or endurance fitness, with regard to the function of both the cardiovascular system and the cardiopulmonary system; muscular endurance, representing the ability to generate sustained muscle output; muscular strength, the maximum available power; flexibility, defined as the range of motion achieved in the movement of the joints, the combined effect of the elasticity of muscles, tendons, and ligaments; and body composition, determined by the percentage of body fat in contrast to bone and muscle structure., , A physically fit athlete may possess greater degrees of fitness in one or more of the five individual fitness headings than another: fitness is a cumulative measure. As an example, a world-class soccer player may not possess formidable muscular strength, but this deficit, which is usually of secondary importance to success in that sport, will be amply compensated in the other four categories, particularly those of endurance and flexibility. Conversely, when an athlete is demonstrably fit in only one of the five areas, it is unlikely that he or she shall possess true comprehensive physical fitness. This phenomenon is often observed in disciplines such as weightlifting, in which the athlete is able to generate remarkable muscular strength, but may possess less measurable fitness in the remaining categories., Fitness is a concept which also may be understood in contrast to other familiar aspects of human performance. Physical fitness is commonly linked to considerations of life expectancy and longevity. The questions posed by these considerations seek to answer if physically fit persons tend to live longer than sedentary, unfit persons, or if a commitment to lifelong physical fitness actually extends life expectancy, or if such a commitment simply makes a genetically predetermined allotment of years more pleasurable., There appears to be little question that healthy living practices, combined with a program of physical fitness, will help reduce the risk of early life-ending diseases such as arteriosclerosis and other potentially fatal conditions of the cardiovascular system. Cardiovascular disease is the cause of more death among women in the Western world than all forms of cancer combined. Exercise contributes to the reduction of excess body weight and lessens all of the strains placed on the various physical systems that are caused by obesity. However, elimination of an early cause of ill health or death is not itself the extension of the limit of life expectancy., Fitness is sometimes sought by adult persons who have lived a demonstrably unhealthy adolescence or young adulthood. In many circumstances, these persons are seeking to reverse the negative lifestyle practices that have impacted their fitness for many years. No matter how devoted to a more healthful lifestyle in later adulthood a person may become, it is unlikely that the poor fitness choices made by an adult earlier in life can be entirely reversed. If the strength and density of physical structures such as the musculoskeletal system were compromised due to a calcium deficiency, or if the cardiovascular system was subjected to excess quantities of plaque-creating cholesterol, the impact of such negative factors may not be eradicated by subsequent health and fitness choices; however, the harmful effects will be lessened over time., Since the early 1900s, medical science has developed techniques to eliminate numerous previously fatal conditions, particularly in terms of both the prevention of communicable disease, as well as interventions that preserve life. There exists no empirical evidence to confirm that athletes live longer than non-athletes; athletes are more likely to enjoy a healthier, more desirable quality of life. It would appear that the only provable manner of extending one's life from an otherwise expected limit is to maintain strict control of calorie consumption and limit the related negative impacts of excess weight., see also Cross training; Habitual physical activity; Longevity., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Fitness."
+
+World of Sports Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Fitness." 
+World of Sports Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/sports/sports-fitness-recreation-and-leisure-magazines/fitness
+, 
+"Fitness." 
+World of Sports Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/sports/sports-fitness-recreation-and-leisure-magazines/fitness
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

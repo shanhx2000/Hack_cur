@@ -1,0 +1,69 @@
+[A variety of infectious diseases are caused by bacteria. Some bacterial infections can be treated using compounds that are collectively known as anti-biotics. Antibiotics act only on bacteria, and are not effective against viruses., The presence of antibiotics in blood or tissue samples obtained after death (post-mortem samples) can be an important clue to the presence of an infection in the deceased., The unique chemical structure of an antibiotic, relative to the natural tissue, can allow the compound to be detected. For example, cephalosporin antibiotics have been successfully detected in post-mortem samples using the technique of high-pressure liquid chromatography , which separates compounds based on their differing rates of movement through a porous support material., Antibiotics can be naturally produced. For example, the first antibiotic discovered (penicillin; discovered in 1928 by Sir Alexander Fleming) is produced by a species of a mold microorganism. There are a variety of different naturally produced antibiotics, while many other antibiotics have been chemically produced., Prior to the discovery of penicillin there were few effective treatments to battle or prevent bacterial infections. Pneumonia, tuberculosis, and typhoid fever were virtually untreatable. And, in those persons whose immune systems were not functioning properly, even normally minor bacterial infections could prove life-threatening., , In nature, antibiotics (or antimicrobials) help protect a eukaryotic cell (i.e., plant cell) or bacteria from invading bacteria (in some environments, bacteria may be in competition). In the laboratory, this protective advantage is evident as the inhibition of
+growth of bacteria in the presence of the antibiotic-producing species. Screening for antimicrobial activity is done on preparations that are obtained from a variety of sources (soil, water, plant extracts). This screening can be automated so that thousands of samples can be processed each day., The chemical synthesis of antibiotics is now very sophisticated. The antibiotic can be tailored to affect a specific target on the bacterial cell. Three-dimensional modeling of the bacterial surface and protein molecules is an important aid to antibiotic design., Penicillin is in a class of antibiotics called beta-lactam antibiotics. The name refers to the chemical ring that is part of the molecule. Other classes of antibiotics include the tetracyclines, aminoglycosides, rifamycins, quinolones, and sulphonamides. The action of these antibiotics is varied. The targets of the antibiotics are different. Some antibiotics disrupt and weaken the cell wall of bacteria (i.e., beta-lactam antibiotics), which causes the bacteria to rupture and die. Other antibiotics disrupt enzymes that are vital for bacterial survival (aminoglycoside antibiotics). Still other antibiotics target genetic material and stop the replication of deoxyribonucleic acid (DNA ) (i.e., quinolone antibiotics)., Antibiotics can also vary in the bacteria they affect. Some antibiotics kill only a few related types of bacteria and are referred to as narrow-spectrum antibiotics. Other antibiotics such as penicillin kill a variety of different bacteria. These are the broad-spectrum antibiotics., Following the discovery of penicillin, many different naturally occurring antibiotics were discovered and still many others were synthesized. They were extremely successful in reducing many infectious diseases. Indeed, in the 1970s the prevailing view was that infectious diseases were a thing of the past. However, beginning in the 1970s and continuing to the present day, resistance to antibiotics is developing., As of 2005, the problem of antibiotic resistance is so severe that many physicians and scientists think that the twenty-first century will initiate the "post antibiotic era." In other words, the use of antibiotics to control infectious bacterial disease will no longer be an effective strategy., Resistance to a specific antibiotic or a class of antibiotics can develop when an antibiotic is overused or misused. If an antibiotic is used properly to treat an infection, then all the infectious bacteria should be killed directly, or weakened such that the host's immune response will kill them. However, if the antibiotic concentration is too low, the bacteria may be weakened but not killed. The same thing can happen if antibiotic therapy is stopped too soon. The surviving bacteria may have acquired resistance, which can be genetically transferred to subsequent generations of bacteria. For example, many strains of Mycobacterium tuberculosis, the bacterium that causes tuberculosis, are resistant to one or more of the antibiotics currently used to treat the lung infection. Some strains of the Staphylococcus aureus bacteria that causes boils, pneumonia, or bloodstream infections, are resistant to most (and with one strain, all) antibiotics., see also Anthrax; Bioterrorism; L-Gel decontamination reagent; Pathogens., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Antibiotics."
+
+World of Forensic Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Antibiotics." 
+World of Forensic Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/antibiotics-0
+, 
+"Antibiotics." 
+World of Forensic Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/antibiotics-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Antibiotics are natural or synthetic compounds that kill bacteria . There are a myriad of different antibiotics that act on different structural or biochemical components of bacteria. Antibiotics have no direct effect on virus., Prior to the discovery of the first antibiotic, penicillin , in the 1930s, there were few effective ways of combating bacterial infections. Illnesses such as pneumonia , tuberculosis , and typhoid fever were virtually untreatable, and minor bacterial
+infections could blossom into life-threatening maladies. In the decades following the discovery of penicillin, many naturally occurring antibiotics were discovered and still more were synthesized towards specific targets on or in bacteria., Antibiotics are manufactured by bacteria and various eukaryotic organisms, such as plants, usually to protect the organism from attack by other bacteria. The discovery of these compounds involves screening samples against bacteria for an inhibition in growth of the bacteria. In commercial settings, such screening has been automated so that thousands of samples can be processed each day. Antibiotics can also be manufactured by tailoring a compound to hone in on a selected target. The advent of molecular sequencing technology and three-dimensional image reconstruction has made the design of antibiotics easier., , Penicillin is one of the antibiotics in a class known as beta-lactam antibiotics. This class is named for the ring structure that forms part of the antibiotic molecule. Other classes of antibiotics include the tetracyclines, aminoglycosides, rifamycins, quinolones, and sulphonamides. The action of these antibiotics is varied. For example, beta-lactam antibiotics exert their effect by disrupting the manufacture of peptidoglycan , which is main stress-bearing network in the bacterial cell wall. The disruption can occur by blocking either the construction of the subunits of the peptidoglycan or by preventing their incorporation into the existing network. In another example, amonglycoside antibiotics can bind to a subunit of the ribosome, which blocks the manufacture of protein, or can reduce the ability of molecules to move across the cell wall to the inside of the bacterium. As a final example, the quinolone antibiotics disrupt the function of an enzyme that uncoils the double helix of  deoxyribonucleic acid , which is vital if the DNA is to be replicated., Besides being varied in their targets for antibacterial activity, different antibiotics can also vary in the range of bacteria they affect. Some antibiotics are classified as narrow-spectrum antibiotics. They are lethal against only a few types (or genera) of bacteria. Other antibiotics are active against many bacteria whose construction can be very different. Such antibiotics are described as having a broad-spectrum of activity., In the decades following the discovery of penicillin, a myriad of different antibiotics proved to be phenomenally effective in controlling infectious bacteria. Antibiotics quickly became (and to a large extent remain) a vital tool in the physician's arsenal against many bacterial infections. Indeed, by the 1970s the success of antibiotics led to the generally held view that bacterial infectious diseases would soon be eliminated. However, the subsequent acquisition of resistance to many antibiotics by bacteria has proved to be very problematic., Sometimes resistance to an antibiotic can be overcome by modifying the antibiotic slightly, via addition of a different chemical group. This acts to alter the tree-dimensional structure of the antibiotic. Unfortunately, such a modification tends to produce susceptibility to the new antibiotic for a relatively short time., Antibiotic resistance , a problem that develops when antibiotics are overused or misused. If an antibiotic is used properly to treat an infection, then all the infectious bacteria should be killed directly, or weakened such that the host's immune response will kill them. However, the use of too low a concentration of an antibiotic or stopping antibiotic therapy before the prescribed time period can leave surviving bacteria in the population. These surviving bacteria have demonstrated resistance. If the resistance is governed by a genetic alteration, the genetic change may be passed on to subsequent generations of bacterial. For example, many strains of the bacterium that causes tuberculosis are now also resistant to one or more of the antibiotics routinely used to control the lung infection. As a second example, some strains of Staphylococcus aureus  that can cause boils, pneumonia, or bloodstream infections, are resistant to almost all antibiotics, making those conditions difficult to treat. Ominously, a strain of Staphylococcus (which so far has been rarely encountered) is resistant to all known antibiotics., See also  Bacteria and bacterial infection; Bacterial genetics; Escherichia coli ; Rare genotype advantage, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Antibiotics."
+
+World of Microbiology and Immunology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Antibiotics." 
+World of Microbiology and Immunology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/antibiotics
+, 
+"Antibiotics." 
+World of Microbiology and Immunology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/antibiotics
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

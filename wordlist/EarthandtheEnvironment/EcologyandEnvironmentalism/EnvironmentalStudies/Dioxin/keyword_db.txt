@@ -1,0 +1,246 @@
+[Dioxin, formed by burning chlorine-based chemical compounds with hydrocarbons, is one of the most toxic chemicals known. Dioxin is a general term
+that describes a group of hundreds of chemicals that are highly persistent in the environment. It was the highly toxic impurity of Agent Orange, a defoliant used during the Vietnam War, and was the basis for evacuations in Times Beach, Missouri, and Seveso, Italy., Dioxin has become the synonym for polychlorinated dibenzo[1,4]dioxins (PCDD) in general or the most toxic congener 2,3,7,8-tetrachloro dibenzo[1,4]dioxin (TCDD) in particular. PCDD comprise a group of seventy-five structurally similar compounds, so-called congeners. The individual congeners differ in the number and positions of the chlorine atoms in the molecule. Structurally related are the polychlorinated dibenzofurans (PCDF) (135 congeners). PCDD and PCDF are stable and fat-soluble molecules classified as persistent organic pollutants (POPs). The central element of the PCDD is the dioxin 6-ring, containing two oxygen atoms, while in PCDF it is the furan 5-ring, containing one oxygen atom. Apart from the structural similarity, they are often formed in the same processes, such as combustion., , PCDD and PCDF are formed incidentally in combustion and chemical production processes. Combustion processes include municipal and backyard waste incineration, residential and industrial burning of wood and coal, internal combustion in vehicle engines, and forest fires. Prerequisites for PCDD and PCDF formation are the presence of carbon compounds and inorganic or organic chlorine sources (e.g., sodium chloride or polyvinyl chloride). Their creation generally requires temperatures around 300°C and an excess or lack of oxygen. PCDD and PCDF are present as impurities in a variety of chemical products., Chlorophenol-based pesticides like 2,4,5-T, a phenoxy herbicide, were responsible for up to half the environmental emissions of PCDD and PCDF in the early 1970s. A 1:1 mixture of 2,4-D and 2,4,5-T was used in Agent Orange; it contained elevated levels of PCDD. An estimated 110 to 170 kilograms (kg) of 2,3,7,8-TCDD alone were sprayed with herbicides over Vietnam. Consequently, acute and chronic health effects were observed in the exposed population and military personnel. Further examples of PCDD-contaminated chemical products are the wood, leather, and textile preservative pentachlorophenol, the widely used antimicrobial triclosan, and PCDF in polychlorinated biphenyls (PCBs). Certain thermal metallurgical processes as well as chlorine-based pulp and paper bleaching emit PCDD and PCDF into the environment. In its 1995 inventory, the U.S. Environmental Protection Agency (EPA) identified municipal and medical waste incineration, backyard refuse barrel burning, secondary copper smelting, and cement kilns burning hazardous waste as the largest current sources of dioxin-like compounds., It has been claimed that 2,3,7,8-TCDD is the most toxic human-made compound, an ultra-poison. Although some evidence supports this view, the results of many studies are still controversial. 2,3,7,8-TCDD is extremely toxic to guinea pigs (the lethal dose is approximately 1 microgram or μg). For other animals and apparently for humans the acute toxicity is considerably lower. Long-term effects appear to be more serious. 2,3,7,8-TCDD was found to be the most potent multisite carcinogen in test animals, and PCDD and PCDF are also a human carcinogen. Noncancer effects may pose an even greater threat to human health. These include effects on reproduction and sexual development, teratogenic effects, endocrine disruption, suppression of the immune system, and neurological effects. PCDD and PCDF bioaccumulate and are stored in the body fat of higher organisms. About 95 percent of human exposure originates from food, especially fish, meat, eggs, and dairy products., , A 1990 global emission inventory estimated that municipal waste incineration was the major source of PCDD and PCDF in the environment. Abatement strategies focus on this issue. State-of-the-art incinerators may act as sinks for dioxins, but they are expensive to construct and operate. At a higher cost-efficiency, PCDD and PCDF reduction could be achieved by a reduction in the amount of garbage to be destroyed (e.g., by manufacturing long-lived products and using less packaging), a cessation of open waste burning, and technical improvements in as of yet less strictly regulated facilities such as cement kilns and metallurgical industries., The remediation of dioxin-contaminated sites requires sophisticated abatement methods. Cleaning the Times Beach Superfund site was a ten-year effort that included the relocation of its inhabitants, construction of a series of spur levees surrounding the site to prevent floodwater from carrying contaminated soil off-site, installing a temporary incinerator, and the excavation and burning of 265,000 tons of contaminated soil., see also
+Burn Barrels;
+Cancer;
+Endocrine Disruption;
+Health, Human;
+Incineration;
+Medical Waste;
+Persistent Organic Pollutants (POPs);
+Superfund;
+Times Beach, Missouri;
+War., IARC Working Group on the Evaluation of Carcinogenic Risks to Humans. (1997). Polychlorinated Dibenzo-para-dioxins and Polychlorinated Dibenzofurans. Lyon, France: World Health Organization, International Agency for Research on Cancer., Safe, Stephen; Hutzinger, Otto; and Hill, T.A., eds. (1990). Polychlorinated Dibenzo-pdioxins and -furans (PCDDs/PCDFs): Sources and Environmental Impact, Epidemiology, Mechanisms of Action, Health Risks. New York: Springer-Verlag., Young, Alvin L., and Reggiani, G.M., eds. (1988). Agent Orange and Its Associated Dioxin: Assessment of a Controversy. New York: Elsevier., Activists' Center for Training in Organizing and Networking (ACTION). Available from http://www.ejnet.org/dioxin., Stefan Weigel , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Dioxin."
+
+Pollution A to Z.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Dioxin." 
+Pollution A to Z.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/educational-magazines/dioxin
+, 
+"Dioxin." 
+Pollution A to Z.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/educational-magazines/dioxin
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The term dioxin refers to a large group of organic compounds that are structurally related to benzene (a colorless, flammable, and toxic [poisonous] liquid hydrocarbon, meaning it contains both carbon and hydrogen atoms) and may contain one or more chlorine atoms in their structures. Those compounds that do contain chlorine are known as chlorinated dioxins and are of the greatest environmental interest today., Dioxins have no particular uses. They are not manufactured intentionally but are often formed as by-products of other chemical procedures. Two such processes involve the manufacture of 2,4,5-T (2,4,5-trichlorophenoxyacetic acid) and hexachlorophene. 2,4,5-T was once a popular herbicide (weed-killing agent), while hexachlorophene was an antibacterial agent used in soaps and other cleaning products. The use of both compounds has now been banned in the United States., Dioxins are also formed as by-products of other industrial operations, such as the incineration of municipal wastes and the bleaching of wood pulp., All 75 chlorinated dioxins known to science are believed to be toxic to some organisms at one level or another. The most toxic of these compounds is believed to be TCDD, or 2,3,7,8-tetrachlorodibenzo-p-dioxin. The differences in toxicities of the chlorinated dioxins is illustrated by the effects of TCDD on guinea pigs, hamsters, and humans., The toxicity of a substance is commonly measured by a property known as LD50. LD50 stands for "lethal dose—50 percent." That is, the LD50 for a substance is the amount of that substance needed to kill onehalf of a test population of animals in some given period of time, usually a few days., The LD50 for TCDD for guinea pigs is 0.0006 mg/kg (milligrams per kilogram). That is, adding no more than 0.0006 milligram of TCDD per kilogram of body weight will kill half of any given population of guinea pigs. In contrast, the LD50 for hamsters is 0.045 milligrams per kilogram, making them thousands of times more resistant to TCDD than guinea pigs., , The LD50 for TCDD for humans cannot be determined the way it is for experimental animals. (Scientists can't just add TCDD to the diet of humans to see how much is needed to kill half the individuals in a sample.) However, researchers do have data about the health effects of TCDD on humans from other sources. The most important of these sources are studies of: (1) industrial exposures to toxins of chemical workers, (2) people living near a toxic waste dump at Times Beach, Missouri, and (3) an accidental release of TCDD at Seveso, Italy, in 1976., The accident in Italy involved an explosion at a chemical plant that released between 2 to 10 pounds (1 and 5 kilograms) of TCDD to the surroundings. Residues as large as 51 ppm (parts per million) were later detected in environmental samples. This accident caused the deaths of some livestock and 187 cases of chloracne among humans. Chloracne is a skin condition caused by exposure to chlorine or certain of its compounds. But scientific studies failed to find increased rates of disease among those exposed to TCDD or a higher rate of birth defects among the offspring of pregnant women in the population., Overall, studies suggest that humans are among those animals least affected by TCDD. Chloracne is probably the most common symptom of exposure to TCDD. The data on other health effects, such as disease (primarily cancer), deaths, and birth defects are much less clear. Some scientists argue that—except for massive exposures to the chemical—TCDD should be of little or no concern to health scientists. Other scientists are especially troubled, however, by possible effects resulting from long-term exposures to even small doses of TCDD., Some of the most troubling questions about dioxin concern the use of Agent Orange during the Vietnam War (a civil war between communist North Vietnam and noncommunist South Vietnam, fought mainly in the 1960s and 1970s; the United States began bombarding the North in 1964, but U.S. troops were withdrawn in 1973, shortly before the North's victory)., Agent Orange is a 50:50 mixture of 2,4,5-T and a related compound, 2,4-D (2,4-dichlorophenoxyacetic acid). The U.S. military sprayed large quantities of Agent Orange over the Vietnam countryside during the war in order to deprive the Vietnamese of food and cover. According to some estimates, more than 56,000 square miles (1.5 million hectares) of Vietnamese land were sprayed at least once., Authorities believe that the Agent Orange used in Vietnam was contaminated by TCDD at concentrations averaging about 2 parts per million. If true, a total of 240 to 375 pounds (110 to 170 kilograms) of TCDD was sprayed with herbicides onto Vietnam., Many veterans of the Vietnam War have claimed that exposure to TCDD caused them serious medical problems. A number of studies have been carried out by both governmental and private organizations, but so far those studies have not provided clear and convincing proof of the veterans' claims. Veterans' groups and other interested citizens, however, continue to push their cases about possible health effects from exposure to Agent Orange and TCDD., [See also Agrochemicals ], 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Dioxin."
+
+UXL Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Dioxin." 
+UXL Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/dioxin-1
+, 
+"Dioxin." 
+UXL Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/dioxin-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"dioxin."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"dioxin." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/dioxin
+, 
+"dioxin." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/dioxin
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"dioxin."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"dioxin." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/dioxin-0
+, 
+"dioxin." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/dioxin-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Dioxin is the chemical byproduct of certain manufacturing processes or products. It develops during the manufacture of two herbicides known as 2,4,5-T and 2,4-D , which are the two components found in Agent Orange . Dioxin is also manufactured in several other chemical processes, including the chlorinated bleaching of pulp and paper. The issue of dioxin's toxicity is one of the most hotly debated in the scientific community, involving the federal government, industry, the press, and the general public., While dioxin commonly refers to a particular compound known as tetrachlorodibenzo-p-dioxin, or TCDD, there are actually 75 different dioxins. TCDD has been studied in some manner since the 1940s, and the most recent information indicates that it is capable of interfering with a number of physiological systems. Its toxicity has been compared to plutonium and it has proven lethal to a variety of research animals, including guinea pigs, monkeys, rats, and rabbits., , TCDD is also the chemical that some scientists at the Environmental Protection Agency (EPA) and a broad spectrum of researchers have called the most carcinogenic ever studied. During the late 1980s and early 1990s, it was linked to an increased risk of rare forms of cancer in hu mans—especially soft tissue sarcoma and non-Hodgkins lymphoma—at very high doses. Some have called dioxin "the most toxic chemical known to man." According to Barry Commoner , Director of the Center for the Biology of Natural Systems at Washington University, the chemical is "so potent a killer that just three ounces of it placed in New York City's water supply could wipe out the populace.", Exposure can come from a number of sources. Dioxin can be air-borne and inhaled in drifting incinerator ash, aerial spraying, or the hand spray application of weed killers. Dioxin can be absorbed through the skin as people walk through a recently sprayed area such as a backyard or a golf course. Water runoff and leaching from agricultural lands treated with pesticides can pollute lakes, rivers, and underground aquifers. Thus, dioxin can be ingested in contaminated water, in fish, and in beef that has grazed on sprayed lands. Residues in plants consumed by animals and humans add to the contaminated food chain/web . Research has shown that nursing children now receive trace amounts of dioxin in their mother's milk., Because it bioaccumulates in the environment , TCDD continues to be found in the soil and waterways in microscopic quantities over 25 years after its first application. Dioxin is part of a growing family of chemicals known as organochlorines—a class of chemicals in which chlorine is bonded with carbon . These chlorinated substances are created to make a number of products such as polyvinyl chloride , solvents, and refrigerants as well as pesticides. Hundreds or thousands of organochlorines are produced as by-products when chlorine is used in the bleaching of pulp and paper or the disinfection of wastewater and when chlorinated chemicals are manufactured or incinerated. The by-products of these processes are toxic, persistent, and hormonally active. TCDD is also part of current manufacturing processes, such as the manufacture of the wood preservative, pentachlorophenol ., , If the exposure to dioxin is intense, there can be an immediate response. Tears and watery nasal discharge have been reported, as have intense weakness, giddiness, vomiting, diarrhea, headaches, burning of the skin, and rapid heartbeat. Usually, a weakness persists and a severe skin eruption known as chloracne develops after a period of time. The body excretes very little dioxin, and the chemical can accumulate in the body fat after exposure. Minute quantities may be found in the body years after modest exposure. Since TCDD's half-life has been estimated at as much as 10–12 years in the soil, it is possible that some TCDD—suggested to be as much as seven parts per trillion (ppt)—is harbored in the bodies of most Americans., The development of medical problems may appear shortly after exposure, or they may appear 10, 12, or 20 years later. If the exposure is large, the symptoms develop more quickly, but there is a greater latency period for smaller exposures. This fact explains why humans exposed to TCDD may appear healthy for years before finally showing what many consider to be typical dioxin-exposure symptoms, such as cancer or immune system dysfunction. There is also a relationship between toxicology and individual susceptibility. Certain people are more susceptible to the effects of dioxin exposure than others. Once a person has become susceptible to the chemical, he or she tends to develop cross reactions to other materials that would not normally trigger any response., Government publications and research funded by the chemical industry have questioned the relationship between dioxin exposure and many of these symptoms. But a growing number of private physicians treating people exposed to dioxins have become increasingly certain about patterns or clusters of symptoms. They have reported a higher incidence of cancer at sites of industrial accidents, including increases in rates of stomach cancer, lung cancer, soft-tissue sarcomas, and malignant lymphomas. Some reports have indicated that soft-tissue sarcomas in dioxin-exposed workers have increased by a factor of 40, and there have also been indications of psychological and personality changes and an excess of coronary disease., , Many theories about the medical effects of dioxin exposure are based on the case histories of the thousands of American military personnel exposed to Agent Orange during the Vietnam War. Agent Orange, a chemical defoliant, was used despite the fact that certain chemical companies and select members of the military knew about its toxic properties. Thousands of American ground troops were directly sprayed with the chemical. Those in the spraying planes inhaled the chemical directly when some of the herbicides were blown back by the wind into the open doors of their planes. Others were exposed to accidental dumpings from the sky, when planes in trouble had to evacuate their loads during emergency procedures., Despite what many consider to be the obvious dangers of dioxin, industries continue to produce residues and market products contaminated with the chemical. White bleached paper goods contain quantities of TCDD because no agency has required the paper industry to change its bleaching process. Women use dioxin-tainted, bleached tampons, and infants wear bleached, dioxin-tainted paper diapers. Some scientists have estimated that every person in the United States carries a body burden of dioxin that may already be unacceptable., Many believe that the EPA has done less to regulate dioxin than it has done for almost any other toxic substance . Environmentalists and other activists have argued that any other chemical creating equivalent clusters of problems within specific groups of similarly exposed victims would be considered an epidemic. Industry experts have often downplayed the problems of dioxin. A spokesman for Dow Chemical has stated that "outside of chloracne, no medical evidence exists to link up dioxin exposure to any medical problems." The federal government and federal agencies have also been accused of protecting their own interests. During congressional hearings in 1989 and 1990, the Centers for Disease Control was found to falsify epidemiology studies on Vietnam veterans., , In April 1991, the EPA initiated a series of studies intended to revise their estimate of dioxin's toxicity. The agency believed there was new scientific evidence worth considering. Several industries, particularly the paper industry, had also pressured the agency to initiate the studies, in the hope that public fears about dioxin toxicity could be allayed. But the first draft of the revised studies, issued in the summer of 1992, indicated more rather than fewer problems with dioxin. It appears to be the most damaging to animals exposed while still in the uterus. It also seems to affect behavior and learning ability, which suggests that it may be a neurotoxin . These studies have also noted the possibility of extensive effects on the immune system., Other studies have established that dioxin functions like a steroid hormone. Steroid hormones are powerful chemicals that enter cells, bind to a receptor or protein, form a complex that then attaches to the cell's chromosomes, turning on and off chemical switches that may then affect distant parts of the body. It is not unusual for very small amounts of a steroid hormone to have major effects on the body. Newer studies conducted on wildlife around the Great Lakes have shown that dioxin has the capacity to feminize male chicks and rats and masculinize female chicks and rats. In male animals, testicle size is reduced as is sperm count., It is likely that dioxin will remain a subject of considerable controversy both in the public realm and in the scientific community for some time to come. However, even those scientists who question dioxin's long-term toxic effect on humans, agree that the chemical is highly toxic to experimental animals. Dioxin researcher Nancy I. Kerkvliet of Oregon State University in Corvallis characterizes the situation in these terms, "The fact that you can't clearly show the effects in humans in no way lessens the fact that dioxin is an extremely potent chemical in animals—potent in terms of immunotoxicity, potent in terms of promoting cancer.", See also
+Bioaccumulation;
+Hazardous waste;
+Kepone;
+Organochloride;
+Pesticide residue;
+Pulp and paper mills;
+Seveso, Italy;
+Times Beach, Missouri, [Liane Clorfene Casten ], Husar, R. B. Biological Basis for Risk Assessment of Dioxins and Related Compounds. Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press, 1991., "German Dioxin Study Indicates Increased Risk." BioScience 42 (February 1992): 151., Gough, M. "Agent Orange: Exposure and Policy." American Journal of Public Health 81 (March 1991): 289-90., Schmidt, K. F. "Dioxin's Other Face: Portrait of an 'Environmental Hor mone'." Science News 141 (11 January 1992): 24-7., Tschirley, F. "Dioxin." Scientific American 254 (February 1986): 29-35., Zumwalt, Admiral Elmo R. Jr. USN (Ret.) "Report to the Secretary of Veterans Affairs, The Hon. Edward J. Derwinski. From the Special Assistant: Agent Orange Issues." First Report, May 5, 1990., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Dioxin."
+
+Environmental Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+ , 
+"Dioxin." 
+Environmental Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/dioxin
+, 
+"Dioxin." 
+Environmental Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/dioxin
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Resources, Dioxins are a class of organic compounds, with a basic structure that includes two oxygenatoms joining a pair of benzene rings. Chlorinated dioxins have some amount of substitution with chlorine for hydrogen atoms in the benzene rings. A particular chemical, 2, 3, 7, 8-tetrachlorodibenzo- p -dioxin (abbreviated as TCDD, or as 2, 3, 7, 8-TCDD), is one of 75 chlorinated derivatives of dibenzo- p -dioxin. There is a very wide range of toxicity within the larger group of dioxins and chlorinated dioxins, but TCDD is acknowledged as being the most poisonous dioxin compound to certain species of animals., Dioxins have no particular uses. They are not manufactured intentionally, but are synthesized incidentally during some industrial processes. For example, under certain conditions relatively large concentrations of dioxins are inadvertently synthesized during industrial reactions involving 2, 4, 5-trichlorophenol. A well-known case of this phenomenon is in the manufacturing of the phenoxy herbicide, 2, 4, 5-T (2, 4, 5-trichlorophenoxy acetic acid). This chemical (which is no longer used) was once manufactured in large amounts, and much of the material was badly contaminated by TCDD. Concentrations in the range of 10-50 parts per million (ppm, or mg per liter) occurred in 2, 4, 5-T manufactured for use during the Vietnam War. However, there was a much smaller contamination (less than 0.1 ppm) in 2, 4, 5-T manufactured after 1972, in accordance with regulations enacted by the U.S. Environmental Protection Agency., , TCDD is also a trace contaminant of other products manufactured from trichlorophenol, including hexachlorophene, once commonly used as a topical antibacterial treatment. TCDD is incidentally synthesized when wood pulp is bleached using chlorine-based oxidants. The low-temperature combustion of chlorine-containing organic materials (for example, in cigarettes, burning garbage dumps, and barbecues) also produce dioxins, including TCDD. The incineration of municipal waste synthesizes small quantities of TCDD, although the relatively high temperatures reduce the yield of dioxins compared with the smoldering kinds of combustion just mentioned. Dioxins are also synthesized naturally in trace quantities, mostly during forest fires., TCDD is a persistent chemical in the environment, and because it is virtually insoluble in water, but highly soluble in fats and oils, it strongly biomagnifies and occurs in especially large concentrations in predators at the top of the ecological food web. Moreover, TCDD is globally distributed, meaning that any chemical analysis of a biological tissue, especially of the fat of an animal, will detect residues of this dioxin (assuming that the analytical chemistry is sensitive enough)., TCDD is the most toxic of the chlorinated dioxins, while octachlorodioxin may be the least toxic. However, there are large differences in the susceptibility of species to suffering toxicity from TCDD. The guinea pig, for example, is extremely sensitive to TCDD, thousands of times more so than the hamster., Short-term or acute toxicity is often indicated by a laboratory assay known as lethal dose (LD)50, or the dose of a chemical required to kill one-half of a test population of organisms over a period of several days. Guinea pigs have a LD for TCDD in food of only 0.0006 mg/kg (0.0006 mg of TCDD per kg body weight). In comparison, rats have a LD50 for TCDD in food of 0.022-0.045 mg/kg, while hamsters have a LD50 of 1 mg/kg., , Depending on the dose and biological sensitivity, the symptoms of TCDD toxicity in mammals can include severe weight loss, liver damage, lesions in the vascular system, stomach ulcers, a persistent acne known as chloracne, birth defects, and ultimately, death., Much of what is known about the toxicity of TCDD to humans has come from studies of industrial exposures of chemical workers, people living near a toxic waste dump at Times Beach, Missouri, and an accidental event at Seveso, Italy, in 1976. The latter case involved an explosion at a chlorophenol plant that released an estimated 2.2-11 lbs (1-5 kg) of TCDD to the surroundings, and caused residues as large as 51 ppm to occur in environmental samples. This accident caused the deaths of some livestock within 2-3 days, but remarkably it was not until 2.5 weeks had passed that about 700 people were evacuated from the severely contaminated residential area near the factory. The exposure of humans to TCDD at Seveso caused 187 diagnosed cases of chloracne, but there were apparently no statistically detectable increases in the rates of other human diseases, or of deformities of children born to exposed women., Overall, studies of humans suggest that they are among the least-sensitive mammals to suffering toxicity from TCDD. While chloracne is a common symptom of an acute human exposure to TCDD, the evidence showing increased rates of TCDD-related disease, mortality, cancer, or birth defects are equivocal, and controversial. Some scientists believe there is no evidence that a human has ever died from an acute exposure to TCDD. However, there is unresolved scientific controversy about the possible effects of longer-term, chronic exposures of humans to TCDD, which might result in increased rates of developmental abnormalities or cancers. Unless large, these effects, Acute toxicity— A poisonous effect produced by a single, short-term exposure to a toxic chemical, resulting in obvious tissue damage, and even death of the organism., Chronic toxicity— This is a poisonous effect that is produced by a long period of exposure to a moderate, sub-acute dose of some toxic chemical. Chronic toxicity may result in anatomical damages or disease, but it is not generally the direct cause of death of the organism., Epidemiology— The study of the incidence, control, and transmission of diseases in large populations., would be difficult to detect, because of the great environmental and genetic variations that must be overcome in epidemiological studies of humans., Dioxin was one of the defioliants that became infamous during and in the decades following the Vietnam War. To deprive their enemy of food and cover during this conflict, the U.S. military sprayed large quantities of herbicides. More than 547, 000 square miles of terrain were sprayed at least once. The most commonly used herbicide was a 50:50 mixture of 2, 4, 5-T and 2, 4-D, known as Agent Orange. More than 46 million lb (21 million kg) of 2, 4, 5-T and 55 million lb (25 million kg) of 2, 4-D were sprayed during this extensive military program., An important aspect of the military use of herbicides in Vietnam was contamination of the 2, 4, 5-T by TCDD. A concentration as large as 45 ppm was measured in Agent Orange, but the average concentration was about 2 ppm. In total, 243-375 lb (110-170 kg) of TCDD was sprayed with herbicides onto Vietnam., Because TCDD is known to be extremely toxic to some laboratory animals, there has been tremendous controversy over the possible short and long-term effects of exposure of soldiers and civilians to TCDD in Vietnam. Although claims have been made of effects in exposed populations, the studies have not been convincing to many scientists, and there is still controversy. The apparent, mainstream opinion from the most rigorous epidemiological studies suggests that large toxic effects have not occurred, which is encouraging. It is also likely that the specific effects of TCDD added little to the very substantial ecological effects caused by the use of military use of herbicides, and other weapons of mass destruction, during the Vietnam War., Allen, Robert. The Dioxin War: Truth and Lies About a Perfect Poison. London: Pluto Press, 2004., Crummett, Warren B. Decades of Dioxin: Limelight on a Molecule. Philadelphia: Xlibris Corporation, 2002., Schecter, Arnold and Thomas A. Gasiewicz (eds.). Dioxins and Health. New York: Wiley-Interscience, 2003., Bill Freedman, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Dioxin."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Dioxin." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/dioxin
+, 
+"Dioxin." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/dioxin
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Chlorinated dioxins are a diverse group of organic chemicals. TCDD, or 2,3,7,8-tetrachlorodibenzo-p-dioxin, is a particular dioxin that is toxic to some species of animals in extremely small concentrations. As such, TCDD is the most environmentally controversial of the chlorinated dioxins, and the focus of this entry., Dioxins are a class of organic compounds, with a basic structure that includes two oxygen atoms joining a pair of benzene rings. Chlorinated dioxins have some amount of substitution with chlorine for hydrogen atoms in the benzene rings. A particular chemical, 2,3,7,8-tetrachlorodibenzo-p-dioxin (abbreviated as TCDD, or as 2,3,7,8-TCDD), is one of 75 chlorinated derivatives of dibenzo-p-dioxin. There is a very wide range of toxicity within the larger group of dioxins and chlorinated dioxins, but TCDD is acknowledged as being the most poisonous dioxin compound, at least to certain species of animals., Dioxins have no particular uses. They are not manufactured intentionally, but are synthesized incidentally during some industrial processes. For example, under certain conditions relatively large concentrations of dioxins are inadvertently synthesized during industrial reactions involving 2,4,5-trichlorophenol. A well known case of this phenomenon is in the manufacturing of the phenoxy herbicide, 2,4,5-T (2,4,5-trichlorophenoxy acetic acid ). This chemical (which is no longer used) was once manufactured in large amounts, and much of the material was badly contaminated by TCDD. Concentrations in the range of 10-50 parts per million (ppm, or mg per liter) occurred in 2,4,5-T manufactured for use during the Vietnam War. However, there was a much smaller contamination (less than 0.1 ppm) in 2,4,5-T manufactured after 1972, in accordance with regulations enacted by the U.S. Environmental Protection Agency., , TCDD is also a trace contaminant of other products manufactured from trichlorophenol, including hexachlorophene, once commonly used as a topical antibacterial treatment. TCDD is incidentally synthesized when wood pulp is bleached using chlorine-based oxidants. The low-temperature combustion of chlorine-containing organic materials (for example, in cigarettes, burning garbage dumps, and barbecues) also produce dioxins, including TCDD. The incineration of municipal waste synthesizes small quantities of TCDD, although the relatively high temperatures reduce the yield of dioxins compared with the smoldering kinds of combustion just mentioned. Dioxins are also synthesized naturally in trace quantities, mostly during forest fires., TCDD is a persistent chemical in the environment, and because it is virtually insoluble in water , but highly soluble in fats and oils, it strongly biomagnifies and occurs in especially large concentrations in predators at the top of the ecological food web. Moreover, TCDD is globally distributed, meaning that any chemical analysis of a biological tissue , especially of the fat of an animal , will detect residues of this dioxin (assuming that the analytical chemistry is sensitive enough)., TCDD is the most toxic of the chlorinated dioxins, while octachlorodioxin may be the least so. However, there are large differences in the susceptibility of species to suffering toxicity from TCDD. The guinea pig, for example, is extremely sensitive to TCDD, thousands of times more so than the hamster., Short-term or acute toxicity is often indicated by a laboratory assay known as LD50, or the dose of a chemical required to kill one-half of a test population of organisms over a period of several days. Guinea pigs have a LD for TCDD in food of only 0.0006 mg/kg (that is, 0.0006 mg of TCDD per kg body weight). In comparison, rats have a LD50 for TCDD in food of 0.022-0.045 mg/kg, while hamsters have a LD50 of 1 mg/kg. Clearly, TCDD is a highly toxic chemical, although species vary greatly in sensitivity., , Depending on the dose and biological sensitivity, the symptoms of TCDD toxicity in mammals can include severe weight loss, liver damage, lesions in the vascular system, stomach ulcers , a persistent acne known as chloracne, birth defects , and ultimately, death., Much of what is known about the toxicity of TCDD to humans has come from studies of: (1) industrial exposures of chemical workers, (2) people living near a toxic waste dump at Times Beach, Missouri, and (3) an accidental event at Seveso, Italy, in 1976. The latter case involved an explosion at a chlorophenol plant that released an estimated 2.2-11 lb (1-5 kg) of TCDD to the surroundings, and caused residues as large as 51 ppm to occur in environmental samples. This accident caused the deaths of some livestock within 2-3 days, but remarkably it was not until 2.5 weeks had passed that about 700 people were evacuated from the severely contaminated residential area near the factory. The exposure of humans to TCDD at Seveso caused 187 diagnosed cases of chloracne, but there were apparently no statistically detectable increases in the rates of other human diseases, or of deformities of children born to exposed women., Overall, studies of humans suggest that they are among the least-sensitive mammals to suffering toxicity from TCDD. While chloracne is a common symptom of an acute human exposure to TCDD, the evidence showing increased rates of TCDD-related disease , mortality, cancer , or birth defects are equivocal, and controversial. Some scientists believe there is no evidence that a human has ever died from an acute exposure to TCDD. However, there is unresolved scientific controversy about the possible effects of longer-term, chronic exposures of humans to TCDD, which might result in increased rates of developmental abnormalities or cancers. Unless large, these effects would be difficult to detect, because of the great environmental and genetic variations that must be overcome in epidemiological studies of humans., , To deprive their enemy of food and cover during the Vietnam War, the U.S. military sprayed large quantities of herbicides . More than 547,000 sq mi (1.4 million ha) of terrain were sprayed at least once. The most commonly used herbicide was a 50:50 mixture of 2,4,5-T and 2,4-D, known as Agent Orange . More than 46 million lb (21 million kg) of 2,4,5-T and 55 million lb (25 million kg) of 2,4-D were sprayed during this extensive military program., An important aspect of the military use of herbicides in Vietnam was contamination of the 2,4,5-T by TCDD. A concentration as large as 45 ppm was measured in Agent Orange, but the average concentration was about 2 ppm. In total, 243-375 lb (110-170 kg) of TCDD was sprayed with herbicides onto Vietnam., Because TCDD is known to be extremely toxic to some laboratory animals, there has been tremendous controversy over the possible short and long-term effects of exposure of soldiers and civilians to TCDD in Vietnam. Although claims have been made of effects in exposed populations, the studies have not been convincing to many scientists, and there is still controversy. The apparent, mainstream opinion from the most rigorous epidemiological studies suggests that large toxic effects have not occurred, which is encouraging. It is also likely that the specific effects of TCDD added little to the very substantial ecological effects caused by the use of military use of herbicides, and other weapons of mass destruction, during the Vietnam War., See also Biomagnification., Freedman, B. Environmental Ecology. 2nd ed. San Diego: Academic Press, 1995., Harris, W.E. "Dioxins—An Overview." Tappi Journal (April 1990): 267-69., Bill Freedman, —A poisonous effect produced by a single, short-term exposure to a toxic chemical, resulting in obvious tissue damage, and even death of the organism., —This is a poisonous effect that is produced by a long period of exposure to a moderate, sub-acute dose of some toxic chemical. Chronic toxicity may result in anatomical damages or disease, but it is not generally the direct cause of death of the organism., —The study of the incidence, control, and transmission of diseases in large populations., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Dioxin."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Dioxin." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/dioxin-0
+, 
+"Dioxin." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/dioxin-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

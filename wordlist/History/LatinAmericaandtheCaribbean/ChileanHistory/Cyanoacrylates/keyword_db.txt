@@ -1,0 +1,71 @@
+[Fingerprints are the impressions that are left behind by tiny ridges in the skin on the tips of the fingers and on the palms of the hand. The patterns left by these ridges, which are called friction ridges, are unique to every person. They are determined by the time a fetus is about six months old and they remain constant throughout a person's life. Even identical twins with identical DNA have different patterns of friction ridges on their fingers. Although many features of a person can be changed, fingerprints cannot. As a result, fingerprints are an extremely important tool for identification of individuals., The outer layer of skin contains many microscopic pores that secrete sweat and oils. Sweat is mostly water, but it contains a very small fraction (1.5%) of salt, amino acids, and proteins. These
+chemicals remain on the skin after the water evaporates. The skin also contains sebaceous glands, which produce oils. Although the fingertips contain few sebaceous glands, the face and head contain many and people touch their faces and hair often, transferring oil to the fingertips. The oil and the residual chemicals from sweat cling to the surface of the fingers and attract dirt and other substances such as cosmetics and grease from foods and oils. Whenever a person touches something, these residues are transferred to that surface. Since people rarely commit crimes without using their hands, the prints from their fingers are often left on surfaces at the crime scene., , Detectives look for fingerprints at crime scenes in locations where things have been broken or disturbed. They also usually check the doorknobs and doorways, where a criminal may have entered or exited. Fingerprints can be found on a variety of surfaces including paper, human
+skin, smooth surfaces, painted surfaces, glass , the insides of gloves and firearms . They can last for a just a few hours in cold, dry weather or they may be visible indefinitely in warm, moist environments., Fingerprints are classified into three groups. Plastic prints are prints that make an impression on a pliant surface like putty or tacky paint. Visible prints occur when someone has a material on their fingers that leaves a visible mark, such as blood , ink, or make-up. The most common fingerprints are called latent prints and they are formed from the oils and residues on the hands. Latent prints must be developed using one of many different chemical techniques., Dusting for fingerprints is the most common technique for visualizing a latent print. This process begins by dipping a very soft brush into very fine powder. Most fingerprint kits contain black, gray, white, and red powders and the detective will choose a color of powder that contrasts best with the surface on which the print has been left. The detective carefully brushes the powder over the print and then blows the excess powder away. After the print becomes visible, it is photographed and then transferred onto special tape in a process called lifting., Several other chemicals and techniques are commonly used to develop latent prints, and they are chosen depending on the surface and other environmental conditions. A chemical called ninhydrin, which is attracted to the amino acids that remain on the skin after the water in sweat evaporates, is used to develop fingerprints on paper. Iodine fumes can also be used to develop fingerprints on paper. The iodine vapors react with oils, turning them a brownish-violet color. Surfaces containing fingerprints can be dipped into or sprayed with silver nitrate, which turns black in the presence of salt. SuperglueTM fumes, which produce white crystals in the presence of moisture in the fingerprints, are also commonly used to develop latent prints. In addition, specialized light sources, such as lasers and ultraviolet lights, can be used to make latent prints appear in situations where chemical techniques are impractical., There are three basic classifications of fingerprints: arches, loops, and whorls. Of these, loops are by far the most common, next are whorls and a small fraction are arches. Arches are classified into plain arches, which are generally symmetric arched friction ridges, and tented arches, which become so
+narrow that their core is a single friction ridge. Loops look somewhat like a cursive letter "e," but can be slanted either to the right or to the left. Loops are subdivided into radial loops, which flow towards the thumb, and ulnar loops, which flow toward the little finger. Whorls are circular or spiral shapes. They are subdivided into plain whorls, double loop whorls, central pocket whorls, and accidentals. As a result there are eight major categories of fingerprint patterns., Fingerprint experts start with the basic patterns of friction ridges when they study fingerprints, but they depend heavily on the details called minutiae within fingerprints. These minutiae include ridge endings, dots, short ridges, bifurcations, and trifurcations. In addition, the location of sweat pores and the pores for oil glands serve as markers that can be used for identification., see also Bloodstain evidence; Crime scene investigation; Fingerprint; Superglue® fuming., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Fingerprint."
+
+World of Forensic Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Fingerprint." 
+World of Forensic Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fingerprint
+, 
+"Fingerprint." 
+World of Forensic Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fingerprint
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Superglue® fuming, also known as cyanoacrylate fuming, is one of the processes used to chemically enhance fingerprints on smooth or nonporous surfaces. When an object is subjected to superglue fuming, fingerprints that are present on its nonporous parts will appear in white. Further dying is possible, increasing the contrast with the background. This technique is one of the most used fingerprint enhancement techniques and has a paramount role in forensic sciences. It allows the observation of fingerprints that would not otherwise be detected. It was first used in 1978 by the Criminal Identification Division of the Japanese National Police Agency., Superglues are monomeric liquids of cyanoacrylate esters. They are also known as high-strength or rapid glues. When vaporized, the cyanoacrylate ester vapors will selectively polymerize on the secretions left by fingerprints on nonporous surfaces. The resulting hard, white polycyanoacrylate coating covers the fingerprint pattern. This provides the forensic scientist with a first enhancement of the contrast of the fingerprint to the surface. If this enhancement is not enough, it is then possible, after allowing the fingerprint to dry for a moment, to apply different dyes selectively on the polymerized glue. Some of these dyes are also fluorescent (light-emitting) at given wavelengths, which greatly improves the contrast to the background., In order to process an object for fingerprints with Superglue® fuming, the object is placed in a small chamber. The humidity inside the chamber is important, and a relative humidity of 80% is recommended; air that is too dry provides poor results. The Superglue® is placed on a hot plate and heated to about 212°F (100°C). The surfaces of the object are monitored, and the process is stopped as soon as the fingerprints appear with enough contrast. Many crime laboratories use a homemade unit, comprised of a recycled fish tank, a beaker with water, a small fan to produce humidity, and a modified soldering iron to vaporize the Superglue®. Over time, some companies have developed units specially designed for this
+process that allow for more accurate control of the humidity, temperature of vaporization, and vapor circulation. Different portable systems have also been developed for field work, and some police agencies have built big chambers to accommodate vehicles., see also Alternate light source analysis; Fingerprint; Fluorescence., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Superglue® Fuming."
+
+World of Forensic Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Superglue® Fuming." 
+World of Forensic Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/supergluer-fuming
+, 
+"Superglue® Fuming." 
+World of Forensic Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/supergluer-fuming
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

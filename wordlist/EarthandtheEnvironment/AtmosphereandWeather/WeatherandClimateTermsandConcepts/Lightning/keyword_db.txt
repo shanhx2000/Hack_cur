@@ -1,0 +1,425 @@
+[Lightning is a large electrical discharge produced by well-developed thunderstorms, a huge spark followed by a rumbling noise of thunder . Lightning can happen within the cloud (intra-cloud), between two clouds (inter-cloud), or from the cloud to the ground. A lightning bolt can heat the air as much as five times hotter than the surface temperature of the Sun , or about 54,000°F (30,000°C). This heated air causes expansion in the air as an explosion, starting a shock wave that turns into a sound wave upon reaching the human ear. Thunder travels in all directions (radially) from the lightning at the speed of sound, approximately 738 mph (1,188 kph) at sea level. Because it takes the sound about five seconds to travel each mile (about three seconds for one kilometer), the time between the lightning and the thunder can give a rough estimate of how far an observer is from a thunderstorm., The quick flash that can be seen as lightning occurs as a complex series of events. In order to have lightning, separate regions of electrical charges must be present in a cumulonimbus cloud. There are several hypotheses as to how this occurs. One mechanism may involve falling ice particles within the cloud that transfer ions. This results in a positively charged upper part and a negatively charged middle part in the cloud. The bottom of the cloud is also mostly negatively charged, causing part of the ground underneath to become positively charged. In the insulating dry air an electrical field builds up, and when it reaches a threshold potential, the air is no longer insulating and, as a current flows, lightning occurs., Cloud-to-ground lightning (arguably the best understood among the different types of lightning) starts inside the cloud when a critical value of the localized electric field is reached along a path, so a surge of electrons will move to the cloud base, then gradually down to the ground. A short (165 ft,, or 50 m) and narrow (4 in, or 10 cm) conducting channel is created by ionized air molecules, which are produced by the electron flow out of the cloud. These surges of electrons move downward in a series of steps for about 165–328 ft (50–100m), then they stop for about 50-millionths of a second, and continue for another 165 ft, creating a stepped leader form of transit. Near the ground, a current of positive charge goes up from the ground to meet the stepped leader, and when they meet, many electrons flow into the ground, and a bright return stroke moves up, following the path of the stepped leader up to the cloud, releasing heat, thunder, and charges. The subsequent leader is called the dart leader and, for subsequent flashes, the same processes reoccur in a similar cycle. Usually, a lightning flash has approximately three or four leaders, each of them accompanied by a return stroke., To distinguish the several different appearances of lightning, the forms are assigned special names. Heat lightning (also termed clear-air lightning) occurs when lightning can be seen but the following thunder cannot be heard. Forked lightning occurs when a dart leader moving toward the ground diverges from the original path of the stepped leader, so that the lightning seems to be crooked or forked. When the wind moves the ionized channel between the return strokes, the lightning looks like a ribbon hanging from a cloud, so it is called a ribbon lightning. Bead lightning looks like a series of beads on a string, and it occurs as the lightning channel disintegrates. Sheet lightning appears as a white sheet, and it occurs either when clouds obscure the lightning, or when the lightning flash happens within a cloud. St. Elmo's Fire, named after the patron of sailors, is a corona discharge, a nonstop supply of sparks in the air, which happens when a positive current moves up on pointed objects. Ball lightning often appears as a luminous, floating sphere in the air. The various mechanisms underlying the varying forms of lightning remain a subject of intensive meteorological research., During a thunderstorm, usually the tallest object in the area is struck because this provides the most rapid form of current transit to lowest energy state. At any moment, there are about 2,000 thunderstorms worldwide, generating about 100 lightning flashes per second. A lightning stroke can deliver a current as great as 100,000 amperes, which can cause electrocution in humans and animals. About 100 people die in a year in the United States alone from lightning, and lightning causes billions of dollars in damage each year., See also  Atmospheric circulation; Atmospheric composition and structure; Atoms; Clouds and cloud types; Meteorology, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Lightning."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Lightning." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/lightning
+, 
+"Lightning." 
+World of Earth Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/lightning
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, lightning, electrical discharge accompanied by thunder, commonly occurring during a thunderstorm. The discharge may take place between one part of a cloud and another part (intracloud), between one cloud and another (intercloud), between a cloud and the earth, or earth and cloud; more rarely observed is the electrical discharge sometimes called
+"upward lightning,"
+a superbolt between a cloud and the atmosphere tens of thousands of feet above the cloud. Lightning may appear as a jagged streak (forked lightning), as a vast flash in the sky (sheet lightning), or, rarely, as a brilliant ball (ball lightning). Illumination from lightning flashes occurring near the horizon, often with clear skies and the accompanying thunder too distant to be audible, is referred to as heat lightning. Charges are believed to accumulate in cloud regions as ice particles and droplets collide and transfer electric charges, with smaller, lighter ice particles and droplets carrying positive charges higher and heavier particles and droplets carrying negative charges lower. In a lightning strike on the ground, a negatively charged leader propagates from a negatively charged cloud region in a series of steps toward the ground; once it gets close to the ground a positively charged streamer rises to meet it. When the streamer meets the leader, an electrical discharge flows along the completed channel, creating the lighting flash. Long-lasting lightning flashes with lower current are more damaging to nature and humans than shorter flashes with higher currents. Lightning may also be produced in snowstorms or in ash clouds created by volcanic eruptions. Space probes have photographed lightning on Jupiter and recorded indications of it on Venus, Saturn, Uranus, and Neptune. Benjamin Franklin, in his kite experiment (1752), proved that lightning and electricity are identical. See also lightning rod., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"lightning."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"lightning." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/lightning
+, 
+"lightning." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/lightning
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+light·ning 
+/ ˈlītning/
+•
+n.
+the occurrence of a natural electrical discharge of very short duration and high voltage between a cloud and the ground or within a cloud, accompanied by a bright flash and typically also thunder:
+a tremendous flash of lightning.
+ ∎ poetic/literary 
+a flash or discharge of this kind:
+the sky was a mass of black cloud out of which lightnings flashed.
+
+
+•
+v. [intr.]
+(of the sky) emit a flash or discharge of this kind:
+what's a person supposed to do when it starts to lightning?
+
+•
+adj. [attrib.]
+very quick:
+a lightning cure for his hangover
+galloping across the country at lightning speed.
+
+PHRASES: 
+like
+(greased) lightning
+very quickly.
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"lightning."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"lightning." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/lightning-1
+, 
+"lightning." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/lightning-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, See also 27. ATMOSPHERE ; 87. CLOUDS ; 345. RAIN ; 394. THUNDER ; 417. WEATHER ., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Lightning."
+
+-Ologies and -Isms.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Lightning." 
+-Ologies and -Isms.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/lightning
+, 
+"Lightning." 
+-Ologies and -Isms.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/lightning
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, lightning rod, a rod made of materials, especially metals, that are good conductors of electricity, which is mounted on top of a building or other structure and attached to the ground by a cable. By virtue of its position, shape, and conductivity the rod attracts lightning discharges much more readily than the building on which it is mounted. When struck, the connecting cable carries the discharge safely into the ground, preventing any damage to the building. Benjamin Franklin, in his kite experiment (1752), proved that lightning and electricity are identical and subsequently invented the lightning rod., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"lightning rod."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"lightning rod." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/lightning-rod
+, 
+"lightning rod." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/lightning-rod
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Lightning."
+
+Allusions--Cultural, Literary, Biblical, and Historical: A Thematic Dictionary.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Lightning." 
+Allusions--Cultural, Literary, Biblical, and Historical: A Thematic Dictionary.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/lightning-0
+, 
+"Lightning." 
+Allusions--Cultural, Literary, Biblical, and Historical: A Thematic Dictionary.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/lightning-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+ Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+light·ning rod 
+•
+n.
+a metal rod or wire fixed to an exposed part of a building or other tall structure to divert lightning harmlessly into the ground.
+ ∎ fig. 
+a person or thing that attracts a lot of criticism, esp. in order to divert attention from more serious issues or to allow a more important public figure to appear blameless.
+
+
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"lightning rod."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"lightning rod." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/lightning-rod
+, 
+"lightning rod." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/lightning-rod
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+ , http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"lightning."
+
+The Oxford Dictionary of Phrase and Fable.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"lightning." 
+The Oxford Dictionary of Phrase and Fable.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/lightning
+, 
+"lightning." 
+The Oxford Dictionary of Phrase and Fable.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/lightning
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"lightning."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"lightning." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/lightning
+, 
+"lightning." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/lightning
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"lightning."
+
+The Concise Oxford Dictionary of English Etymology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"lightning." 
+The Concise Oxford Dictionary of English Etymology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/lightning-2
+, 
+"lightning." 
+The Concise Oxford Dictionary of English Etymology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/lightning-2
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"lightning."
+
+Oxford Dictionary of Rhymes.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"lightning." 
+Oxford Dictionary of Rhymes.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/lightning-0
+, 
+"lightning." 
+Oxford Dictionary of Rhymes.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/lightning-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Lightning is an electrical discharge usually, but not always, produced by well-developed thunderstorms. Although there is a clear-air lightening phenomena,lightning most frequently occurs within a cloud (intra-cloud), between two clouds (inter-cloud), or from the cloud to the ground., A lightning discharge can heat the air as much as five times hotter than the surface temperature of the Sun (about 54,000°F [30,000°C]). This heated air causes expansion in the air as an explosion, starting a shock wave that turns into a sound wave upon reaching the human ear . Thunder travels in all directions (radially) from the lightning at the speed of the sound approximately 738 MPH at sea level (1,188 km/h). Because it takes the sound about five seconds to travel each mile (about three seconds for 1km), the time between the lightning and the thunder can give a rough estimate of how far an observer is from a thunderstorm ., The quick flash that can be seen as lightning occurs as a complex series of events. In order to have lightning, separate regions of electrical charges must be present in a cumulonimbus cloud. There are several hypotheses as to how this occurs, one mechanism may involve falling ice particles within the cloud that transfer ions. This results in a positively charged upper part and a negatively charged middle part in the cloud. The bottom of the cloud is also mostly negatively charged, causing part of the ground underneath to become positively charged. In the insulating dry air an electrical field builds up, and when it reaches a threshold potential, the air is no longer insulating, and as a current flows, lightning occurs., Cloud-to-ground lightning (arguably the best understood among the different types of lightning) starts inside the cloud when a critical value of the localized electric field is reached along a path, so a surge of electrons will move to the cloud base, then gradually down to the ground. A short (164 ft [50 m]) and narrow (4 in [10 cm]) conducting channel is created by ionized air molecules, which are produced by the electron flow out of the cloud. These surges of electrons move downward in a series of steps for about 164–328 ft (50-100 m), then they stop for about 50-millionths of a second, and continue for another 164 ft (50 m), creating a stepped leader form of transit. Near the ground, a current of positive charge goes up from the ground to meet the stepped leader, and when they meet, many electrons flow into the ground, and a bright return stroke moves up, following the path of the stepped leader up to the cloud, releasing heat, thunder, and charges. The subsequent leader is called the dart leader, and for subsequent flashes, the same processes reoccur in a similar cycle. Usually, a lightning flash has approximately three or four leaders, each of them accompanied by a return stroke., To distinguish the several different appearances of lightning, the forms are assigned special names. Heat lightning (also termed clear-air lightning) occurs when lightning can be seen but the following thunder cannot be heard. Forked lightning occurs when a dart leader moving toward the ground diverges from the original path of the stepped leader, so that the lightning seems to be crooked or forked. When the wind moves the ionized channel between the return strokes, the lightning looks like a ribbon hanging from a cloud, so it is called a ribbon lightning. Bead lightning looks like a series of beads on a string, and it occurs as the lightning channel disintegrates. Sheet lightning appears as a white sheet, and it occurs either when clouds obscure the lightning, or when the lightning flash happens within a cloud. St. Elmo's fire, named after the patron of sailors, is a corona discharge, a nonstop supply of sparks in the air, which happens when a positive current moves up on pointed objects. Ball lightning often appears as a luminous, floating sphere in the air. The various mechanisms underlying the varying forms of lightning remain a subject of intensive meteorological research., During a thunderstorm, usually the tallest object in the area is struck because this provides the most rapid form of current transit to lowest energy state. At any moment, there are about 2000 thunderstorms worldwide, generating about 100 lightning flashes per second. A lightning stroke can deliver a current as great as 100,000 amperes, which can cause severe electrocution in humans and animals. About 100 people die in a year in the United States alone from lightning, and lighting causes billions of dollars in damage each year., See also Atmosphere observation; Atmosphere, composition and structure; Atmospheric circulation; Atmospheric optical phenomena; Atoms; Meteorology., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Lightning."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Lightning." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/lightning-0
+, 
+ "Lightning." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/lightning-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

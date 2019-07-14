@@ -1,0 +1,196 @@
+[█ LAURIE DUNCAN, The gas chromatograph-mass spectrometer (GC/MS) is an instrument used to analyze the molecular and ionic composition of chemical compounds. GC/MS technology combines two widely used laboratory techniques: gas chromatography (GC), which separates and identifies compounds in complex mixtures, and mass spectrometry (MS), which determines the molecular weight and ionic components of individual compounds. The combination of these two powerful tools into a single instrument—the chemical separates produced by the gas chromatograph become the input for the mass spectrometer—allows for quick, precise analyses of solid, liquid and gaseous chemical compounds., Scientists from a wide range of fields currently use GC/MS to identify and analyze inorganic, organic, and bio-organic chemicals. Academic researchers have long used either gas chromatography or mass spectrometry to assess experimental outcomes, analyze biochemical reactions, and age-date geological samples; many of these theoretical and experimental scientists have adopted the newer, more precise, and faster GC/MS technology to replace the two separate instruments. Industrial applications of GC/MS include pharmaceutical drug discovery and testing, process monitoring in the petroleum, chemical, and pharmaceutical industries, and identification of unknown chemicals in applied forensic, military, and environmental sciences., , Gas chromatography is a technique for separating closely-related compounds (solutes) from a liquid or gaseous mixture. (Solids must be vaporized or liquefied before analysis.) GC is most commonly used to separate and detect volatile and semi-volatile organic compounds (VOCs and SVOCs) with molecular weights less than 500 atomic mass units (amu). Although chemists have probably used rudimentary chromatography to separate mixtures since the Middle Ages, the modern chromatograph was not developed until 1941 when British biochemists Archer Martin and Richard Synge invented a chromatographic method that allowed for precise partitioning and detection. Martin and Synge were awarded the 1952 Nobel Prize in chemistry for their efforts., The GC component of a GC/MS system includes a carrier gas supply, a sample introduction inlet, a capillary column coated with a stationary liquid or solid, and an outlet to the detection system, in this case a mass spectrometer. To begin analysis, a GC/MS technician vaporizes the sample, or analyte, and introduces it into the chromatograph by syringe injection through a rubber septum. A flow of inert carrier gas like helium, argon, or nitrogen moves the analyte into the separation column. Partitioning occurs as the gaseous components of the original analyte assume different velocities when confronted with the column's liquid or solid coating. Partitioning behavior is temperature-dependent, and precise temperature control is an important part of the GC process. A filter removes the separated compounds from the carrier gas at the end of the column before they are fed into the mass spectrometer for individual analysis., Mass spectrometry is a method of determining the molecular weights of a chemical compound's component ions. (Ions are electrically charged atoms or groups of atoms, and sub-particles of molecules.) The MS instrument, known as the "smallest scale in the world", provides a graph, or mass spectrum, with peaks that indicate the relative amount of each type of ion within a compound. Today's MS systems are based on Sir J. J. Thomson's research at the Cavendish Laboratory at the University of Cambridge. Thomson discovered the electron in 1897, and went on to observe that the parabolic paths of ions traveling through electrical and magnetic fields vary according to the ions' mass-to-charge (m/z) ratios. His experimental instruments were the first mass spectrometers, and he was awarded the 1906 Nobel Prize in physics for his discoveries., , MS instrumentation has become increasingly accurate and complex since Thomson's time, but the principles of the technique and its basic components have remained the same. The MS component of a GC/MS system includes a sample inlet into a vacuum-sealed chamber that houses an ionization source, a mass analyzer, and an ion detector. In a GC/MS system the input sample is always a chemically homogenous gas produced by the GC component that can be introduced directly to the ionizer. Once ionized, the partitioned compound moves into the mass analyzer where the ions travel through an electrical or magnetic field that sorts them according to their m/z ratios. The detector measures the beam of now-separated ions arriving at the end of the analyzer, and converts changes in its intensity to produce the mass spectrum. A sample's mass spectrum is then displayed, catalogued, and compared to a library of known mass spectra by a computer data, system. For many applications, environmental monitoring or drug testing at sporting events, for examples, an unknown sample can be identified using a fairly short list of possible spectra. Other applications, like theoretical chemistry, organic chemistry, or planetary exploration may require an enormous library of possible molecules for identification, and may even produce previously unknown molecules., Improvements in the individual GC and MS components, electronic automation, and computer data analysis and storage have led to machines that can analyze ever more complex, fragile, and tiny chemical components; GC/MS can now be used to quickly analyze proteins, DNA, and even viruses, and has become a common technique in molecular biology and medical science. GC/MS instruments are also becoming smaller and less expensive, and field laboratory and even portable, suitcase-sized systems that can be used to analyze forensic samples, environmental contaminants, and unknown agents of chemical and biological warfare on site now exist. Remotely operated GC/MS systems are planned components of future space exploration expeditions that hope to characterize the chemical makeup of extra-terrestrial environments, and to search for organic material elsewhere in our solar system., Massachusetts Institute of Technology. "Present Life: Spectroscopic Analysis Gas Chromatography/Mass Spectrometry (GC/MS)." Mars Mission 2004, student final presentation. December 10, 2000. &lt;http://web.mit.edu/12.000/www/finalpresentation/experiments/index.html&gt;(January 5, 2003)., Scripps Center for Mass Spectrometry (BC-007), 10550 North Torrey Pines Rd., La Jolla, CA 92037. (858) 784–9596. Gary Suizdak, director. &lt;http://masspec.scripps.edu/information/intro/index.html.&gt; (January 5,2003)., Signature Science, LLC8329 North Mopac Blvd Austin, TX 78759. (512) 533–2022. Cassandra Hutson, staff chemist. &lt;http://www.signaturescience.com.&gt; (January 8, 2003)., United States Environmental Protection Agency. "Technology: Gas Chromatography." January 2001. &lt;http://fate.clu-in.org/gc.asp?techtypeid=44&gt; (January 9, 2003)., Air Plume and Chemical AnalysisBiological WarfareIsotopic AnalysisMicrobiology: Applications to Espionage, Intelligence and Security , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Gas Chromatograph-Mass Spectrometer."
+
+Encyclopedia of Espionage, Intelligence, and Security.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Gas Chromatograph-Mass Spectrometer." 
+Encyclopedia of Espionage, Intelligence, and Security.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/politics/encyclopedias-almanacs-transcripts-and-maps/gas-chromatograph-mass-spectrometer
+, 
+"Gas Chromatograph-Mass Spectrometer." 
+Encyclopedia of Espionage, Intelligence, and Security.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/politics/encyclopedias-almanacs-transcripts-and-maps/gas-chromatograph-mass-spectrometer
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, In a forensic examination, some sample material can be evaluated at the scene of the accident of crime. Other material, however, needs to be collected and taken to a dedicated laboratory for more sophisticated analyses using a variety of analytical instruments. In 1976, scientists William Keith Hadley and J. A. Zoro, in the United Kingdom, first suggested the use of gas chromatography/mass spectroscopy for forensic purposes and the instrument is now used for a variety of forensic purposes., The GC/MS instrument helps separate and determine the individual elements and molecules in a sample. The GC/MS provides forensic investigators the ability to identify individual substances that may be found within a very small test sample. Forensic applications of GC/MS include identification and detection of explosives ; investigations of arson , fire, and blasts or explosions; environmental analysis; and drug detection. In recent years, GC/MS has begun to be used in airport security areas as a means of detecting dangerous substances in luggage, on animals who are traveling, or on human beings. Because of its great sensitivity, gas chromatography/mass spectroscopy can be utilized to identify trace elements in either minute amounts of substances or in substances that were believed to be contaminated or to be degraded beyond usability., , The GC/MS is comprised of two parts: the gas chromatograph and the mass spectrometer. The gas chromatograph functions by separating the molecules within the sample compound into their most elemental particles, allowing some types of molecules to pass into the mass spectrometer more rapidly than others. When the molecules move into the mass spectrometer, they are broken down into ionized fragments, and then each molecule is specifically identified based on mass and ionic charge., Gas chromatography is a technique for separating closely related compounds (solutes) from a liquid or gaseous mixture. (Solids must be vaporized or liquefied before analysis.) Gas chromatography is most commonly used to separate and detect volatile and semi-volatile organic compounds (VOCs and SVOCs) with molecular weights less than 500 atomic mass units (amu). Although chemists have probably used rudimentary chromatography to separate mixtures since the Middle Ages, the modern chromatograph was not developed until 1941, when British biochemists Archer Martin and Richard Synge invented a chromatographic method that allowed for precise partitioning and detection. Martin and Synge were awarded the 1952 Nobel Prize in Chemistry for their efforts., The GC component of a GC/MS system includes a carrier gas supply, a sample introduction inlet, a capillary column coated with a stationary liquid or solid, and an outlet to the detection system, in this case a mass spectrometer. To begin analysis, a GC/MS technician vaporizes the sample, or analyte, and introduces it into the chromatograph by syringe injection through a rubber septum. A flow of inert carrier gas like helium, argon, or nitrogen moves the analyte into the separation column. Partitioning occurs as the gaseous components of the original analyte assume different velocities when confronted with the column's liquid or solid coating. Partitioning behavior is temperature dependent, and precise temperature control is an important part of the GC process. A filter removes the separated compounds from the carrier gas at the end of the column before they are fed into the mass spectrometer for individual analysis., Mass spectroscopy is a method of determining the molecular weights of a chemical compound's component ions. (Ions are electrically charged atoms or groups of atoms, and sub-particles of molecules.) The MS instrument, which has been called the smallest scale in the world, provides a graph, or mass spectrum, with peaks that indicate the relative amount of each type of ion within a compound. Today's MS systems are based on Sir J. J. Thomson's research at the Cavendish Laboratory at the University of Cambridge. Thomson discovered the electron in 1897, and went on to observe that the parabolic paths of ions traveling through electrical and magnetic fields vary according to the ions' mass-to-charge (m/z) ratios. His experimental instruments were the first mass spectrometers, and he was awarded the 1906 Nobel Prize in Physics for his discoveries., Mass spectroscopy instrumentation has become increasingly accurate and complex since Thomson's time, but the principles of the technique and its basic components have remained the same. The MS component of a GC/MS system includes a sample inlet into a vacuum-sealed chamber that houses an ionization
+source, a mass analyzer, and an ion detector. In a GC/MS system, the input sample is always a chemically-homogenous gas produced by the GC component that can be introduced directly to the ionizer. Once ionized, the partitioned compound moves into the mass analyzer where the ions travel through an electrical or magnetic field that sorts them according to their m/z ratios. The detector measures the beam of now-separated ions arriving at the end of the analyzer, and converts changes in its intensity to produce the mass spectrum. A sample's mass spectrum is then displayed, catalogued, and compared to a library of known mass spectra by a computer data system., Improvements in the individual GC and MS components, electronic automation, and computer data analysis and storage have led to machines that can analyze ever more complex, fragile, and tiny chemical components; GC/MS can now be used to quickly analyze proteins, DNA , and even viruses, and has become a common technique in molecular biology and medical science. GC/MS instruments are also becoming smaller and less expensive, and field laboratory and even portable, suitcase-sized systems that can be used to analyze forensic samples on site now exist., One of the reasons that the GC/MS test has a great deal of value in the world of forensic substance identification has to do with its specificity: the GC/MS can positively identify the presence of a suspected poison or other substance. The portability of GC/MS test equipment allows it to be taken directly from a crime scene to the area where a suspect is detained to immediately perform tests on a suspect's tissue, serology (blood ), clothing, etc., see also Accelerant; Analytical instrumentation; Arson; Breathalyzer®; Chemical and biological detection technologies; Control samples; Fourier transform infrared spectrophotometer (FTIR); Micro-fourier transform infrared spectrometry., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Gas Chromatograph-mass Spectrometer."
+
+World of Forensic Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Gas Chromatograph-mass Spectrometer." 
+World of Forensic Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/gas-chromatograph-mass-spectrometer
+, 
+"Gas Chromatograph-mass Spectrometer." 
+World of Forensic Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/gas-chromatograph-mass-spectrometer
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"gas–liquid chromatography."
+
+A Dictionary of Biology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"gas–liquid chromatography." 
+A Dictionary of Biology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/gas-liquid-chromatography-0
+, 
+"gas–liquid chromatography." 
+A Dictionary of Biology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/gas-liquid-chromatography-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"gas chromatography."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"gas chromatography." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/gas-chromatography-0
+, 
+"gas chromatography." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/gas-chromatography-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"gas chromatography."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"gas chromatography." 
+ A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/gas-chromatography
+, 
+"gas chromatography." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/gas-chromatography
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"gas—liquid chromatography."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"gas—liquid chromatography." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/gas-liquid-chromatography
+, 
+"gas—liquid chromatography." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+ https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/gas-liquid-chromatography
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

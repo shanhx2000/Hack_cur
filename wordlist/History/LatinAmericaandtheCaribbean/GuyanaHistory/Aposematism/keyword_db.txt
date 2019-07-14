@@ -1,0 +1,198 @@
+[The term "aposematism" is commonly used as a synonym for warning coloration (i.e., something that is aposematic is warningly colored). The word literally means "away signal." Aposematism is the combination of a conspicuous signal and an unprofitable trait in a prey species., Conspicuous signals are most often bright colors presented in banded or contrasting patterns. The banding pattern of coral snakes or the contrasting colors of Heliconius butterflies are obvious examples. These signals are easily seen over large distances. Auditory signals are also used. For example, some arctiid moths emit ultrasonic clicks upon approach of a bat predator. Rattlesnakes, with their caudal rattle, warn of their venomous bite.
+An additional possibility is the use of offensive or unpleasant odors to signal unprofitable traits., , Unprofitable traits include anything that harms the predator or reduces its efficiency. Some examples are the distastefulness (unpalatability) of butterflies and other insects, the stings of wasps, the bites of snakes, the skin toxins of some tropical tree frogs and salamanders , or perhaps even an exhaustive chase between a bird and butterfly that ends with wasted energy for the bird., Aposematism works by advertising to potential predators, rather than by hiding or escaping from them. Advertising to predators seems dangerous, but the obvious signals allow predators to quickly learn which prey are unprofitable. Predators encountering aposematic animals will have an unpleasant experience. This interaction may be so unpleasant that the predator immediately associates the visual or auditory characteristics of the prey with the experience. When the predator subsequently encounters the same signal, it will be more cautious and may avoid the prey. Not all unprofitable traits are so unpleasant. Some are only mildly deterrent and require frequent resampling by predators in order to reinforce the avoidance response., Aposematism has benefits for predator and prey. Efficient interactions between predator and prey in this context allow each to pursue other activities
+such as mating, care for offspring, and feeding. The prey benefit by avoiding death or injury because trained predators will not attack them as frequently as naive predators. Predators benefit by not expending energy on suboptimal prey., There can also be costs for prey that have unprofitable traits. For example, unprofitable traits such as unpalatability require special chemicals to be manufactured or sequestered from host plants and these chemicals may be expensive to produce or detoxify., Established aposematic signals may give rise to further interactions among species. Unprotected prey species could benefit by appearing the same as an aposematic species if they share the same predators. Predators might mistakenly avoid an unprotected prey if it closely resembles a well-established signal. This type of interaction is known as Batesian mimicry . Müllerian mimicry can also arise between two similar signals. In that case, two aposematic species converge on a common signal. In effect, each species contributes to the work of training the predators. In times of prey scarcity, predators may be forced to consume relatively unprofitable prey. This may lead to predator specialization on such unprofitable prey. For example, in Mexico, black-headed grosbeaks and black-backed orioles both consume large numbers of distasteful monarch butterflies when the butterflies are overwintering., , Adopting an aposematic lifestyle may alter prey behavior and lead to changes in other aspects of prey biology. This is because aposematic prey no longer require other defenses such as escape behaviors. For example, Heliconius butterflies have evolved differences from their palatable relatives that allow them to live longer, fly in more microhabitats, invest more energy in reproduction, and be more selective about where they lay their eggs., Evolutionary biologists have pointed out that it is paradoxical that an association between conspicuous signals and unprofitability could evolve. It would be difficult for a conspicuous signal to evolve in prey with unprofitable traits because predators will quickly sample the prey and kill it. Thus, any genes for the conspicuous signal are eliminated from the population. An alternative scenario is for unprofitability to evolve in prey with conspicuous coloration. However, this is not likely because being conspicuous without a defense offers no protection and simply makes the prey more visible to predators. Of course, evolution need not follow such mutually exclusive pathways, and unprofitability and conspicuous signals could evolve together., A debate has developed over whether individual selection is sufficient for aposematism to evolve. Individual selection works by aposematic individuals training their own predators and passing on more genes than nonaposematic individuals. Evolutionary biologists have questioned whether aposematic individuals are able to survive the predator's attacks. Some experimental evidence suggests that aposematic animals, especially insects, are durable and can survive sampling by the predator. This means that one unprofitable individual with a newly evolved conspicuous signal could train predators in the area to avoid its own color pattern. Assuming this individual
+does not suffer damage and can reproduce normally, it will pass on genes for the conspicuous signal. However, if the individual dies or has fewer off-spring than nonaposematic individuals because of predator sampling, then individual selection might not be sufficient by itself to cause aposematism to evolve. In this case, sharing genes for the aposematic traits with other individuals could aid in the evolution of aposematism., Research on aposematism is ongoing and resolving the debate over how aposematism evolves will require experiments and observations of predation on aposematic species in the wild., see also Mimicry; Peppered Moth., Ryan I. Hill , Chai, Peng, and Robert B. Srygley. "Predation and the Flight, Morphology, and Temperature of Neotropical Rain-Forest Butterflies." American Naturalist 135, no. 6 (1990):748-765., Endler, John. "Interactions between Predators and Prey." In Behavioral Ecology: An Evolutionary Approach, 3rd ed., eds. John R. Krebs and Nicholas B. Davies. Oxford, U.K.: Blackwell Scientific Publications, 1991., Fink, Linda S., and Lincoln P. Brower. "Birds Can Overcome the Cardenolide Defence of Monarch Butterflies in Mexico." Nature 291 (1981):67-70., Gilbert, Lawrence E. "Biodiversity of a Central American Heliconius Community: Pattern, Process, and Problems." In Plant-Animal Interactions: Evolutionary Ecology in Tropical and Temperate Regions, eds. Peter W. Price, T. M. Lewinsohn, G. Wilson Fernandes, and W. W. Benson. New York: Wiley and Sons, Inc., 1991., Guilford, Tim. "The Evolution of Conspicuous Coloration." American Naturalist 131 (1988):S7-S21., Järvi, T., B. Sillen-Tullberg, and C. Wicklund. "The Cost of Being Aposematic: An Experimental Study of Predation on Larvae of Papilio machaon by the Great Tit Parus major. " Oikos 36 (1981):267-272., Mallet, James, and Mathieu Joron. "Evolution of Diversity in Warning Color and Mimicry: Polymorphisms, Shifting Balance, and Speciation." Annual Review of Ecology and Systematics 30 (1999):201-233., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Aposematism."
+
+Animal Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Aposematism." 
+Animal Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/aposematism
+, 
+"Aposematism." 
+Animal Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/aposematism
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"aposematic coloration."
+
+A Dictionary of Zoology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"aposematic coloration." 
+A Dictionary of Zoology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/aposematic-coloration-0
+, 
+"aposematic coloration." 
+A Dictionary of Zoology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/aposematic-coloration-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"aposematic coloration."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"aposematic coloration." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/aposematic-coloration
+, 
+"aposematic coloration." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/aposematic-coloration
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"aposematic coloration."
+
+A Dictionary of Biology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"aposematic coloration." 
+A Dictionary of Biology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/aposematic-coloration-1
+, 
+"aposematic coloration." 
+A Dictionary of Biology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/aposematic-coloration-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"aposematism."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"aposematism." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/aposematism
+, 
+"aposematism." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/aposematism
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"aposematism."
+
+A Dictionary of Zoology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"aposematism." 
+A Dictionary of Zoology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/aposematism-0
+, 
+"aposematism." 
+A Dictionary of Zoology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/aposematism-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

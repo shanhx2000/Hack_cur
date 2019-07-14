@@ -1,0 +1,67 @@
+[Copyright The Columbia University Press, Wilhelm Ostwald (vĬl´hĕlm ôst´vält), 1853–1932, German physical chemist and natural philosopher, b. Riga, Latvia. He was professor of chemistry and director of the chemical laboratory (1886–1906) at the Univ. of Leipzig. He received the 1909 Nobel Prize in Chemistry for his work on catalysis and his investigations into the fundamental principles governing equilibrium and rates of reaction. He also did outstanding work on color. He wrote Colour Science (1923, tr. 1931) and many textbooks. Ostwald originated the Ostwald process for preparing nitric acid. Ammonia mixed with air is heated and passed over a catalyst (platinum). It reacts with the oxygen to form nitric oxide, which is then oxidized to nitrogen dioxide; this in turn reacts with water to form nitric acid., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Ostwald, Wilhelm."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Ostwald, Wilhelm." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/ostwald-wilhelm
+, 
+"Ostwald, Wilhelm." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/ostwald-wilhelm
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Wilhelm Ostwald was a German chemist, philosopher, and historian of science whose main scientific achievement was his pioneer work in physical chemistry, particularly in electrochemistry. With J. H. van't Hoff he founded the Zeitschrift für physikalische Chemie in 1887. He was awarded the Nobel Prize in chemistry in 1909., Ostwald's philosophical outlook, known as energetism or energetic monism, was strongly influenced by his scientific background and by the state of physical science at the end of the nineteenth century. In particular, the first and second laws of thermodynamics—the law of conservation of energy and the law of entropy—decisively influenced his thought. Ostwald claimed that energy is the substrate of all phenomena and that all observable changes can be interpreted as transformations of one kind of energy into another. This claim was based on both epistemological and physical considerations. Ostwald pointed out that we never perceive anything but energy, or more accurately, differences in energy. One never perceives a material substance itself, but only its energetic interaction with his own organism., , In an argument similar to a classical argument of René Descartes's, Ostwald showed that even impenetrability, which, according to mechanists, is the constitutive feature of matter, is a mere sensory quality that is perceived only when there is a difference in kinetic energy between a piece of matter and one's own organism. No sensation of hardness would arise if a piece of matter which one tried to touch retreated at the same velocity with which his finger moved toward it. Ostwald interpreted all aspects of matter in terms of energy: Mass is the capacity of kinetic energy; occupancy of space is "volume-energy"; gravity is energy of distance. Thus, matter is nothing but a "spatially ordered group of various energies" which do not require any material substrate. Material substance belongs with caloric, phlogiston, and electric and magnetic fluids in the category of discarded and useless fictions. Ostwald prophesied that ether too would soon disappear from science, as the increasing difficulties in constructing a satisfactory model of it indicated., This difficulty was for Ostwald only one symptom of mechanism's general failure to provide a satisfactory explanation of physical phenomena. He even doubted the usefulness of kinetic explanations of thermal phenomena, although the mechanical theory of heat had been extremely successful. The atom itself was for Ostwald only a convenient methodological fiction, which he refused to reify. (Only around 1908, under the growing pressure of new experimental confirmations of the discontinuous structure of matter, did he modify his view.), The ubiquity and constancy of energy make it "the most general substance," and the conservation of energy underlies the validity of the law of causation. The succession of cause and effect is nothing but the transformation of one form of energy into another, the total amount of energy remaining constant. The law of conservation of energy guarantees the quantitative equality of cause and effect; and the direction of transformations is determined by the law of entropy, according to which all forms of energy are being gradually transformed into heat. Ostwald rejected all attempts to limit the application of the law of entropy; opposition to applying it to the whole of cosmic history was, in his view, nothing but emotional reluctance to accept the eventual death of civilization and even of humankind. The mechanistic view, which regards all processes as in principle reversible, fails to account for the irreversibility of time embodied in the law of entropy., , Ostwald belonged to a generation of philosophers of science that included Ernst Mach, Pierre Duhem, and J. B. Stallo, who were acutely aware of the limitations of mechanistic explanations. They overlooked the power and fruitfulness of mechanical and particularly of corpuscular models even on the molecular level, and atomic physics was not yet advanced enough to show the inadequacy of corpuscular models of subatomic phenomena. When this inadequacy became apparent, the crisis of the traditional scheme proved to be far more profound than Ostwald expected. While claiming to reduce all manifestations of matter to energy, he still retained mass, the basic concept of mechanism, under the disguised form of "capacity of energy." He anticipated the later relativistic fusion of mass and energy only in a hazy and qualitative way., In this respect Ostwald can be compared with Herbert Spencer, with whom he shared other ideas: the substantialization of energy, the deduction of the causal law from the law of conservation of energy, an energetist approach to social science and ethics, and a determinist monistic metaphysics disguised by positivistic and agnostic formulas. Ostwald, however, lacked Spencer's philosophical sophistication; this is especially visible in his approach to the mind-body problem. Ostwald believed that he had refuted materialism by identifying consciousness with neural energy; he did not realize that his view was only a variant of physicalism. Like Ernst Haeckel, whom he greatly respected, Ostwald believed that his view was identical with Benedict de Spinoza's double-aspect theory, but this is not true. The haziness of Ostwald's monism invited criticism from antagonistic camps; Hans Driesch called it disguised materialism, and V. I. Lenin denounced it as "sheer idealism.", Ostwald devoted much time to propagating his views on monism. He founded the pantheistically oriented League of German Monists in 1906, and in 1911 he began to publish the series Monist Sunday Sermons (Monistische Sonntagspredigten )., Ostwald regarded the law of entropy as the basis for the theory of values. What we term mind or consciousness is nothing but a form of neural energy and is subject to the same laws as other forms of energy. In a temporally reversible world the concept of value would be meaningless, whereas it acquires a precise scientific meaning in the framework of energetism. Evolutionary advance consists in the fact that increased coordination between increasingly specialized organs results in increased efficiency of the organism and a minimum waste of energy. The same law—increased coordination resulting in maximum efficiency—determines the progress of civilization. Immanuel Kant's categorical imperative should be replaced by the "energetic imperative": "Do not waste your energy." Ostwald's applications of his energetic imperative to social thought were even more ambiguous than his views on the mind-body problem. Prior to 1914 Ostwald regarded war and conflict as a wasting of energy, and he favored internationalism and pacifism. But during World War I he justified his militant nationalism by claiming that the organization, efficiency, and minimum waste of energy of the German state represented the highest existing evolutionary form of human society., , In history of science Ostwald deserves credit for editing Ostwalds Klassiker der exacten Wissenschaften, a series of reprints of important scientific writings. His own classification of creative scientific minds into "classics" and "romantics," however, is probably oversimplified although interesting. Ostwald also founded and edited the journal Annalen der Philosophie (1901–1921)., See also  Causation: Philosophy of Science; Chemistry, Philosophy of; Descartes, René; Duhem, Pierre Maurice Marie; Energy; Haeckel, Ernst Heinrich; Lenin, Vladimir Il'ich; Mach, Ernst; Materialism; Mind-Body Problem; Nationalism; Philosophy of Science, History of; Spinoza, Benedict (Baruch) de., Die Überwindung des wissenschaftlichen Materialismus. Leipzig: Veit, 1895., Vorlesungen über die Naturphilosophie. Leipzig, 1895; 2nd ed., Leipzig, 1902., Individuality and Immortality. Boston: Houghton Mifflin, 1906. The Ingersoll Lecture., Grundrisse der Naturphilosophie. Leipzig, 1908., Die energetische Grundlagen der Kulturwissenschaften. Leipzig, 1909., Der energetische Imperativ. Leipzig: Akademische Verlagsgesellschaft, 1912., Monism as the Goal of Civilization. Hamburg, 1913., Die Philosophie der Werte. Leipzig: A. Kröner, 1913., Lebenslinien. 3 vols. Leipzig, 1926–1927. Autobiography., Wissenschaft und Gottesglaube. Edited by F. Herneck. Leipzig, 1960., Adler, F. W. Die Metaphysik in der Ostwaldschen Energetik. 1905., Delbos, Victor. Une théorie allemande de culture: W. Ostwald et sa philosophie. Paris, 1916., Driesch, Hans. Naturbegriffe und Natururteile. Leipzig: Wilhelm Engelmann, 1904., Duhern, Pierre. L'évolution de la mécanique. Paris: A. Joanin, 1903. Esp. p. 179., Lasswitz, K. "Die moderne Energetik in ihrer Bedeutung für die Erkenntniskritik." Philosophische Monatshefte 39: 1–30, 177–197., Lenin, V. I. Materialism i Empirio-krititsizm. Moscow: Zveno, 1909. Translated by David Kirtko and Sidney Hook as Materialism and Empirio-Criticism. London: Lawrence, 1927. Esp. Ch. 5, Meyerson, Émile. L'identité et réalité. 5th ed. Paris, 1951. Esp. Ch. 10. Translated from the 1908 edition by Kate Loewenberg as Identity and Reality. London, 1930., Rey, Abel. La théorie de la physique chez les physiciens contemporains. 2nd ed. Paris, 1923., Rolla, A. La filosofia energetica. Turin, 1908., Schnehen, Wilhelm von. Energetische Weltanschauung. Leipzig, 1908., Milič Čapek (1967)  , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Ostwald, Wilhelm (1853–1932)."
+
+Encyclopedia of Philosophy.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Ostwald, Wilhelm (1853–1932)." 
+Encyclopedia of Philosophy.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/ostwald-wilhelm-1853-1932
+, 
+"Ostwald, Wilhelm (1853–1932)." 
+Encyclopedia of Philosophy.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/ostwald-wilhelm-1853-1932
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

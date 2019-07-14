@@ -1,0 +1,234 @@
+[Carbon dating is a technique used to determine the approximate age of once-living materials. It is based on the decay rate of the radioactive carbon isotope 14C, a form of carbon taken in by all living organisms while they are alive., Before the twentieth century, determining the age of ancient fossils or artifacts was considered the job of paleontologists or paleontologists, not nuclear physicists. By comparing the placement of objects with the age of the rock and silt layers in which they were found, scientists could usually make a general estimate of their age. However, many objects were found in caves, frozen in ice , or in other areas whose ages were not known; in these cases, it was clear that a method for dating the actual object was necessary., In 1907, the American chemist Bertram Boltwood (1870–1927) proposed that rocks containing radioactive uranium could be dated by measuring the amount of lead in the sample. This was because uranium, as it underwent radioactive decay, would transmute into lead over a long span of time. Thus, the greater the amount of lead, the older the rock. Boltwood used this method, called radioactive dating, to obtain a very accurate measurement of the age of Earth. While the uranium-lead dating method was limited (being only applicable to samples containing uranium), it was proved to scientists that radioactive dating was both possible and reliable., The first method for dating organic objects (such as the remains of plants and animals) was developed by another American chemist, Willard Libby (1908–1980). He became intrigued by carbon–14, a radioactive isotope of carbon. Carbon has isotopes with atomic weights between 9 and 15. The most abundant isotope in nature is carbon–12, followed in abundance by carbon–13. Together carbon–12 and carbon–13 make up 99% of all naturally occurring carbon. Among the less abundant isotopes is carbon–14, which is produced in small quantities in the earth's atmosphere through interactions involving cosmic rays. In any living organism, the relative concentration of carbon–14 is the same as it is in the atmosphere because of the interchange of this isotope between the organism and the air. This carbon–14 cycles through an organism while it is alive, but once it dies, the organism accumulates no additional carbon–14. Whatever carbon–14 was present at the time of the organism's death begins to decay to nitrogen–14 by emitting radiation in a process known as beta decay. The difference between the concentration of carbon–14 in the material to be dated and the concentration in the atmosphere provides a basis for estimating the age of a specimen, given that the rate of decay of carbon–14 is well known. The length of time required for one-half of the unstable carbon–14 nuclei to decay (i.e., the half-life ) is 5,730 years., Libby began testing his carbon–14 dating procedure by dating objects whose ages were already known, such as samples from Egyptian tombs. He found that his methods, while not as accurate as he had hoped, were fairly reliable. He continued his research and, through improvements in his equipment and procedures, was eventually able to determine the age of an object up to 50,000 years old with a precision of plus-or-minus 10%. Libby's method, called radiocarbon or carbon–14 dating, gave new impetus to the science of radioactive dating. Using the carbon–14 method, scientists determined the ages of artifacts from many ancient civilizations. Still, even with the help of laboratories worldwide, radiocarbon dating was only accurate up to 70,000 years old, since objects older than this contained far too little carbon–14 for the equipment to detect., Starting where Boltwood and Libby left off, scientists began to search for other long-lived isotopes. They developed the uranium-thorium method, the potassium-argon method, and the rubidium-strontium method, all of which are based on the transformation of one element into another. They also improved the equipment used to detect these elements, and in 1939, scientists first used a cyclotron particle accelerator as a mass spectrometer. Using the cyclotron, carbon–14 dating could be used for objects as old as 100,000 years, while samples containing radioactive beryllium could be dated as far back as 10–30 million years. A newer method of radioactive tracing involves the use of a new clock, based on the radioactive decay of 235uranium to 231protactinium., See also  Fossils and fossilization; Geochemistry, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Carbon Dating."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Carbon Dating." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/carbon-dating
+, 
+"Carbon Dating." 
+World of Earth Science.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/carbon-dating
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"carbon dating."
+
+A Dictionary of Biology.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"carbon dating." 
+A Dictionary of Biology.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/carbon-dating-1
+, 
+"carbon dating." 
+A Dictionary of Biology.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/carbon-dating-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"carbon dating."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"carbon dating." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/carbon-dating
+, 
+"carbon dating." 
+World Encyclopedia.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/carbon-dating
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+car·bon dat·ing 
+•
+n.
+the determination of the age of an organic object from the relative proportions of the carbon isotopes carbon-12 and carbon-14 that it contains. The ratio between them changes as radioactive carbon-14 decays and is not replaced by exchange with the atmosphere.
+
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+
+"carbon dating."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"carbon dating." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/carbon-dating-0
+, 
+"carbon dating." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/carbon-dating-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"carbon dating."
+
+The Oxford Dictionary of Phrase and Fable.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"carbon dating." 
+The Oxford Dictionary of Phrase and Fable.
+ . Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/carbon-dating
+, 
+"carbon dating." 
+The Oxford Dictionary of Phrase and Fable.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/carbon-dating
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"carbon dating."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"carbon dating." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/carbon-dating
+, 
+"carbon dating." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/carbon-dating
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"carbon dating."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"carbon dating." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/carbon-dating-0
+, 
+"carbon dating." 
+A Dictionary of Ecology.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/carbon-dating-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

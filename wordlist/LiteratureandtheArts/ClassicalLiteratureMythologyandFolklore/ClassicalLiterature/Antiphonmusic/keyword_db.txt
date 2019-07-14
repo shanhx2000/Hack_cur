@@ -1,0 +1,334 @@
+[(lived in Athens in the second half of the fifth century b.c.), mathematics, cosmology, psychology., Antiphon was the first native Athenian to be classed as a “Sophist” in the sense of “professional teacher of young men.” Unfortunately little is known for certain of his life, or even of his identity. The grammarian Didymus Chalcenterus, writing in the late first century b.c., distinguished two “Sophistic” Antiphons at Athens in the fifth century b.c. The first was Antiphon the orator, sometimes called Antiphon of Rhamnus, the author of the surviving Tetralogies, which are specimen outline speeches for the prosecution and the defense in certain real or imaginary cases of murder; he took part in Athenian politics and was comdemned to death in 410 b.c. after the overthrow of the oligarchic conspiracy at Athens (Thucydides VIII, 68). The other was Antiphon the diviner and interpreter of dreams, author of the treatises On Truth, On Concord, and The Statesman., This distinction between two Antiphons was repeated by Hermogenes in the second century a.d., but he based the distinction on a supposed difference in the style of writing in the Tetralogies compared with the other works; he may have had no other grounds. Caecilius of Calacte, probably writing just slightly later than Didymus, seems to have known nothing of such a distinction, and he is the source of the alternative tradition preserved in Pseudo-Plutarch’s Lives of the Ten Orators, which assumes a single Antiphon who was the subject of conflicting stories., , Modern scholars are divided, and some follow the approach of Didymus, distinguishing at least three different Antiphons, who, it is supposed, were later confused. Others adopt a view like that of Caecilius, concluding that at least the orator and the Sophist were one and the same person. Something is known of the political career of Antiphon the orator, and if the identification is sound, we would at least know that the Sophist had belonged to the extreme right wing in politics and probably met his death in 410 b.c. The identification must remain uncertain, however, and virtually nothing is known of the life of Antiphon the Sophist if he was not the same person as the orator., Four works are clearly ascribed to Antiphon the Sophist (On Truth, On Concord, The Statesman, On Interpretation of Dreams), and a fifth (The Art of Avoiding Pain) may also be his. Of these works only brief quotations remain, aside from some important papyrus fragments of On Truth found at Oxyrhynchus in Egypt; but it seems likely that most of them were still known in the first century a.d., On Truth comprised two books. Its title suggests the first part of Parmenides’ poem “On Nature” (written at least a generation before antiphon), commonly referred to as “The Way of Truth” and dealing with the doctrine of One Being as the sole reality, as against the (unreal) multiplicity of the phenomenal world. But since Protagoras the Sophist, roughly contemporary with Antiphon, also used the title Truth for a work in which he rejected the One Being of Parmenides and preferred instead the “truth” of every individual’s sensations, we cannot infer from the title what position Antiphon adopted about the status of the phenomenal world. The first surviving fragment of Antiphon in the collection by Hermann Diels and Walther Kranz may hold the answer to this question, but the text is so corrupt that its meaning must remain wholly uncertain., , More helpful as evidence is the attempt to square the circle recorded by Aristotle (Physics A, 185a 14). It is clear form Aristophanes (The Birds, 1004) that the squaring of the circle was a standard problem in the late fifth century b.c. The problem was to construct, by means of compass and ruler only, a square with an area equal to that of a given circle, Since any rectilinear figure could quite easily be converted into a square of the same area, the problem in practice was that of reducing the area of a circle to an equal area bounded by straight lines. In the third century b.c., Archimedes, in his On the Measurement of the Circle (Prop. I), showed that this requirement was satisfied by a right-angled triangle with one side adjacent to the right angle equal to the radius and the other adjacent side equal to the circumference. The problem is now known to be incapable of solution by the use of ruler and compass alone., Aristotle was aware of three attempts to solve this problem in its original form. One he seems to have attributed, perhaps mistakenly (see full discussion in W. D. Ross, Aristotle’s Physics [Oxford, 1936], pp. 463–466), to Hippocrates of Chios about the middle of the fifth century b.c. According to this attempt, it was mistakenly concluded from the possibility of squaring the lune on the side of the square inscribed in a circle that the circle could be completely divided into lunes similar to the one thus squared. Another was by a certain Bryson, who simply argued that since a polygon inscribed within a circle is smaller than the circle and a polygon circumscribing a circle will be larger than the circle, there must be a polygon intermediate in size that will be equal to the circle; however, he did not have anything to say about how such a polygon could be constructed diagrammatically. Antiphon’s method is explained slightly differently by each of two commentators on Aristotle. According to Simplicius, he proposed to inscribe a polygon such as a square within the circle and, on each of its sides, to build two chords meeting midway on the circumference above the side. The process must be continued with each of the sides of the resulting octagon, and so on with subsequent polygons, until the sides are so small that they coincide with their respective sections of the circumference. According to the Neoplatonist Themistius (a.d. 320–390), the polygon is an equilateral triangle, but otherwise his account of the procedure is the same., In modern times it has often been supposed that Antiphon was simply making a bad mistake in geometry by supposing that any approximation could ever amount to coincidence between a polygon with however many sides and the continuously curved circumference of a true circle. At the same time, his method has been considered of interest as anticipating the method of exhaustion used by Euclid (XII, 2) and the method of approximation of Archimedes. This may not be the right view to take. Antiphon appears to have believed that complete coincidence could be achieved by his method, and Aristotle treats this not as a mistake in geometry, but as nongeometrical in its approach, in that it did not proceed on geometrical assumptions. This may mean that Antiphon regarded the circle itself as a polygon with a very large (or possibly infinite) number of sides. Such a view is implied in the doctrine of Protagoras that the tangent touches a circle not at a single point only, but over a series of points, as we see with our eyes in the case of drawn tangents and circles. This would suggest that Antiphon, like Protagoras, may have considered the world of phenomena more real than the “truth” of Parmenides., It is probable that Antiphon, like most of the pre-Socratics, discussed in detail the physical formation of the universe and the nature of the heavenly bodies, but only small details of his doctrines survive. He seems to have related the rising and setting of the sun to changes in the air surrounding the earth (fr. 26); he regarded the moon as the source of its own light (fr.27) and as undergoing eclipse by some kind of turning of its bowl (fr. 28). He appears to have held a doctrine of opposite qualities (such as hot and cold) acting as primary substances or elements (frs. 26, 29, 32) and also as determining human physiology (fr. 29a; Diels and Kranz II, 426)., Antiphon’s most famous doctrine is his opposition of nature and convention. In fr. 15 he opposes manufactured articles to the “natural” materials of which they are made; and he is often interpreted as preferring things that exist by nature to those that exist merely by convention and, thus, as setting up the selfish “natural” impulses of the individual as norms superior to the laws of the community. But in On Concord he defends the authority of the community as a safeguard against anarchy (fr. 61) and recommends the ideals of concord and self-restraint both within communities and within the individual soul. Most probably he was only concerned to criticize the laws of a city by asking whether or not they satisfy the “natural” needs of the individual. Thus, in On Truth he argues that there is a basic human nature common to Greeks and barbarians, and in the Art of Avoiding pain if it is his was probably also concerned with ways in which the individual could achieve the fulfillment of his nature without having to suffer., I Original Works. For fragments and testimonia in Greek, see Hermann Diels and Walther Kranz eds., Die Fragmente der Vorsokratiker, 7th ed., II (Berlin 1954), 334–370. Antonio Battegazzore and Mario Untersteiner eds., Sofisti, testimonianze e frammenti (Florence 1962) fasc. IV, has, in addition to the Greek, a bibliography, Italian translation, and commentary. An English translation of the fragments can be found in Kathleen Freeman Ancilla to the Pre-Socratic Philosophers (Oxford, 1948). For text and English translation of the Tetralogies of Antiphon the orator see Kenneth John Maidment Minor Attic Orators, Vol. I (London-New York, 1941), which is part of the Loeb Classical Library., II. Secondary Literature. For interpretations see Ettore Bignone, Studi sul pensiero antico (Naples, 1938), chs. 1–3; and, in English, Mario Untersteiner, The Sophists (Oxford 1954)., G. B. Kerferd, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Antiphon."
+
+Complete Dictionary of Scientific Biography.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Antiphon." 
+Complete Dictionary of Scientific Biography.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/antiphon
+, 
+"Antiphon." 
+Complete Dictionary of Scientific Biography.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/antiphon
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates.  Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"antiphon."
+
+The Concise Oxford Dictionary of Music.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"antiphon." 
+The Concise Oxford Dictionary of Music.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/antiphon
+, 
+"antiphon." 
+The Concise Oxford Dictionary of Music.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/antiphon
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, Antiphon (ăn´tĬfŏn, –fən), c.479–411 BC, Athenian orator. He rarely spoke in public but wrote defenses for others to speak. Of his 15 extant orations 3 were for use in court, the rest probably for the instruction of his pupils. A few fragments of other speeches survive. Antiphon did much to advance Attic prose writing. His position in politics was with the conservative aristocrats, and he was instrumental in setting up the Four Hundred in 411 BC When they fell, Antiphon was among the first to be executed before Alcibiades returned.
+, See R. K. Sprague, The Older Sophists (1972); Antiphon and Lysias (tr. by M. Edwards and S. Usher, 1985)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Antiphon (Athenian orator)."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Antiphon (Athenian orator)." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/antiphon-athenian-orator
+, 
+"Antiphon (Athenian orator)." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/antiphon-athenian-orator
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, antiphon (ăn´tĬfən), in Roman Catholic liturgical music, generally a short text sung before and after a psalm or canticle. The main use is in group singing of the Divine Office in a monastery. However, the sung introit, offertory, and communion verses of the Mass are also antiphons, whose psalms have for the most part disappeared. Certain festival chants, sung preparatory to the Mass itself, are called antiphons. There are also the four antiphons of the Blessed Virgin Mary, which are in the nature of office hymns and are sung by alternating choirs (i.e., antiphonally), each one belonging to a certain portion of the year. The best known of these is Salve Regina, of whose text there are many polyphonic settings. Modern antiphons are set to composed music rather than plainsong. These are independent choral works for which the English term anthem was derived from antiphon., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"antiphon (in liturgical music)."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"antiphon (in liturgical music)." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/antiphon-liturgical-music
+, 
+"antiphon (in liturgical music)." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/antiphon-liturgical-music
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Antiphon."
+
+The Concise Oxford Dictionary of World Religions.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Antiphon." 
+The Concise Oxford Dictionary of World Religions.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/religion/dictionaries-thesauruses-pictures-and-press-releases/antiphon
+, 
+"Antiphon." 
+The Concise Oxford Dictionary of World Religions.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/religion/dictionaries-thesauruses-pictures-and-press-releases/antiphon
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"antiphon."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"antiphon." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/antiphon
+, 
+"antiphon." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/antiphon
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+an·ti·phon 
+/ ˈantəˌfän/
+•
+n.
+(in traditional western Christian liturgy) a short sentence sung or recited before or after a psalm or canticle.
+ ∎ 
+a musical setting of such a sentence or sentences.
+
+
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"antiphon."
+
+ The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"antiphon." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/antiphon-0
+, 
+"antiphon." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/antiphon-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"antiphon."
+
+The Concise Oxford Dictionary of English Etymology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"antiphon." 
+The Concise Oxford Dictionary of English Etymology.
+. Encyclopedia.com.
+ (July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/antiphon-1
+, 
+"antiphon." 
+The Concise Oxford Dictionary of English Etymology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/antiphon-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"antiphon."
+
+Oxford Dictionary of Rhymes.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"antiphon." 
+Oxford Dictionary of Rhymes.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/antiphon
+, 
+"antiphon." 
+Oxford Dictionary of Rhymes.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/antiphon
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, In Western liturgical practice, a refrain sung before and after a Psalm or canticle. In Byzantine liturgical usage it means several verses of a Psalm, a complete Psalm, or even several Psalms followed by a doxology. Although the original meaning seems to have referred to an alternation of groups in Psalm singing (see psalmody), by the 6th century it had come to mean in the West a refrain that accompanied such alternation. It forms the largest category of chants found in the Office and in the Mass. Later medieval pieces with alternating choruses but not with accompanying psalmody are also called antiphons (processional antiphons and marian antiphons)., Bibliography: o. strunk, "The Antiphons of the Oktoechos," Journal of the American Musicological Society 13 (1960) 50–67. a. gevaert, Le Mélopée antique dans le chant de l'église latine (Gand 1895)., [r. g. weakland], 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Antiphon."
+
+New Catholic Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Antiphon." 
+New Catholic Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/antiphon
+, 
+"Antiphon." 
+New Catholic Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/antiphon
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

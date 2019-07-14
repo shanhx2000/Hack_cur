@@ -1,0 +1,131 @@
+[In the course of its daily activities, an animal travels through familiar places to obtain food, seek shelter, or find mates. The actual physical area covered in the course of these regular movements is the animal's home range. An animal's familiarity with the features of its home range allows it to forage efficiently and escape predators when necessary. For example, a house cat in its home range may begin to stalk as it approaches a familiar birdfeeder even if it cannot tell whether there are birds on the feeder. The cat has learned that the birdfeeder is a reliable source of prey and behaves accordingly. An individual animal, a mated pair, a family, or a group of families may occupy a given home range, and home ranges of several individuals or groups may overlap. Animals do not defend the boundaries of their home ranges against intruders of their own species. An area that is defended is called a territory, and is usually a smaller area within an animal's home range. Some species may carry out all their daily activities within a defended territory, especially during the breeding season. In this case, territory is equivalent to home range., An animal's need for resources and the distribution of resources in the environment determine the size of its home range. This general ecological trend is known as the resource dispersion hypothesis. When resources are sparsely distributed, an individual must travel farther to obtain the same amount of food as an individual of the same species living in a habitat where food resources are concentrated. Variation in the sizes of home ranges within species reflects the quality of the habitat; home ranges will be smaller in resource-rich habitats and larger in those that are resource-poor., , The size of an animal's home range is directly affected by its body size. Large animals generally require large amounts of food and therefore have larger home ranges than individuals or species that are smaller but eat the same types of food. The type of resources an animal requires also greatly influences the size of its home range. For example, herbivores have smaller home ranges than omnivores of the same size: The leaves and grass that herbivores eat tend to be easier to find than the fruits and seeds more common in an omnivorous diet. Similarly, omnivores have smaller home ranges than carnivores of the same body size. The prey of carnivores are distributed even more sparsely than the food of omnivores, so carnivores must cover greater distances to meet their resource needs., Social systems can also influence the size of a home range. In some species, such as voles (Microtis sp. ), males do not care for offspring but instead travel among the home ranges of multiple females seeking mates. In a classic experiment testing the factors that determine home ranges, researchers placed female voles in movable enclosures mimicking a home range and then monitored the movements of uncaged males. When the females were close together, males had small home ranges. When females were farther apart, males increased the size of their home range. Another experiment showed that free-ranging females do not change the size of their home ranges when caged males are close together or far apart. The home range size of female voles is determined by the dispersion of resources, but the home range size of males is determined by the dispersion of females., In general, scientists measure a home range by plotting the movements of an individual onto a map over an extended period of time, often several months or years. This plotting can be done by watching the movements of an animal, capturing and recapturing marked individuals in a grid of traps, or by monitoring individuals with radiotelemetry. Radiotelemetry is a tracking technique in which a scientist attaches a signal-emitting transmitter to an animal which is then released. Using an antenna and receiver, the scientist can then locate the unique signal frequency emitted by an individual's transmitter and follow that animal's movements in the wild. The resulting map of points shows the major activity areas of the study animal, but is not completely precise. An animal will not necessarily visit all areas of its home range during the observation period, and not all areas of the home range will be equally important. For example, a bobcat might spend very little time at a pond in its home range, indicating that fresh water is not very important, yet the availability of fresh water is a key habitat requirement of the species. Many mathematical approaches can be used to analyze home range data, but all approaches have the underlying goal of estimating the probability that an animal will be found in a particular place. Studies of home range are an important part of the science of ecology and can provide insight into the social organization, foraging behavior, limiting resources (those resources that limit the number of individuals that can live in a particular area), and habitat requirements of animals., see also Foraging Strategies; Habitat., Emily H. DuVal , Harestad, A. S., and E. L. Bunnell. "Home Range and Body Weight—A Reevaluation." Ecology 60 (1979):389-402., Ims, R. A. "Spatial Clumping of Sexually Receptive Females Induces Space Sharing Among Male Voles." Nature 335, no. 6190 (1988):541-543., McNab, B. K. "Bioenergetics and the Determination of Home Range Size." American Naturalist 97 (1963):133-140., Powell, Roger A. "Animal Home Ranges and Territories and Home Range Estimators." Research Techniques in Animal Ecology, ed. Luigi Boitani and Todd K. Fuller, New York: Columbia University Press, 2000., Smith, Robert Leo. Ecology and Field Biology, 5th ed. New York: Harper Collins College Publishers, 1996., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Home Range."
+
+Animal Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Home Range." 
+Animal Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/home-range
+, 
+"Home Range." 
+Animal Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/home-range
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"home range."
+
+A Dictionary of Biology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"home range." 
+A Dictionary of Biology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/home-range-1
+, 
+"home range." 
+A Dictionary of Biology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/home-range-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"home range."
+
+A Dictionary of Zoology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"home range." 
+A Dictionary of Zoology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/home-range-0
+, 
+"home range." 
+A Dictionary of Zoology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/home-range-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"home range."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"home range." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/home-range
+, 
+"home range." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/home-range
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

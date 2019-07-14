@@ -1,0 +1,99 @@
+[Copyright The Columbia University Press, Max Black, 1909–88, American analytical philosopher, b. Baku, Russia (now Bakı, Azerbaijan), grad. Cambridge, Ph.D. Univ. of London, 1939. He taught at the Univ. of Illinois (1940–46) before going to Cornell (1946). Influenced by Ludwig Wittgenstein, he wrote A Companion to Wittgenstein's Tractatus (1964). His concern with clear language was expressed in Language and Philosophy (1949), Models and Metaphors (1962), The Labyrinth of Language (1968), and Margins of Precision: Essays in Logic and Language (1970)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Black, Max."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Black, Max." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/black-max
+, 
+"Black, Max." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/black-max
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The American analytic philosopher Max Black was born in Baku, Russia (now Baky, Azerbaijan). He read mathematics at Cambridge and, after he earned his BA in 1930, received a fellowship for research at Göttingen, Germany, where he wrote The Nature of Mathematics (1933). Returning to Britain, he was awarded a doctorate by the University of London for his dissertation Theories of Logical Positivism (1939) and held the position of lecturer and tutor in its Institute of Education from 1936 to 1940. After he emigrated to the United States in 1940, he was appointed to the faculty at the University of Illinois. In 1946 he moved to Cornell University, in Ithaca, New York, where, in 1954, he became Susan Linn Sage Professor and later helped found both the Society for the Humanities and the Program on Science, Technology, and Society. He was president of the Eastern Division of the American Philosophical Association; president of the International Institute of Philosophy; Tarner Lecturer at Trinity College (Cambridge), Guggenheim Fellow; Fulbright Fellow; and visiting fellow at Oxford, Cambridge, Princeton, Palo Alto, and Canberra. He also lectured on contemporary American philosophy in Japan (1957) and India (1962). He died in Ithaca in 1988., Black's early years in Cambridge—where he attended classes of G. E. Moore, Frank Ramsey, Susan Stebbing, and Ludwig Wittgenstein—influenced his later teaching and writings. Along with his analytic orientation of C. D. Broad and Ramsey, Black retained a wide range of scientific and humanistic interests and a careful regard for the commonsensical approach that marked the writings of Moore and Stebbing; but the influence of Wittgenstein was the most profound. Black's first work, The Nature of Mathematics, was an exposition of the logicist, formalist, and intuitionist conceptions of mathematics; it paralleled Wittgenstein in declining to embrace any of the three theories or to propose a new one, and his subsequent doctoral study of logical positivism required coming to grips with Wittgenstein's Tractatus. His abiding interest in that work culminated in A Companion to Wittgenstein's Tractatus (Cambridge and Ithaca, 1964), a work some six times as long as the text it analyzed; it was posthumously reprinted, and admired—even imitated—for its astute and engaging combination of exegesis, explication of sources, and critical comment., , Black's commitment to philosophical analysis involved constructive work on small, well-defined problems with expository and critical discussion; hence the bulk of Black's contributions are essays rather than books. The exceptions are the two noteworthy books already mentioned and a logic text, Critical Thinking (1951). Other volumes were published, to be sure, but they are collections of essays rather than treatises. Black published some twenty books (including those edited and/or translated) and more than 200 essays and reviews., Many of Black's essays take up problems or themes from Wittgenstein's later works, generally concentrating on the issues, especially meaning, rather than on Wittgenstein's texts. Black did not fret about the metaphysical status of meanings, since (as for the later Wittgenstein) explanations of meanings are explanations of how words are used, and it is a mistake to suppose that there are "such things as meanings to be categorized." One aspect of explanations of meaning involves formulating rules for the use of words, and Black (again following Wittgenstein) shows how seemingly necessary propositions often serve as surrogates for rule formulations. Black is aware that a certain vagueness or "looseness" pervades these rules governing ordinary usage, and he explores this dimension in several essays. One of his conclusions is that we normally presuppose that the looseness does not matter. This calling attention to presuppositions of linguistic acts is characteristic of Black. In other essays he calls attention to the contrasting presuppositions of definitions and assertions, and he gives a detailed comparison of presupposition and implication, with special reference to controversies about denoting phrases., Black's conception of philosophy emphasizes the everyday practicality of linguistic analysis: "philosophical clarification of meaning is … as practical as slum clearance and as empirical as medicine"—hence the title essay of one of his last books: "The Prevalence of Humbug." This all-too-prevalent humbug consists not only in logical fallacies but also in overvaluing speculation, ignoring or minimizing induction, and, at times, misplaced logical rigor. Therefore Black deplores not only broad-brush dismissals of rationality and science but also the excesses of pettifogging rationalism and scientism; he lacks sympathy with Hume's criticism of induction and philosophical complaints about vagueness. Here we see Black's respect for common sense, which he learned in part from Moore. The vagueness of ordinary language works partly because normal usage has roots in truth: "To say that a word is correctly used in accordance with normal usage, in certain circumstances, is to say that a certain sentence containing the word is, in those circumstances, true." This remark works in defense of the much-criticized paradigm-case argument, because the circumstances envisaged will be a paradigm case for that word. In other essays, Black augments references to paradigm cases by discussing models and metaphors, both of which also occur in ordinary language but exemplify different sorts of justified vagueness. One later essay, "Reasoning with Loose Concepts," (1963) argues that we can be sure of clear cases without knowing at what point cases cease to be clear. Paradigm cases, however, do not provide a road from language to metaphysics: "The conception of language as a mirror of reality is radically mistaken.", , As an undergraduate, Black heard Moore deliver the Tarner Lectures at Trinity College in 1929, so he was delighted to receive an invitation to deliver them in 1978. His topic, "Models of Rationality," conformed to his customary piecemeal pattern of output in yielding not in a book but a series of essays that were incorporated into several later publications. One theme running through the lectures is that models of rationality cannot eliminate the need for judgment; hence formal schemes, such as those employed by economists in decision theory and choice theory, are bound to remain heuristic rather than definitive., Black's interests had an Enlightenment breadth; the topics of his essays range from formal logic to poetry. In the philosophy of science, he argued eloquently and persuasively for induction and commented on perception, cosmology, decision theory, aesthetics, and sociology, all while retaining his early interest in mathematics. His work in philosophy of language included reviews of the work of many of his contemporaries, including Russell, Dewey, Wittgenstein, Korzybski, Carnap, Tarski, Morris, Whorf, Chomsky, and Skinner. His writing is remarkably free of specialized terminology or jargon. The range and the freshness of his writing help to account, no doubt, for his continuing appeal and relevance., See also  Analysis, Philosophical; Broad, Charlie Dunbar; Carnap, Rudolf; Chomsky, Noam; Decision Theory; Dewey, John; Enlightenment; Induction; Logical Positivism; Metaphor; Moore, George Edward; Paradigm-Case Argument; Philosophy of Language; Ramsey, Frank Plumpton; Russell, Bertrand Arthur William; Skinner, B. F.; Stebbing, Lizzie Susan; Tarski, Alfred; Wittgenstein, Ludwig Josef Johann., In addition to the works mentioned, Black's publications include eight volumes of essays: Language and Philosophy (Ithaca, NY: Cornell University Press, 1949), Problems of Analysis (Ithaca, NY: Cornell University Press, 1954), Models and Metaphors (Ithaca, NY: Cornell University Press, 1962), Margins of Precision (Ithaca, NY: Cornell University Press, 1970), The Labyrinth of Language (New York: Praeger, 1968), Caveats and Critiques (Ithaca, NY, 1975), The Prevalence of Humbug and Other Essays (Ithaca, NY: Cornell University Press, 1983), and Perplexities (Ithaca, NY: Cornell University Press, 1990)., Volumes translated or edited include R. Carnap, The Unity of Science (London, 1934), Philosophical Analysis (Ithaca, NY, 1950), Translations from the Philosophical Writings of Gottlob Frege (with P. T. Geach; Oxford, 1960), The Social Theories of Talcott Parsons (Englewood Cliffs, NJ: Prentice-Hall, 1961), The Importance of Language (Englewood Cliffs, NJ: Prentice-Hall, 1962), Philosophy in America (Ithaca, NY: Cornell University Press, 1965), The Morality of Scholarship (Ithaca, NY: Cornell University Press, 1967), and Problems of Choice and Decision (Ithaca, NY: The Program, 1975)., A reasonably complete bibliography to 1985 is appended to Black's autobiographical sketch in Volume 12 of Philosophers on Their Own Work (Bern/Frankfurt/New York: H. Lang, 1985), pp. 9–41., Newton Garver (1967, 2005)  , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Black, Max (1909–1988)."
+
+Encyclopedia of Philosophy.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Black, Max (1909–1988)." 
+Encyclopedia of Philosophy.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/black-max-1909-1988
+, 
+"Black, Max (1909–1988)." 
+Encyclopedia of Philosophy.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/black-max-1909-1988
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, BLACK, MAX (1909–1988), U.S. philosopher. Black was born in Baku, Russia, and educated in Germany and England. He received his B.A. from Queens College, Cambridge in 1930 and was awarded a fellowship to study at Goettingen. He received his Ph.D. from the University of London in 1939. He lectured on mathematics at the Institution of Education in London from 1936 until 1940, then was appointed to the Philosophy Department at the University of Illinois at Urbana. After six years at Urbana, Black accepted a professorship in philosophy at Cornell University in New York, later becoming Susan Linsage Professor of Philosophy and Humane Letters (1954). Black retired in 1977 but continued lecturing at many universities around the world. He was president of the International Institute of Philosophy from 1981 to 1984, being only the second American at the time to assume that position., Black's work dealt mainly with problems in contemporary analytical philosophy, ranging from the nature and function of mathematics to the role of ordinary language in the solution of philosophical problems. Though influenced by formalists, his own contributions stress the effectiveness of informalist approaches in the elimination of philosophical perplexity. He edited the influential journal The Philosophical Review., Black's major publications include The Nature of Mathematics (1933), Language and Philosophy (1949), Problems of Analysis (1954), The Importance of Language (1962), Models and Metaphors (1962), A Companion to Wittgenstein's Tractatus (1964), Philosophy in America (1965), The Labyrinth of Language (1969), Margins of Precision: Essays in Logic and Language (1970), Art, Perception, and Reality (1972), and The Prevalence of Humbug and Other Essays (1983)., [Avrum Stroll /, Ruth Beloff (2nd ed.)], 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Black, Max."
+
+Encyclopaedia Judaica.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Black, Max." 
+Encyclopaedia Judaica.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/black-max
+, 
+"Black, Max." 
+Encyclopaedia Judaica.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/black-max
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

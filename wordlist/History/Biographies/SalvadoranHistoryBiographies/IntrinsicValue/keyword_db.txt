@@ -1,0 +1,69 @@
+[A thing's intrinsic value is the value it has in itself as opposed to the instrumental value it derives from causally producing something else. Such value is important for the theory of the right, since on most views at least one moral duty is to promote intrinsic goods and prevent intrinsic evils. But it also matters in itself. If an earthquake causes suffering no one could have prevented, the suffering is still intrinsically bad. In fact, it is distinctive of the concept of value that, unlike that of ought or right, it is not restricted to what is under our voluntary control. And intrinsic value is the central kind of value. Something is instrumentally good if it produces something else good, but on pain of infinite regress, what it produces must eventually be intrinsically good., There are two types of questions about intrinsic value: conceptual questions about what it is and substantive questions about what things have it. One conceptual issue is whether judgments of intrinsic value are objectively true or false or merely express emotions, but this question arises equally for all normative concepts. A more distinctive question is how intrinsic goodness relates to other normative concepts. One view, defended by G. E. Moore (1903), says the concept of goodness is simple and unanalyzable, even in normative terms; a rival view analyzes the good as what one ought to desire (Sidgwick 1907) or as the desire for which is correct or appropriate (Brentano 1969, Ewing 1948). Like the first view, the second allows judgments of goodness to extend beyond ones about right action, since one can desire what one cannot produce. But it cannot say, as the first can, that one ought to desire something because it is good, and it faces the further difficulty that, since one often cannot produce desires at will, its ought cannot be the simple deontic one and is therefore not clearly distinguishable from good., , A second conceptual question is what type of entities have intrinsic value. The most common view is that they are states of affairs, so to say that pleasure is good is really to say that the state of affairs in which someone enjoys pleasure is good. But some attach value primarily to objects. Thus, Immanuel Kant (1998) held that the prime bearers of intrinsic value are persons (and not the states of affairs in which persons exist) while others find such value in, say, beautiful works of art. A related question is what the morally required response to intrinsic value is. Many who locate such value in states of affairs say this response is only to desire and promote the good; others say there is a separate and stronger requirement to respect good states by not directly destroying them. In fact the Kantian view centers on respect. Since one cannot promote values that already exist, as the Kantian value of persons does, the required response is not to treat them in a way that disregards their value., A final conceptual question is what kind of properties intrinsic value can depend on. Moore held the strict view that a thing's intrinsic value can depend only on its intrinsic properties, those it has independently of relations to other things. He therefore tested for intrinsic value by a method of isolation, which involves imagining a world where only a given thing exists and asking whether that world is good. Others hold, more liberally, that intrinsic value can depend on relations, so a belief can be intrinsically better if it corresponds to reality and therefore is true, or a pleasure can be better if it is that of a virtuous person and so deserved. (Some restrict the term intrinsic value to value that depends only on intrinsic properties and use final value for what can vary with relations; they still differ from Moore in holding that some value worth promoting for itself depends on relations.), The substantive issues about intrinsic value arise most clearly if it is located in states of affairs; the question then is which states are worth desiring and promoting for their own sakes. Here, the simplest view is hedonism, which holds that only pleasure is intrinsically good and only pain intrinsically evil. Though defended by Jeremy Bentham, Sidgwick, and other utilitarians, hedonism faces numerous objections. It implies that a world of intense mindless pleasures like those of Brave New World, where people are systematically deluded and exercise no serious skills, can be supremely good; it makes morally vicious pleasures, such as pleasure in another's pain, purely good; and it also makes undeserved pleasure good., , In response, many philosophers develop pluralistic views according to which the intrinsic goods include not just pleasure but also, for example, other states of persons such as knowledge, the achievement of difficult goals, and moral virtue; patterns of distribution of goods across persons, such as equal distributions or ones proportioned to people's deserts; and even states outside persons, such as the flourishing of complex ecosystems. These pluralistic views require comparisons between their different goods whereby some may be higher or greater than others. Thus, scientific knowledge may be better than the pleasure of eating chocolate and the virtue of compassion better than both. But in so far as there is a duty to promote intrinsic value, one should pursue the best overall outcome, weighing all goods appropriately against each other., Many nonhedonic goods involve what Moore called the "principle of organic unities (1903, p. 27-36) according to which the intrinsic value of a whole need not equal the sum of the values its parts would have on their own, so states with little value when apart can make for significant value when combined. The exact formulation of this principle depends on whether intrinsic value can depend only on intrinsic or also on relational properties. Either way, the greatest value can be found not in simple states such as pleasures but in complexes combining several elements in a specified way., A final substantive question is whether all intrinsic values are agent-neutral, so everyone has equal reason to pursue them, or some are agent-relative, with greater value from some people's point of view than from others'. Given Moore's view that goodness is an unanalyzable property, agent-relativity is impossible: A state either has the simple property, in which case everyone has a duty to promote it, or it does not. But analyses of good in terms of ought allow relativity: We can say that each person's pleasure is something only that person ought to desire, or that parents should care more about their children's pleasure than about that of strangers. On the agent-neutral view, intrinsic value specifies a common goal that everyone is to pursue together; given agent-relativity, there can be different goods and different required goals for different people., , See also  Bentham, Jeremy; Intuitionism and Intuitionistic Logic; Kant, Immanuel; Objectivity in Ethics; Sidgwick, Henry; Value and Valuation., Anderson, Elizabeth. Value in Ethics and Economics. Cambridge, MA: Harvard University Press, 1993., Brentano, Franz. The Origin of Our Knowledge of Right and Wrong. Edited by Roderick M. Chisholm. Translated by Roderick M. Chisholm and Elizabeth Schneewind. London: Routledge &amp; Kegan Paul, 1969., Ewing, A. C. The Definition of Good. New York: Macmillan, 1948., Kant, Immanuel. Groundwork of the Metaphysics of Morals. Edited and translated by Mary Gregor. Cambridge, U.K.: Cambridge University Press, 1998., Korsgaard, Christine M. "Two Distinctions in Goodness." Philosophical Review 92 1983: 169–195., Lemos, Noah M. Intrinsic Value: Concept and Warrant. Cambridge, U.K.: Cambridge University Press, 1994., Moore, G. E. Principia Ethica. Cambridge, U.K.: Cambridge University Press, 1903., Ross, W. D The Right and the Good. Oxford: Clarendon Press, 1930., Sidgwick, Henry. The Methods of Ethics. 7th ed. London: Macmillan, 1907., Thomas Hurka (2005)  , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Intrinsic Value."
+
+Encyclopedia of Philosophy.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Intrinsic Value." 
+Encyclopedia of Philosophy.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/intrinsic-value
+, 
+"Intrinsic Value." 
+Encyclopedia of Philosophy.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/intrinsic-value
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Saying that an object has intrinsic value means that, even though it has no specific use, market, or monetary value, it nevertheless can be valuable in and of itself and for its own sake. The Northern spotted owl (Strix occidentalis caurina ) for example, has no instrumental or market value; it is not a means to any human end, nor is it sold or traded in any market. But, environmentalists argue, utility and price are not the only measures of worth. Indeed, they say, some of the things humans value most—truth, love, respect—are not for sale at any price, and to try to put a price on them would only tend to cheapen them. Such things have "intrinsic value.", Similarly, environmentalists say, the natural environment and its myriad life-forms are valuable in their own right. Wilderness , for instance, has intrinsic value and is worthy of protecting for its own sake. To say that something has intrinsic value is not necessarily to deny that it may also have instrumental value for humans and non-human animals alike. Deer, for example, have intrinsic value; but they also have instrumental value as a food source for wolves and other predator species ., See also
+Shadow pricing
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Intrinsic Value."
+
+Environmental Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Intrinsic Value." 
+Environmental Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/intrinsic-value
+, 
+"Intrinsic Value." 
+Environmental Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/intrinsic-value
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

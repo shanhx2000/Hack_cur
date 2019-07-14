@@ -1,0 +1,99 @@
+[Hydrogeology is the study of water contained in materials of Earth's crust , the physical and chemical characteristics of this water, its origin, evolution , and ultimate destination. Hydrogeology is the term used by geologists and hydrogeologists for this study. Geohydrology is the term most often used by engineers. The two terms are roughly equivalent., The water contained in materials of Earth's crust is called groundwater (sometimes spelled as "ground water" to distinguish ground water from surface water). Groundwater is sometimes defined as water below the earth's surface, but groundwater may occur at the surface especially after heavy rainfall in certain areas., , When groundwater is not at the earth's surface, there is a zone beneath the surface where the majority of pore (open) spaces are filled with air. This is called the vadose zone or zone of aeration. Below a certain depth, all the pore spaces are filled with water. This is known as the phreatic zone or zone of saturation. The zone of saturation extends downward until pressure of the overlying materials is so great that there are no pore spaces available. The area separating the vadose and phreatic zones is called the water table , which is usually represented on cross sections as a dashed line. The dashed line, as opposed to a solid line, indicates that the water table moves up and down with the seasons , being higher and nearer Earth's surface during wet seasons and lower and deeper below Earth's surface during dry seasons., Modern groundwater studies have their origin in the middle 1850s when a French engineer, Henry Darcy, published a report describing an experiment he conducted with a tube on an incline that he had filled with sand . Darcy's experiments led to the first quantitative "law" in hydrogeology, used to determine the rate of flow of groundwater and now known as Darcy's law. It can be expressed mathematically as v = KIA, where "v" equals the rate of groundwater flow, "K" equals hydraulic conductivity or permeability , "A" equals the area of a cross-section of the water-bearing unit (e.g., cross-section of Darcy's cylinder of sand) and "I" equals the hydraulic gradient., Hydraulic conductivity or permeability (K) is measured from the material through which the groundwater is flowing and has the dimensions of length per unit time (L/T, e.g., cm per second, feet per year, etc.)., Groundwater occurs underground in bodies of Earth materials called aquifers, which may be of two types: unconfined or confined. Unconfined aquifers are bound at their top by the water table. Confined aquifers are bound both top and bottom by materials through which little or no water flows,(i.e., impermeable materials), or aquicludes (also known as aquitards). The materials holding the water are usually inclined to the horizontal so that pressure builds up in the aquifer . When the aquifer is drilled, the water rises to the highest level of water confined within the aquifer or sometimes to the surface. These aquifers represent a special kind of aquifer, called artesian , after an area in France where this situation is common., , Hydrogeology is extremely important to mankind because over 100 million people in the United States alone use groundwater for drinking; about a third of the largest U.S. cities have some reliance upon groundwater use in their potable (drinkable) water supply., It is not always easy to gather data about groundwater in a given area because evidence of underlying water is not usually readily apparent at the surface. Therefore, it is necessary to drill wells into and below the water table into the phreatic zone (zone of saturation). Well drilling is a time-consuming and expensive method for gathering data and is usually not done solely for academic purposes. It is usually done to meet the requirements of state or federal regulatory agencies. Such studies are sometimes financed by the agencies but, in most cases, they are financed by private industry seeking to avoid contamination by the use of proper hydrogeologic profile maps, or to determine the presence and/or extent of existing contamination. In the United States, the federal government, especially the Department of Defense and the Department of Energy, have industrial facilities that are responsible for groundwater cleanup., The United States Congress passed two major laws that have greatly impacted the study of groundwater: the Resource Conservation and Recovery Act (RCRA) of 1976 and the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) of 1980., RCRA establishes a "cradle to grave" tracking system for hazardous wastes and requires those facilities considered RCRA facilities to define and characterize the uppermost aquifer beneath the facility and to monitor the quality of the groundwater as it flows beneath the facility. Numerous wells are usually required to characterize the uppermost aquifer and, in every case, at least four wells are required (one upgradient and three downgradient from the facility)., CERCLA was originally conceived to allow for cleanup of abandoned hazardous waste sites. It established a fund to be raised and maintained by collecting a tax on the producers of hazardous materials. This fund (and the act) soon became known as "Superfund." Superfund was reauthorized and greatly enhanced in 1986 by the Superfund Amendments and Reauthorization Act (SARA)., Once groundwater is contaminated, it can be very costly and time consuming to remediate (i.e., clean up). Unfortunately, one of the most common groundwater contaminants is also one of the most difficult to remediate—the chemical group known as the chlorinated solvents, especially trichloroethylene (TCE) and perchloroethylene (PCE). These have been widely used as solvents, TCE as a degreaser and PCE in the dry cleaning industry. They do not fully dissolve in groundwater and they tend to form pockets or globules in both the vadose and phreatic zones., One of the most common methods of cleaning up groundwater is the "pump and treat" method whereby groundwater is pumped to the surface, treated by some method, then reinjected into the aquifer or released as surface water. This does not work well with TCE and PCE because as the groundwater is pumped to the surface, these globules remain in the subsurface and they fail to come to the surface with the groundwater., See also  Drainage basins and drainage patterns; Drainage calculations and engineering; Freshwater; Hydrostatic pressure; Petroleum, detection; Porosity and permeability; Relief; Remote sensing; Runoff; Seismology; Waste disposal; Wastewater treatment; Water pollution and biological purification, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Hydrogeology."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Hydrogeology." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/hydrogeology
+, 
+"Hydrogeology." 
+World of Earth Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/hydrogeology
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"hydrogeology."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"hydrogeology." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/hydrogeology
+, 
+"hydrogeology." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/hydrogeology
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Sometimes called groundwater hydrology or geohydrology, this branch of hydrology is concerned with the relationship of subsurface water and geologic materials. Of primary interest is the saturated zone of subsurface water, called groundwater, which occurs in rock formations and in unconsolidated materials such as sands and gravels. Groundwater is studied in terms of its occurrence, amount, flow, and quality. Historically, much of the work in hydrogeology centered on finding sources of groundwater to supply water for drinking, irrigation , and municipal uses. More recently, groundwater contamination by pesticides, chemical fertilizers, toxic wastes, and petroleum and chemical spills have become new areas of concern for hydrogeologists., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Hydrogeology."
+
+Environmental Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Hydrogeology." 
+Environmental Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/hydrogeology
+, 
+"Hydrogeology." 
+Environmental Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/hydrogeology
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

@@ -1,0 +1,195 @@
+[, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"chemical oxygen demand."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+ "chemical oxygen demand." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/chemical-oxygen-demand
+, 
+"chemical oxygen demand." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/chemical-oxygen-demand
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"chemical oxygen demand."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"chemical oxygen demand." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/chemical-oxygen-demand-0
+, 
+"chemical oxygen demand." 
+A Dictionary of Ecology.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/chemical-oxygen-demand-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"chemical oxygen demand."
+
+A Dictionary of Plant Sciences.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"chemical oxygen demand." 
+A Dictionary of Plant Sciences.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/chemical-oxygen-demand-1
+, 
+"chemical oxygen demand." 
+A Dictionary of Plant Sciences.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/chemical-oxygen-demand-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Chemical oxygen demand (COD) is a measure of the ability of chemical reactions to oxidize matter in an aqueous system. The results are expressed in terms of oxygen so that they can be compared directly to the results of biochemical oxygen demand (BOD) testing. The test is performed by adding the oxidizing solution to a sample, boiling the mixture on a refluxing apparatus for two hours and then titrating the amount of dichromate remaining after the refluxing period. The titration procedure involves adding ferrous ammonium sulfate (FAS), at a known normality, to reduce the remaining dichromate. The amount of dichromate reduced during the test—the initial amount minus the amount remaining at the end—is then expressed in terms of oxygen. The test has nothing to do with oxygen initially present or used. It is a measure of the demand of a solution or suspension for a strong oxidant. The oxidant will react with most organic materials and certain inorganic materials under the conditions of the test. For example, Fe2+ and Mn2+ will be oxidized for Fe3+ and Mn4+, respectively, during the test., Generally, the COD is larger than the BOD exerted over a five-day period (BOD5), but there are exceptions in which microbes of the BOD test can oxidize materials that the COD reagents cannot. For a raw, domestic wastewater , the COD/BOD5 ratio is in the area of 1.5–3.0/1.0. Higher ratios would indicate the presence of toxic, nonbiodegradable or less readily biodegradable materials., , The COD test is commonly used because it is a relatively short-term, precise test with few interferences. However, the spent solutions generated by the test are hazardous. The liquids are acidic, and contain chromium, silver, mercury , and perhaps other toxic materials in the sample tested. For this reason laboratories are doing fewer or smaller COD tests in which smaller amounts of the same reagents are used., [Gregory D. Boardman ], Corbitt, R. A. Standard Handbook of Environmental Engineering. New York: McGraw-Hill, 1990., Davis, M. L., and D. A. Cornwell. Introduction to Environmental Engineering. New York: McGraw-Hill, 1991., Peavy, H. S., D. R. Rowe, and G. Tchobanoglous. Environmental Engineering. New York: McGraw-Hill, 1985., Tchobanoglous, G., and E. D. Schroeder. Water Quality. Reading, MA: Addison-Wesley, 1985., Viessman, W., Jr., and M. J. Hammer. Water Supply and Pollution Control. 5th ed. New York: Harper Collins, 1993., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Chemical Oxygen Demand."
+
+Environmental Encyclopedia.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Chemical Oxygen Demand." 
+Environmental Encyclopedia.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/chemical-oxygen-demand
+, 
+"Chemical Oxygen Demand." 
+Environmental Encyclopedia.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/chemical-oxygen-demand
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Chemical oxygen demand (COD) is a measure of the capacity of water to consume oxygen during the decomposition of organic matter and the oxidation (the loss of an electron from a compound) of inorganic chemicals such as ammonia and nitrite. COD measurements are commonly made on samples of waste waters or of natural waters contaminated by domestic or industrial wastes., Chemical oxygen demand is measured as a standardized laboratory assay (analysis) in which a closed water sample is incubated with a strong chemical oxidant (an oxidant is a chemical that causes an electron to be removed from a compound) under specific conditions of temperature and for a particular period of time., Chemical oxygen demand is related to biochemical oxygen demand (BOD), another standard test for assaying the oxygen-demanding strength of waste waters. However, biochemical oxygen demand only measures the amount of oxygen consumed by the activity of microoganisms and is most relevant to waters rich in organic matter. Chemical oxygen demand and biological oxygen demand do not necessarily measure the same types of oxygen consumption. For example, chemical oxygen demand does not measure the oxygen-consuming potential associated with certain dissolved organic compounds such as acetate. However, acetate can be processed by microorganisms and so could be measured by means of the biological oxygen demand., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Chemical Oxygen Demand."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Chemical Oxygen Demand." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/chemical-oxygen-demand
+, 
+"Chemical Oxygen Demand." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/chemical-oxygen-demand
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Chemical oxygen demand (COD) is a measure of the capacity of water to consume oxygen during the decomposition of organic matter and the oxidation of inorganic chemicals such as ammonia and nitrite. COD measurements are commonly made on samples of waste waters or of natural waters contaminated by domestic or industrial wastes. Chemical oxygen demand is measured as a standardized laboratory assay in which a closed water sample is incubated with a strong chemical oxidant under specific conditions of temperature and for a particular period of time . A commonly used oxidant in COD assays is potassium dichromate (K2Cr2O7) which is used in combination with boiling sulfuric acid (H2SO4). Because this chemical oxidant is not specific to oxygen-consuming chemicals that are organic or inorganic, both of these sources of oxygen demand are measured in a COD assay., Chemical oxygen demand is related to biochemical oxygen demand (BOD), another standard test for assaying the oxygen-demanding strength of waste waters. However, biochemicaloxygen demand only measures the amount of oxygen consumed by microbial oxidation and is most relevant to waters rich in organic matter. It is important to understand that COD and BOD do not necessarily measure the same types of oxygen consumption. For example, COD does not measure the oxygen-consuming potential associated with certain dissolved organic compounds such as acetate. However, acetate can be metabolized by microorganisms and would therefore be detected in an assay of BOD. In contrast, the oxygen-consuming potential of cellulose is not measured during a short-term BOD assay, but it is measured during a COD test., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Chemical Oxygen Demand."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Chemical Oxygen Demand." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/chemical-oxygen-demand-0
+, 
+"Chemical Oxygen Demand." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/chemical-oxygen-demand-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

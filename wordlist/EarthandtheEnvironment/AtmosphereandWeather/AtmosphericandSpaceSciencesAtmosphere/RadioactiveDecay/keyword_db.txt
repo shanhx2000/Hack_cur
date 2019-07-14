@@ -1,0 +1,166 @@
+[, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"radioactive decay."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"radioactive decay." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/radioactive-decay
+, 
+"radioactive decay." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/radioactive-decay
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"radioactive decay."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"radioactive decay." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/radioactive-decay
+, 
+"radioactive decay." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/radioactive-decay
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The nucleus of each atom has a fixed number of protons and neutrons and is either stable or unstable, depending on several factors. In general, the most stable atoms are those that have an equal number of protons and neutrons and do not have too large a number of protons and neutrons together. (Very large nuclei are unstable even if they contain equal numbers of neutrons and protons.) Atoms whose nuclei are unstable are radioactive, and an atom that is radioactive can also be called a radionuclide. Of the known nuclides (approximately 2,000), only 264 are stable, and of the known radionuclides (approximately 1,700), only 70 occur in nature; the rest are man-made. Unstable atoms undergo a process called radioactive decay to reach a more stable state., While a radionuclide is going through the process of decay, energy is released from the atom in one of three modes: alpha, beta, or gamma radiation. These modes may take several steps, involving only the nucleus or the entire atom. Each radionuclide has one or more characteristic modes of decay. The particular mode of decay determines the type of energy, or radiation, released from the atom, and consists of either subatomic particles, photons, or both., Radionuclides are unstable to varying degrees. The more unstable a radionuclide is the faster it decays. The quantity of a radioactive substance is expressed as disintegrations per second, in units of Curies (Ci) named for Marie Curie (1867–1934), or if Syste`me International is used, Becquerels (Bq) named for Henri Becquerel (1852–1909). The rate at which a radionuclide decays depends upon its half-life, the expected time required for half of the nuclei to decay to a stable state. The half-life is typically not affected by temperature, pressure, or gravitational, magnetic, or electrical fields., When radioactivity was first discovered, it was thought that all the energy given off by the radionuclide was basically the same, with differences only in penetrating power. However, research conducted by Becquerel and Pierre Curie (1859–1906) proved that there were three distinct modes of radioactive decay, which differed not only in their ability to penetrate, but also in their velocity, as well as their susceptibility to magnetic fields., Alpha and beta radioemissions are actually particulate matter that is thrown out from the nucleus. An alpha particle is two protons and two neutrons, or in other words, it is a helium atom without the electrons. After an alpha particle is emitted, the atomic mass decreases by four, and the number of protons and neutrons decrease by two. Alpha decay occurs in radionuclides with an atomic number greater than 83 and a mass number greater than 209. Alpha particles interact with negatively charged electrons in the environment, which consequently use up the energy in the particle, slowing it down and greatly diminishing its penetrating power. Even a sheet of paper can stop an alpha particle. The direction of an alpha particle is only slightly affected by a magnetic field because the particle has a balanced change. When a radionuclide decays by alpha radiation, it does not just disappear. Instead, the radionuclide transmutes into another radionuclide or nuclide. For example, uranium-238 transmutes into several other radionuclides, including radium-226 and radon-222, before ending up as lead-206, a stable nuclide., Beta radiation, which also involves particulate emissions, can either be negatively charged or positively charged. Beta particles are actually created in the nucleus by either a proton changing into a neutron (positron emission) or a neutron changing into a proton (negatron emission). A beta particle has a higher velocity than an alpha particle, and its path is markedly deflected by a magnetic field. When a negatron is emitted from an atom, the atomic mass of the atom is unchanged, the number of protons increases by one, and the number of neutrons decreases by one. The mass remains unchanged when a positron is emitted, the number of neutrons increases by one, and the number of protons decreases by one., An atom usually becomes excited from either of the above-mentioned decay processes and sheds excess energy in the form of a gamma ray photon. With gamma emissions, the atomic mass, number of protons (atomic number), or the number of neutrons, remains unchanged. Since a gamma ray is an electromagnetic wave, its velocity is that of light or any other electromagnetic wave, such as an x ray. Electromagnetic waves are not diverted by electric or magnetic fields., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Radioactive Decay."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Radioactive Decay." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/radioactive-decay-0
+, 
+"Radioactive Decay." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/radioactive-decay-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Radioactive decay is the process by which an atomic nucleus undergoes a spontaneous change, emitting an alpha particle or beta particle and/or a gamma ray . Radioactive decay is a natural process that takes place in the air, water, and soil at all times. The decay of isotopes such as uranium-238, radium-226, radon-222, potassium-40, and carbon-14 produce radiation that poses an unavoidable and, probably, minimal hazard to human health. Scientists have also learned how to convert stable isotopes to radioactive forms. The radioactive decay of these isotopes has been added to the natural background radiation from naturally radioactive materials., See also
+Carbon;
+Radioactive fallout;
+Radioactivity, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Radioactive Decay."
+
+Environmental Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Radioactive Decay." 
+Environmental Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/radioactive-decay-0
+, 
+"Radioactive Decay." 
+Environmental Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/radioactive-decay-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The nucleus of each atom has a specific number of protons and neutrons and is either stable or unstable, depending on the relative number of each. The most stable atoms are those that have an equal number of protons and neutrons. Atoms that are unstable are radioactive. An atom that is radioactive can also be called a radionuclide. Of the known nuclides (approximately 2,000), only 264 are stable, and of the known radionuclides (approximately 1,700), only 70 occur in nature. The rest are man-made. Unstable atoms undergo a process called radioactive decay to reach a more stable state. , While a radionuclide is going through the process of decay, energy is released from the atom in one of three modes: alpha, beta, or gamma radiation . These modes may take several steps, involving only the nucleus or the entire atom. Each radionuclide has one or more characteristic modes of decay. The particular mode of decay determines the type of energy, or radiation, released from the atom, and consists of either subatomic particles , photons, or both., Radionuclides are unstable to varying degrees. The more unstable a radionuclide is the faster it decays. The quantity of a radioactive substance is expressed as disintegrations per second, in units of Curies (Ci) named for Marie Curie, or if Système International is used, Becquerels (Bq) named for Henri Becquerel. The rate at which a radionuclide decays depends upon its half-life , the expected time required for half of the nuclei to decay to a stable state. The half-life is typically not affected by temperature , pres sure, or gravitational, magnetic, or electrical fields., When radioactivity was first discovered, it was thought that all the energy given off by the radionuclide was basically the same, with differences only in penetrating power. However, research conducted by Becquerel and Pierre Curie proved that there were three distinct modes of radioactive decay, which differed not only in their ability to penetrate, but also in their velocity , as well as their susceptibility to magnetic fields., Alpha and beta radioemissions are actually particulate matter that is thrown out from the nucleus. An alpha particle is two protons and two neutrons, or in other words, it is a helium atom without the electrons. After an alpha particle is emitted, the atomic mass decreases by four, and the number of protons and neutrons decrease by two. Alpha decay occurs in radionuclides with an atomic number greater than 83 and a mass number greater than 209. Alpha particles interact with negatively charged electrons in the environment, which consequently use up th e energy in the particle, slowing it down and greatly diminishing its penetrating power. Even a sheet of paper can stop an alpha particle. The direction of an alpha particle is only slightly affected by a magnetic field because the particle has a balanced change. When a radionuclide decays by a lpha radiation, it does not just disappear. Instead, the radionuclide transmutes into another radionuclide or nuclide. For example, uranium-238 transmutes into several other radionuclides, including radium-226 and radon-222, before ending up as lead-206, a stable nuclide., Beta radiation, which also involves particulate emissions, can be either be negatively charged or positively charged. Beta particles are actually created in the nucleus by either a proton changing into a neutron (positron emission ) or a neutron changing into a p roton (negatron emission). A beta particle has a higher velocity than an alpha particle, and its path is markedly deflected by a magnetic field. When a negatron is emitted from an atom, the atomic mass of the atom is unchanged, the number of protons increases by one, and the number of neutrons decreases by one. The mass remains unchanged when a positron is emitted, the number of neutrons increases by one, and the number of protons decreases by one. , An atom usually becomes excited from either of the above-mentioned decay processes and sheds excess energy in the form of a gamma ray photon . With gamma emissions, the atomic mass, number of protons (atomic number), or the number of neutrons, remains unchanged. The velocity of a gamma ray is almost that of light and is not affected by magnetic fields., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Radioactive Decay."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Radioactive Decay." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/radioactive-decay
+, 
+"Radioactive Decay." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+ https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/radioactive-decay
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

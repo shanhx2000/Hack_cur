@@ -1,0 +1,99 @@
+[, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"biogeochemistry."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"biogeochemistry." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeochemistry-0
+, 
+"biogeochemistry." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeochemistry-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"biogeochemistry."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"biogeochemistry." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeochemistry
+, 
+"biogeochemistry." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeochemistry
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Biogeochemistry refers to the quantity and cycling of chemicals in ecosystems. Biogeochemistry can be studied at various spatial scales, ranging from communities, landscapes (or seascapes), and over Earth as a whole. Biogeochemistry involves the study of chemicals in organisms, and also in non-living components of the environment ., An important aspect of biogeochemistry is the fact that elements can occur in various molecular forms that can be transformed among each other, often as a result of biological reactions. Such transformations are an especially important consideration for nutrients, i.e., those chemicals that are required for the healthy functioning of organisms. As a result of biogeochemical cycling, nutrients can be used repeatedly–nutrients contained in dead biomass can be recycled through inorganic forms, back into living organisms, and so on. Biogeochemistry is also relevant to the movements and transformations of potentially toxic chemicals in ecosystems, such as metals, pesticides, and certain gases., Ecologists have a good understanding of the biogeochemical cycling of the most important nutrients. These include carbon , nitrogen , phosphorus , potassium, calcium, magnesium, and sulfur. Some of these can occur variously as gases in the atmosphere ,as ions dissolved in water, in minerals in rocks and soil , and in a great variety of organic chemicals in the living or dead biomass of organisms. Ecologists study nutrient cycles by determining the quantities of the various chemical forms of nutrients in various compartments of ecosystems, and by determining the rates of transformation and cycling among the various compartments., , The nitrogen cycle is particularly well understood, and it can be used to illustrate the broader characteristics of nutrient cycling. Nitrogen is an important nutrient, being one of the most abundant elements in the tissues of organisms and a component of many kinds of biochemicals, including amino acids, proteins, and nucleic acids. Nitrogen is also one of the most common limiting factors to primary productivity , and the growth rates of plants in many ecosystems will increase markedly if they are fertilized with nitrogen. This is a fairly common characteristic of terrestrial and marine environments, and to a lesser degree of freshwater ones., Plants assimilate most of their nitrogen from the soil environment, as nitrate (NO  3 -) or ammonium (NH + 4 ) dissolved in the water that is taken up by roots. Some may also be taken up as gaseous nitrogen oxides (such as NO or NO2) that are absorbed from the atmosphere. In addition, some plants live in a beneficial symbiosis with microorganisms that have the ability to fix atmospheric dinitrogen gas (N2) into ammonia (NH3), which can be used as a nutrient. In contrast, almost all animals satisfy their nutritional needs by eating plants or other animals and metabolically breaking down the organic forms of nitrogen, using the products (such as amino acids) to synthesize the necessary biochemicals of the animal. When plants and animals die, microorganisms active in the detrital cycle metabolize organic nitrogen in the dead biomass into simpler compounds, ultimately to ammonium., The nitrogen cycle has always occurred naturally, but in modern times some of its aspects have been greatly modified by human influences. These include the fertilization of agricultural ecosystems, the dumping of nitrogen-containing sewage into lakes and other waterbodies, the emission of gaseous forms of nitrogen into the atmosphere, and the cultivation of nitrogen-fixing legumes. In some cases, human effects on nitrogen biogeochemistry result in increased productivity of crops, but in other cases serious ecological damages occur., , Some human activities result in the release of toxic chemicals into the environment, which under certain conditions can pose risks to human health and cause serious damages to ecosystems. These damages are called pollution , whereas the mere presence of chemicals which cause no damage in the environment is referred to as contamination. Biogeochemistry is concerned with the emissions, transfers, and quantities of these potentially toxic chemicals in the environment and ecosystems., Certain chemicals have a great ability to accumulate in organisms rather than in the non-living (or inorganic) components of the environment. This tendency is referred to as bioconcentration. Chemicals that strongly bioconcentrate include methylmercury and all of the persistent organochlorine compounds, such as dichlorodiphenyl-trichloroethane (DDT), pentachlorophenol (PCBs), dioxins, and furans . Methylmercury bioconcentrates because it is rather tightly bound in certain body organs of animals. The organochlorines bioconcentrate because they are extremely insoluble in water but highly soluble in fats and lipids, which are abundant in the bodies of organisms but not in non-living parts of the environment., In addition, persistent organochlorines tend to occur in particularly large concentrations in the fat of top predators, that is, in animals high in the ecological food web, such as marine mammals, predatory birds, and humans. This happens because these chemicals are not easily metabolized into simpler compounds by these animals, so they accumulate in increasingly larger residues as the animals feed and age. This phenomenon is known as food-web magnification (or biomagnification ). Food-web magnification causes chemicals such as DDT to achieve residues of tens or more parts per million (ppm) in the fatty tissues of top predators, even though they occur in the inorganic environment (such as water) in concentrations smaller than one part per billion (ppb). These high body residues can lead to ecotoxicological problems for top predators, some of which have declined in abundance because of their exposure to chlorinated hydrocarbons ., Because a few species of plants have an affinity for potentially toxic elements, they may bioaccumulate them to extremely high concentrations in their tissues. These plants are genetically adapted ecotypes which are themselves little affected by the residues, although they can cause toxicity to animals that might feed on their biomass. For example, some plants that live in environments in which the soil contains a mineral known as serpentine accumulate nickel to concentrations which may exceed thousands of ppm. Similarly, some plants (such as locoweed) growing in semi-arid environments can accumulate thousands of ppm of selenium in their tissues, which can poison animals that feed on the plants., [Bill Freedman Ph.D. ], Atlas, R.M., and R. Bartha. Microbial Ecology. Menlo Park, CA: Benjamin/Cummings, 1987., Freedman, B. Environmental Ecology, 2nd ed. San Diego, CA: Academic Press, 1995., Schlesinger, W. H. Biogeochemistry: An Analysis of Global Change. San Diego, CA: Academic Press, 1991., Smith, R. P. A Primer of Environmental Toxicology. Philadelphia, PA: Lea &amp; Febiger, 1992., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Biogeochemistry."
+
+Environmental Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Biogeochemistry." 
+Environmental Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/biogeochemistry
+, 
+"Biogeochemistry." 
+Environmental Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/biogeochemistry
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

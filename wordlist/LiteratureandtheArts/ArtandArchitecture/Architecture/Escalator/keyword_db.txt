@@ -1,0 +1,179 @@
+[An escalator is a power-driven, continuous moving stairway designed to transport passengers up and down short vertical distances. Escalators are used around the world to move pedestrian traffic in places where elevators would be impractical. Principal areas of usage include shopping centers, airports, transit systems, trade centers, hotels, and public buildings. The benefits of escalators are many. They have the capacity to move large numbers of people, and they can be placed in the same physical space as stairs would be. They have no waiting interval, except during very heavy traffic; they can be used to guide people towards main exits or special exhibits; and they may be weather-proofed for outdoor use. It is estimated that there are over 30,000 escalators in the United States, and that there are 90 billion riders traveling on escalators each year. Escalators and their cousins, moving walkways, are powered by constant speed alternating current motors and move at approximately 1-2 ft (0.3-0.6 m) per second. The maximum angle of inclination of an escalator to the horizontal is 30 degrees with a standard rise up to about 60 ft (18 m)., The invention of the escalator is generally credited to Charles D. Seeberger who, as an employee of the Otis Elevator Company, produced the first step-type escalator manufactured for use by the general public. His creation was installed at the Paris Exhibition of 1900, where it won first prize. Seeberger also coined the term escalator by joining scala, which is Latin for steps, with a diminutive form of "elevator." In 1910 Seeberger sold the original patent rights for his invention to the Otis Elevator Company. Although numerous improvements have been made, Seeberger's basic design remains in use today. It consists of top and bottom landing platforms connected by a metal truss. The truss contains two tracks, which pull a collapsible staircase through an endless loop. The truss also supports two handrails, which are coordinated to move at the same speed as the step treads., , These two platforms house the curved sections of the tracks, as well as the gears and motors that drive the stairs. The top platform contains the motor assembly and the main drive gear, while the bottom holds the step return idler sprockets. These sections also anchor the ends of the escalator truss. In addition, the platforms contain a floor plate and a comb plate. The floor plate provides a place for the passengers to stand before they step onto the moving stairs. This plate is flush with the finished floor and is either hinged or removable to allow easy access to the machinery below. The comb plate is the piece between the stationary floor plate and the moving step. It is so named because its edge has a series of cleats that resemble the teeth of a comb. These teeth mesh with matching cleats on the edges of the steps. This design is necessary to minimize the gap between the stair and the landing, which helps prevent objects from getting caught in the gap., The truss is a hollow metal structure that bridges the lower and upper landings. It is
+composed of two side sections joined together with cross braces across the bottom and just below the top. The ends of the truss are attached to the top and bottom landing platforms via steel or concrete supports. The truss carries all the straight track sections connecting the upper and lower sections., The track system is built into the truss to guide the step chain, which continuously pulls the steps from the bottom platform and back to the top in an endless loop. There are actually two tracks: one for the front wheels of the steps (called the step-wheel track) and one for the back wheels of the steps (called the trailer-wheel track). The relative positions of these tracks cause the steps to form a staircase as they move out from under the comb plate. Along the straight section of the truss the tracks are at their maximum distance apart. This configuration forces the back of one step to be at a 90-degree angle relative to the step behind it. This right angle bends the steps into a stair shape. At the top and bottom of the escalator, the two tracks converge so that the front and back wheels of the steps are almost in a straight line. This causes the stairs to lay in a flat sheet-like arrangement, one after another, so they can easily travel around the bend in the curved section of track. The tracks carry the steps down along the underside of the truss until they reach the bottom landing, where they pass through another curved section of track before exiting the bottom landing. At this point the tracks separate and the steps once again assume a stair case configuration. This cycle is repeated continually as the steps are pulled from bottom to top and back to the bottom again., , The steps themselves are solid, one-piece, die-cast aluminum. Rubber mats may be affixed to their surface to reduce slippage, and yellow demarcation lines may be added to clearly indicate their edges. The leading and trailing edges of each step are cleated with comb-like protrusions that mesh with the comb plates on the top and bottom platforms. The steps are linked by a continuous metal chain so they form a closed loop with each step able to bend in relation to its neighbors. The front and back edges of the steps are each connected to two wheels. The rear wheels are set further apart to fit into the back track and the front wheels have shorter axles to fit into the narrower front track. As described above, the position of the tracks controls the orientation of the steps., The railing provides a convenient handhold for passengers while they are riding the escalator. It is constructed of four distinct sections. At the center of the railing is a "slider," also known as a "glider ply," which is a layer of a cotton or synthetic textile. The purpose of the slider layer is to allow the railing to move smoothly along its track. The next layer, known as the tension member, consists of either steel cable or flat steel tape. It provides the handrail with the necessary tensile strength and flexibility. On top of tension member are the inner construction components, which are made of chemically treated rubber designed to prevent the layers from separating. Finally, the outer layer, the only part that passengers actually see, is the rubber cover, which is a blend of synthetic polymers and rubber. This cover is designed to resist degradation from environmental conditions, mechanical wear and tear, and human vandalism. The railing is constructed by feeding rubber through a computer controlled extrusion machine to produce layers of the required size and type in order to match specific orders. The component layers of fabric, rubber, and steel are shaped by skilled workers before being fed into the presses, where they are fused together. When installed, the finished railing is pulled along its track by a chain that is connected to the main drive gear by a series of pulleys., A number of factors affect escalator design, including physical requirements, location, traffic patterns, safety considerations, and aesthetic preferences. Foremost, physical factors like the vertical and horizontal distance to be spanned must be considered. These factors will determine the pitch of the escalator and its actual length. The ability of the building infrastructure to support the
+heavy components is also a critical physical concern. Location is important because escalators should be situated where they can be easily seen by the general public. In department stores, customers should be able to view the merchandise easily. Furthermore, up and down escalator traffic should be physically separated and should not lead into confined spaces., Traffic patterns must also be anticipated in escalator design. In some buildings the objective is simply to move people from one floor to another, but in others there may be a more specific requirement, such as funneling visitors towards a main exit or exhibit. The number of passengers is important because escalators are designed to carry a certain maximum number of people. For example, a single width escalator traveling at about 1.5 feet (0.45 m) per second can move an estimated 170 persons per five-minute period. Wider models traveling at up to 2 feet (0.6 m) per second can handle as many as 450 people in the same time period. The carrying capacity of an escalator must match the expected peak traffic demand. This is crucial for applications in which there are sudden increases in the number of passengers. For example, escalators used in train stations must be designed to cater for the peak traffic flow discharged from a train, without causing excessive bunching at the escalator entrance., Of course, safety is also major concern in escalator design. Fire protection of an escalator floor-opening may be provided by adding automatic sprinklers or fireproof shutters to the opening, or by installing the escalator in an enclosed fire-protected hall. To limit the danger of overheating, adequate ventilation for the spaces that contain the motors and gears must be provided. It is preferred that a traditional staircase be located adjacent to the escalator if the escalator is the primary means of transport between floors. It may also be necessary to provide an elevator lift adjacent to an escalator for wheelchairs and disabled persons. Finally, consideration should be given to the aesthetics of the escalator. The architects and designers can choose from a wide range of styles and colors for the handrails and tinted side panels., The Code of Federal Regulation (CFR) contains guidelines for escalator quality control and establishes minimum inspection standards. As stated in the code, "elevators and escalators shall be thoroughly inspected at intervals not exceeding one year. Additional monthly inspections for satisfactory operation shall be conducted by designated persons." Records of the annual inspections are to be posted near the escalator or be available at the terminal. In addition, the code specifies that the escalator's maximum load limits shall be posted and not exceeded. Additional safety standards can also be found in American Society of Mechanical Engineers Handbook., Several innovations in escalator manufacture have been made in recent years. For example, one company recently developed a spiral staircase escalator. Another has developed an escalator suitable for transporting wheelchairs. Such advances are likely to continue as the industry expands to meet the changing needs of the marketplace. In addition, the industry is expecting a growth spurt as untapped markets such as China and Hungary begin to recognize the benefits of escalator technology., Barney, G.C., ed. Elevator Technology. Ellis Horwood, 1986., Taninecz, George. "Schindler Elevator Corp." Industry Week, October 21, 1996, p. 54., —RandySchueller, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Escalator."
+
+How Products Are Made.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Escalator." 
+How Products Are Made.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/manufacturing/news-wires-white-papers-and-books/escalator
+, 
+"Escalator." 
+How Products Are Made.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/manufacturing/news-wires-white-papers-and-books/escalator
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , Bibliography,  C. Elliott (1992), 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"escalator."
+
+A Dictionary of Architecture and Landscape Architecture.
+.
+
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"escalator." 
+A Dictionary of Architecture and Landscape Architecture.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/escalator
+, 
+"escalator." 
+A Dictionary of Architecture and Landscape Architecture.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/escalator
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+es·ca·la·tor 
+/ ˈeskəˌlātər/
+•
+n.
+a moving staircase consisting of an endlessly circulating belt of steps driven by a motor, conveying people between the floors of a public building.
+
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"escalator."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"escalator." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/escalator
+, 
+"escalator." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/escalator
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"escalator."
+
+The Concise Oxford Dictionary of English Etymology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"escalator." 
+The Concise Oxford Dictionary of English Etymology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/escalator-0
+, 
+"escalator." 
+The Concise Oxford Dictionary of English Etymology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/escalator-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, It is estimated that about ninety billion people ride escalators each year., An escalator is a moving stairway that transports passengers up and down the floors of a building. It is generally constructed in areas where elevators would be impractical. These areas include shopping malls, airports, transit systems, trade centers, hotels, and public buildings., It is estimated that there are at least 33,000 escalators in the United States. About ninety billion people ride escalators each year. Escalators and their cousins, moving walkways, move at approximately 1 to 2 feet (0.3 to 0.6 meter) per second. The maximum angle of inclination (slope) is 30 degrees with a standard rise of about 60 feet (18 meters)., An escalator is a very clever invention. Escalators can be built in the same physical space that stairs would occupy, and yet they have the capacity to move larger numbers of people. Except during periods of heavy traffic, there is generally no waiting time to get on an escalator. They can be used to guide people toward main exits or special exhibits. Escalators can also be constructed outdoors and provided with the proper covering in case of bad weather., , In 1891, American engineer Jesse W. Reno (1861–1947) patented the first escalator, which he originally envisioned when he was sixteen years old. Described by Reno as "a new and useful endless conveyor," the first escalator was constructed at Coney Island in Brooklyn, New York, as an
+amusement ride. Passengers rode on supports attached to a conveyor belt at an incline of about 25 degrees., The invention of the escalator as we know it today is credited to Charles D. Seeberger, who had bought Reno's patent and added horizontal steps in the late 1890s. Seeberger coined the word escalator by combining elevator and scala, the Latin word for steps. Seeberger and his employer, Otis Elevator Company, installed the first step-type escalator for public use at the Paris Exhibition of 1900, where it won first prize. In 1910, Seeberger sold his patents to the company. In 1921, Otis Elevator Company manufactured a machine that was the forerunner of today's escalator., Although numerous improvements have been made to the original escalator, the basic design remains in use today. It consists of stationary (nonmoving) top and bottom landing platforms, a metal truss that connects the two platforms, two pairs of tracks on which a collapsible staircase is pulled by a continuous chain that loops around two pairs of gears (toothed wheels), and handrails that move with the staircase., The top and bottom landing platforms house the curved sections of the tracks. The top platform contains the motor, which turns the two drive gears, which in turn move the two continuous chain loops on each side of the movable staircase. The bottom platform holds the return gears (also called the return wheels). The two platforms also hold the ends of the truss in place., , Each of the platforms also contains a floor plate and a comb plate. The floor plate is the area where the passengers stand before boarding the moving staircase. This plate is flush with the floor. It is either removable or hinged (fitted with a joint that fastens it to the floor) to allow easy access to the machinery below, if necessary. The comb plate is the piece between the floor plate and the moving staircase. It is so named because its edge has a series of grooves resembling the teeth of a comb. The grooves of the comb plate mesh with the matching grooves found on the edges of the steps. This design makes the gap between the stair and the landing platforms very small, preventing objects from getting caught in the gap., The truss is the hollow metal structure that extends between the lower and upper landing platforms and supports the escalator. It consists of two
+side sections joined together with cross braces across the bottom and just below the top. The ends of the truss are attached to the landing platforms using steel or concrete supports. The truss also supports two handrails, which are coordinated to move at the same speed as the staircase., The track system is built into the truss to guide the step chains, which continuously pull the steps from the bottom platform to the top in a continuous loop. The track system consists of two tracks, or rails—the step-wheel track (inner rail) for the front wheels of the steps and the trailer-wheel track (outer rail) for the back wheels of the steps. The position of the tracks with respect to each other causes the steps to form a staircase as they move out from under the comb plate., The steps are solid, one-piece, die-cast aluminum (aluminum shaped in a mold using pressure). Rubber mats may be attached to the step surfaces to reduce slippage, and yellow border lines may be added to clearly indicate the edges of the steps. The two long edges of each step have grooves that fit the comb plates of the top and bottom landing platforms., , The escalator steps function in a unique way, changing from an erect staircase to a collapsible staircase as needed. The tracks are the farthest from each other along the straight section of the truss. This causes the back of one step to be at a 90-degree angle in relation to the step behind it. This right angle bends the steps into a stair shape. At the top and bottom of the escalator, the two tracks meet so that the front and back wheels of the steps are almost in a straight line. This causes the steps to collapse or flatten on each other by fitting into each other's grooved edges, and they easily travel around the bend in the curved section of the track. The tracks carry the steps down along the underside of the truss until they reach the bottom landing, where they pass through another curved section of the track before exiting the bottom landing. At this point, the tracks separate and the steps once again assume a staircase arrangement. The cycle is repeated continuously as the steps are pulled from bottom to top and back to bottom again., Each step has an axle that is connected to the axles of the other steps by a continuous metal chain that forms a loop. Each step has four wheels that run on two separate tracks on each side of the staircase. The step wheels
+(front wheels) are pulled by the drive gear at the top landing platform, while the trailer wheels (back wheels) simply "trail" after the front wheels., An escalator has a handrail on each side. The handrails move at the same speed as the steps and serve as supports. Each handrail is a moving belt that is pulled along its track by a chain, which is connected to the drive gear by a series of pulleys., The handrail is made up of four sections. At the center is a "slider," a layer of cotton or synthetic (artificial) fabric, which allows the handrail to move smoothly along its track. The next layer, known as the tension member, consists of either steel cable or flat steel tape. It provides the handrail with the necessary tensile strength (stretch) and flexibility. On top of the tension member is chemically treated rubber that helps prevent the layers from separating. Finally, the cover is a blend of synthetic plastic and rubber, designed to resist the wear and tear of daily use., The three inner layers of fabric, steel, and rubber are shaped by skilled workers before being subjected to pressure from machines called presses, which fuse them together. The cover is made by feeding rubber through a computer-controlled extrusion machine, which forces the rubber through a mold to form a continuously shaped piece., Aside from determining the escalator's style and colors (handrails and side panels), the architects and designers have to consider several factors., Physical factors, such as the vertical and horizontal distances to be covered by the escalator, are very important because they will determine the pitch (angle of slope) and the actual height of the escalator. In addition, the building structure has to be able to support the heavy components (parts) of the escalator., , The escalator should be situated where the general public can easily find it and get on it with ease. It should not be in a tight spot or lead to confined spaces. Traffic patterns must also be anticipated. In some buildings, escalators are used simply for moving people from one floor to another. In other cases, escalators are built for specific purposes, such as to funnel people toward a main exit or exhibit., The carrying capacity of the escalator is an important aspect of its design. An escalator is designed to carry a certain maximum number of people, depending on its design. For example, a single-width escalator traveling at about 1.5 feet (0.45 meter) per second can move approximately 170 people per five-minute period. On the other hand, wider models traveling at up to 2 feet (0.6 meter) per second can move more than two
+and one-half times that number, or about 450 people, in the same time period. In addition, the carrying capacity must be able to accommodate peak periods, during which the most passengers board the escalator. For example, escalators at train stations must be able to handle the increased flow of people discharged from a train without causing back-ups at the escalator entrance., Safety is a major consideration in escalator design. The floor opening may be protected against fire by the addition of automatic sprinklers or fireproof shutters. The escalator may also be situated in an enclosed fire-protected hall. To prevent overheating of the motor and gears, proper ventilation should be provided., If the escalator is the primary means of transportation between floors, a traditional staircase can be located near it. An elevator near an escalator is also ideal for accommodating wheelchairs and people with disabilities., Two types of companies supply escalators. Primary manufacturers build the equipment, while secondary suppliers design and install the equipment. In most cases, the secondary suppliers receive the equipment from the manufacturer and make the necessary changes., 1 The first stage of escalator construction is to establish the design, as described above. The manufacturer uses this design information to construct the customized equipment. The tracks, step chains, stair assembly, and motorized gears and pulleys are all bolted into place on the truss. The handrails are carefully coiled (wound into a loop) and packed. All the equipment is then shipped to the supplier., 2 Before installation, the top and bottom landing areas are prepared for connection to the escalator. Concrete fittings are poured, and the steel framework that will hold the truss in place is attached., 3 After the escalator arrives at the site, it is jockeyed into position between the top and bottom landing holes. Several methods are used to lift the truss into place. One method uses a scissors-lift apparatus mounted on a wheeled support platform. The scissors lift is outfitted with a locator assembly to help in vertical and angular alignment of the escalator. The upper end of the truss is first aligned with the support wall at the upper landing and then placed on this support wall. The lower
+end of the truss is put into a pit on the floor of the lower landing. If the handrails come separately, they are connected to the appropriate chains after the escalator is installed., 4 The escalator is connected to the power source, and the tracks and chains are checked for proper alignment., 5 Final checks are then performed to ensure that motorized parts are functioning properly, the belts and chains are moving smoothly and at the correct speed, and the emergency braking system is activated. The step treads must be far enough apart so that they do not rub against one another. However, they should be positioned in such a way that no large gaps are present. Such gaps could be a source of injury., The Code of Federal Regulations (CFR) contains guidelines for escalator quality control and establishes minimum inspection standards. Standard
+29CFR1917.116 states, "Elevators and escalators shall be thoroughly inspected at intervals not exceeding one year. Additional monthly inspections for satisfactory operation shall be conducted by designated persons." The government further requires records of annual inspections to be posted near the escalator or to be available at the site. The escalator's maximum load limit also has to be posted and not exceeded., All escalators in the United States that are manufactured and installed comply with the safety code set by the American National Standards Institutes and published by the American Society of Mechanical Engineers (ASME). The ASME A17.1 Code requires the regular inspection of escalators by specially trained and qualified inspectors. These inspectors are usually employees of a state office. In addition, escalator owners generally contract with escalator maintenance companies to conduct regular maintenance. However, escalator accidents continue to occur due to poorly maintained equipment. Some of the more severe accidents involve entrapments, in which a rider's clothing or shoe gets caught between the step and the comb plate., The escalator industry continues to develop products that meet the changing needs of the marketplace. Some of the newly developed designs include an escalator that can transport wheelchairs and a spiral escalator that increases usable spaces by its installation in the corners or at the sides of large rooms. A new design is the high-rise escalator that can go up to over 100 feet and is being installed in underground train and bus stations, as well as in airports and convention centers., "Escalator Safety." Elevator World, Inc.http://www.elevator-world.com/magazine/archive01/9812-005.htm (accessed on July 22, 2002)., "Multi-Directional Movement of Passengers." The Museum for the Preservation of Elevating History.http://www.theelevatormuseum.org/f/f.htm (accessed on July 22, 2002)., Roberts, William A. "Take me UP to the Ballgame." Elevator World, Inc.http://www.elevator-world.com/magazine/archive01/9906-004.html-ssi (accessed on July 22, 2002)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Escalator."
+
+CDs, Super Glue, and Salsa: How Everyday Products Are Made: Series 3.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Escalator." 
+CDs, Super Glue, and Salsa: How Everyday Products Are Made: Series 3.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/culture-magazines/escalator
+, 
+"Escalator." 
+CDs, Super Glue, and Salsa: How Everyday Products Are Made: Series 3.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/culture-magazines/escalator
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

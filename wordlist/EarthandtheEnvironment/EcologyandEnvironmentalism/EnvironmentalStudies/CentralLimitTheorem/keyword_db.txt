@@ -1,0 +1,163 @@
+[THE THEOREM, APPLICATIONS, BIBLIOGRAPHY, The central limit theorem (CLT) is a fundamental result from statistics. It states that the sum of a large number of independent identically distributed (iid) random variables will tend to be distributed according to the normal distribution. A first version of the CLT was proved by the English mathematician Abraham de Moivre (1667– 1754). He showed how the normal distribution can be used to approximate the distribution of the number of heads that will result when a coin is tossed a large number of times., The CLT is the cornerstone of most estimation and inference of statistical models, which in turn are widely used in empirical work in the social sciences. Statistical models involve unknown population parameters that are estimated from a sample. The estimators often take the form of sample averages. According to the CLT, the estimators will therefore be approximately normally distributed for a sufficiently large sample size. This result can be used to draw inference about the population parameters. One example of a statistical model used in social sciences is the linear regression model. Here, the CLT can be used to quantify whether a chosen set of variables explains the variation in a certain response variable., , Let {x1, …, xn } be a sample of n iid random variables with mean μ and variance σ2 Consider the sum Sn = x1 + x2 + … + xn . One may easily check that the mean and standard deviation of Sn  is nμ and . Normalize Sn as follows,, such that Zn has mean zero and standard deviation 1. The CLT then states that Zn ≈ N (0,1) for n large enough. Formally the above equation should be read as follows: For any –∞ &lt; z &lt; +∞, P (Zn ≤ z ) → Ф (z ) as n → ∞, where Φ (·) is the cumulative density function of the normal distribution., A major drawback of the CLT is that it is silent about how large n should be before the quality of the approximation is good. This wll depend on the distribution of the xi’s making up the sum., The CLT has a broad range of applications. Consider, for example, a binomial random variable Sn with parameters (n,p ). This variable describes the number of heads in n tosses of a coin with probability 0 &lt; p&lt; 1 of heads. Its distribution is given by, For n large, this distribution can be difficult to compute. Another way of representing Sn is as a sum of n iid Bernoulli random variables {x1, …, xn }. That is, Sn = x1 + x2 + … + xn where the distribution of xi is P (xi  = 1) = 1 – P (xi  = 0) = p, i = 1, …, n. So we can apply the CLT on Sn, which tells us that Sn ≈ N (np, np (1 – p )) for n large enough since μ = E[xi ] = p and σ2=Var(xi)=P(1-p). This result was first proved by de Moivre in 1733., , The most important use of the CLT is probably in drawng inference about population parameters in statistical models. Most estimators of parameters can be written as sums of the sample, and so the CLT can be used to obtain a measure of the precision of the estimator. In particular, it can be used to test hypotheses regarding the parameters. As a simple example, consider an iid sample {x1, …, xn}with unknown population mean μ and variance σ2. A simple estimator of the parameter μ is the sample average,, We can now use the CLT to conclude that, Since the variance is unknown, it needs to be estimated. This can be done using the sample variance,, One can now use the normal approximation for inferential purposes. For example, we can estimate the standard error of x ̄ as Also, we know that with approximately 95 percent probability, where 1.96 is the 97.5th percentile of the normal distribution; one normally refers to this as the confidence interval. The CLT can furthermore be used to test specific hypotheses regarding μ, SEE ALSO Descriptive Statistics; Distribution, Normal; Law of Large Numbers; Variables, Random , David, F. N. 1962. Games, Gods, and Gambling: The Origins and History of Probability and Statistical Ideas from the Earliest Times to the Newtonian Era. London: Griffin., Grinstead, Charles M., and J. Laurie Snell. 1997. Introduction to Probability. 2nd rev. ed. Providence, RI: American Mathematical Society., Dennis Kristensen  , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Central Limit Theorem."
+
+International Encyclopedia of the Social Sciences.
+.
+ Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Central Limit Theorem." 
+International Encyclopedia of the Social Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/central-limit-theorem
+, 
+"Central Limit Theorem." 
+International Encyclopedia of the Social Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/central-limit-theorem
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"central limit theorem."
+
+A Dictionary of Plant Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"central limit theorem." 
+A Dictionary of Plant Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/central-limit-theorem-1
+, 
+"central limit theorem." 
+A Dictionary of Plant Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/central-limit-theorem-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"central limit theorem."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"central limit theorem." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/central-limit-theorem-0
+, 
+"central limit theorem." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/central-limit-theorem-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"central limit theorem."
+
+A Dictionary of Zoology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"central limit theorem." 
+A Dictionary of Zoology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/central-limit-theorem-2
+, 
+"central limit theorem." 
+A Dictionary of Zoology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/central-limit-theorem-2
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"central limit theorem."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"central limit theorem." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/central-limit-theorem
+, 
+"central limit theorem." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/central-limit-theorem
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

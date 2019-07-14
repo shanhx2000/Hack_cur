@@ -1,0 +1,498 @@
+[Earth has cooled dramatically over the last 50 million years. Ice sheets, flora, and fauna all record those changes. About 55 million years ago, palm-like trees and crocodile-like reptiles lived north of the Arctic Circle and beech trees grew in Antarctica. By 35 million years ago, glacier ice was starting to spread in Antarctica. Today, the continent is more than 90 percent ice-covered., The first major glaciations in Greenland began between 7 and 3 million years ago. The first continental ice sheets in the Northern Hemisphere appeared around 2.7 million years ago. The following discussion focuses on the Pleistocene, the most recent epoch of glacial and interglacial cycles of the Northern Hemisphere., About 18,000 years ago, when the most recent glacial age was near its peak, vast expanses of the northern continents were covered by glacial ice. In North America, two ice sheets covered most of Canada: the Laurentide Ice Sheet (LIS) in the east and midwest, and the Cordilleran Ice Sheet in the west. The LIS blanketed New England and formed great lobes that flowed down what are now the Great Lakes basins in the upper midwestern United States. Meltwater flowed from the margin of the ice sheet down the St. Lawrence and Mississippi Rivers. The ice carried sediments plucked from the ground beneath the ice. Most of that material, called glacial till, was deposited near the ice but some was carried by floating icebergs and by melt-water, to eventually be deposited on the ocean floor. Today, those sediments and many other geologic records are used to reconstruct past glacial cycles., , Geologists call the recent epoch of Northern Hemisphere glacial and interglacial cycles the Pleistocene. During the Pleistocene, about 2.75 million to 10,000 years ago, the great northern ice sheets grew and shrank about 50 times. The most recent of these cycles were first recognized in layers of sediments the ice sheets deposited on the land surface as they retreated. Four LIS cycles were identified in this way., The first evidence for older Pleistocene glacial cycles came from sediment samples brought up from the sea floor.* The sediments contain the shells of tiny ocean-dwelling organisms called foraminifera that sink to the sea floor when they die. The foraminifera shells record a key indicator for the ice sheets and their temperature cycles. Oxygen isotopic composition of the calcium carbonate shells can be related to the temperature of the sea water in which they grew, as discussed below., Isotopes are forms of the same element that have different numbers of neutrons and slightly different weights and chemical behaviors. In the case of water (H2O), hydrogen has two stable isotopes and oxygen has three. This is useful to paleoclimatologists because ocean water or ice is a mixture of water molecules with different combinations of light and heavy isotopes, and thus with different weights., Water molecules containing the lighter isotopes evaporate more easily than the water made of the heavy isotopes, whereas heavier water precipitates more readily than lighter water. Thus, when water evaporates from the
+ocean, lighter isotopes are preferentially removed from the ocean. The process by which light and heavy isotopes are separated is called fractionation., , When water vapor travels over the land surface, forms clouds, and precipitates as snow onto an ice sheet, the lighter oxygen isotopes are moved from the ocean into the ice sheet, leaving the ocean relatively enriched in the heavier isotopes. When the ice sheets shrink, the lighter water returns to the ocean. Foraminifera use calcium, carbon, and oxygen from the ocean water to build their shells; hence, as the oxygen isotopic ratios of the ocean water change, the ratios in the shells record those changes., When the sea-floor sediment cores are analyzed, large cycles in the ratio between heavy and light oxygen isotopes are found. The oxygen isotopic record shows that over the last 0.9 million years, large ice sheets grew and decayed over approximately 100,000-year cycles. Before that time, there were two shorter cycles, one of about 41,000 years and one of 23,000 years. The oxygen isotopic record also shows that ice sheets grow slowly but shrink rapidly., Climatologists often classify the processes responsible for climate change as either forcings, which are large-scale processes that drive the climate system, or feedbacks, which are interactions among components of the system. The most important forcing during the Pleistocene is cyclic changes in Earth's orbit around the Sun. Orbital cycles are caused by the complicated gravitational interactions among the planets in our solar system. The result is predictable changes in the strength of the insolation (i.e., the solar energy arriving at Earth's surface). Earth's orbit changes slowly, and the insolation cycles are tens of thousands of years long, with periods that are very similar to the ice-sheet growth-and-decay cycles found in the oxygen isotopic record., In general, when summertime insolation is low in the northern hemisphere, ice sheets grow, and when it peaks, ice sheets retreat. The last northern summer insolation maximum was about 12,000 years ago, a time when the great northern ice sheets were shrinking., , Earth today is experiencing an interglacial climate. In North America, the ice-sheet retreat began about 15,000 years ago and, except for Greenland, the great Northern Hemisphere ice sheets are now gone. Mountain glaciers are still retreating. However, if the current cycle is like the last three or four, the climate should be cooling and Earth should be entering a time of glacier regrowth., A short regrowth did happen, from about 1400 to 1900 C.E., a time called the Little Ice Age (LIA). The LIA had a profound impact on human welfare and culture. Climate cooling caused crops to fail and the resulting turmoil brought the end of feudal societies around the world. It is interesting to note that while Viking settlements in Greenland failed during the LIA, native communities adapted and survived., In the late 1800s, global climate warmed again, ending the LIA. The warming continues to this day. The end of the LIA might have been normal climate variability or it might be linked to industrialization, the use of fossil fuels, and the associated increase in atmospheric carbon dioxide (CO2), a greenhouse gas ., , Why did the glacial cycle change 0.9 million years ago? Paleoclimatologists and glaciologists are still looking for the answer to that question, using a combination of fieldwork and computer simulations of the interaction between ice sheets and climate. Earth's climate had been gradually cooling for about the last 50 million years. One possibility is that once Earth's climate grew cool enough, the ice sheets could grow large enough to start forcing climate to change, instead of simply responding to it. Another idea is that, over time, the ice sheets modified the land surface enough to affect the way they moved, and thus the timescale over which they could grow and decay., Why did Earth start cooling 50 million years ago? Again, paleoclimatologists are not in agreement. Two possible answers lie in plate tectonics, which changes the arrangement of the continents and shapes of the oceans. Over the last 65 million years, Antarctica became an isolated continent over the South Pole, the Atlantic Ocean widened, and North and South America became connected. These changes isolated Antarctica, allowing it to become very cold. They also gave rise to the Atlantic Ocean's Gulf Stream, a current that very effectively moves warm tropical water north, where it cools and sinks, to return south again. Computer models show that the establishment of the Gulf Stream would have increased atmospheric moisture over Greenland and northern Europe, increasing snowfall and helping ice sheets to grow. Other theories have also been suggested, such as changes in cosmic ray intensity. Long-term cooling and warming likely results from a combination of several processes., see also Climate and the Ocean; Ice Cores and Ancient Climatic Conditions; Glaciers and Ice Sheets; Glaciers, Ice Sheets, and Climate Change; Global Warming and Glaciers;
+Global Warming and the Ocean; Isotopes: Applications in Natural Waters; Ocean Currents; Plate Tectonics., Christina Hulbe , Andersen, B. B., and H. W. Borns. The Ice-Age World. Oslo, Norway: Scandinavian University Press, 1994., Pielou, E. C. After the Ice Age: The Return of Life to Glaciated North America. Chicago, IL: University of Chicago Press, 1991., Adams, Jonathan. North America During the Last 150,000 Years. Oak Ridge National Laboratory, Quaternary Environments Network. &lt;http://www.esd.ornl.gov/projects/qen/nercNORTHAMERICA.html&gt;., Climate can be modified on a variety of timescales. Ice cores from Greenland record millennial-scale oscillations in temperature that cannot be explained by Earth orbital cycles. Wally Broeker, a geochemist and paleoclimatologist at Columbia University suggested that changes in Atlantic Ocean circulation might explain the oscillations via a theoretical mechanism called the salt oscillator., The Atlantic Ocean's equator-to-pole circulation pattern depends on warm, salty water arriving in the north and cooling, so that it becomes more dense and sinks, to flow back south through the deep ocean. But if the salinity of the surface water were to decrease, the rate of sinking, and thus the ocean circulation, would slow down. That might happen if the southern edge of the Greenland ice sheet started to melt, sending fresh water to the ocean surface. When the circulation rate decreases, the northern Atlantic cools. That cooling would reduce the rate of melting, and thus the rate of fresh-water supply to the North Atlantic. Over time, the surface water would become saltier and denser, and the circulation rate would increase, bringing warmer water and warmer weather back to Greenland and Northern Europe., * See "Ocean-Floor Sediments" for a photograph of a sediment core sample. , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Ice Ages."
+
+Water:Science and Issues.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Ice Ages." 
+Water:Science and Issues.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/ice-ages
+, 
+"Ice Ages." 
+Water:Science and Issues.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/ice-ages
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The ice ages were periods in Earth's history during which significant portions of the earth's surface were covered by glaciers and extensive fields of ice. Scientists often use more specific terms for an ice "age" depending on the length of time it lasts. It appears that over the long expanse of Earth history, seven major periods of severe cooling have occurred. These periods are often known as ice eras and, except for the last of these, are not very well understood., What is known is that the earth's average annual temperature varies constantly from year to year, from decade to decade, and from century to century. During some periods, that average annual temperature has dropped to low enough levels for fields of ice to grow and cover large regions of the earth's surface. The seven ice eras have covered an average of about 50 million years each., The ice era that scientists understand best (because it occurred most recently) began about 65 million years ago. Throughout that long period, the earth experienced periods of alternate cooling and warming. Those periods during which the annual temperature was significantly less than average are known as ice epochs. There is evidence for the occurrence of six ice epochs during this last of the great ice eras., , During the 2.4 million-year lifetime of the last ice epoch, about two dozen ice ages occurred. That means that the earth's average annual temperature fluctuated upwards and downwards to a very significant extent about two dozen times during the 2.4 million-year period. In each case, a period of significant cooling was followed by a period of significant warming—an interglacial period after which cooling once more took place., Scientists know a great deal about the cycle of cooling and warming that has taken place on the earth over the last 125,000 years, the period of the last ice age cycle. They have been able to specify with some degree of precision the centuries and decades during which ice sheets began to expand and diminish. For example, the most severe temperatures during the last ice age were recorded about 50,000 years ago. Temperatures then warmed before plunging again about 18,000 years ago., Clear historical records are available for one of the most severe recent cooling periods, a period now known as the Little Ice Age. This period ran from about the fifteenth to the nineteenth century and caused widespread crop failure and loss of human life throughout Europe . Since the end of the Little Ice Age, temperatures have continued to fluctuate with about a dozen unusually cool periods in the last century, interspersed between periods of warmer weather . Scientists are not certain as to whether the last ice age has ended, or continues to the present., A great deal of what scientists know about the ice ages they have learned from the study of mountain glaciers. For example, when a glacier moves downward out of its mountain source, it carves out a distinctive shape on the surrounding land. The "footprints" left by continental glaciers formed during the ice ages are comparable to those formed by mountain glaciers., , The transport of materials from one part of the earth's surface to another part is also evidence for the formation of continental glaciers. Rocks and fossils normally found only in one region of the earth may be picked up, moved by ice sheets, and deposited elsewhere. The "track" left by the moving glacier provides evidence of the ice sheets movement. In many cases, the moving ice may actually leave scratches on the rock over which it moves, providing further evidence for changes that took place during an ice age., Scientists have been asking what the causes of ice ages are for more than a century. The answer (or answers) to that question appears to have at least two main parts: astronomical factors and terrestrial factors. By astronomical factors scientists mean that the way the earth is oriented in space , which can determine the amount of heat it receives and, hence, its annual average temperature., One of the most obvious astronomical factors about which scientists have long been suspicious is the appearance of sunspots. Sunspots are eruptions that occur on the Sun's surface during which unusually large amounts of solar energy are released. The number of sunspots that occur each year changes according to a fairly regular pattern, reaching a maximum about every eleven years or so. The increasing and decreasing amounts of energy sent out during sunspot maxima and minima, some scientists have suggested, may contribute in some way to the increase and decrease of ice fields on the earth's surface., By the beginning of the twentieth century, however, astronomers had identified three factors that almost certainly are major contributors to the amount of solar radiation that reaches the earth's surface and, hence, the earth's average annual temperature. These three factors are the earth's angular tilt, the shape of its orbit around the Sun , and its axial precession., The first of these factors, the planet's angular tilt, is the angle at which its axis is oriented to the plane of its orbit around the Sun. This angle slowly changes over time, ranging between 21.5 and 24.5 degrees. At some angles, the earth receives more solar radiation and becomes warmer, and at other angles it receives less solar radiation and becomes cooler., , The second factor, the shape of the earth's orbit around the Sun, is important because, over long periods of time, the orbit changes from nearly circular to more elliptical (flatter) in shape. Because of this variation, the earth receives solar radiation in varying amounts depending on the shape of its orbit. The final factor, axial precession, is a "wobble" in the orientation of the earth's axis to its orbit around the Sun. As a result of axial precession, the amount of solar radiation received during various parts of the year changes over very long periods of time., Between 1912 and 1941, the Yugoslav astronomer Milutin Milankovitch developed a complex mathematical theory that explained how the interaction of these three astronomical factors could contribute to the development of an ice age. His calculations provided rough approximations of the occurrences of ice ages during the earth history., Astronomical factors provide only a broad general background for changes in the earth's average annual temperature, however. Changes that take place on the earth itself also contribute to the temperature variations that bring about ice ages., Scientists assert that changes in the composition of the earth's atmosphere can affect the planet's annual average temperature. Some gases, such as carbon dioxide and nitrous oxide, have the ability to capture heat radiated from the earth, warming the atmosphere. This phenomenon is known as the greenhouse effect . But the composition of the earth's atmosphere is known to have changed significantly over long periods of time. Some of these changes are the result of complex interactions of biotic, geologic and geochemical processes. Humans have dramatically increased the concentration of carbon dioxide in the atmosphere over the last century through the burning of fossil fuels (coal , oil, and natural gas ). As the concentration of greenhouse gases , like carbon dioxide and nitrous oxide, varies over many decades, so does the atmosphere's ability to capture and retain heat., Other theories accounting for atmospheric cooling have been put forth. It has been suggested that plate tectonics are a significant factor affecting ice ages. The uplift of large continental blocks resulting from plate movements (for example, the uplift of the Himalayas and the Tibetan Plateau) may cause changes in global circulation patterns. The presence of large land masses at high altitudes seems to correlate with the growth of ice sheets, while the opening and closing of ocean basins due to tectonic movement may affect the movement of warm water from low to high latitudes., Since volcanic eruptions can contribute to significant temperature variations, it has been suggested that such eruptions could contribute to atmospheric cooling, leading to the lowering of the earth's annual temperature. Dust particles thrown into the air during an eruption can reflect sunlight back into space, reducing heat that would otherwise have reached the earth's surface. The eruption of Mount Pinatubo in the Philippine Islands in 1991 is thought to have been responsible for a worldwide cooling that lasted for at least five years. Similarly, the earth's average annual temperature might be affected by the impact of meteorites on the earth's surface. If very large meteorites had struck the earth at times in the past, such collisions would have released huge volumes of dust into the atmosphere. The presence of this dust would have had effects similar to the eruption of Mount Pinatubo, reducing the earth's annual average temperature for an extended period of time and, perhaps, contributing to the development of an ice age., The ability to absorb heat and the reflectivity of the earth's surface also contribute to changes in the annual average temperature of the earth. Once an ice age begins, sea levels drop as more and more water is tied up in ice sheets and glaciers. More land is exposed, and because land absorbs heat less readily than water, less heat is retained in the earth's atmosphere. Likewise, pale surfaces reflect more heat than dark surfaces, and as the area covered by ice increase, so does the amount of heat reflected back to the upper atmosphere., Whatever the cause of ice ages, it is clear that they can develop as the result of relatively small changes in the earth's average annual temperature. It appears that annual variations of only a few degrees Celsius can result in the formation of extensive ice sheets that cover thousands of square miles of the earth's surface., See also  Earth (planet); Glacial landforms; Glaciation; Historical geology; Polar axis and tilt; Polar ice, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Ice Ages."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Ice Ages." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ice-ages-0
+, 
+"Ice Ages." 
+World of Earth Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ice-ages-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Ice ages were periods in Earth's history when glaciers and vast ice sheets covered large portions of Earth's surface. Earth's average annual temperature varies constantly from year to year, from decade to decade, and from century to century. During some periods, that average annual temperature has dropped low enough to allow fields of ice to grow and cover large regions of Earth., Over the last 2.5 million years, about two dozen ice ages have occurred. That means that Earth's average annual temperature greatly shifted upwards and downwards about two dozen times during that time. In each case, a period of significant cooling was followed by a period of significant warming—called an interglacial period—after which cooling took place once more., , Scientists know a great deal about the cycle of cooling and warming that has taken place on Earth over the last 125,000 years, the period of the last ice age cycle. They have been able to specify the centuries and decades during which ice sheets began to expand and diminish. For example, the most severe temperatures during the last ice age were recorded about 50,000 years ago. Temperatures then warmed before plunging again about 18,000 years ago., Clear historical records are available for one of the most severe recent cooling periods, a period now known as the Little Ice Age. This period ran from about the fifteenth to the nineteenth century and caused widespread crop failure and loss of human life throughout Europe. Since the end of the Little Ice Age, temperatures have continued to move up and down. No one is quite certain whether the last ice age has ended or whether we are still living in it., A great deal of what scientists know about the ice ages they have learned from the study of mountain glaciers. When a glacier moves downward out of its mountain source, it carves out a distinctive shape on the surrounding land. The "footprints" left by ice-age glaciers are comparable to those formed by mountain glaciers., The series of ice ages that occurred between 10,000 and 2,500,000 years ago had a dramatic effect on the climate and life-forms in the tropics. During each glacial period, the tropics became both cooler and drier, turning some areas of tropical rain forest into dry seasonal forest or savanna. However, some areas of forest escaped the dry periods and acted as refuges (protective shelters) for forest plants and animals. During subsequent interglacials, when humid conditions returned to the tropics, the forests expanded and were repopulated by plants and animals from the species-rich refuges., , Ice age refuges correspond to present-day areas of tropical forest that typically receive much rainfall and often contain unusually large numbers of species. The location and extent of the forest refuges have been mapped in both Africa and South America. In the African rain forests, there are three main centers located in Upper Guinea, Cameroon and Gabon, and the eastern rim of the Zaire basin. In the Amazon Basin, more than 20 refuges have been identified for different groups of animals and plants in Peru, Colombia, Venezuela, and Brazil., The transport of materials from one part of Earth's surface to another part is also evidence for ice ages. Rocks and fossils normally found only in one region of Earth may be picked up and moved by ice sheets and deposited elsewhere. Also, moving ice may actually leave scratches on the rock over which it moves, providing further evidence for changes that took place during an ice age., Although scientists do not know exactly what causes ice ages or periods of glaciation, they have offered many theories. These theories point to either astronomical (space-based) factors or terrestrial (Earthbased) factors., Astronomical factors. One of the most obvious astronomical factors is the appearance of sunspots. Sunspots are eruptions that occur on the Sun's surface during which unusually large amounts of solar energy are released. The number of sunspots that occur each year changes according to a fairly regular pattern, reaching a maximum about every 11 years. Some scientists have suggested that the increasing and decreasing amounts of energy sent out during sunspot activity may contribute in some way to the increase and decrease of ice fields on Earth's surface., Other scientists have pointed to the changes in the geometry of Earth's orbit around the Sun as factors that have led to ice ages. Those, changes have resulted in Earth receiving more or less solar radiation, becoming consequently warmer or cooler. In the 1930s, Serbian mathematician Milutin Milankovitch (1879–1958) proposed a theory to explain such changes. The Milankovitch theory states that three periodic changes in Earth's orbit around the Sun affect the amount of sunlight reaching Earth at different latitudes, leading to ice ages. First, Earth's axis wobbles like a gyroscope, tracing a complete circle every 23,000 years or so. Second, while wobbling, the axis tilts between 22 and 24.5 degrees every 41,000 years. Third, Earth's elliptical orbit pulses, moving outward or inward every 100,000 and 433,000 years., Terrestrial factors. Changes that take place on Earth itself may also have contributed to the evolution of ice ages. For example, volcanic eruptions can contribute to significant temperature variations. Dust particles thrown into the air during an eruption can reflect sunlight back into space, reducing heat that would otherwise have reached Earth's surface., A similar factor affecting Earth's annual average temperature might be the impact of meteorites on Earth's surface. If very large meteorites had struck Earth at times in the past, such collisions would have released huge volumes of dust into the atmosphere. The presence of this dust could have also reduced Earth's annual average temperature for an extended period of time., Whatever the cause of ice ages, it is clear that they can develop as the result of relatively small changes in Earth's average annual temperature. It appears that annual variations of only a few degrees can result in the formation of extensive ice sheets that cover thousands of square miles of Earth's surface., [See also Geologic time ], 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Ice Ages."
+
+UXL Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Ice Ages." 
+UXL Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ice-ages-2
+, 
+"Ice Ages." 
+UXL Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ice-ages-2
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"ice ages."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"ice ages." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/ice-ages
+, 
+"ice ages." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/ice-ages
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"ice ages."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"ice ages." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/ice-ages-0
+, 
+"ice ages." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/ice-ages-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"ice age."
+
+A Dictionary of Biology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"ice age." 
+A Dictionary of Biology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/ice-age
+, 
+"ice age." 
+A Dictionary of Biology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/ice-age
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Ice Ages."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Ice Ages." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ice-ages
+, 
+"Ice Ages." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ice-ages
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+ice age 
+•
+n.
+a glacial episode during a past geological period.See glacial period.
+ ∎ 
+(the Ice Age)
+the series of glacial episodes during the Pleistocene period.
+
+
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"ice age."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"ice age." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/ice-age
+, 
+"ice age." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/ice-age
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, Ice Age: see Pleistocene epoch., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Ice Age."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Ice Age." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/ice-age
+, 
+"Ice Age." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/ice-age
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Director Wedge (also the voice of Scrat the squirrel) crafts a smart, sophisticated and touching animated comedy/adventure about a group of prehistoric beasts who find a human baby and then try to restore the tyke to his tribe. During the long march south during an ice age, the cuddly Manfred the Mammoth (Romano) and Sid the Sloth (the already animated Leguizamo) are joined by Diego the scheming Sabertooth Tiger (Leary) whose bond is solidified after the two save Diego's life. Amazing computeranimation technology and artistry are top-notch. Characters are likeable but sometimes spew overly glib dialogue. Although not quite of the same caliber story-wise, this one fits right in with “Shrek,” “Monsters, Inc.” and “Toy Story.” 81m/C VHS, DVD, Blu-ray Disc, UMD . USD: Chris Wedge; W: Michael Berg, Michael J. Wilson, Peter Ackerman; M: David Newman; V: John Leguizamo, Denis Leary, Ray Romano, Goran Visnjic, Jack Black, Cedric the Entertainer, Stephen (Steve) Root, Tara Strong, Diedrich Bader, Alan Tudyk, Lorri Bagley, Jane Krakowski, Chris Wedge., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Ice Age."
+
+VideoHound's Golden Movie Retriever.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Ice Age." 
+VideoHound's Golden Movie Retriever.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/arts/culture-magazines/ice-age
+, 
+"Ice Age." 
+VideoHound's Golden Movie Retriever.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/arts/culture-magazines/ice-age
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Ice age usually refers to the Pleistocene epoch, the most recent occurrence of continental glaciation . Beginning several million years ago in Antarctica , it is marked by at least four major advances and retreats (excluding Antarctica). Ice ages occur during times when more snow falls during the winter than is lost by melting, evaporation, and loss of ice chunks in water during the summer. Alternating glacial and interglacial stages are best explained by a combination of Earth's orbital cycles and changes in carbon dioxide levels. These cycles operate on time scales of tens of millennia. By contrast, global warming projections involve decades, a far more imminent concern for humankind., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Ice Age."
+
+Environmental Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Ice Age." 
+Environmental Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ice-age
+, 
+"Ice Age." 
+Environmental Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ice-age
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The most recent ice era, Evidence for the ice ages, Causes of the ice ages, Ice ages are times during which significant portions of Earth’s surface are covered by glaciers and extensive ice fields. Scientists sometimes use more specific terms for an ice age depending on the length of time it lasts. Geologic evidence suggests that seven major periods of cooling and ice accumulation have occurred during the history of Earth. These periods, are often known as ice eras and, except for the last of these, are not well understood., What is known is that Earth’s average annual temperature varies constantly from year to year, from decade to decade, and from century to century. During some periods, that average annual temperature has dropped to low enough levels for fields of ice to grow and cover large regions of Earth’s surface. The seven ice eras have covered an average of about 50 million years each., , The ice era that scientists understand best (because it occurred most recently) began about 65 million years ago. Throughout that long period, Earth experienced periods of alternate cooling and warming. Those periods during which the annual temperature was significantly less than average are known as ice epochs. There is evidence for the occurrence of six ice epochs during this last of the great ice eras., During the 2.4 million years of the last ice epoch, about two dozen ice ages occurred. That means that Earth’s average annual temperature fluctuated up and down about two dozen times during the 2.4 million year period. In each case, a period of significant cooling was followed by a period of significant warming— an interglacial period—after which cooling occurred again., Scientists know a great deal about the cycle of cooling and warming that has taken place on Earth over the last 125,000 years, the period of the last ice age cycle. They have been able to specify with some degree of precision the centuries and decades during which ice sheets began to expand and diminish. For example, the most severe temperatures during the last ice age were recorded about 50,000 years ago. Temperatures then warmed before falling again about 18,000 years ago., , Clear historical records are available for one of the most recent cooling periods known as the Little Ice Age. The Little Ice Age lasted from about the fifteenth to the nineteenth century and caused widespread crop failure and loss of human life throughout Europe. Since the end of the Little Ice Age, temperatures have continued to fluctuate with about a dozen unusually cool periods in the last century, interspersed between periods of warmer weather., A great deal of knowledge about the ice ages has been gained from the study of mountain glaciers. When a glacier moves downward out of its mountain source, it carves out a distinctive shape on the surrounding land. The deposits left by continental glaciers formed during the ice ages are in many ways comparable to those formed by mountain glaciers., The transport of materials from one part of Earth’s surface to another part is also evidence for continental glaciation. Rocks and fossils normally found only in one region may be picked up and moved by ice sheets and deposited elsewhere. The deposits and landforms left by the moving glacier provide evidence of ice sheet movement. In many cases, the moving ice leaves scratches (known as glacial grooves or striations) on the rock over which it moves, providing further evidence for changes that took place during an ice age., Scientists have been investigating the causes of ice ages for more than a century. The answer (or answers) to that question appears to have at least two main parts, astronomical factors and terrestrial factors. By astronomical factors, scientists mean that the way Earth is oriented in space can determine the amount of heat it receives and, hence, its annual average temperature., One of the most obvious astronomical factors about which scientists have long been curious is the appearance of sunspots. Sunspots are eruptions that occur on the sun’s surface during which unusually large amounts of solar energy are released. The number of sunspots that occur each year changes according to a fairly regular pattern, reaching a maximum about every 11 years or so. The increasing and decreasing amounts of energy sent out during sunspot maxima and minima, some scientists have suggested, may contribute in some way to the increase and decrease of ice fields on Earth’s surface., , By the beginning of the twentieth century, however, astronomers had identified three factors that almost certainly are major contributors to the amount of solar radiation that reaches Earth’s surface and, hence, Earth’s average annual temperature. These three factors are Earth’s angular tilt, the shape of its orbit around the sun, and its axial precession., The first of these factors, angular tilt, is the angle at which its axis is oriented to the plane of its orbit around the sun. This angle slowly changes over time, ranging between 21.5 and 24.5 degrees. At some angles, Earth receives more solar radiation and becomes warmer, and at other angles it receives less solar radiation and becomes cooler., The second factor, the shape Earth’s orbit around the sun, is important because, over long periods of time, the orbit changes from nearly circular to more elliptical (flatter) in shape. As a result of this variation, Earth receives more or less solar radiation depending on the shape of its orbit. The final factor, axial precession, is a wobble in the orientation of Earth’s axis to its orbit around the sun. As a result of axial precession, the amount of solar radiation received during various parts of the year changes over very long periods of time., Between 1912 and 1941, the Yugoslav astronomer Milutin Milankovitch developed a complex mathematical theory that explained how the interaction of these three astronomical factors could contribute to the development of an ice age. His calculations provided approximations of the occurrences of ice ages during Earth history., Astronomical factors provide only a broad general background for changes in Earth’s average annual temperature, however. Changes that take place on Earth itself also contribute to the temperature variations that bring about ice ages., Scientists understand that changes in the composition of Earth’s atmosphere can affect the planet’s annual average temperature. Some gases, such as carbon dioxide and nitrous oxide, have the ability to capture heat radiated from Earth, warming the atmosphere. This phenomenon is known as the greenhouse effect. But the composition of Earth’s atmosphere is known to have changed significantly over long periods of time. Some of these changes are the result of complex interactions of biotic, geologic and geochemical processes. Humans have increased the concentration, Axial precession —The regular and gradual shift of Earth’s axis, a kind of “wobble,” that takes place over a 23,000 year period., Interglacial period —A period of time between two glacial periods during which Earth’s average annual temperature is significantly warmer than during the two glacial periods., of carbon dioxide in the atmosphere over the last century through the burning of fossil fuels (coal, oil, and natural gas). As the concentration of greenhouse gases, like carbon dioxide and nitrous oxide, varies over many decades, so does the atmosphere’s ability to capture and retain heat., Other theories accounting for atmospheric cooling have been put forth. It has been suggested that the tectonic movement of plates comprising Earth’s crust are a significant factor affecting ice ages. The uplift of large continental blocks resulting from plate movements (for example, the uplift of the Himalayas and the Tibetan Plateau) may cause changes in global circulation patterns. The presence of large land masses at high altitudes seems to correlate with the growth of ice sheets, while the opening and closing of ocean basins due to tectonic movement may affect the movement of warm water from low to high latitudes., Because volcanic eruptions can contribute to significant temperature variations, it has been suggested that such eruptions could contribute to atmospheric cooling, leading to the lowering of Earth’s annual temperature. Dust particles thrown into the air during an eruption can reflect sunlight back into space, reducing heat that would otherwise have reached Earth’s surface. The eruption of Mount Pinatubo in the Philippine Islands in 1991 is thought to have been responsible for a worldwide cooling that lasted for at least five years. Similarly, Earth’s annual average temperature might be affected by the impact of meteorites on Earth’s surface. If very large meteorites had struck earth at times in the past, such collisions would have released huge volumes of dust into the atmosphere. The presence of this dust would have had effects similar to the eruption of Mount Pinatubo, reducing Earth’s annual average temperature for an extended period of time and, perhaps, contributing to the development of an ice age., The ability to absorb heat and the reflectivity of Earth’s surface also contribute to changes in the annual average temperature of Earth. Once an ice age begins, sea levels fall as water is tied up in ice sheets and glaciers. More land is exposed, and because land absorbs heat less readily than water, less heat is retained in Earth’s atmosphere. Likewise, pale surfaces reflect more heat than dark surfaces, and as the area covered by ice increase, so does the amount of heat reflected back to the upper atmosphere., Whatever the cause of ice ages, it is clear that they can develop as the result of relatively small changes in Earth’s average annual temperature. It appears that annual variations of only a few degrees Celsius can result in the formation of extensive ice sheets that cover thousands of square miles of Earth’s surface., See also Geologic time., David E. Newton, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Ice Ages."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Ice Ages." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+ https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ice-ages
+, 
+"Ice Ages." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ice-ages
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Ice ages are periods of time when vast areas of Earth's surface are covered with ice sheets and glaciers. Ice sheets (continent-sized glaciers) and glaciers are slow-moving rivers of ice formed from snow that has compacted over thousands to millions of years. The term ice age is often used to refer to long, cold intervals in Earth's history, during which there are large differences in temperature from the equator to the poles and glaciers advance and retreat over time scales of hundreds to millions of years. The Ice Age, when both words are capitalized, is commonly used to refer to the last major glaciation that occurred in North America and Eurasia ending about 10,000 years ago during the late Pleistocene epoch. Our modern climate represents a very short, warm period between glacial advances with ice sheets still present in both the Northern and Southern Hemispheres, and thus Earth is presently in an interglacial period., Four major periods of glacial advance and retreat, or ice ages, have occurred during the last billion years of Earth's history. The first occurred during the late Proterozoic eon (between 800 and 600 million years ago) and the second during the Pennsylvanian and Permian periods (between 350 and 250 million years ago). Somewhat less-extensive glaciations occurred during portions of the Ordovician and Silurian periods (between 460 and 430 million years ago). The current ice age began with the growth of the Antarctic ice sheet approximately 40 million years ago and intensified during the Quaternary period (the last four million years) with the expansion of ice sheets in the Northern Hemisphere., , Within each ice age, cycles of advancing and retreating ice sheets occur that are thought to be driven by regular, predictable variations in Earth's orbit and orientation relative to the sun. Each cycle consists of a long, generally cold phase, called a glacial period, during which the ice sheets slowly reach their maximum extent over tens of thousands of years followed by a relatively short, warm phase, called an interglacial period, during which the ice sheets rapidly retreat. Recent cycles of glacial/interglacial periods have occurred every 100,000 years., During glacial periods, global sea levels drop due to the loss of water from the oceans in the formation of large glaciers and ice sheets. Lower sea levels cause the continental shelves to be exposed and land bridges are formed between landmasses, allowing animals to migrate long distances. During interglacial periods, melting ice-water returns to the oceans, causing sea levels to rise once again., The factors considered important in causing long-term changes in Earth's climate, including the ice ages or glacial and interglacial periods, are several. They include: changes in the positions of the continents, variations in the energy output of the sun, changes in the concentrations of atmospheric gases and particulates such as carbon dioxide (CO2) and methane (CH4), changes in volcanic activity, the influence of the biosphere, and variations in Earth's orbit known as Milankovitch cycles., , In 1941, Serbian mathematician Milutin Milankovitch (1879–1958) identified three principal cycles that influence Earth's climatic variability. The longest of these cycles (100,000 years) concerns the planet's orbit around the sun. The second cycle (42,000 years) concerns the tilt of Earth on its axis. The third and shortest cycle (22,000 years) concerns the wobble of Earth on its axis. Only when continental drift brings large land surfaces to the poles can Milankovitch cycles cause ice ages. At that point, when the cycles are in the right configuration, mild summers and harsh winters allow large amounts of snow to fall at the poles until large ice sheets, are formed. However, the Milankovitch cycles are unable to explain these large-scale changes alone. Greenhouse gases are likely to play a crucial role. Computer modeling of Milankovitch cycles are unable to simulate the onset of an ice age without the concomitant reduction of atmospheric CO2 in the Southern Hemisphere., Earth is now experiencing a warm phase, or interglacial period, that has lasted more than 10,000 years, longer than many of the previous warm intervals. If the pattern of glacial cycles still holds true, Earth should be due for the beginning of the next glacial period. Over the last century, however, average global temperatures have started to rise rather than fall. Scientists have recently concluded that much of the recent warming is due to the release of greenhouse gases from anthropogenic (human-generated) activities. There is a realistic possibility that continued human-caused global warming could disrupt or override the natural climate cycle of the current ice age., William Ruddiman, an environmental scientist at the University of Virginia, proposed a theory in 2003 called the Early Anthropocene Hypothesis, which suggests that humans began to have a significant impact on Earth's climate as far back as 8,000 years ago. By charting the levels of CO2 and methane in ice cores taken from the Greenland and Antarctic ice sheets, Ruddiman discovered that atmospheric concentrations of CO2 and methane started rising long before the eighteenth century's advent of coal-burning factories and power plants, as was commonly assumed. At about 8,000 years ago, atmospheric greenhouse-gas concentrations stopped following the periodic pattern of rises and falls that were driven by natural variations in Earth's orbit., , For example, methane should have started declining 8,000 years ago and gone into rapid decline by 5,000 years ago if it were controlled by Milankovitch cycles. Methane is normally produced in large volume by swamps that form during warm, wet periods as opposed to dry, cold periods. However, methane concentrations have shown a slow, but emphatic rise since that time. It was wet agriculture, such as the creation of flooded rice paddies in eastern Asia, that has caused the production of methane gas to increase. Ruddiman gives a similar story for CO2 increases and the destruction of forests for agricultural land starting around 8,000 years ago. In his overdue-glaciation hypothesis, Ruddiman states that the next glacial period of our present ice age would probably have started several thousand years ago, but that next phase has been forestalled by the activities of early farmers and now our present industrial era., In 2004, a group of scientists in Europe challenged Ruddiman's hypothesis with information from ice cores taken at Dome C, Antarctica, which provides a climate record over the past 740,000 years. They determined that the glacial-to-interglacial conditions about 430,000 years ago resemble the transition into our present interglacial period in terms of greenhouse-gas levels and the magnitude of change in temperature. That interglacial period lasted for an exceptionally long 28,000 years. Our present interglacial period has lasted for 12,000 years. Thus, their results may imply that without human intervention, a climate similar to the one we have experienced could extend well into the future., ANTHROPOGENIC: Made by people or resulting from human activities. Usually used in the context of emissions that are produced as a result of human activities., CONTINENTAL DRIFT: A theory that explains the relative positions and shapes of the continents, and other geologic phenomena, by lateral movement of the continents. This was the precursor to plate tectonic theory., GLACIAL: Related to glaciers, a multi-year surplus accumulation of snowfall in excess of snowmelt on land and resulting in a mass of ice at least 0.1 km2 in area that shows some evidence of movement in response to gravity. A glacier may terminate on land or in water. Glacier ice is the largest reservoir of freshwater on Earth and is second only to the oceans as the largest reservoir of total water. Glaciers are found on every continent except Australia., , ICE CORE: A cylindrical section of ice removed from a glacier or an ice sheet in order to study climate patterns of the past. By performing chemical analyses on the air trapped in the ice, scientists can estimate the percentage of carbon dioxide and other trace gases in the atmosphere at that time., INTERGLACIAL PERIOD: Sometimes called simply an interglacial: geological time period between glacial periods, which are periods when ice masses grow in the polar regions and at high elevations. The world is warmer during interglacials. The world is presently experiencing an interglacial that began about 11,000 years ago., A popular idea in the media is that global warming caused by human activities will cause another “ice age” (an abrupt return to a glacial period) by dramatically altering the North Atlantic ocean circulation. This would supposedly result in cooling over Europe, leading to the slow growth of glaciers and the onset of the glacial period. Andrew Weaver and Claude Hillaire-Marcel refute this idea in their 2004 article “Global Warming and the Next Ice Age” by explaining that global warming is unlikely to dramatically change ocean circulation and that elevated levels of atmospheric CO2 cause high summer temperatures that preclude glacier formation and growth., See Also Agriculture: Contribution to Climate Change; Glaciation; Media Influences: Ice Age Predictions; Milankovitch Cycles; Paleoclimatology; Snowball Earth., Flannery, Tim. The Weather Makers: How Man Is Changing the Climate and What It Means for Life on Earth. New York: Atlantic Monthly Press, 2005., EPICA Community Members. “Eight Glacial Cycles from an Antarctic Ice Core.” Nature 429 (2004): 623–628., Ruddiman, William F. “The Anthropogenic Greenhouse Era Began Thousands of Years Ago.” Climatic Change 61 (2003): 261–293., Shackleton, Nicolas J. “The 100,000-Year Ice-Age Cycle Identified and Found to Lag Temperature, Carbon Dioxide, and Orbital Eccentricity.” Science 289 (2000): 1897–1902., Weaver, Andrew J., and Claude Hillaire-Marcel. “Global Warming and the Next Ice Age.” Science 304 (2004): 400–402., “Ice Age in Depth.” Denver Museum of Nature and Science, December 5, 2007. &lt;http://www.dmnh.org/main/minisites/iceage/ia_indepth/depth1.html&gt; (accessed December 9, 2007)., “Ice Ages.” Illinois State Museum, November 27, 2007. &lt;http://www.museum.state.il.us/exhibits/ice_ages&gt; (accessed December 9, 2007)., Michele Chapman , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Ice Ages."
+
+Climate Change: In Context.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Ice Ages." 
+Climate Change: In Context.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/energy-government-and-defense-magazines/ice-ages
+, 
+"Ice Ages." 
+Climate Change: In Context.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/energy-government-and-defense-magazines/ice-ages
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Ice ages are periods of time when large parts of Earth’s surface, especially near the poles, are covered with glaciers and ice sheets (continent-sized glaciers). Ice sheets and glaciers are slow-moving bodies of ice formed from snow that has fallen and compacted over thousands to millions of years. The term “ice age” is technically used to refer to long, cold intervals in Earth’s history, also called glaciations, during which glaciers advance and retreat over millions of years. These long, alternating periods of global warmth and cold are interrupted by colder periods termed glacials and warmer periods termed interglacials, which typically last some tens of thousands of years. Glacials and interglacials, in turn, can be interrupted by shorter cold periods a few thousand years long called stadials, which alternate with warmer intervals called interstadials. Somewhat confusingly, long-term ice ages, glacials, and stadials are all often referred to as “ice ages.” The phrase “the Ice Age,” when both words are capitalized, commonly refers to the last major glacial, which ended about 10,000 years ago. Our modern climate represents a relatively warm, climatically stable period between glacial advances., Many Earth environments can alter radically during ice ages. Hundreds of millions of years ago, the entire planet may have been frozen over almost entirely more than once, an extreme condition termed Snowball Earth. More recently, glaciers have expanded to cover most of what is now Europe, northern Asia, and northern North America. Such geographical figures as lakebeds and hills are shaped by glacial ice in areas that are covered by glaciation. During extreme ice ages, sea levels can drop by many yards/meters, as water is removed from the oceans by evaporation, falls on land as precipitation, and is locked up there as glacial ice., , Four major periods of glacial advance and retreat termed ice ages or glaciations have occurred during the last billion years of Earth’s history. The first occurred during the late Proterozoic eon (between 800 and 600 million years ago) and the second during the Pennsylvanian and Permian periods (between 350 and 250 million years ago). Somewhat less-extensive glaciations occurred during portions of the Ordovician and Silurian periods (between 460 and 430 million years ago). The current ice age, which continues, began with the growth of the Antarctic ice sheet approximately 40 million years ago and intensified during the Quaternary period (the last four million years) with the expansion of ice sheets in the Northern Hemisphere., Within each ice age, cycles of advancing and retreating ice sheets occur that are thought to be driven by regular, predictable variations in Earth’s orbit and orientation relative to the sun. Each cycle consists of a long, generally cold phase, called a glacial period or simply a glacial, during which the ice sheets slowly reach their maximum extent over tens of thousands of years followed by a relatively short, warm phase, called an interglacial period, during which the ice sheets rapidly retreat. Recent cycles of glacial/interglacial periods have occurred every 100,000 years or so. Glacials are interrupted by warmings and coolings of global climate lasting only one or two thousand years, with cool periods called stadials alternating with warm periods called interstadials., During glacial periods, global sea levels drop due to the loss of water from the oceans in the formation of large glaciers and ice sheets. Lower sea levels cause the continental shelves to be exposed and land bridges are formed between landmasses, allowing animals to migrate long distances. During interglacial periods, melting icewater returns to the oceans, causing sea levels to rise once again., , The factors considered important in causing long-term changes in Earth’s climate, including the ice ages or glacial and interglacial periods, are several. They include: changes in the positions of the continents, variations in the energy output of the sun, changes in the concentrations of atmospheric gases and particulates such as carbon dioxide (CO2) and methane (CH4), changes in volcanic activity, the influence of the biosphere, and variations in Earth’s orbit known as Milankovitch cycles., In 1941, Serbian mathematician Milutin Milankovitch (1879–1958) identified three principal cycles that influence Earth’s climatic variability. The longest of these cycles (100,000 years) concerns the planet’s orbit around the sun. The second cycle (42,000 years) concerns the tilt of Earth on its axis. The third and shortest cycle (22,000 years) concerns the wobble of Earth on its axis. Only when continental drift brings large land surfaces to the poles can Milankovitch cycles cause ice ages. At that point, when the cycles are in the right configuration, mild summers and harsh winters allow large amounts of snow to fall at the poles until large ice sheets are formed. However, the Milankovitch cycles are unable to explain these large-scale changes alone. Greenhouse gases are likely to play a crucial role. Computer modeling of Milankovitch cycles are unable to simulate the onset of an ice age without the concomitant, ANTHROPOGENIC: Made by humans or resulting from human activities., CONTINENTAL DRIFT: A theory that explains the relative positions and shapes of the continents and other geologic phenomena by lateral movement of the continents. This was the precursor to plate tectonic theory., GLACIAL: Pertaining to glaciers or ice sheets., ICE CORE: A cylindrical section of ice removed from a glacier or ice sheet in order to study climate patterns of the past., INTERGLACIAL: Occurring between periods of glacial action., reduction of atmospheric CO2 in the Southern Hemisphere., Earth is now experiencing a warm phase, or interglacial, that has lasted more than 10,000 years. Global tempera-, tures have been remarkably stable during this period. Over the last century, moreover, average global temperatures have started to rise rapidly. Scientists have recently concluded that most of this recent warming is due to anthropogenic (human-released) greenhouse gases such as CO2. It is possible that continued human-caused global warming could disrupt or override the natural climate cycle of the current ice age., , William Ruddiman, an environmental scientist at the University of Virginia, proposed a theory in 2003 called the Early Anthropocene Hypothesis, which suggests that humans began to have a significant impact on Earth’s climate as far back as 8,000 years ago. By charting the levels of CO2 and methane in ice cores taken from the Greenland and Antarctic ice sheets, Ruddiman discovered that atmospheric concentrations of CO2 and methane started rising long before the eighteenth century’s advent of coal-burning factories and power plants, as was commonly assumed. At about 8,000 years ago, atmospheric greenhouse-gas concentrations stopped following the periodic pattern of rises and falls that were driven by natural variations in Earth’s orbit., For example, methane should have started declining 8,000 years ago and gone into rapid decline by 5,000 years ago, if it were controlled by Milankovitch cycles. Methane is normally produced in large volume by swamps that form during warm, wet periods. However, methane concentrations have shown a slow but significant rise since that time. Ruddiman argues that it was wet agriculture, such as the creation of flooded rice paddies in eastern Asia, that caused the production of methane gas to increase. Ruddiman suggests a similar story for CO2 increases and the destruction of forests for agricultural land starting around 8,000 years ago. In his overdue-glaciation hypothesis, Ruddiman states that the next glacial period of our present ice age would probably have started several thousand years ago, but that next phase has been forestalled by the activities of early farmers and now our present industrial era. Ruddimann’s proposals are taken seriously by other climate scientists but are not agreed upon as fact by the majority of climate scientists due to insufficient evidence., In 2004, a group of scientists in Europe challenged Ruddiman’s hypothesis with information from ice cores taken at Dome C, Antarctica, which provides a climate record over the past 740,000 years. They determined that the glacial-to-interglacial conditions about 430,000 years ago resemble the transition into our present interglacial period in terms of greenhouse-gas levels and the magnitude of change in temperature. That interglacial period lasted for an exceptionally long 28,000 years. Our present interglacial period has lasted for 12,000 years. Thus, their results may imply that without human intervention, a climate similar to the one we have experienced could extend well into the future., , A popular idea in the media is that global warming caused by human activities will cause another “ice age” (an abrupt return to a glacial period) by dramatically altering the North Atlantic ocean circulation. This would supposedly result in cooling over Europe, leading to the slow growth of glaciers and the onset of the glacial period. Andrew Weaver and Claude Hillaire-Marcel refute this idea in their 2004 article “Global Warming and the Next Ice Age” by explaining that global warming is unlikely to dramatically change ocean circulation and that elevated levels of atmospheric CO2 cause high summer temperatures that preclude glacier formation and growth. Other scientists emphasize that dramatic changes in Atlantic circulation with attendant cooling of Northern Europe cannot yet be ruled out; however, a sudden, hemispheric plunge into ice age conditions is not likely., See Also Climate Change; Glacial Retreat; Glaciation; Global Warming; Ice Cores, Books , Flannery, Tim. The Weather Makers: How Man Is Changing the Climate and What It Means for Life on Earth. New York: Atlantic Monthly Press, 2005., Periodicals , EPICA Community Members. “Eight Glacial Cycles from an Antarctic Ice Core.” Nature 429 (2004): 623-628., Ruddiman, William F. “The Anthropogenic Greenhouse Era Began Thousands of Years Ago.” Climatic Change 61 (2003): 261-293., Shackleton, Nicolas J. “The 100,000-Year Ice-Age Cycle Identified and Found to Lag Temperature, Carbon Dioxide, and Orbital Eccentricity.” Science 289 (2000): 1897–1902., Weaver, Andrew J., and Claude Hillaire-Marcel. “Global Warming and the Next Ice Age.” Science 304 (2004): 400–402., Web Sites , Denver Museum of Nature and Science. “Ice Age in Depth.” http://www.dmnh.org/main/minisites/iceage/ia_indepth/depthl.html (accessed April 1, 2008)., Illinois State Museum. “Ice Ages.” http://www.museum.state.il.us/exhibits/ice_ages (accessed April 1, 2008)., Michele Chapman , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+
+"Ice Ages."
+
+Environmental Science: In Context.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Ice Ages." 
+Environmental Science: In Context.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/energy-government-and-defense-magazines/ice-ages-0
+, 
+"Ice Ages." 
+Environmental Science: In Context.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/energy-government-and-defense-magazines/ice-ages-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The ice ages were periods in Earth's history during which significant portions of Earth's surface were covered by glaciers and extensive fields of ice . Scientists sometimes use more specific terms for an ice "age" depending on the length of time it lasts. It appears that over the long expanse of Earth history, seven major periods of severe cooling have occurred. These periods are often known as ice eras and, except for the last of these, are not very well understood., What is known is that Earth's average annual temperature varies constantly from year to year, from decade to decade, and from century to century. During some periods, that average annual temperature has dropped to low enough levels for fields of ice to grow and cover large regions of Earth's surface. The seven ice eras have covered an average of about 50 million years each., , The ice era that scientists understand best (because it occurred most recently) began about 65 million years ago. Throughout that long period, Earth experienced periods of alternate cooling and warming. Those periods during which the annual temperature was significantly less than average are known as ice epochs. There is evidence for the occurrence of six ice epochs during this last of the great ice eras., During the 2.4 million year lifetime of the last ice epoch, about two dozen ice ages occurred. That means that Earth's average annual temperature fluctuated upwards and downwards to a very significant extent about two dozen times during the 2.4 million year period. In each case, a period of significant cooling was followed by a period of significant warming—an interglacial period—after which cooling once more took place., Scientists know a great deal about the cycle of cooling and warming that has taken place on the earth over the last 125,000 years, the period of the last ice age cycle. They have been able to specify with some degree of precision the centuries and decades during which ice sheets began to expand and diminish. For example, the most severe temperatures during the last ice age were recorded about 50,000 years ago. Temperatures then warmed before plunging again about 18,000 years ago., , Clear historical records are available for one of the most severe recent cooling periods, a period now known as the Little Ice Age. This period ran from about the fifteenth to the nineteenth century and caused widespread crop failure and loss of human life throughout Europe . Since the end of the Little Ice Age, temperatures have continued to fluctuate with about a dozen unusually cool periods in the last century, interspersed between periods of warmer weather . No one is quite certain as to whether the last ice age has ended or whether we are still living through that period., A great deal of what scientists know about the ice ages they have learned from the study of mountain glaciers. For example, when a glacier moves downward out of its mountain source, it carves out a distinctive shape on the surrounding land. The "footprints" left by continental glaciers formed during the ice ages are comparable to those formed by mountain glaciers., The transport of materials from one part of the earth's surface to another part is also evidence for continental glaciation. Rocks and fossils normally found only in one region of the the earth may be picked up and moved by ice sheets and deposited elsewhere. The "track" left by the moving glacier provides evidence of the ice sheets movement. In many cases, the moving ice may actually leave scratches on the rock over which it moves, providing further evidence for changes that took place during an ice age., Scientists have been asking about the causes of ice ages for more than a century. The answer (or answers) to that question appears to have at least two main parts, astronomical factors and terrestrial factors. By astronomical factors, scientists mean that the way the earth is oriented in space can determine the amount of heat it receives and, hence, its annual average temperature., , One of the most obvious astronomical factors about which scientists have long been suspicious is the appearance of sunspots . Sunspots are eruptions that occur on the sun's surface during which unusually large amounts of solar energy are released. The number of sunspots that occur each year changes according to a fairly regular pattern, reaching a maximum about every 11 years or so. The increasing and decreasing amounts of energy sent out during sunspot maxima and minima , some scientists have suggested, may contribute in some way to the increase and decrease of ice fields on the earth's surface., By the beginning of the twentieth century, however, astronomers had identified three factors that almost certainly are major contributors to the amount of solar radiation that reaches the earth's surface and, hence, the earth's average annual temperature. These three factors are the earth's angular tilt, the shape of its orbit around the sun , and its axial precession., The first of these factors, the planet's angular tilt, is the angle at which its axis is oriented to the plane of its orbit around the sun. This angle slowly changes over time, ranging between 21.5 and 24.5 degrees. At some angles, the earth receives more solar radiation and becomes warmer, and at other angles it receives less solar radiation and becomes cooler., The second factor, the shape of Earth's orbit around the sun, is important because, over long periods of time, the orbit changes from nearly circular to more elliptical (flatter) in shape. As a result of this variation, the earth receives more or less solar radiation depending on the shape of its orbit. The final factor, axial precession, is a "wobble" in the orientation of Earth's axis to its orbit around the sun. As a result of axial precession, the amount of solar radiation received during various parts of the year changes over very long periods of time., Between 1912 and 1941, the Yugoslav astronomer Milutin Milankovitch developed a complex mathematical theory that explained how the interaction of these three astronomical factors could contribute to the development of an ice age. His calculations provided rough approximations of the occurrences of ice ages during the earth history., Astronomical factors provide only a broad general background for changes in the earth's average annual temperature, however. Changes that take place on the earth itself also contribute to the temperature variations that bring about ice ages., , Scientists believe that changes in the composition of the earth's atmosphere can affect the planet's annual average temperature. Some gases, such as carbon dioxide and nitrous oxide, have the ability to capture heat radiated from the earth, warming the atmosphere. This phenomenon is known as the greenhouse effect . But the composition of Earth's atmosphere is known to have changed significantly over long periods of time. Some of these changes are the result of complex interactions of biotic, geologic and geochemical processes. Humans have dramatically increased the concentration of carbon dioxide in the atmosphere over the last century through the burning of fossil fuels (coal , oil, and natural gas ). As the concentration of greenhouse gases, like carbon dioxide and nitrous oxide, varies over many decades, so does the atmosphere's ability to capture and retain heat., Other theories accounting for atmospheric cooling have been put forth. It has been suggested that plate tectonics are a significant factor affecting ice ages. The uplift of large continental blocks resulting from plate movements (for example, the uplift of the Himalayas and the Tibetan Plateau) may cause changes in global circulation patterns. The presence of large land masses at high altitudes seems to correlate with the growth of ice sheets, while the opening and closing of ocean basins due to
+
+tectonic movement may affect the movement of warm water from low to high latitudes., Since volcanic eruptions can contribute to significant temperature variations, it has been suggested that such eruptions could contribute to atmospheric cooling, leading to the lowering of Earth's annual temperature. Dust particles thrown into the air during an eruption can reflect sunlight back into space, reducing heat that would otherwise have reached Earth's surface. The eruption of Mount Pinatubo in the Philippine Islands in 1991 is thought to have been responsible for a worldwide cooling that lasted for at least five years. Similarly, the earth's annual average temperature might be affected by the impact of meteorites on Earth's surface. If very large meteorites had struck Earth at times in the past, such collisions would have released huge volumes of dust into the atmosphere. The presence of this dust would have had effects similar to the eruption of Mount Pinatubo, reducing Earth's annual average temperature for an extended period of time and, perhaps, contributing to the development of an ice age., The ability to absorb heat and the reflectivity of the earth's surface also contribute to changes in the annual average temperature of Earth. Once an ice age begins, sea levels drop as more and more water is tied up in ice sheets and glaciers. More land is exposed, and because land absorbs heat less readily than water, less heat is retained in the earth's atmosphere. Likewise, pale surfaces reflect more heat than dark surfaces, and as the area covered by ice increase, so does the amount of heat reflected back to the upper atmosphere., Whatever the cause of ice ages, it is clear that they can develop as the result of relatively small changes in the earth's average annual temperature. It appears that annual variations of only a few degrees Celsius can result in the formation of extensive ice sheets that cover thousands of square miles of the earth's surface., See also Geologic time., David E. Newton, —The regular and gradual shift of the earth's axis, a kind of "wobble," that takes place over a 23,000 year period., —A period of time between two glacial periods during which the earth's average annual temperature is significantly warmer than during the two glacial periods., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Ice Ages."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+ 13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Ice Ages." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ice-ages-1
+, 
+"Ice Ages." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ice-ages-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

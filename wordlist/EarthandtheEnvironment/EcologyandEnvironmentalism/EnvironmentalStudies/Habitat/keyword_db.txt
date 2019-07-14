@@ -1,0 +1,507 @@
+[A habitat is the environment in which an organism, species, or community lives. Habitats can be classified in a number of ways in order to compare them at different times, across different geographic areas, and in terms of different life history strategies., Within nearly every type of habitat there exists a species that has adapted to that habitat, from the deep ocean floor to the polar ice caps. These specializations mean that the organism can survive in one type of habitat but not necessarily in another, a concept termed habitat requirement. Organisms that are free to move about can choose which habitat they will live in, and these choices are made based on the costs and benefits of each place., In order to make comparisons between the many that exist, habitats need to be classified in some manner. First, it is important to understand that what is a good environment to one organism, such as the middle of the ocean for a shark, may not be good for another, such as a desert-dwelling lizard. Thus, classification of habitat types is usually done in reference to a certain species or group of species., , One method of classifying habitats is temporally. Over time a habitat may be constant, with little change from the viewpoint of a particular organism, or it may be seasonal, where there is a predictable pattern of favorable and unfavorable periods for that organism. An example of a constant environment is a cave. A cave's temperature stays at a constant temperature, within a few degrees of the mean annual temperature of the area; therefore, a bat can find refuge from the extreme high and low daily temperatures. The cave is also a consistent shelter for the bat because there is no rain in a cave., Habitats can also be unpredictable, alternating between favorable and unfavorable periods for variable amounts of time, or ephemeral, meaning there are periods that are predictably short followed by unfavorable periods of variable, frequently extensive duration. To a water-loving amphibian, ephemeral habitats are intermittent streams that only run after heavy rainfalls and dry up to an uninhabitable state between rains., If classifying habitats spatially, they can either be constant, with a fairly uniform distribution of resources like food and refuge, or they can be patchy, with resources occurring in small, dense locations that are scattered around an area that is otherwise without any resources. It is easy to see how these different habitats could select for different behaviors, including types of locomotion, searching, and communication among individuals to relay locations of food patches or defend territories., , Habitats can also be classified by their effects on the growth and life history of the species in question. On the one hand, in size-beneficial habitats large individuals have a greater chance to successfully compete and reproduce within their own species. For example, a large male deer that successfully defends a harem of females is more likely to mate. Also, the risk of predation may be greater for smaller adult deer, which are subject to attacks by wolves., On the other hand, certain habitats are size-neutral or size-detrimental. In these habitats mortality may occur equally to all individuals, such as when a seasonal spring dries up. Or in such a habitat larger individuals may have a disadvantage; for example, an aerial predator may find it easier to see larger individuals or find it more worthwhile to chase them because of the greater food reward. Additionally, in a resource-rich environment there may be no within-species competition that would favor larger individuals., The type of growth that is preferred in a given habitat will often correlate to the reproductive strategy of a species. In a size-beneficial habitat it is advantageous to reproduce less frequently and have fewer, larger off-spring.
+This is also called a k -selecting habitat. A reproductive adult may have to delay reproduction for a long time in order to store the energy necessary to produce a large offspring. That offspring will then have a much better chance at survival. In a size-neutral or detrimental habitat, producing smaller, greater numbers of offspring is often a good strategy. This is also known as an r -selecting habitat., , Habitats are as varied as the animals that live in them and each could be infinitely described, but another general way to think of them is according to their measurable characteristics, or parameters. Examples of habitat parameters, or characteristics, include temperature, moisture, substrate type, nutrient availability, altitude (or depth in water), and amount of light and wind (or current in water). Each of these parameters shapes the organisms that live there or imposes certain habitat requirements that limit the types of organisms that can move in., Consider the cave example again. This habitat has a constant temperature, high moisture, low nutrient availability, and no light. Because of these characteristics, organisms that evolved to live in caves lose the ability to withstand temperature extremes and low moisture but in exchange gain the ability to withstand long periods with little food, partially by lowering their metabolism relative to their surface-dwelling relatives., Other lost features of cave-dwelling organisms are sight, which takes considerable energy, and pigment, two things totally unnecessary in a habitat with constant darkness. These habitat parameters also restrict the kinds of animals that can successfully move into the cave environment. Raccoons, even though they are not cave adapted, can use the cave because they are nocturnal and accustomed to using their keen sense of smell to find their way through the dark and hunt for food., These examples make it easier to understand the complexity of habitats and their specialized requirements. Because most organisms have adapted to their habitats and may not necessarily survive in another, it is extremely important to maintain habitats in their natural state in order to ensure the survival of the species that live there., see also Biomes; Ecosystems; Environment; Habitat Loss; Habitat Restoration., Jean K. Krejca , Begon, Michael, John L. Harper, and Colin R. Townsend. Ecology, 2nd ed. Cambridge, MA: Blackwell Scientific Publications, 1990., Dunell, Lee. State of the Ark: An Atlas of Conservation in Action. London, U.K.: Gaia Books, 1986., Shafer, Craig L. Nature Preserves: Island Theory and Conservation Practice. Washington, D.C.: Smithsonian Institution Press, 1990., Smith, Robert L. Elements of Ecology, 2nd ed. New York:, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Habitat."
+
+Animal Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Habitat." 
+Animal Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/habitat
+, 
+"Habitat." 
+Animal Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/habitat
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, In its simplest sense, a habitat is where an organism lives and thus is a concrete physical location like a stand of trees or a pool of water. A broader concept of habitat encompasses the general set of living and nonliving features typical of a particular environment, for example, "desert habitat" or "coral reef habitat.", Ecologists can measure environmental conditions where a species normally occurs to define its habitat more rigorously. Appropriate habitat can be defined in terms of its temperature regime, the availability of light and water, the chemical environment (acidity, salinity), and the strength of physical forces (waves, wind). Species can vary substantially in the suite of
+environmental conditions that they tolerate and can be classified as flexible habitat generalists or narrow habitat specialists., Ecologist G. Evelyn Hutchinson developed the related concept of the species niche , which is a "living space" delineated by the entire range of environmental conditions that an organism can tolerate and by all the resources it requires for survival, growth, and reproduction. The niche of a species is where it lives and what it does. A cactus, tarantula, and roadrunner may share a common desert habitat, but each occupies a unique niche., see also Biome; Community; Ecology; Ecosystem, Cynthia A. Paszkowski , Krohne, David T. General Ecology. New York: Wadsworth Publishing, 1997., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Habitat."
+
+Biology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Habitat." 
+Biology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/habitat-0
+, 
+"Habitat." 
+Biology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/habitat-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+hab·i·tat 
+/ ˈhabiˌtat/
+•
+n.
+the natural home or environment of an animal, plant, or other organism:
+wild chimps in their natural habitat.
+ ∎ 
+a particular type of environment regarded as a home for organisms:
+Long Point was internationally recognized for its unique Great Lakes coastal habitat.
+ ∎ inf. 
+a person's usual or preferred surroundings.
+
+
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"habitat."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"habitat." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/habitat-0
+, 
+"habitat." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/habitat-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"habitat."
+
+A Dictionary of Biology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"habitat." 
+A Dictionary of Biology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/habitat-2
+, 
+"habitat." 
+A Dictionary of Biology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/habitat-2
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"habitat."
+
+World Encyclopedia.
+ .
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"habitat." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/habitat
+, 
+"habitat." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/habitat
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"habitat."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"habitat." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/habitat
+, 
+ "habitat." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/habitat
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"habitat."
+
+A Dictionary of Plant Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"habitat." 
+A Dictionary of Plant Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/habitat-0
+, 
+"habitat." 
+A Dictionary of Plant Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/habitat-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"habitat."
+
+A Dictionary of Zoology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"habitat." 
+A Dictionary of Zoology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/habitat-1
+, 
+"habitat." 
+A Dictionary of Zoology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/habitat-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"habitat."
+
+Oxford Dictionary of Rhymes.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"habitat." 
+Oxford Dictionary of Rhymes.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/habitat
+, 
+"habitat." 
+Oxford Dictionary of Rhymes.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/habitat
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Nature goes wild when high school student Andreas (Getty) moves with his scientist parents, Hank (Karyo) and Clarissa (Krige), to the small Southwestern burg of Pleasanton. Hank's experiment with accelerated evolution takes some unexpected blips, with Hank turning into particles of matter, their house transformed into a vegetation-covered fortress, and Clarissa becoming a very earthy earth mother. Some eerie special effects. 103m/C VHS, DVD . Alice Krige, Balthazar Getty, Tcheky Karyo, Kenneth Welsh, Lara Harris; D: Renee Daalder; W: Renee Daalder; C: Jean Lepine; M: Ralph Grierson. CABLE , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Habitat."
+
+VideoHound's Golden Movie Retriever.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+ "Habitat." 
+VideoHound's Golden Movie Retriever.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/arts/culture-magazines/habitat
+, 
+"Habitat." 
+VideoHound's Golden Movie Retriever.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/arts/culture-magazines/habitat
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The term habitat refers to the type of environment in which an organism or species occurs. For plants, habitat is mostly defined by its physical attributes (e.g., rainfall, temperature, topographic position, soil texture, and moisture) and its chemical properties (e.g., soil acidity, concentrations of nutrients and toxins, and oxidation reduction status). For terrestrial animals, the habitat is defined by the physical structure (e.g., grassland, shrub-dominated, or forested for terrestrial species) and the plant species composition. Habitat for aquatic organisms is mostly determined by physical factors (such as running versus still water, salinity, depth, and light availability) as well as climatic and chemical components (especially nutrients). Broad ecological characteristics may also be included in the characterization of habitat, for instance forest, prairie, or tundra habitats on land, and littoral or pelagic ones in water. Within a given habitat there may be various micro-habitats, for example the hummocks and hollows in bogs, or patches of disturbance in forests., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Habitat."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Habitat." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/habitat
+, 
+"Habitat." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/habitat
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Refers to the type of environment in which an organism or species occurs, as defined by its physical properties (e.g., rainfall, temperature, topographic position, soil texture , soil moisture) and its chemical properties (e.g., soil acidity, concentrations of nutrients and toxins , oxidation reduction status). Some authors include broad biological characteristics in their definitions, for instance forest versus prairie habitats, referring to the different types of environments occupied by trees and grasses. Within a given habitat there may be different micro-habitats, for example the hummocks and hollows on bogs or the different soil horizons in forests., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Habitat."
+
+Environmental Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Habitat." 
+Environmental Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/habitat-0
+, 
+"Habitat." 
+Environmental Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/habitat-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The term habitat refers to the type of environment in which an organism or species occurs. For plants, habitat is mostly defined by its physical attributes (e.g., rainfall, temperature , topographic position, soil texture and moisture) and its chemical properties (e.g., soil acidity, concentrations of nutrients and toxins, oxidation reduction status). For terrestrial animals, the habitat is defined by the physical structure (e.g., grassland, shrub-dominated, or forested) and the plant species composition. Habitat for aquatic organisms is mostly determined by physical factors (such as running versus still water , depth, and light availability) as well as climatic and chemical components (especially nutrients). Broad ecological characteristics may also be included in the characterization of habitat, for instance forest, prairie , or tundra habitats on land, and littoral or pelagic ones in water. Within a given habitat there may be various micro-habitats, for example the hummocks and hollows in bogs, or patches of disturbance in forests ., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Habitat."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Habitat." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/habitat-0
+, 
+"Habitat." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/habitat-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, JUDITH THOMPSON2001, Judith Thompson became one of Canada's leading contemporary playwrights when, after a series of negative reviews, her play The Crackwalker (1980) was recognized as a brilliant piece of cutting-edge theater. Bleak and affronting, about the lives of those marginalized and abandoned by society, the play set a standard for a career writing realistic drama with psychologically profound characters and a commentary on the key social issues in modern-day Canada., , Thompson's drama Habitat, which premiered on September 20, 2001 at the Bluma Appel Theatre in Toronto, also examines issues facing marginalized members of Canadian society. It focuses on the tribulations of a group home for troubled teenagers and the struggles of the home's manager to remain on a prosperous suburban street while the street's residents campaign to have the group home removed. Raine, whose mother has just died of cancer, grows and changes emotionally while she gets to know the man who runs the group home, one of its troubled wards, and an older woman who lives on the street. In addition to addressing themes of teenage anger and rebellion, the play explores the power and importance of the mother figure as well as what it really means to create a habitat of love and acceptance., Thompson was born in Montreal on September 20, 1954, the daughter of W. R. Thompson, a geneticist
+and the head of the psychology department at Queen's University, and Mary, who taught in the Queens Drama Department for many years. After attending Queen's University and graduating in 1976, Thompson enrolled in the National Theater School's acting program. Afterwards, Thompson worked as an actor for a year, but then gave up acting to pursue writing., Thompson's first play, The Crackwalker, follows the doomed relationship of a mentally retarded woman and an emotionally unstable man. It caused a sensation when it was first produced in 1980 and was very highly regarded in Canada's theater scene. Thompson's second play, White Biting Dog (1984), was eagerly anticipated and went on to win Thopmson's first Governor's General Award for Drama. Thompson settled in Toronto and began a working relationship with the Tarragon Theater, where most of her plays have premiered., , Thompson's I Am Yours, about a struggle for custody of a baby, debuted in Toronto in 1987. Thompson wrote two further plays in the 1990s as well as a number of award-winning radio, television, and film scripts. Perfect Pie (2000) follows the unlikely friendship of two girls when they are reunited years after they were separated in a train accident. Habitat premiered in 2001. Since then, Thompson has continued to live and work in Canada, producing plays including Capture Me (2004), which is about the stalking and eventual murder of a teacher by an abusive husband whom she had left ten years before., Judith Thompson is a full tenured professor at the University of Guelph in the School of English and Theatre Studies, where she has taught for 13 years., Habitat begins in a hospital room with Raine talking to her mother, Cath, who is too weak to speak because she is dying of cancer. Raine tells Cath she is going to take her bank card. Then Raine experiences a sort of trance in which she remembers when she almost died as a baby because Cath failed to bring her to the hospital soon enough. Cath then wakes up, but Raine leaves to meet her friends., In the next scene, Lewis Chance introduces himself to the community in a high school auditorium, explaining that he is opening a group home on the prosperous suburban street Mapleview Lanes that will be full of children that everyone has "failed." In scene 3, Janet breaks into her mother's house because Margaret will not answer the door, they have a fight, and Janet leaves., Raine meets Margaret by accident in scene 4, while she is trying to find the group home. In scene 5, Raine meets Lewis, who tells her she is "home… at… last!" During these scenes it is revealed that Cath died shortly after Raine left her in the first scene, and Raine's father did not take her to live with him. In scene 6, Janet talks to her children about the group home and about how much she loves them., In scene 8, Janet apologizes to Margaret, who is short with her and tells her to do something about the group home. Lewis tells Raine how much love he has for her, and Margaret speaks to a neighbor about the group home. Sparkle then describes to Raine how he broke into a house on Mapleview Lanes., , In the scenes that follow, Margaret shouts at someone from the group home from her back window, Lewis plays charades with Sparkle and Raine, Sparkle tells Raine that he killed his parents, and Lewis talks to his mother on the phone. Margaret meets Raine on a midnight walk in scene 16, and Margaret tells her that Lewis pockets most of the money he gets from the government for the group home. In scene 17, Sparkle tells Raine a story about his family and then reveals that he was lying., Sparkle tells Lewis he thinks Lewis is sexy, and Lewis tells Sparkle he is fed up with him not caring about anything. Margaret complains to Janet in scene 20 that she is not doing anything to get rid of the group home, and in scene 21 Lewis finds Raine looking through his papers. He defends himself from her accusation that he is pocketing government money by telling her the story about how he failed to save his baby brother from dying even though he walked six miles to the hospital in the snow., In act 2, scene 1, Janet and Margaret visit Lewis to tell him of their concerns about the group home, but things turn very sour and Lewis tells Margaret to stick her petition up her arse. Lewis refuses to tell Janet whether any of the residents have criminal records, tears up the petition, and orders her to leave. In scene 2, Sparkle insults Raine while the two of them are smoking marijuana, and then Lewis talks to his mother about her medication and about
+his legal battle with the other residents of Maple-view Lanes., Janet tells her husband it is her duty to protect the neighborhood. In scene 5, Sparkle tries to seduce Lewis. In scene 6, there is the subtle implication, which later becomes clear, that Lewis is having an affair with Sparkle. In scene 7, Raine and Sparkle tease Lewis lightheartedly until he explodes and tells them he is "BLEEDING TO DEATH.", , Raine confronts Margaret in scene 8 about her role in getting rid of the group home, and when Margaret starts to change her mind, Janet tells her that it is too late to stop now. Raine starts cutting herself in scene 9, saying that she hates everyone and everything, while Sparkle walks away, and in scene 10 Sparkle describes how he does not care about anything. Lewis then comforts Raine, and Sparkle tells Margaret that she has broken his best friend's heart., In scene 13, Raine tells the city council why they should let the group home stay and Janet denounces Lewis. Lewis then tells the council about all of his indiscretions, including his criminal record when he was young, and his affair with Sparkle. He tells Margaret to decide whether the group home should stay or go, and Margaret cannot bring herself to go against her friends. In scene 14, Janet explains how she no longer feels love for her children, and then Margaret tells Raine that she is sorry that she has a stinted will. Raine tells Lewis she hates him in scene 16, and then Raine and Sparkle burn down the group home. In the final scene, Raine speaks to her mother about what it is like not to be able to breathe., Bethany is Janet's daughter, whom Janet calls "Bethany Bright.", Raine's mother, Cath dies of cancer after the first scene. She is in her forties and Raine describes her as always yelling with a "sharp" voice. This, in addition to the fact that she failed to bring Raine to the hospital when Raine was deathly ill, suggests that Cath may have been an irresponsible mother. It is also possible, however, that Raine is taking out some anger at her mother when she describes her this way. Cath seems kind when she comments in the first scene that Raine is so pretty., , Lewis is an outspoken and caring man who runs the group home. He grew up in rural Herring Cove, New Brunswick, where he was inspired to work in social services after he walked six miles in the snow to bring his sick brother, William, to the hospital. Lewis's brother died, and Lewis felt that he had failed William, so he vowed to give his life to helping other children that have been failed by society. Lewis continues to have a very close connection to his mother and his family, as is clear from his phone conversations with his mother., Lewis is charming and compelling, but has the tendency to become frustrated and then explode in anger. He is a gay man; at one point he has an affair with Sparkle, one of his wards. Lewis admits this, as well as the fact that he used some government money for his own purposes (although he paid it back), during the city council hearing that decides the fate of the group home. Lewis is devoted to social services and has a great deal of love for troubled teenagers, but after he loses the battle on Mapleview Lanes, there is the implication that he may be giving up, too exhausted to keep fighting. This is why Raine says she hates him., William is Lewis's brother, born when their mother was forty-seven. He dies in infancy, after Lewis walks six miles in the snow to bring him to the hospital., Crystal is Raine's friend, and Raine tells her mother that she expects to live with Crystal in a place called Cabbagetown., Raine's father moves to Cornwall with his lover, Patrice, and does not take Raine with him. This is why Lewis calls him a "selfish [sh——t]." Raine says that when her father was young, neighbors used to throw rocks at his house because his family was Jewish., Margaret is a longtime resident of Mapleview Lanes who changes markedly as the play unfolds. In her opening scene, she is still so traumatized by her husband's death two years previously that she refuses to clean the house, answer the door, or talk to anyone. Seventy-four years old, Margaret has always been cruel to her daughter, Janet, and puts an
+enormous amount of pressure on Janet by degrading her and yelling at her., , Margaret's transformation begins when she accidentally meets Raine. She remains short-tempered with Janet throughout the play, but she begins to be much more organized and starts taking out her frustration and anger on the group home. Margaret and Raine have a peculiar friendship, but they become close quite quickly. Margaret begins to feel very guilty about trying to oust the group home from the street when she realizes how much it is hurting Raine. When Lewis asks her whether they should stay or go at the city council meeting, however, Margaret is too weak to say that they should stay., Hamish is Janet's little boy, who suggests that Janet is being racist when she explains to him why she is concerned about the group home., Janet is Margaret's daughter, a lawyer who lives on Mapleview Lanes. She is married with two children and is defined in many ways by her relationship with her mother. Constantly trying to please Margaret, Janet engineers the effort to have the group home removed from the street because Margaret tells her to do so. Janet feels insecure around her mother and tells her during their important scene of act 1, scene 21, "You make me feel… well, really, kind of invisible." Margaret brushes this off, but it is a crucial insight into how their relationship works., After Janet's confrontation with Lewis, Lewis implies when speaking to his mother that he considers Janet his enemy. This is partly due to the fact that, while Lewis is overflowing with love and may even have too much love for his wards, Janet grows to feel no love for her children. This is Janet's major development in the play; she changes from feeling that God is blowing more and more adoration into her, like a balloon, to feeling that she does not like her children and is waiting in vain for love for them to pour down on her like a waterfall. Thompson implies that this has something to do with Janet's role in kicking out the group home, and something to do with Janet's troubled relationship with her own mother., Michael is Janet's husband, to whom she frequently talks on the phone., Patrice is Dad's girlfriend, or possibly his second wife. Raine tells Cath that Dad is always groping Patrice, and that Patrice asked Raine whether she was prepared for Cath to die. After Cath dies, Patrice moves with Dad to Cornwall, Ontario, and leaves Raine to live in a group home., , The main character of the play, Raine is a sixteen-year-old girl forced to live in a group home after her mother dies and her father does not take her in. The parts of her childhood that are revealed in the play are somewhat traumatic, including when she almost died when she was a baby because her mother failed to bring her to the hospital soon enough. Raine tells her mother in the first scene that she has come to hate her voice because Cath always used to yell at her. Raine emphasizes throughout the play that she does not love her mother nor grieve her death., As the play progresses, it becomes clear that this response to her mother's death may be, in part, a defense mechanism that Raine uses to pretend that she is fine. This may be why Raine attaches herself to Margaret—because she is in need of a mother figure and mourns Cath. As Raine gets to know Lewis and Sparkle at the group home, however, she begins to reveal her pain and attach herself to them. At first she does not trust Lewis, but by the end of act 1 she appears to need his love., Raine suffers deeply from the events leading up to the closure of the group house. In act 2, scene 9, she cuts herself and exclaims how much she hates everyone. By the end of the play, however, Raine is able to focus this anger into a political awareness and a dedication to what she thinks is right. This is why Lewis tells her that "we need someone like you" to "Keep fightin the fight" for social justice, although Raine says that she hates Lewis in this scene because she feels that he is giving up on the fight for failed children. In her final monologue, Raine suggests that she has come to terms with her feelings for her mother and, in a sense, grown up., Sparkle is a resident of the group home and one of the play's most enigmatic characters. A troubled teenager who has been involved in crime, he is gay and strongly attracted to Lewis. He says he is in a group home because he killed his parents, but he could be lying because he lies to Raine about the other elements of his past. In act 2, scene 10, he explains how he cares about certain basic needs but, as he says, he doesn't "CARE about anything" from world issues to the fate of the group home., Sparkle can be charming and funny, and he does manage to seduce Lewis, presumably in act 2, scene 6, when Lewis drags Sparkle into the office. It is not clear exactly what happened in Sparkle's history, but he has been in group homes for quite a while and likely has had some kind of traumatic past. He walks away when Raine is cutting herself, but then reveals in his final appearance of the play, when he insults Margaret and breaks things in her house, that he considers Raine his best friend and is extremely hurt that Margaret has broken Raine's heart., The central themes of Habitat relate to the concept of the title—a habitat where one feels accepted, loved, and at home. Much of the play deals with various characters' struggles to find an environment such as this, particularly the central plot of the group home that is under threat of expulsion from Mapleview Lanes. Sparkle has lived in group homes for years, and Raine is living in one for the first time, but both of them are in need of a supportive and loving habitat because they have been failed in the past., Thompson's idea of a habitat is not as simple as a traditional family structure, however. As the events of the play reveal, it is no easy task to create an atmosphere of love and acceptance. The two homes on Mapleview Lanes that the audience is allowed to see in addition to the group home, for example, are quite dysfunctional and certainly seem less loving and accepting than Lewis's group home, since neither Margaret nor Janet consistently love or even like their children. Margaret is harsh and
+cold with her daughter, and Janet seems overflowing with love for her children at the beginning of the play, but by the end reveals that she does not even like them anymore., Lewis, on the other hand, is overflowing with love, and may even show too much of it since he has been involved sexually with Sparkle. Thompson makes the audience wonder if this is actually so inappropriate and bad for Sparkle, however, since Lewis is probably the only person to really support Sparkle in all of his experiences in group homes. In fact, Thompson questions many conventional assumptions about what is important in a habitat, implying that love and acceptance are often found in situations that some might consider dysfunctional while the most problematic and unsupportive situations appear in traditional, "normal" homes., Thompson returns frequently to the theme of mothers and motherhood in her play. The opening scene provides a compelling glimpse into Raine's relationship with her mother both at the time of Cath's death and during Raine's near-death experience as an infant. Throughout the play, Raine works through her relationship with her mother, reacts to her mother's death, and considers whether she loves Cath or blames and dislikes her. By the end of the play, Raine seems to have come to terms with her feelings towards Cath, stressing that it is impossible to escape one's mother, and suggesting that the mother is inseparable from the idea of the home., Thompson tends to associate mothers with love, or a lack of love, and they are important in all of the major characters' lives except Sparkle's, which is perhaps why Sparkle is so troubled. Margaret plays a key role in how Raine grows and changes in her attitude towards her mother, and they may connect with each other, in part, because their actual mother-daughter relationships are both so dysfunctional. Margaret puts an enormous amount of pressure on her daughter Janet, but also ignores her, criticizes her, and fails to show any signs of love., Raine and Sparkle are angry, rebellious teenagers, and Raine in particular feels a sense of injustice at what has happened to her in the past and is happening to her now. At first they take out this rage in different ways, partly because Sparkle does not "care" about any larger sense of political injustice while Raine becomes very politically aware. Sparkle robs a resident of Mapleview Lanes and becomes involved in a physical fight, while Raine cuts herself, and then voices her sense of injustice at the city council meeting. At the end of the play, however, they burn down the group home together, sharing a sense of rage at everyone and everything. Thompson may be suggesting that this anger and rebellion comes from a society that has failed teenagers in providing them with the acceptance, love, and home discussed above., Thompson—who is known for her interest in the work of psychoanalyst Sigmund Freud—is careful to imbue her characters with a sense of great psychological depth, partly by showing the audience incidents from her character's respective childhoods. Examples of how the characters' personalities are grounded in realistic psychological portraits are Lewis's childhood trauma with his brother, Janet's sense of inadequacy that stretches back to her childhood with Margaret, and Raine's process of working through her relationship with her mother, as well as her near-death experience as an infant. Even Sparkle, whose past remains unclear, seems to have a well-defined traumatic experience in his childhood that is the key to his angry and irresponsible personality., In the first and last scenes of the play, Raine breaks out of the realistic, straightforward narrative and into two examples of what Thompson refers to as "trance[s]." In the first scene, despite the fact that she was probably too young to have any memory, Raine describes what it was like to fall off her mother's breast and stop breathing, while Cath interjects her memories of the situation. The implication is that Cath is not really speaking at all, but joining Raine in a sort of flashback. In the last scene, Raine does not seem to be in any specific time or place at all; she merely describes her emotional state, her feelings about motherhood and her mother Cath, and her sense that she is home. The dramatic technique of breaking out of the straightforward narrative is a useful tool for placing extra emphasis on the events in the trance. The characters seem to be coming out of the play and revealing something extremely important about themselves and their memories., Canada, a former British colony, is the second-largest country in the world, although much of its land is sparsely populated. Queen Elizabeth II of Great Britain is the official head of state, but Canada is a modern democracy whose liberal leader, Paul Martin, was returned to power in June of 2004. Most of Canada is English-speaking, but French is also an official language, and the French-speaking province of Quebec has a unique culture in which separatism is still a major issue., Canada's political and social climate is strongly affected by its powerful southern neighbor, the United States. With one of the most extensive trade relationships in the world, the two countries have close economic ties, although the Canadian government has been concerned about United States environmental pollution near its borders and United States tariffs on Canadian timber. Canada also has a very distinct foreign policy from that of the United States; it did not support the United States-led war on Iraq in 2003, for example, and it does not support the United States trade embargo on Cuba., Suburban life in English-speaking Canada near a city such as Toronto, which is just over an hour's drive from the United States border, has many similarities with suburban life in the United States. Most people own automobiles, crime rates are low, prosperity is the norm, and there is little racial or class diversity in comparison with urban areas, although Canada has a high immigration rate and a large immigrant population. Canada has higher taxes and more extensive social services than the United States, however, and government funding for something like a group home would likely be more accessible than in the United States., Canada has a unique and flourishing dramatic scene, although theater in English-speaking Canada is quite distinct from the scene in Quebec. David Fennario, who is known for his portrayal of working-class life, is a prominent example of a contemporary Canadian playwright writing in English, as is Carol Bolt, who helped to develop an alternate theater scene in Toronto during the 1970s. Known for their mix of mysticism and social commentary, Bolt's plays, including Red Emma (1974), have received wide critical acclaim., Perhaps the best-known of the playwrights who revitalized theater in Toronto in the 1970s, however, is David French. In addition to popularizing the
+brand of realism that characterizes Thompson's work, French was influential in working very closely with the director of his productions. The director with whom French collaborated most frequently was Bill Glassco, the founding director of Toronto's Tarragon Theater, and the practice of playwrights working closely with directors has continued through Thompson's long-standing relationship with the Tarragon., Judith Thompson enjoys an excellent critical reputation in English-speaking Canada. Although it was widely criticized in its initial reviews, her first play The Crackwalker eventually brought her praise and notoriety in Canada. As her career progressed, Thompson's plays also began to be produced in the United States, where they have generally not been received as warmly as in Canada. In addition to her prominent career as a playwright, Thompson is a successful writer for film, television, and radio., Habitat was moderately successful in Canada, receiving fairly positive reviews. In the United States, however, reviews were more mixed. In his
+review of the United States premiere of the play at the Epic Theater in New York, Ron Cohen writes in Back Stage that Thompson's "well-defined characters and sharply written dialogue—if sometimes a bit too heavy-handed—are permeated with her passion for the subject." Cohen then goes on to list some of the thematic and stylistic problems he finds in Thompson's script after commenting, "But she also stuffs her script with such a multitude of themes that it becomes increasingly difficult to fathom what she's really writing about." Neil Genzlinger also criticizes Thompson's script while praising the Epic Theater production of the play in his review in The New York Times. After briefly describing the plot and the actors, Genzlinger argues that "Ms. Thompson loses control of this promising premise in the play's second act" because she overwrites the background of the characters and because the teenagers' speeches sound "too savvy to be said by a real teenager.", Trudell is an independent scholar with a bachelor's degree in English literature. In the following essay, Trudell explores the meaning of breathing and loss of breath in Habitat., Perhaps Thompson's most important motif in Habitat is breathing. Throughout the play, she calls attention to the breathing patterns of her characters along with their abnormalities in breathing. Breathing provides a kind of rhythm for the play; it helps to define the mood and meaning of each scene and informs the audience when tension is building or decreasing. This is why the key crises of the play—Cath's inability to speak as she is dying, Lewis's brother's death, and Raine's recollection of her near-death experience as an infant—are defined by strained breathing, rapid breathing, or an inability to breathe at all., In her introduction to the 2001 Playwrights Canada Press edition of Habitat, Iris Turcott writes about the first draft of the play, "Each character also had their own idiosyncratic obsessions with breathing which collectively articulated her thematic exploration of physical, psychic, and spiritual survival and how they are linked." Indeed, breathing is critical in developing not just the theme of survival but all of the themes in Thompson's play; it is a stylistic and thematic device at the heart of the meaning of the work. Habitat is full of characters defined literally or figuratively by their interaction with air, whether they are suffocating, breathing easily, full of air like a balloon, or attempting to breathe life into others. Examining the ways in which Thompson invokes her motif of breathing ties together the meaning of each character's experience and suggests how the various thematic strands of the play are woven together., The important first example of Thompson's motif is Cath's belabored breathing during act 1, scene 1. The stage directions not only read in the opening paragraph, "We hear her struggling to breathe throughout the scene "; Thompson refers to Cath's loss of breath seven additional times in the brief scene. Establishing the symbolic meaning of breathing, Thompson outlines two of the most important ways that breathing will be significant throughout the play. Raspy, labored breathing is almost the only noise Cath makes outside of her "trance," when she remembers Raine's infant trauma, and since it is clearly communicating so much about Cath's mindset, breathing is established as a basic and important kind of voice. Also, since her death is imminent, it is clear that Cath's "struggle" to breathe is a struggle to survive, which reinforces the basic idea that to breathe freely is to live fully and freely., During Raine's trauma as an infant, when she fell off her mother's breast, Raine struggled desperately to breathe and then stopped breathing entirely. Thompson describes in detail this defining event in Raine's life and returns to it at the end of the play, stressing its importance to the central message of the work. Occurring on Sunday, the day of family gathering, the specific nature of the trauma is important to its thematic meaning. Associated ambiguously with both the loss of the mother's life-giving breast and the idea that Raine might "choke" on her mother's milk, the event is, in Raine's mind, similar to drowning; she cannot breathe in her dream and envisions herself far underwater. The experience is also connected to a loss of voice, since Raine cannot hear herself cry when she is given a breathing tube: "I cry and I cry with no voice no voice." Again, therefore, Thompson emphasizes that breathing is associated with voice and self-expression as well as with free, uninhibited life, as though the nurturing ideas of mother's milk and the family are in danger of stifling and suffocating a child., Thompson's breathing symbolism continues to play an important role in the other key episodes of Habitat. For example, in the other main childhood
+trauma in the play, that of Lewis and his brother William, abnormal breathing, rasping, and a breathing tube create a sense of great foreboding. When Lewis says, "[William] was breathin way to fast, eh, I never heard such fast breathing, and there was this rasping every time he breathed," and when, like Raine, William is tightly held to the chest of his protector and nurturer, the audience begins to fear that William will die, since all of this is parallel to Raine's near-death experience. Thompson therefore uses breathing as a foreshadowing device associated with children who have not been properly nurtured and are in danger of death., It is important to note, here and in the first scene, that free breathing is not a privilege of those who have been fed properly and held close. On the contrary, the children who suffer from abnormal breathing are being held closely to their protector's chests and, in Raine's case, actually overwhelmed and choked by the nurturing fluid of the mother's milk. Thompson's symbolism thus comes closer to the typical figurative connotation of breathing: that children need space to breathe, or independence and respect, in order to prosper. Habitat suggests that the children that society has failed are not always simply abandoned by society, but that they are often inhibited and stifled by their parents. Thus, Thompson associates symbolism of drowning, choking, and suffocation with the suffering children of the play., The implication of Thompson's breathing symbolism is useful in unraveling the important subplot involving the mother-child relationships between Margaret, Janet, and Janet's children. Although Margaret's relationship with Janet, and Janet's relationships with Hamish and Bethany, are healthy and upright in the eyes of the neighborhood, they are actually much more troubled and dysfunctional than the relationships between Lewis and his wards. Margaret is vicious and dismissive to her daughter—to the point that Janet has developed an extreme inferiority complex, and Janet finds by the end of the play that she does not love or even like her children anymore. Thompson uses this subplot as a counterpoint, or a contrasting but parallel theme, to the children of the group home that have been "failed" by their parents and by society., Janet, the central character in the Deacon family drama, is defined more than anything else by the following imagery, which is associated with her love for her children as well as her relationship to her mother:, I just feel like I could explode, like a balloon that has more and more air every time I look at you it's like God is blowing more more adoration into me and I'm the balloon and there is just more and more adoration and I'm getting bigger and bigger and more and more see-through and one day, one day I am just going to—I'm a big balloon mother and if anyone in any way hurts my children, that's you two I will basically explode., This ominous imagery is similar to Thompson's dramatizations of abnormal breathing and loss of breath in the sense that Janet's breath, or the air that she feels God is blowing into her, is locked inside her and ready to burst. It is also connected to Thompson's breathing symbolism in the sense that the mother and protector is fruitful and powerful, but also unsupportive and unloving, in the sense that Janet locks all of this love inside herself. She requires this love for herself because she lacks any nurturing love from her own mother. Because all Janet has known of a mother's love is Margaret's constant badgering and yelling, all of Janet's love for her own children is expressed in the form of scolding and criticizing., Janet's balloon imagery is an important fore-shadowing device for her eventual explosion, which she takes out on the group home and which leaves her barren of love for her children. By scolding her children and persecuting their neighbors, Janet reveals her misguided notions of how to protect and love them. Thompson implies with the balloon image that it is because Janet does not understand how to let her children breathe, and because she has not been loved and allowed to breathe by her own mother, that she is brought to this point., For Thompson, letting one's children breathe is also a symbol for letting them develop a voice and a capacity for self-expression. Janet is so insecure and unable to express her emotions for her children mainly because her mother makes her feel
+invisible, never looks at her when she speaks to her, and never really cares what she says. Margaret has "failed" Janet because of this, just like the children from the group home have been "failed" because they were "screamed at for breathing, or using the bathroom, screamed at for breathing." Lewis repeats "screamed at for breathing" because it is so important to Thompson's central symbolism about letting a child grow and develop a voice., Raine is Thompson's central example of a child learning to live freely and develop a voice, despite a society that has failed to nurture her, love her, and let her breathe. In fact, her near-death experience when she stopped breathing as an infant serves as a metaphor for the entire play. During this trauma, Raine chokes on the milk of a mother who yells at her but fails to support her, let her breathe, and notice when she is deathly ill. She must accept a breathing tube from the doctor and develop the ability to hear herself cry, or find her voice. Similarly, after her mother dies and cannot take care of her, Raine must accept the love and habitat of the group home in order to discover her emotions and find her voice as an adult. Breathing is Thompson's most important symbol for Raine's childhood flashback as well as for the present drama, since Raine is "out of breath" after she has cut herself and struggles, in her last monologue, to be "able to breathe," to "get enough air," to "pull it in" and fill her body. The last scene is ambiguous whether Raine has been irreconcilably failed by society or whether she will be able to learn how to breathe on her own., Scott Trudell, Critical Essay on Habitat, in Drama for Students, Thomson Gale, 2006., Guyette, a longtime journalist, graduated from the University of Pittsburgh with a degree in English. In this essay, Guyette examines how Thompson evokes compassion for characters that are tragically flawed., Viewed on one level, Margaret Thompson's Habitat is an entirely contemporary piece. The controversy and conflict generated when a group home for wayward teens opens in an upscale residential neighborhood is a story that could currently be found in any metropolitan newspaper. But there is much more to this play than the simple exploration of a hot-button social issue. This is a compelling piece that lays bare the duality of human nature. People are flawed, often damaged by the vagaries of life itself, whether it be the actions of parents or the often cruel whims of fate. Despite this damage, they retain the ability to overcome hardship and, given the proper perspective, can come to view the shortcomings of others not with contempt but with true compassion. It is just such a worldview Thompson brings to this play., In the real world, no one is either pure good or all bad; everyone is a mixture of both. Thompson showcases that basic quality with unflinching, sometimes brutal candor, creating characters with glaring, even hideous, faults. There are no traditional heroes in this play, no one of untarnished virtue fighting a battle of absolute good. Still, just as none of the players are heroes in the usual sense, neither are they true villains. Despite being burdened with all sorts of emotional baggage, they carry on with life as best they can., When a group home for troubled teens is established in an exclusive residential area, the question arises as to whether it should be allowed to exist there. Certainly, the teens that have been sent there think so. They deserve lovely, tree-shaded streets and clean air and safe surroundings as much as anyone. But what about the people already living there, many of whom are elderly? Is it fair to them to be forced to sit and watch as their property values are driven down and their once tranquil neighborhood is disrupted by rowdy kids who party in their front yards and break into their homes? It is this ambiguity that gives the play its thought-provoking complexity., This same complexity is used by Thompson to evoke intense compassion for a group of characters that are all severely flawed. She does so by revealing another aspect of the human condition—the psychological wounds that all people live with. Because everyone has suffered some emotional hurt in their lives, when these traumas are revealed, the audience can relate, and empathize., Thompson's determination to reveal the ugly side of her characters is evident from the moment the curtain rises. As her mother lays dying of cancer, Raine is only concerned with her own shallow desires. She wants money to buy new jeans and perhaps a black dress to wear to her mother's funeral. She complains about her shoes and raises the issue of back allowance that is owed her. To be so heartless at such a time is almost unfathomable, but Raine does not give her selfishness a second thought., Other characters appear equally unlikable as they are introduced. Lewis Chance, owner of the group home Raine is sent to following her mother's death, initially comes across as a glib conman. Making his pitch to the residents of Mapleview Lanes, he first plays on their emotions by exaggerating the plight of his wards describing them as the ones who were "raped every night, or used to make pornographic films just a few miles from your fine homes," and then attempting to close the deal by turning on the folksy manner of an innocent hick from the sticks, asking his new neighbors, "Are you comin' with? Are you—comin' with?", Margaret and her daughter Janet also take the stage bathed in an unflattering light. Margaret angrily rebuffs her daughter's attempts to provide some assistance. Janet's sincere offer of help is met with hostility and cutting criticism as she is chastised and told to "go and give your poor lonely children some of your time you selfish twit." At that point, Janet screams at her mother, calling her "crazy" and "demented.", Perhaps most unappealing of all is the teenage boy named Sparkle. He lies. He torments Lewis, who is gay, by making repeated sexual advances knowing that Lewis would be in serious trouble if he is discovered engaging in such a relationship with one of his wards. As Sparkle first takes the stage, he brags that he likes Halloween because of the opportunities it offers for making mischief, to break windows and throw eggs and steal candy from smaller children. A short time later, Sparkle arrives at the group home in the middle of the night toting a bag of items he stole from a neighborhood home., The harsh light these characters are initially shown in, however, grows softer as the play progresses. Their flaws remain exposed, but the sorrow and hurt underlying all the dysfunction is gradually exposed., In a long monologue, Lewis Chance reveals how, as a young boy, he was forced to carry his gravely ill infant brother six miles though a blizzard to the hospital in what was ultimately a failed attempt to save the baby's life. Decades later, that failure continues to haunt him, and the guilt associated with it motivates him to try and save other children by providing them a home and giving them emotional support. He admits to having a criminal past but makes a convincing argument that having made mistakes as a teenager enables him to better help the troubled kids he has taken in., Margaret confesses to Raine just how difficult it has been dealing with her husband's death, saying that she wakes every day feeling as if she had been "battered." Later, trying to explain why she failed to support the home, she describes how life had stunted her will, equating it to the way Chinese geisha girls once had their feet bound and crippled by men who were excited by the deformity. Despite what can be perceived as Margaret's moral failure, it is difficult to judge her harshly. She is old and wants to live out her few remaining years continuing to enjoy the friendship of people who have been her neighbors for decades., Janet, an initial supporter of the home, reverses her position and, because of her skill as a lawyer, helps force its closure. Although she denies it is a factor, it is clear that she is largely motivated by a desire to gain her mother's approval. She literally begs Margaret to validate her actions and provide a single kind word: "Mum. Please look at me. I need you to look at me. I need you to say thank you." She is not evil, only weak and unable to cope with her mother's lack of affection and approval, which she desperately needs. For a time, the un-mitigated love of her children filled the void, infusing her with joy. Just as she eventually sought the home's closure to please her mother, Janet also claimed to be protecting her children. As the play ends, she admits that the love those children once showered upon her had evaporated, leaving her to feel empty. They had stopped even seeing her. "Like my mother," Janet says. "They look through me now, like she does." She wants to be loved but all she receives is "contempt." How can the audience do anything but pity her?, Even Sparkle, who causes trouble throughout the play and is accused by Raine of not caring about anything except himself, is revealed in the end to be capable of compassion. Sparkle describes for Raine the emotionally draining experience of walking through those doors for the first time, saying it was as if "all the breath in me escaped, and I was a flat plastic beachball." Asked by Raine what happened after some time passed, he replies, "Well you're just not the same as you were, that's all. You're something different." When Sparkle confronts Margaret, telling her how much he despises her for betraying Raine, his anger is transformed into pain. Breaking down, he shows true emotion for the first time, deploring how the old woman has "broken my best friend's heart." As he says this, Sparkle falls to the ground, crying and clutching Margaret's ankles in despair. Even he, as bad as he is, is deserving of pity., The play comes full circle at the end with Raine baring her soul to the ghost of her dead mother. Instead of the selfish, self-centered, uncaring brat on display in the opening scene, a girl who hated the sound of her mother's voice and was glad that cancer had rendered her speechless, Raine admits to how she has secretly longed for her mother's voice, even imagined her mother speaking to her and comforting her as she was in prison for burning down the group home after neighbors forced its closure. The voice she imagines is not the hard-edged knife she described at the play's beginning but one of understanding. In that understanding, she finds peace and solace., Curt Guyette, Critical Essay on Habitat, in Drama for Students, Thomson Gale, 2006., Cohen, Ron, Review of Habitat, in Back Stage, Vol. 44, No. 29, July 18, 2003, p. 48., Genzlinger, Neil, "Home for Wayward Teenagers Ruffles Pristine Feathers," in the New York Times, May 28, 2003, p. E3., Thompson, Judith, Habitat, Playwrights Canada Press, 2001., Conolly, L. W., ed., Canadian Drama and the Critics, Talonbooks, 1995., Conolly compiles and edits a collection of the key critical reactions to the leading contemporary Canadian playwrights through 1994., Grace, Sherrill, and Albert-Reiner Glaap, Performing National Identities: International Perspectives on Contemporary Canadian Theatre, Talonbooks, 2003., Grace and Glaap offer a compilation of opinions on the Canadian drama scene during the late twentieth and early twenty-first centuries., Gussow, Mel, "Theater: Crackwalker, Canadian Urban Drama," in the New York Times, April 8, 1987, p. C24., Gussow's negative review of a New York production of Thompson's first play, Crackwalker, provides an insight into the American reaction to Thompson's early work., Zimmerman, Cynthia D., "Judith Thompson," in Playwriting Women: Female Voices in English Canada, edited by Jean Paton, Simon &amp; Pierre, 1994, pp. 176–209., In Zimmerman's overview of Thompson's career through 1994, she provides a brief biography of Thompson as well as an analysis of the early plays and their relationship to contemporary Canadian theater., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Habitat."
+
+Drama for Students.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Habitat." 
+Drama for Students.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/arts/educational-magazines/habitat
+, 
+"Habitat." 
+Drama for Students.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/arts/educational-magazines/habitat
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, A habitat designates the distinct, local environment where a particular species lives. Habitat has also been described simply as a place where a certain organism usually can be found. A shark's habitat is the ocean, and a trout's is a freshwater stream. Habitat requirements of the world's organisms vary widely and can be extremely different even for similar species. Habitat changes can affect the survival of a species., The habitat where an organism lives is one in which that organism's particular requirements are met. Habitat has been described as the place where an organism can best do its job, or its biological "street address." A favorable habitat for any animal or plant means that this organism is able to get all the things is needs to live, and that it has a slight advantage over others. Habitats are usually described in terms of an outstanding geographical feature such as being mountainous, being a desert, or a being a grassland. However, the concept of habitat is dominated by the idea of a particular type of place. The place where an organism thrives can be anywhere, from the human gut where the bacterium Escherichia coli lives, to the soil an earthworm digs, to the rocky crevices a mountain goat leaps across. Habitats can be nearly any size, although when a habitat becomes especially large it is called a biome. The word "environment" is sometimes used in place of habitat, but environment usually suggests a larger area, while habitat suggests a more local area., , Within its habitat, every species eventually finds its niche or the particular role that fits it best. An organism's ecological niche is defined by many factors such as the food it lives on, who are its predators, what temperatures it tolerates, or how much water it needs to consume. While two species may live in the same habitat, they can never share the same niche. A niche is a smaller concept than habitat, since a niche is part of the larger habitat. That does not mean, however, that a niche is any less complex. An organism's niche is a highly complex set of activities, impacts, relationships, and roles that can be difficult to understand fully., A leader in the emerging discipline of conservation biology, Thomas Love-joy (1941– ) conducted a unique twenty-year experiment to determine the best-sized habitat for conserving biological diversity (a broad term that includes all forms of life and the ecological systems in which they live). The goal of international conservation also has been fostered by his idea of a "debt-for-nature" swap in which a country's financial debt is partially forgiven if it carries out certain conservation measures., Thomas Lovejoy was born in New York City into a life of wealth and privilege. While attending the Millbrook School in New York, Lovejoy was first made aware of the wonders of the natural world by that school's founder, Frank Trevor. The young Lovejoy was inspired to study field biology, especially birds, and became fascinated with biology and the natural world. After entering Yale University, he was able to study under the eminent English ecologist, George Evelyn Hutchinson. Lovejoy received his bachelor's degree in 1964. While in pursuit of his doctorate at Yale, Lovejoy was able to spend two years in Brazil as part of a Smithsonian Institution project. There he introduced the technique of bird-banding (tying bits of colored string on birds' legs in order to observe their behavior) to that country, and his doctoral thesis proved to be the first major long-term study of birds in the Amazon region. He was also able to study birds in Africa. In 1971 he received his Ph.D. from Yale University., After serving the World Wildlife Fund for fourteen years, eventually becoming its vice president, Lovejoy joined the Smithsonian Institution in 1987. There he has been able to continue a long-term experiment that he had begun at the World Wildlife Fund. In 1978, Lovejoy initiated a twenty-year experiment (which has since been extended) to try and determine the best strategy for conserving biological diversity. Called the Minimum Critical Size of Ecosystems (MCSE) Project, its goal is to discover whether biological diversity is better favored by conserving a single large piece of land or by preserving a large number of smaller habitats. Although this was a serious issue that needed to be resolved scientifically, it seemed to be impossible to carry out until Lovejoy came up with an idea. Aware that Brazil had begun a program of developing the Amazon basin, Lovejoy also knew that that country allowed developers to clear only half of the rain forest and leave the remaining half untouched. Seeing that he had the raw materials for a large-scale experiment at hand, Lovejoy was able to get Brazil's support for his new idea. That idea consisted of twenty-four separate reserves, or habitats, that varied in size from 2.5 to 25,000 acres. After two decades of study, the project has yielded valuable results. One of the most interesting is called the "edge effect." This phenomenon occurs when the trees at the edge of the preserved habitat die off and the butterfly populations decline. This suggests that a reserve should always be made larger than is required to support its biological diversity, since there will always be an inevitable shrinkage of life-supporting land around the edges of the preserved habitat. Recent results further suggest that there may also be a loss of diversity deeper into the habitat than first thought., Lovejoy is one of the first of a new wave of biologists who must combine their science with real-world concerns, such as politics, in order to advance their goals. If a scientist is studying biological diversity and seeks to preserve it, the realities of today's world are such that he or she can no longer remain in the laboratory or jungle and conduct research. Instead, if scientists want to preserve the subject of their study, like the world's essential biological diversity, they are being forced to become actively involved in the politics and economics of the twenty-first century. Lovejoy is a good example of a scientist who has become involved in politics and economics. He has done this through his "debt-for-nature" idea. Today, Lovejoy also is recognized as one of the most effective spokespersons on such issues as global warming and the loss of biological diversity., Plant and animal habitats are often negatively impacted by humans. It is difficult for human populations to live near a species' habitat and not have an impact on it. Human impact can include climate change, acidification (from acid rain), reduction of wooded areas, lowering of water tables, and desertification (or the spread of a desert area). Such activities degrade, break up, and eventually destroy entire habitats. These human activities threaten the existence of other organisms. This can be particularly true for species that are highly specialized. An example is the giant panda that feeds only on a certain species of bamboo. Given the rate at which its habitat containing the bamboos species is being destroyed by human development, ecologists do not expect the giant panda to survive in the wild. As a result, giant pandas will eventually only be able to be found in zoos., [See alsoNiche; Species ], 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Habitat."
+
+U*X*L Complete Life Science Resource.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Habitat." 
+U*X*L Complete Life Science Resource.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/habitat
+, 
+"Habitat." 
+U*X*L Complete Life Science Resource.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/habitat
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+ Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

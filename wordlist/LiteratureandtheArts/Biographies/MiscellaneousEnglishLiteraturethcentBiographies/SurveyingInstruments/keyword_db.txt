@@ -1,0 +1,99 @@
+[Surveying is the apportionment of land by measuring and mapping. It is employed to determine boundaries and property lines, and to plan construction projects., Any civilization that had any degree of sophistication in construction methods required surveys to ensure that work came out according to plan. Surveying is thought to have originated in ancient Egypt as early as 2700 BC, with the construction of the Great Pyramid of Khufu at Giza, though the first recorded evidence of boundary surveying dates from 1400 BC in the Nile River valley., The classic surveyors were the Romans. In order to forge an Empire that stretched from the Scottish border to the Persian Gulf, a large system of roads, bridges, aqueducts, and canals was built, binding the country economically and militarily., Surveying was a major part of Roman public works projects. It also was used to divide the land among the citizens. Roman land surveying was referred to as centuriation after the century, which was a common rectangular unit of land area. These land parcels can still be seen in aerial photographs taken over France and other parts of Europe, the work of the Roman agrimensores, or measurers of land. The property lines were usually marked by stone walls and boundary markers., , With the advent of new methods of trigonometry and calculus, new surveying instruments emerged. The theodolite was invented in the sixteenth century. Its precise origin is unclear, but one version was invented by English mathematician Leonard Digges (1520– 1559) who gave it its name. A great theodolite was invented by Jesse Ramsden more than 200 years later in 1787. Its use led to the establishment of the British Ordnance Survey., Made up of a telescope mounted on a compass or of a quadrant plus a circle and a compass, the theodolite is used to measure horizontal and vertical angles. The modern theodolite is usually equipped with a micrometer, which gives magnified readings up to 1/3600°,or one second of arc. The micrometer is derived from the vernier scale, which was invented by French engineer and soldier Pierre Vernier (1584–1638) in 1631 to measure in fractions., The transit is a theodolite capable of measuring horizontal and vertical angles, as well as prolonging a straight line or determining a level sight line. A telescope atop a tripod assembly is clamped in position to measure either horizontal or vertical angles. The transit employs a plumb bob hanging from the center of the tripod to mark the exact location of the surveyor., The practice of triangulation was introduced by mathematician and cartographer Gemma Frisius (1508–1555), born in what is today called the Netherlands, in 1533. By measuring the distance of two sides of a triangle in a ground survey, the third side and the triangle’s area can be calculated. Triangulation was aided by the inventions of the prismatic astrolabe and the heliotrope. The latter was invented by German mathematician Johann Gauss (1777–1855). The modern study of geodesy, the science of Earth measurement, is considered to have begun with Gauss. Both instruments used a beam of sunlight to signal the positions of distant participants in a land survey., Other survey instruments include the surveyor’s compass, which is used for less precise surveying. The surveyor’s level is used to measure heights of points above sea level or above local base points. Metal tapes, first introduced by English mathematician Edmund Gunter in 1620, are used for shorter measurements., In the late twentieth century and continuing into the twenty-first century, surveying has been aided greatly by remote sensing: Photogrammetry employs aerial photography to survey large areas for topographic mapping and land assessment purposes, satellite imagery has increased the aerial coverage of surveys, and laser technology has increased the precision of survey sightings. Along with these tools, surveyors use the geographical information systems (GIS) computer databases for access to additional information on land boundaries and features., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Surveying Instruments."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Surveying Instruments." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/surveying-instruments-1
+, 
+"Surveying Instruments." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/surveying-instruments-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Surveying is the apportionment of land by measuring and mapping. It is employed to determine boundaries and property lines, and to plan construction projects. Surveying instruments are designed to precise (repeatable) and accurate apportionment measurements., Throughout history, civilizations with high levels of sophistication in construction methods required surveys to ensure that work came out according to plan. Formal surveying on a large scale is thought to have originated in ancient Egypt as early as 2700 b.c., with the construction of the Great Pyramid of Khufu at Giza, though the first recorded evidence of boundary surveying dates from 1400 b.c. in the Nile River valley., The Roman Empire relied heavily on surveying. In order to forge an empire that stretched from the Scottish border to the Persian Gulf, a large system of roads, bridges, aqueducts, and canals was built, binding the country economically and militarily. Surveying was a major part of Roman public works projects. It also was used to divide the land among the citizens. Roman land surveying was referred to as centuriation, which was a common rectangular unit of land area . These land parcels can still be seen in aerial photographs taken over France and other parts of Europe—the work of the Roman agrimensores, or measurers of land. The property lines were usually marked by stone walls and boundary markers., , Consistent with the rise of trigonometry and calculus, new surveying instruments emerged. The theodolite was invented in the sixteenth century. Its precise origin is unclear, but one version was invented by English mathematician Leonard Digges in 1571, who gave it its name. An improved theodolite was invented by Jesse Ramsden more than 200 years later in 1787. Its use led to the establishment of the British Ordnance Survey., Made up of a telescope mounted on a compass or of a quadrant plus a circle and a compass, the theodolite is used to measure horizontal and vertical angles. The modern theodolite is usually equipped with a micrometer, which gives magnified readings up to 1/3600°, or one second of arc. The micrometer is derived from the vernier scale, which was invented by French engineer and soldier Pierre Vernier (1584-1638) in 1631 to measure in fractions., The transit is a theodolite capable of measuring horizontal and vertical angles, as well as prolonging a straight line or determining a level sight line. A telescope atop a tripod assembly is clamped in position to measure either horizontal or vertical angles. The transit employs a plumb bob hanging from the center of the tripod to mark the exact location of the surveyor., The practice of triangulation was introduced by Gemma Frisius in 1533. By measuring the distance of two sides of a triangle in a ground survey, the third side and the triangle's area can be calculated. Triangulation was aided by the inventions of the prismatic astrolabe and the heliotrope. The latter was invented by German mathematician Johann Gauss (1777-1855), who is considered the father of geodesy, the science of Earth measurement. Both instruments used a beam of sunlight to signal the positions of distant participants in a land survey., Other survey instruments include the surveyor's compass, which is used for less precise surveying. The surveyor's level is used to measure heights of points above sea level or above local base points. Metal tapes, first introduced by English mathematician Edmund Gunter in 1620, are used for shorter measurements., In the late twentieth century, surveying has been aided greatly by remote sensing : Photogrammetry employs aerial photography to survey large areas for topographic mapping and land assessment purposes, satellite imagery has increased the aerial coverage of surveys, and laser technology has increased the precision of survey sightings., See also  Cartography; Geologic map; Petroleum detection; Topography and topographic maps, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Surveying Instruments."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Surveying Instruments." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/surveying-instruments
+, 
+"Surveying Instruments." 
+World of Earth Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/surveying-instruments
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Surveying is the apportionment of land by measuring and mapping. It is employed to determine boundaries and property lines, and to plan construction projects., Any civilization that had any degree of sophistication in construction methods required surveys to ensure that work came out according to plan. Surveying is thought to have originated in ancient Egypt as early as 2700 b.c., with the construction of the Great Pyramid of Khufu at Giza, though the first recorded evidence of boundary surveying dates from 1400 b.c. in the Nile River valley., The classic surveyors were the Romans. In order to forge an Empire that stretched from the Scottish border to the Persian Gulf, a large system of roads, bridges , aqueducts, and canals was built, binding the country economically and militarily., Surveying was a major part of Roman public works projects. It also was used to divide the land among the citizens. Roman land surveying was referred to as centuriation after the century, which was a common rectangular unit of land area. These land parcels can still be seen in aerial photographs taken over France and other parts of Europe , the work of the Roman agrimensores, or measurers of land. The property lines were usually marked by stone walls and boundary markers. With the advent of new methods of trigonometry and calculus , new surveying instruments emerged. The theodolite was invented in the sixteenth century. Its precise origin is unclear, but one version was invented by English mathematician Leonard Digges in 1571, who gave it its name. A great theodolite was invented by Jesse Ramsden more than 200 years later in 1787. Its use led to the establishment of the British Ordnance Survey., Made up of a telescope mounted on a compass or of a quadrant plus a circle and a compass, the theodolite is used to measure horizontal and vertical angles. The modern theodolite is usually equipped with a micrometer, which gives magnified readings up to 1/3600°, or one second of arc. The micrometer is derived from the vernier scale, which was invented by French engineer and soldier Pierre Vernier (1584-1638) in 1631 to measure in fractions., The transit is a theodolite capable of measuring horizontal and vertical angles, as well as prolonging a straight line or determining a level sight line. A telescope atop a tripod assembly is clamped in position to measure either horizontal or vertical angles. The transit employs a plumb bob hanging from the center of the tripod to mark the exact location of the surveyor., The practice of triangulation was introduced by Gemma Frisius in 1533. By measuring the distance of two sides of a triangle in a ground survey, the third side and the triangle's area can be calculated. Triangulation was aided by the inventions of the prismatic astrolabe and the heliotrope. The latter was invented by German mathematician Johann Gauss (1777-1855), who is considered the father of geodesy, the science of Earth measurement. Both instruments used a beam of sunlight to signal the positions of distant participants in a land survey., Other survey instruments include the surveyor's compass, which is used for less precise surveying. The surveyor's level is used to measure heights of points above sea level or above local base points. Metal tapes, first introduced by English mathematician Edmund Gunter in 1620, are used for shorter measurements., In the late twentieth century, surveying has been aided greatly by remote sensing : Photogrammetry employs aerial photography to survey large areas for topographic mapping and land assessment purposes, satellite imagery has increased the aerial coverage of surveys, and laser technology has increased the precision of survey sightings., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Surveying Instruments."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Surveying Instruments." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/surveying-instruments-0
+, 
+"Surveying Instruments." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/surveying-instruments-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

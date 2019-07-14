@@ -1,0 +1,580 @@
+[Glass is a state of matter. It is a solid produced by cooling molten material so that the internal arrangement of atoms, or molecules, remains in a random or disordered state, similar to the arrangement in a liquid. Such a solid is said to be amorphous or glassy. Ordinary solids, by contrast, have regular crystalline structures. The difference is illustrated in Figure 1., Many materials can be made to exist as glasses. Hard candies, for example, consist primarily of sugar in the glassy state. What the term "glass" means to most people, however, is a product made from silica (SiO2). The, common form of silica is sand, but it also occurs in nature in a crystalline form known as quartz., Pure silica can produce an excellent glass, but it is very high-melting (1,723oC, or 3,133oF), and the melt is so extremely viscous that it is difficult to handle. All common glasses contain other ingredients that make the silica easier to melt and the hot liquid easier to shape., Probably as early as 75,000 b.c.e., long before human beings had learned how to make glass, they had used natural glass to fashion knives, arrowheads, and other useful articles. The most common natural glass is obsidian, formed when the heat of volcanoes melts rocks such as granite, which then become glassy upon cooling. Other natural glasses are pumice, a glassy foam produced from lava; fulgurites, glass tubes formed by lightning striking sand or sandy soil; and tektites, lumps or beads of glass probably formed during meteoric impacts., When, where, or how human beings discovered how to make glass is not known. Very small dark-colored beads of glass have been dated back to 4000 b.c.e. These may well have been by-products of copper smelting or pottery glazing. By 2500 b.c.e. small pieces of true synthetic glass appeared in areas such as Mesopotamia, but an actual glass industry did not appear until about 1500 b.c.e. in Egypt. By this time various small vases, cosmetic jars, and jewelry items made of glass had begun to appear., , All the ancient glasses were based on silica (sand), modified with considerable amounts of various metal oxides, mainly soda (Na2O) and lime (CaO). This is still the most common glass being used today. It is known as soda lime glass. However, the ancient glass was usually colored and opaque due to the presence of various impurities, whereas most modern glass has the useful property of transparency., Hundreds of thousands of different glass compositions have been devised, and they have been used in different ways. Much has been learned about which combination of chemicals will make the best glass for a particular purpose. For example, in 1664 an Englishman named Ravenscroft found that adding lead oxide (PbO) to a glass melt produced a brilliant glass that was much easier to melt and to shape. Since that time lead glass has been used to make fine crystal bowls and goblets and many kinds of art glass., An important kind of glass was developed in the early 1900s to solve a serious problem—the inability of glass to withstand temperature shock. This failure resulted in tragic accidents in the early days of the railroads. Glass lanterns used as signals would get very hot, and then, if it started to rain, the rapid cooling would sometimes cause the glass to break and the signal to fail. The problem was solved by replacing much of the soda in the glass with boron oxide (B2O3). The resulting glass, called borosilicate, contains about 12 percent boron oxide and can withstand a temperature variation of 200oC (392oF). It also has greater chemical durability than soda lime glass. Today borosilicate glass is used in most laboratory glassware (beakers, flasks, test tubes, etc.) and in glass kitchen bakeware., , For even greater heat shock resistance and chemical durability, alumina (Al2O3) can be used instead of boron oxide. The resultant aluminosilicate glass has such resistance to heat shock that it can be used directly on the heating element of the kitchen stovetop. It is also used to make the special bottles used for liquid pharmaceutical prescriptions, and to produce the glass thread that is woven into fiberglass fabric., High silica glass (96.5–100% silica) remains difficult to make because of the very high melting point of pure silica. However, it is made for special purposes because of its outstanding durability, excellent resistance to thermal shock or chemical attack, and ability to transmit ultraviolet light (an ability that ordinary glass does not have). Spacecraft windows, made of 100 percent silica, can withstand temperatures as high as 1,200oC (2,192oF). Table 1 lists the five major types of glass along with properties and uses., Glass Composition. The making of glass involves three basic types of ingredients: formers, fluxes, and stabilizers. The glass former is the key component in the structure of a glassy material. The former used in most glasses is silica (SiO2). Pure silica is difficult to melt because of its extremely high melting point (1,723oC, or 3,133oF), but fluxes can be added to lower the melting temperature. Other glass formers with much lower melting points (400oC–600oC, or 752–1,112oF) are boric oxide (B2O3) and phosphorus pentoxide (P2O5). These are easily melted, but because their glass products dissolve in water, they have limited usefulness., , Most silica glasses contain an added flux, so that the silica can be melted at a much lower temperature (800oC–900oC, or 1,472–1,652oF). Standard fluxes include soda (Na2O), potash (K2O), and lithia (Li2O). Frequently the flux is added as a carbonate substance (e.g., Na2CO3), the CO2 being driven off during heating. Glasses containing only silica and a flux, however, have poor durability and are often water-soluble., To make glasses stronger and more durable, stabilizers are added. The most common stabilizer is lime (CaO), but others are magnesia (MgO), baria (BaO), and litharge (PbO). The most common glass, made in largest amounts by both ancient and modern glassmakers, is based on silica as the glass former, soda as the flux, and lime as the stabilizer. It is the glass used to make windows, bottles, jars, and lightbulbs., Colored Glass. The natural glasses used by the ancients were all dark in color, usually ranging from olive green or brown to jet black. The color was, due to the presence of significant amounts of metal impurities, especially iron. Even today the ubiquitous presence of iron in nature causes most ordinary glass to have a slight greenish cast., , Many standard glass colorants are oxides of metals such as cobalt (blue), chromium (green), and manganese (violet). Yellow glass is usually made with cadmium sulfide, and red or pink glass usually contains selenium, although some ruby-colored glass has had gold added. The coloring of glass is not a simple subject. Glass color depends not only on which elements are added, but also on the composition of the glass, and on whether the furnace used was in an oxidizing or reducing mode. Copper, for example, can produce blue, green, or opaque red glass, depending on melting conditions., The Egyptians of 1500 b.c.e. knew that they could make brightly colored glasses by adding certain metals (or their compounds) to the glass melt. The ancient Romans continued the science of making colored glass and expanded it. By the fourth century c.e. the Romans had learned how to produce a dichroic (two-color) glass. The most famous dichroic glass article left by the Romans is the Lycurgus Cup (now at the British Museum). It is green in reflected light (with the lamp in front of the cup), but red in transmitted light (the lamp behind the cup). This unusual glass contains microscopic particles of gold and silver., Ancient Methods. Shaping hot, molten glass into useful articles has long been a challenge. Molten glass is extremely hot, caustic, sticky, and difficult to handle. In the period extending from about 2000 b.c.e. to 50 b.c.e., there were three basic methods used to form glass. One of the earliest and most widely used was core forming. This involved distributing molten glass around a clay core on a metal rod. The rod with the clay core could either be dipped into molten glass, or the hot liquid glass could simply be poured over it. The outer glass coating was then rolled (marvered) on a flat stone surface to smooth it. Often the object was decorated by dribbling more glass, sometimes of a different color, onto its surface. The hot glass was then annealed (cooled slowly so as to relieve thermal stress), and the metal rod was removed and the clay core scraped out., A second method involved sagging and fusing. It called for taking preformed glass rods or canes (which were often of different colors), placing them in or on top of a mold, and then heating the canes until they sagged and fused together and conformed to the shape of the mold. (Sheets of glass could also be sagged over shaped clay molds.), The third method was casting, which called for pouring hot, molten glass into a mold. A variation on cast glass was faience, made from powdered quartz blended into molten glass. The mixture might be pressed between two molds to make a cast vessel such as a bowl., All three of these methods were slow, and they generally produced small items that were rather thick. Glass pieces tended to be quite expensive, and, in antiquity, were affordable only by the very wealthy., , Glassblowing. It was probably in the Middle East during the first century b.c.e. that the important technique of glassblowing was discovered. A hollow metal rod (or pipe) was used to pick up a gob of molten glass; the act of blowing into the pipe generated a bubble of glass. If the bubble were blown into a mold, the molten glass could be given a desired shape. Wooden paddles and pincers were used to refine the shape even further. The blowing procedure was used to make glass objects that were larger and thinner than those that had been made previously, and it was much faster than previous glass-forming methods. As glass pieces became easier to make, they became cheaper and more available. The ancient Romans became particularly skillful at glassblowing. More glass was produced and used in the Roman world than in any other civilization of antiquity. During the Middle Ages, there was a great expansion of glassblowing activity, especially in Venice, the Middle East, and European countries such as Spain and Germany., Some Modern Methods. Since the nineteenth century, many centuriesold glass-forming methods have been mechanized, greatly increasing the rate of production of glass objects, and lowering the prices of these objects. For example, the "ribbon machine," developed in the 1920s for the automatic glassblowing of lightbulbs, is a milestone of mechanical glass forming. In the ribbon machine, puffs of air blow glass bubbles from a rapidly moving ribbon of molten glass into a moving stream of molds that give the bulbs their shape and then release them. Small lightbulb blanks can be made at the rate of 1,000 per minute., With so many millions of windows in buildings and vehicles everywhere, we tend to take sheets of flat glass for granted. Throughout most of human history, however, there were no sheets of flat, transparent glass. Even as recently as the eighteenth century, glass windows were quite uncommon., In a very limited way glass windows did start to appear in the Roman world during the third century, but they were generally small glass fragments set in bronze or wooden frames. In that era most windows were not glass, but were thin sheets of translucent horn or marble, or perhaps panes of mica (isinglass). Around 600 c.e., during the Byzantine period, glass windows (usually made of small pieces of colored glass) began to appear in the large churches, but glass windows in houses and other secular buildings remained quite rare until the end of the eighteenth century., , The principal method for making flat glass during the 1700s called for blowing a hot glass bubble, securing an iron rod to the bubble's other side, and then cutting the bubble free from the blowing pipe. The tulip-shaped hot glass was then rotated rapidly around the iron rod axis until the centrifugal force forced the glass tulip to open up and form a disk. The rod was then removed from the glass (leaving a spot in the middle of the glass disk that looked rather like a bull's eye). This method was the source of the old "bull's-eye" windows that can still sometimes be found in English pubs. The windows were limited in size and poor in optical quality (besides having a bull's-eye at their centers)., The chief method for making flat glass during the 1800s was the cylinder method. The first step was to blow a large glass bubble (compressed air was often used); it would then be swung back and forth until the bubble became elongated and acquired a cylindrical shape; finally the cylinder was split lengthwise, reheated, and allowed to flatten on an iron table. The resulting pane of glass was not really flat, and it had a lot of optical distortion, but the method was used widely to make sheet glass. For example, it was used to produce the 300,000 panes of glass that were used to build London's Crystal Palace, the huge greenhouse constructed for the London World's Fair Exhibition of 1851., By the twentieth century these methods were replaced by an innovative technique invented by a Belgian named Foucault, who had learned how to draw up continuous sheets from a tank filled with molten glass. Even this glass was of nonuniform thickness and had some roughness at its surface, therefore, for high quality flat glass, it had to be ground and polished., Then, in 1959, the Pilkington Glass Works in Britain introduced the "float glass" process. In the float process, molten glass is allowed to flow continuously onto a mirrorlike surface of molten tin at 1,000oC (1,832oF). At this temperature the glass spreads out and becomes a layer that is about 6 millimeter (1/4 inch) thick. If the layer is stretched as it cools, a thickness of 2 millimeter (0.08 inch) can be achieved. The glass is allowed to advance on the hot liquid tin until, at 600oC (1,112oF), it becomes solid enough to be lifted off the molten tin surface. It is then annealed (heated to relieve any strain) before being cut into desired sheet lengths. The float glass method rapidly replaced the Foucault drawing process, and today it is the standard method for making flat glass. A large modern float glass plant can produce 5,000 tons of glass sheet per week, and it can be operated 24 hours a day, 365 days a year, for several years before serious repairs are apt to be needed. Float glass has uniform thickness and bright fire-polished surfaces that need no grinding or polishing., , The drawing of glass fibers had long been of interest, but glass fibers found little use until the twentieth century. Articles such as wedding gowns made from glass fiber cloth were largely curiosities, made for show rather than use. In the 1930s glass researchers learned to feed molten glass into platinum bushings having hundreds of tiny holes. Fine glass filaments of 10 to 50 microns were rapidly drawn downward and assembled as bundles or strands of glass fiber. Today a major use of glass cloth or filaments is to strengthen the plastics used to make fiberglass-reinforced composites. These composites are widely used in making boats, from canoes to yachts, and bodies for cars, such as the Corvette., An even larger poundage market is that of glass wool insulation. In a process much like that used to make cotton candy, fine glass fibers are spun, sprayed with an organic bonding agent, and then heat-cured and cut into mats of various sizes, to be used for insulating buildings and appliances., Surely the most significant glass fiber development in recent times is fiber optics, or optical wave guides. These ultrapure, very fine glass fibers are a most crucial part of modern communications technology, wherein glass fibers link telephones, televisions, and computers. A single strand of glass optical fiber that has a protective plastic coating looks much like a human hair. The glass fiber has an inner core of ultrapure fused silica, which is coated with another silica glass that acts as a light-refractive barrier. Lasers are used to convert sound waves and electrical impulses to pulses of light that are sent, static-free, through the inner glass core. Glass fibers can transmit many times more information than can be carried by charges moving in a copper wire. In fact, one pound of glass optical wave guides can transmit as much information as can be transmitted via 200 tons of copper wire. Today millions of miles of optic fibers are crisscrossing not only the United States, but also the entire planet., Windows need to be cleaned. In 2000 a new glass that largely cleans itself when it comes into contact with rain was introduced. This low-maintenance glass was developed by Pilkington Glass Works, the company that invented the float process. It is made by depositing a microscopically thin coating of titanium dioxide (TiO2) on hot sheet glass during its manufacture in the float process. As dirt collects on the window, the Sun's ultraviolet rays promote a catalytic reaction at the glass surface that breaks down and loosens surface dirt., see also Ceramics; Gemstones; Minerals., Kenneth E. Kolb , Brooks, John A. (1973). Glass. New York: Golden Press., Douglas, R. W., and Susan Frank (1972). A History of Glassmaking. Oxfordshire, England: G. T. Foulis &amp; Co., Kampfer, Fritz, and Beyer, Klaus G. (1966). Glass: A World History. London: Studio Vista., Kolb, Kenneth E., and Kolb, Doris K. (1988). Glass: Its Many Facets. Hillside, NJ: Enslow., Phillips, Phoebe (1981). The Encyclopedia of Glass. New York: Crown Publishers., Rogers, Frances, and Beard, Alice (1948). 5000 Years of Glass. New York: Lippincott., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Glass."
+
+Chemistry: Foundations and Applications.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Glass." 
+Chemistry: Foundations and Applications.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/glass
+, 
+"Glass." 
+Chemistry: Foundations and Applications.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/glass
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Although a glass is a substance that is non-crystalline, it is almost completely undeformable and therefore brittle. A glass exists in a state of matter termed a vitreous state. Vitreous substances, when heated, will transform slowly through stages of decreasing viscosity. As a sample of glass is heated, it becomes increasingly deformable, eventually reaching a point where it resembles a very viscous liquid. Ice , on the other hand, does not go through these changes as it is heated., Excepting sublimation (direct solid to gas transformations) most substances change directly from a solid to a liquid. Ice, therefore, is not a vitreous substance. Glasses are only very slightly deformable. Glasses tend to bend and elongate under their own weight, especially when formed into rods, plates, or sheets. Glasses can be either organic or inorganic materials., Because solidification is the act of crystallization, the depiction of glass as a non-crystalline solid may not be entirely correct. However, true crystallization occurs when the molecules of a substance arrange themselves in a systematic, periodic fashion. The atoms or molecules of glass do not exhibit this periodicity; this is consistent with the depiction of glass as an extremely viscous, or "supercooled"' liquid., , Glass is often referred to as an amorphous solid. An amorphous solid has a definite shape without the geometric regularity of crystalline solids. Glass can be molded into any shape. If glass is shattered, the resulting pieces are irregularly shaped. A crystalline solid would exhibit regular geometrical shapes when shattered. Amorphous solids tend to hold their shape, but they also tend to flow very slowly. If left undisturbed for a long period of time, a glass will very slowly crystallize. Once it crystallizes, it is no longer considered to be glass. At this point, it has devitrified. This crystallization process is extremely slow and in many cases may never occur., The chemical make-up of standard window glass, which will be described in greater detail below, is quite similar to the mineral quartz . An x-ray crystallographic picture of quartz would show atoms arranged in an orderly, periodic sequence. X-ray crystallography studies of glass show no such arrangement. The atoms in glass are disordered and show no periodic structure. This irregular arrangement of atoms not only defines a substance as glass, but also determines several of its properties., The bonds between the molecules or ions in a glass are of varying length, which is why they show no symmetry or periodic structure. Because the bonds are not symmetrical, glass is isotropic and has no definite melting point. The melting of glass instead takes place over a wide temperature range. Changing the state of a substance with asymmetric bonds requires more energy than a crystalline structure would. The tendency of glass to devitrify is a result of the atoms moving from a higher to a lower energy state., , The most common glasses are silicon based. Most glasses are 75% silicate. These glasses are based on the SiO2molecule. This molecule creates an asymmetric, aperiodic structure. Some of the oxygen atoms are not bridged together, creating ions that need to be neutralized by metal cations. These metal cations are randomly scattered throughout the glass structure, adding to the asymmetry. The oxides of elements other than silicon can also form glasses. These other oxides include Al2O3, B2O3, P2O5, and As2O5., The production of glasses is a complicated process. In general, certain molten materials are cooled in a specific manner so that no crystallization occurs, i.e., they remain amorphous. There are four basic materials that are used in glass production. These materials are the glass-forming substances, fluxes, stabilizers, and secondary components., A glass-forming substance is any mineral that remains vitreous when cooled. Glass-forming substances are usually silica, boric oxide, phosphorous pentoxide, or feldspars. Sometimes aluminum oxide (Al2O3) is used. Silica, as the most commonly used material to make glass, is usually obtained from sand , which is 99.1-99.7% SiO2. Occasionally, natural silica deposits are discovered that are pure enough to use in glass manufacturing, but these deposits are rare and the silica found in them is usually expensive to obtain. Even the lowest quality sands can be purified rather economically. Impurities in the natural silica are important because they can dramatically alter the quality of the glass produced. The most common impurities found in natural silica are iron sesquioxide (Fe2O3), alumina (Al2O3), and calcium compounds. Ferric oxide is sometimes found as an impurity. Even if the amount of ferric oxide in a natural silica sample is only 0.1% of the sample, the glass produced would have a deep yellow-green color and the impurity would have detrimental effects on the thermal and mechanical properties of the glass., Occasionally impurities are added to the glass-forming substances to give the glass certain qualities such as transparency, fusibility, or stability. Stabilizers also are used to give the finished product particular characteristics. For example, calcium carbonate can be added as a stabilizer that will make the glass produced insoluble in water . Lead oxide added as a stabilizer gives the glass extreme transparency, brightness, and a high refractive index. Lead oxide also makes glass easier to cut. Zinc oxide can be added to glass to make it more resistant to changes in temperature as well as to increase its refractive index (a measure of the ability to bend light). Aluminum oxide can also be added as a stabilizer to increase the physical strength of the glass. Secondary components are added to determine some of the final properties of the glass and to correct any defects in the glass. The secondary components can be classified as decolorants, opacifiers, colorants, or refiners., The production of glass includes many steps that can be generalized as follows. First, the fluxes, glass-forming substances, and stabilizers are crushed and milled, then blended and mixed together. They are then re-milled and granulated. At this point, the secondary components are added, if needed. The granules are then fused, refined, homogenized, and corrected, using more secondary components if necessary. Finally, the glass is formed and finished., The final product is one of many hundreds of different types of glass. One popular type of glass, especially in laboratory settings or for use in the kitchen, is borosilicate glass. Some well-known borosilicate glasses are Jena, Pyrex, Durax, and Thermoglass. These glasses contain 12% or more B2O3. The addition of the boron oxide increases the softening temperature of the glass, making it more resistant to high temperatures such as those experienced while cooking or while performing laboratory experiments. Borosilicate glasses are also used in the production of thermometers, television tubes, and other objects that need to have constant dimensions or a high softening point., See also  Chemical bonds and physical properties, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Glass."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Glass." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/glass
+, 
+"Glass." 
+World of Earth Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/glass
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, glass, hard substance, usually brittle and transparent, composed chiefly of silicates and an alkali fused at high temperature.
+  Composition and Properties of GlassMost glass is a mixture of silica obtained from beds of fine sand or from pulverized sandstone; an alkali to lower the melting point, usually a form of soda or, for finer glass, potash; lime as a stabilizer; and cullet (waste glass) to assist in melting the mixture. The properties of glass are varied by adding other substances, commonly in the form of oxides, e.g., lead, for brilliance and weight; boron, for thermal and electrical resistance; barium, to increase the refractive index, as in optical glass; cerium, to absorb infrared rays; metallic oxides, to impart color; and manganese, for decolorizing. The term
+"crystal glass,"
+derived from rock crystal, was at first applied to clear, highly refractive glass; it has come to denote in the trade a high-grade, colorless glass and is sometimes applied to any fine hand-blown glass.
+  The Process of GlassmakingThe processes of glassmaking have remained essentially the same since ancient times. The materials are fused at high temperatures in seasoned fireclay containers, boiled down, skimmed, and cooled several hundred degrees; then the molten glass (called metal) is ladled or poured into molds and pressed, or is blown (sometimes into molds), or is drawn. The shaped glass is annealed to relieve stresses caused by manipulation, then is slowly cooled. The glass, formerly annealed on shelves in a melting furnace, is now usually carried on rollers through annealing ovens (lehrs).Although today most hollow vessels such as light bulbs or containers are machine blown, fine ornamental hollow ware is still made by gathering a mass of glass at the end of a long, iron blowpipe, blowing it into a pear-shaped bulb, which is rolled on an oiled slab (marver), shaped with tools, and then reblown, often into a mold; the glass is reheated periodically in a small furnace (glory hole). It is finally transferred to an iron rod (punty) attached to the base of the vessel, and the lip is shaped and smoothed. Methods of decoration include cutting, copper-wheel engraving, etching with hydrofluoric acid, enameling, gilding, and painting.
+  Development of the Glass IndustryHumans have used glass since prehistoric times, at first fashioning small objects from natural glass such as obsidian, a volcanic glass, or from rock crystal, a colorless, transparent quartz whose brilliance and clarity are emulated in manufactured glass.Ancient GlassmakingThe place and date of origin of manufactured glass are not known. The oldest known specimens of glass are from Egypt (c.2000 BC), where the industry was well established c.1500 BC Many varieties of glass were known during Roman times, including cameo glass, such as the Portland vase, and millefiore glass, produced from fused and molded bundles of thin glass rods of many colors. Glass was also used for window panes, mirrors, prisms, and magnifying glasses. Except for the work done in Constantinople, little is now known of the methods of glassmaking used in Europe from the fall of Rome until the 10th cent., when stained glass came into use.Early European GlassmakingVenice was the leader in making fine glassware for almost four centuries after the Crusades and attempted to monopolize the industry by strict control at Murano of glassworkers, who were severely penalized for betraying the secrets of the art. After the invention (c.1688) of a process for casting glass, France was for many years supreme in the manufacture of plate glass such as that used to line the Galerie des Glaces at Versailles. Late in the 17th cent. England began to make flint glass, whose lead oxide content imparted a brilliance and softness that made it suitable for cut glass.Glassmaking in Colonial AmericaThe first glass factory in America was built in 1608, and glass was carried in the first cargo exported to England. Although other glasshouses were operated in the colonies, especially in New Amsterdam, the first successful and enduring large-scale glasshouse was set up by the German-born manufacturer Caspar Wistar in New Jersey in 1739. Some of the finest colonial glassware was produced in the Pennsylvania glasshouses of the German-born manufacturer H. W. Stiegel.Beginnings of the Modern EraThe invention of a glass-pressing machine (c.1827), used by the American manufacturer Deming Jarves in his Boston and Sandwich Glass Company (1825–88), permitted the manufacturing of inexpensive and mass-produced glass articles. Nevertheless, in the 19th and 20th cent., there has remained a sense of pride in individual craftsmanship. The American artist Louis C. Tiffany was responsible for the design and manufacture of an extraordinary iridescent glass used in a variety of objects in the late 1800s. Exceptionally fine blown glassware has been designed by such artists as René Lalique and Maurice Marinot in France, Edvard Hald and Simon Gate in Sweden, as well as Sidney Waugh in the United States.Contemporary Applications of GlassGlass has become invaluable in modern architecture, illumination, electrical transmission, instruments for scientific research, optical instruments, household utensils, and even fabrics. New forms of glass, new applications, and new methods of production have revolutionized the industry. Recently developed forms of glass include safety glass, which is usually constructed of two pieces of plate glass bonded together with a plastic that prevents the glass from scattering when broken; fiberglass, which is made from molten glass formed into continuous filaments and used for fabrics or for electrical insulation; and foam glass, which is made by trapping gas bubbles in glass to yield a spongy material for insulating purposes. Certain uses of glass are now being superseded by newly developed plastics.See also window.Bibliography, See G. O. Jones, Glass (2d ed. 1971); L. D. Pyle et al., Introduction to Glass Science (1972); R. H. Doremus, Glass Science (1973); I. Fanderlik, Optical Properties of Glass (1983); P. Bansal, Handbook of Glass Properties (1986)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"glass."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"glass." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/glass
+, 
+"glass." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/glass
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Glass is a product of inorganic materials that solidified, but did not crystallize. Glass is mainly composed of silicon dioxide (SiO2), and is extremely prevalent in everyday life. Often, windows are the most fragile elements of a building or a vehicle, and are thus broken by thieves or criminals in order to penetrate the premises or the vehicle. When glass breaks at the scene of a crime, small particles of glass are projected not only forward, but also backward, onto the perpetrator and into the immediate environment. These particles can later be retrieved and used to establish a link between a suspect and a crime scene., Glass can be classified either by chemical composition or by use. There are four main chemical compositions of glass: soda-lime, lead, borosilicate, and special glass. While glass is mainly composed of silicon dioxide (SiO2), it also contains modifiers that are used to vary the quality and properties of the glass. Soda-lime glass is obtained by adding a certain amount of soda (Na2CO3) and lime (CaO). It is this glass that constitutes most windows and bottles. Borosilicate glass is made by the addition of boron oxide and is much more resistant to heat. Different colors of glass are achieved by introducing small amounts of additives. For example, chromium (Cr) is used to give a green tint, cobalt (Co) for a blue tint., Almost all types of glass are commercially available. Window glass is probably the most common type of glass, and is usually found as a flat, transparent piece composed of soda-lime glass. This type of glass does not resist high temperatures, quick temperature changes, or corrosive substances. Most of flat glass is now prepared using the floating process. This consists of laying the molten glass onto a bath of molten tin in an inert atmosphere in order to achieve a perfectly flat surface. Tempered glass is another type of glass that is much stronger than regular glass. This particular strength is achieved by introducing extra forces on both sides of the glass through rapid cooling and heating during the manufacturing process. This glass will shatter in very small pieces when it breaks. It is used on side and rear windows of cars. Laminated glass is a glass composed of multiple sheets of glass bonded together with a plastic film such as polyvinyl butyral., When a criminal breaks glass during a criminal act, some small particles are projected onto his/her clothing, hair, or shoes. If the suspect is apprehended within a relatively short time span after the crime, these small particles of glass can be found on the hair, clothing, shoes, or inside pockets. At the crime scene, the crime scene investigator usually collects some of the broken glass as evidence for further comparison with any glass fragments found on a suspect. The comparison process might lead to the exclusion of a common origin between the glass from the suspect and the glass from the crime scene. Conversely, it might also show that the characteristics are similar and the two samples cannot be differentiated, thus supporting the hypothesis that the two samples of glass come from the same origin. It is important to apprehend the suspect shortly after the glass was broken, because the number of glass fragments on the clothing or shoes of the suspects diminishes very quickly after the activity. About 90% of glass fragments are shed from clothing within 24 hours., Glass is characterized according to its physical and chemical characteristics. When investigating glass, the first examination is visual. The investigator observes its color, its thickness (if the fragments are big enough), its patterns, and its fluorescing (light-emitting)
+properties. Pieces of the glass can often be reassembled, revealing patterns that can be compared to crime scene samples. Demonstration of origin by assembly is the only way the common origin between two fragments of glass can be clearly established. The refractive index of the glass fragments is then measured. This is typically achieved by immersion of the fragment in oil and observing the lines of refraction at different temperatures. Finally, elemental composition of the glass is determined., The interpretation of glass is complicated by the fact that the characteristics exhibited by a large piece of glass (such as a window) might vary from one end to the other. Thus, the analyst needs to determine the extent of the intravariability (variations of characteristics within a same sample) before it can be compared to a different sample. If the variation exhibited between the two samples is greater than the variation exhibited within one sample, then the two samples can be excluded as having a common origin. On the contrary, if the two samples cannot be differentiated, then this supports the hypothesis that they have a common source. However, it does not indicate that they have the exact same common source. Again, the characteristics exhibited by the samples might be very common and found in many other pieces of glass. Thus, the analyst usually expresses his/her findings using statistics., see also Criminalistics; Minerals; Monochromatic light., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Glass."
+
+World of Forensic Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Glass." 
+World of Forensic Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/glass-0
+, 
+"Glass." 
+World of Forensic Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/glass-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , Bibliography,  H. Blaser (1980); Button &amp; and Pye (1993); Hix (1996); Kohlmaier &amp; and von Sartory (1986); Koppelkamm (1981); Korn (1967); McGrath &amp; and Frost (1937); W. Papworth (1997); Schild (1983); Sturgis et al. (1901–2); Wigginton (1996), 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"glass."
+
+ A Dictionary of Architecture and Landscape Architecture.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"glass." 
+A Dictionary of Architecture and Landscape Architecture.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/glass
+, 
+"glass." 
+A Dictionary of Architecture and Landscape Architecture.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/glass
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Glass is a hard, brittle substance that is usually transparent or translucent. It is made by melting together sand (silicon dioxide), soda (sodium carbonate), limestone (calcium carbonate), and other ingredients. The simplest form of glass (containing only sand, soda, and lime) is known today as plate or window glass., Scholars believe that the first humans to make glass may have been Phoenician sailors living around 5000 b.c. Examples of glass used for, weapons, ornaments, and money from Egypt and Mesopotamia—dating to about 1550 b.c.—still survive., Humans may well have learned about glass-making by witnessing the natural formation of glass by lightning bolts. When lightning strikes areas where sand, soda, and limestone occur naturally, it can fuse these materials to produce a natural form of glass known as obsidian., The history of glass-making is a long and fascinating one. Artisans in many parts of the world discovered ways to make colored glass and glass with many special properties. Today, a very large variety of glassy materials exists with many different properties and many applications., Colored glass is made by adding metallic compounds to the basic sand/soda/lime mixture. For instance, red glass is made by adding certain copper oxides or finely divided gold; yellow glass with compounds of uranium and iron; green glass with certain copper oxides or compounds of uranium and iron; blue with copper oxide, cobalt oxide, or finely divided gold; purple with certain manganese oxides and finely divided gold; milky white with calcium fluoride; and opaque with tin oxide., Originally, glass was used primarily for decorative objects such as beads, ornaments, and stained glass windows. Eventually, though, artisans and chemists found that the properties of glass could be changed dramatically by adding various substances to the basic sand/soda/lime mixture. Those properties also could be altered by changing the way glass is cooled, or annealed., For example, plate glass is made first by melting together the basic components—sand, soda, and lime. The liquid mixture is then maintained at its melting point for a long period of time, at least three days. Next, the mixture is allowed to cool down very slowly to room temperature. This process assures that strains within the glass are relieved, making the final product less brittle. Tempered glass is cooled even more slowly, giving it very high strength., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Glass."
+
+UXL Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Glass." 
+UXL Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/glass-3
+, 
+"Glass." 
+UXL Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/glass-3
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+glass 
+/ glas/
+•
+n.
+1.
+a hard, brittle substance, typically transparent or translucent, made by fusing sand with soda, lime, and sometimes other ingredients and cooling rapidly. It is used to make windows, drinking containers, and other articles:
+a piece of glass |
+[as  adj.]
+a glass door. 
+ ∎ 
+any similar substance that has solidified from a molten state without crystallizing.
+
+2.
+a thing made from, or partly from, glass, in particular:
+ ∎ 
+a container to drink from:
+a beer glass.
+ ∎ 
+glassware.
+ ∎ 
+greenhouses or cold frames considered collectively.
+ ∎ chiefly Brit. 
+a mirror.
+ ∎ archaic 
+an hourglass.
+
+
+3.
+a lens, or an optical instrument containing a lens or lenses, in particular a monocle or a magnifying lens.
+
+4.
+the liquid or amount of liquid contained in a glass; a glassful:
+a glass of lemonade
+I'll have another glass, please.
+
+
+•
+v. [tr.]
+1.
+cover or enclose with glass:
+the inn has a long balcony, now glassed in.
+2.
+(esp. in hunting) scan (one's surroundings) with binoculars:
+the first day was spent glassing the rolling hills.
+
+3. poetic/lit. 
+reflect in or as if in a mirror:
+the opposite slopes glassed themselves in the deep dark water.
+
+
+DERIVATIVES: 
+glass·ful
+/ -ˌfoŏl/ n.
+(pl.  -fuls.) 
+glass·less
+adj.
+glass·like
+/ -ˌlīk/ adj.
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"glass."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"glass." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/glass-1
+, 
+"glass." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/glass-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"glass."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"glass." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/glass
+, 
+"glass." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/glass
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+ 
+, 
+"glass."
+
+The Oxford Dictionary of Phrase and Fable.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"glass." 
+The Oxford Dictionary of Phrase and Fable.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/glass
+, 
+"glass." 
+The Oxford Dictionary of Phrase and Fable.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/glass
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"glass."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"glass." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/glass
+, 
+"glass." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/glass
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"glass."
+
+The Concise Oxford Dictionary of English Etymology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"glass." 
+The Concise Oxford Dictionary of English Etymology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/glass-3
+, 
+"glass." 
+The Concise Oxford Dictionary of English Etymology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/glass-3
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"glass."
+
+Oxford Dictionary of Rhymes.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"glass." 
+Oxford Dictionary of Rhymes.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/glass-0
+, 
+"glass." 
+Oxford Dictionary of Rhymes.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/glass-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The earliest manufacture of glass does not antedate the late third millennium b.c.e., when the first glass beads were made in Mesopotamia and Egypt. The invention of glass vessel-making dates to the mid-second millennium b.c.e., when the first core-formed glass vessels appear almost simultaneously in Egypt and Mesopotamia. Egypt's glass industry was particularly flourishing in the el-Amarna period (the first half of the 14th century b.c.e.). Some Mesopotamian glass vessels have been found in northern Syria, though none in Palestine, but several Palestinian sites have yielded Egyptian glass vessels of the 14th–13th centuries b.c.e. A rich collection of such vessels was found in the small Canaanite Fosse Temple at Lachish; others were found at Beth Shean and Tell Dayr ʿAllā (the ancient Sukkoth). Egyptian glass vessels were also found in tombs at Tell al-ʿAjūl, Beth Shemesh, and Ẓahrat al-Ḥumrāya south of Jaffa. Gezer and Megiddo yielded similar glass vessels. There is no positive evidence that there was any manufacture of glass vessels in Canaan in the Late Bronze Age. A complete decline in glassmaking set in toward the end of the second millennium b.c.e. and it is only in the second half of the eighth and the seventh centuries b.c.e. that glass vessels appear again. None of the molded and cut luxury glass bowls and other colored vessels of that period has come to light in Palestine, but a core-formed vessel of the seventh century was found in a tomb at Achzib. Glass-inlay pieces of the late ninth and eighth centuries were found together with the ivories in the palace of the kings of Israel at Samaria, but whether they were made of Syrian or imported glass is not known. An active production center of core-formed glass vessels, probably on the island of Rhodes, began making small amphoriskoi, aryballoses (short-necked flasks), alabastra, and juglets late in the seventh century b.c.e., and specimens have been found in an early sixth-century tomb at Gibeah, north of Jerusalem, and in Ammonite tombs in Jordan. Other vessels of this type have been found in Israel at Athlit, Achzib, Hazor, Beth Shean, and En Gedi. Molded and cut luxury glass vessels continued to be made in the Achaemenid period (sixth to fourth centuries) and the remains of an alabastrum of this type were found in a tomb at Athlit. Core-formed glass vessels of the Hellenistic period have occasionally been found in Palestine. The fragments of molded bowls found in second- and first-century b.c.e. levels at Ashdod, Jerusalem, Samaria, and other sites, may be products of local glass factories, possibly situated somewhere along the coast. There is, however, no indication whatsoever that Jews had any connection with glassmaking during the Hellenistic period, either in Palestine or in the Diaspora., Glass is mentioned only once in the Bible, in Job 28:17, where it is equated with gold. This reflects the early situation when glass was of great value. The obscure statement in Deuteronomy 32:18–19 about Zebulun's hidden treasures in the sand was explained by Targum Jonathan as referring to glass, but this seems anachronistic. The Septuagint followed a very different line when it chose to render this passage as close as possible to Genesis 49:13. This probably indicates that when the Greek version of the Bible was prepared, this area had not had the obvious connection with glass that it had later on. A very early tradition seems to be preserved in the Palestinian Talmud (tj, Pes. 1:6, 27b) and in the Babylonian Talmud (Shab. 14b, 15a), according to which Yose b. Joezer and Yose b. Johanan, who lived in the first half of the second century b.c.e., declared that glass vessels are liable to become impure. The U.S. talmudist Louis Ginzberg suggested that this declaration had an economic basis – it was meant to protect local pottery and metal ware from competition with foreign glass imports. Glass was, however, rare and valuable all through the Hellenistic period, and could not have presented competition to any local products. An explanation must therefore be sought in the cultural-religious sphere. The edict is contemporary with the first large-scale production of glass drinking bowls, and the two Jewish authorities may have objected to them because they identified them with Hellenistic influence, manners, and customs., , A revolutionary event was the invention of glassblowing toward the end of the first century b.c.e., which made it possible to produce glass vessels cheaply and in great variety. The invention seems to have taken place during the reign of Augustus (31 b.c.e.–14 c.e.) somewhere along the Phoenician coast, perhaps at Sidon, an area where a glass production center was apparently already in existence. The fame of Sidonian glass must have been considerable, since glassmakers working in Rome in the first century c.e. boasted of their Sidonian origin when they stamped the handles of their canthari in Greek or Latin, as, for example, Artas Sidon., Several Jewish tombs of the first and second centuries c.e. have yielded glass vessels. Glass vessels are relatively rare in ossuary tombs around Jerusalem, which are no later than 70 c.e. A tomb excavated at Ramat Raḥel in 1931 (Tomb i) contained a small bottle with a spheric body and a short cylindrical neck. Several tombs in a cemetery on the Mount of Olives yielded simple, small glass bottles with pearshaped bodies and elongated necks. All these glass vessels are typical of the first-century vessels common throughout the Roman Empire. A Jewish tomb of the middle of the first century at Carthage yielded a shallow glass bowl of a shape very common in the early imperial period. So-called "candlestick" bottles which have small convex bodies and long tubular necks were found in a few ossuary tombs in and around Jerusalem which can be dated to the second century. To the relatively limited testimony from Jewish tombs were added in 1960–61 the finds from the Judean desert caves in which fugitives of the Bar Kokhba revolt took refuge. The finds included typical glass vessels of the early part of the second century c.e. It appears, then, that the only Jewish glass vessels of this period were the normal ware of the day. It stands to reason that some of the vessels, perhaps even many of them, were made by Jews but this is no more than a logical assumption. The Mishnah includes passages which refer specifically to glass-making. Kelim 8:9 mentions עוֹשֵׂי זְכוּכִית – those who make glass (the "metal") – and זַגָּגִין – those who make glass vessels and their furnaces. Makers of glass vessels are also mentioned in Kelim 24:8. The Mishnah would not have included regulations about these trades if they had not been part and parcel of the daily life in Palestine, at any rate in the second century c.e. and possibly earlier. This, then, proves the existence of Jewish glassmakers in this period., The first group of glass vessels which is distinctly Jewish by reason of its decoration is the famous gold glass with Jewish symbols. The term is used to describe decorations of thin gold foil encased between two layers of glass medallion; and must not be confused with gilding, where the gold is left uncovered. The commonest type of gold glasses are those which were used, in the third and the fourth centuries c.e., as a decorated base of very shallow plates, bowls, or beakers. The thinly hammered gold foil was pasted on a round piece of clear or dark blue glass, within the boundaries of a low raised glass base. The outlines and the designs of the desired pictures, patterns, and inscriptions were prepared by removing the superfluous gold from the background, and leaving the designs in gold. Enamel paints were used at times to enrich the decoration. In the final stage the decorated base was reheated and joined to the outer surface of a large, hot, clear glass "bubble" which was later given the shape of the required bowl. A similar method was used to decorate the body of a vessel by smaller medallions of gold foil on blue glass. This technique was not exclusively Jewish. In the third and fourth centuries c.e. this particular craft flourished on an unprecedented scale. The center of the industry was Rome, and most of the pieces were found in pagan, Christian, or Jewish catacombs in and around the city. The vessels were broken deliberately, often skillfully chiseled around the edges, and stuck into the plaster near or on the graves of the deceased. The reasons for this custom have not yet been convincingly explained. Of the 500 bases and decorative medallions that have survived, only about a dozen bear definitely Jewish symbols. The earliest was found in 1882 in the catacomb of the saints Peter and Marcellinus (now in the Vatican Museum) and another around 1894 in the catacomb of Saint Ermete. A gold glass now in Berlin is said to have been found in the Jewish catacomb of Vigna Randanini in Rome and another which is now in the Cologne City Museum is said to have come from the Villa Torlonia catacomb. Other Jewish gold glass pieces are now in the Vatican and in the British, the Ashmolean, the Metropolitan, the Wuerzburg University, and the Israel museums. Most of the Jewish gold glass bases have their decorations presented in two registers. These include representations of the Ark of the Covenant flanked by a pair of lions or doves, temple vessels like menorot, amphorae, and shofarot, and objects relating to Sukkot, the Feast of the Temple, such as lulavim, etrogim, and motifs found in other Jewish objects and catacombs of the period. Of a different type is the Vatican fragment found in 1882. This bears a miniature painting of a tetrastyle temple inside a peristyle court surrounded by palm trees. The temple is approached by four steps and on the tympanum of the gable is a menorah. In front of the temple are a lulav, an etrog, two amphorae, and other objects. The temple is flanked by two free-standing columns. Most scholars seem to agree that this is a representation of Solomon's Temple, and it can be assumed that it was copied from an early illuminated Bible manuscript. This fragment bears a Greek inscription. Other Jewish gold glasses have inscriptions in Latin, similar to those found on the non-Jewish glasses such as anima dulcis ("sweet soul"). Only one Jewish small gold glass medallion is known. This shows a shofar between two etrogim. It is now in the Vatican Library. These Jewish gold glasses are generally thought to have been drinking vessels, perhaps for ritual purposes. The fragment with Solomon's Temple may tentatively be attributed to the third or early fourth century c.e.; the rest are more likely to be of the fourth century. Their decoration has numerous parallels in Jewish art. It is possible to assume that they were made by Jews., , In addition to the gold glasses and cut bowls from Rome there are further specimens worth noting: Moshe *Schwabe and Adolf *Reifenberg uncovered and published in 1935 a Jewish gilded glass sepulchral inscription in Greek ending with Shalom in Hebrew, with a menorah below the inscription and a shofar on its right. They also published a stamped glass medallion from Rome bearing a menorah and the name of the glassmaker: ex of [ficina] lavrenti., The excavations at the Jewish cemeteries at Beth She'arim have yielded some finds of glass. Several vessels and many fragments were found in catacombs 12–20 and date to the third and first half of the fourth century c.e. These are, with very few exceptions, fragments of various common types of receptacles of the period, mainly bottles, and do not have any characteristics which could identify them as Jewish. An exceptional decorated glass plate was discovered in catacomb 15. With a diameter of 52 cms. (c. 20 ins.), it is unusually large, and engraved on its exterior are 13 arches under which are vessels, tools, doors, and hanging lamps and several unidentified objects. Although this may represent a temple facade, nothing in the designs on the plate is specifically Jewish. The remains of a glass factory were found at Beth She'arim during the excavations in 1940 and were attributed to the first half of the fourth century c.e. and to the Byzantine period. A large slab of glass – 3.40 × 1.94 × 0.45 m. (11 × 6½ × 1½ ft.) – apparently the bottom of a glassmaker's tank, was also discovered in a cistern. This too possibly dates to the Byzantine period. It is therefore reasonable to assume that some of the vessels found in the cemeteries around the site were local products. Several glass vessels, also of contemporary Palestinian types, were found in a Jewish tomb of the late fourth to fifth centuries at Gezer (Tomb 201). Glass lamps having three handles for suspension and cups of the type used for bronze polycandela were in use in Palestinian synagogues of the Byzantine period. Lamps suspended from seven-branched candlesticks are depicted on the mosaic pavement of the synagogue of Naaran (sixth century c.e.). Several other synagogue mosaic pavements have representations of seven-branched candlesticks with glass lamps. A complete glass lamp and many fragments of lamps of various types were found in the Beth-Shean synagogue. They belong to its last phase in the first half of the seventh century and are now in the collection of the Israel Department of Antiquities. Similar fragments of lamps from the late sixth or early seventh centuries were also found in the synagogue of Maon near Nir Am, southeast of Gaza. Exactly the same types of lamp were used in contemporary churches in Palestine and Syria, so the glass finds in such Jewish contexts as the catacombs of Beth She'arim, Gezer (Tomb 201), or the ruins of synagogues do not differ from the normal glassware of their times. Between the late fourth and early seventh centuries there are a few groups of ornamental glass objects such as pendants and bracelets, bearing symbols which identify them as specifically Jewish. In a tomb excavated at Tarshīḥā in western Galilee a small circular pendant of greenish glass with a loop for suspension was found stamped with a menorah. The tomb was in use in the fourth and fifth centuries. The pendant is now in the Rockefeller Museum, Jerusalem (31.286b). The British Museum has a pendant made of light brownish glass, said to be from Tyre, with a menorah, a shofar on the left, and a lulav and etrog on the right. There are similar pendants in the Israel Museum and in the Reifenberg collection. Of unknown provenance is a small greenish glass medallion in the Jewish Museum, New York, representing a menorah in a wreath. It was originally applied to a vessel and dates to the fourth century c.e. An identical piece from Egypt is in the Israel Museum. A fragment of a blue glass bracelet with the menorah stamped on it several times was found in the western part of the Jezreel Valley. It is now in a private collection. A complete bracelet of blue glass with 14 impressions of a menorah and shofar on its right side was acquired in New York in 1965. It is said to be of east Mediterranean provenance. Both the fragment and the complete example are probably of the fourth or fifth century. Another bracelet of very dark green glass with similar impressions but of unknown provenance is in the Museum Haaretz, Tel Aviv., By far the most interesting Jewish glass from Palestine are the mold-blown hexagonal and octagonal small jugs or jars. These were blown into hexagonal or octagonal metal molds which were open top and bottom. The designs which were hammered into the molds appeared on the lower part of the jug, as an impression and not as a relief. Some hexagonal jugs have a long neck and a handle while others have a short neck and outsplayed rim. Nearly all these vessels were made of a bubbly brown glass, but there are a few known examples made of greenish glass. Of many such mostly Christian jugs, only about 30 survived bearing Jewish symbols, such as menorot, often with a shofar on the left, and a lulav and etrog on the right, sometimes with an incense shovel on the right. The other sides are decorated with trees, arches, and other objects or patterns. Similar jugs and jars bearing Christian symbols have identical features, indicating that they were made in the same workshops. They are believed to have been used as containers for oil taken from the lamps of the Church of the Holy Sepulcher to be blessed at Golgotha, and there can be no doubt that they were made in Jerusalem. These are attributed to the late sixth or early seventh century, and by analogy the Jewish vessels can be attributed to the same period. It can be assumed that Jewish pilgrims used the vessels for carrying away oil from lamps at their center of veneration – probably the Western Wall. During the excavations at Ephesus in Asia Minor a bottle was found on which are painted in black a menorah, a shofar, a lulav, and an etrog. Though this seems to be the only known Jewish glass vessel from the eastern Mediterranean area, apart from Palestine and Syria, the existence of Jewish glassmakers in the region in the sixth century c.e. can be deduced from two popular Byzantine fables of that time, one from Emesa (Homs), the other from Constantinople, in both of which the central figure is a Jewish glassmaker., , The fact that Jews were active in glassmaking in medieval times is borne out by references in sources of the period. Arab historians have preserved the interesting information that the Khalif ʿAbd al-Malik (685–705) employed a group of Jews to make the glass lamps and vessels for the Mosque in Jerusalem but that Omar ibn Abd al-Aziz deprived them of this office. Very important data have been preserved in the *Cairo Genizah. A document signed in the spring of 1011 deals with a dispute over the payment for a consignment of 50 "bales of glass" sent by three Jews from Tyre to Cairo. This ties up with a statement made by *Benjamin of Tudela, who visited Palestine in 1170, that at Tyre were "Jews, makers of good glass which is called Tyrian glass and is famous in all countries." Benjamin of Tudela also mentions that at Antioch "are aboutten Jews and they are glassmakers." In an article on the Cairo Genizah published in 1961, S.D. Goitein mentions four contracts of partnership in glass workshops, one of which refers to a Jewish glassmaker who arrived in Cairo "from the west." He appears to have traveled overland from Tunis. Goitein believes that Jews were connected with the issue of the well-known Islamic glass weights. However, no actual survivals of Jewish glass manufactured in this period are known., It has been suggested that Jews were connected with the age-old glass works at Hebron. The first to mention these works seems to have been the Augustine monk, Jacob of Verona, who visited Hebron in 1335; but he made no reference to any Jews there, although production was already on a large scale., [Dan P. Barag], L.A. Mayer assumed that a group of clumsily inscribed Syro-Egyptian glass mosque lamps were executed by "Jewish craftsmen, who were literate, but in a different script." During the Ottoman period, in the 17th century, there was in Damascus a Jewish center for the manufacturing of similar glass lamps. One such lamp in the Jewish Museum in London bears a Hebrew inscription and dates from 1694. Of Middle Eastern 18th-century origin are bottles of opaque glass, which have Hebrew dedicatory inscriptions cut in them. One which belonged to the Charles Feinberg Collection is now in the Israel Museum. Another specimen in the Victoria and Albert Museum in London has a metal top and decorative chains. These were probably used as oil or wine containers., The art of glassmaking was reintroduced into Europe during the period of the Crusades. Numbers of Eastern glassmakers settled in northern Italy, Spain, and southern France. Jewish craftsmen may have been among them; though it cannot be proven., There were, however, Jewish glassmakers in Central and Eastern Europe after the 15th century. There are also records of Jewish glaziers and glassmakers in Bohemia and Moravia from the 15th century onward, and the craft was frequently practiced by Bohemian Jews in the latter half of the 16th century., From glass vessels and from contracts between Jewish glassmakers and the aristocracy it is clear, for instance, that the Jews took an active part in the flowering of glassmaking in Hungary in the 17th and 18th centuries., Ḥevra Kaddisha Beakers. In the 17th and 18th centuries Hungarian and Bohemian Jews apparently participated in the general practice of manufacturing decorated jugs or beakers for special occasions. Among them were prominent beakers used by members of a guild or a fraternity at their annual banquets and given each year by the men chosen head of the guild. Interesting are some painted and cut-glass beakers which were executed for the Jewish Burial Society, the *ḥevra kaddisha, in some German and Bohemian communities. Several such beakers survived, mostly in the Jewish Museum in Prague. Their most common decoration is the burial procession. One such beaker dated 1692 is now in the New York Jewish Museum., In modern times too Jews were prominent in the marketing and industrial production of Czechoslovakian glass, centered in Bohemia. In the period between the world wars there were many Jewish firms which produced sheet glass, plate glass, and mirrors, as well as glass pastes for artificial jewelry. When Hitler occupied Czechoslovakia some of the leading Jewish producers of artificial gems and costume jewelry moved their firms to the United States., In the late 18th and 19th centuries Lazarus Jacobs (d. 1796) of Bristol and his son Isaac (d. 1833) were important glass manufacturers and merchants, the latter holding a royal appointment as glass manufacturers to George iii. They were especially celebrated for their opaque white, and the elegant royal blue glassware for which Bristol was famous. Another eminent Jewish glassmaker was Meyer Oppenheim, who came from Pressburg in Hungary. He invented a ruby flint glass which he produced in Birmingham from 1756 to 1775. A number of Jews were associated with the glass industry in Birmingham, where the lead glass used for artificial gems was known as "Jew's glass" in the middle of the 19th century., The earliest known American glass cutter was a Jew named Lazarus Isaacs who arrived from England in 1773. He was employed by Stiegel at his factory at Manheim, Pennsylvania, where the first fine glassware in America was produced. Jews do not reappear in American glassmaking until the late 19th century, when Lazarus Straus and Sons of New York was a leading producer of high quality cut glass in the United States and Europe (see *Straus family)., On their return to Ereẓ Israel, the Jews revived the glass industry on the Phoenician coast, where it existed in ancient times. In the late 19th century, the Baron de *Rothschild set up a glass factory at Tantura near the site of the Phoenician harbor of Dor to provide bottles for the nascent wine industry, and in 1934 Phoenicia, the Israel Glass Works, was founded in the Haifa Bay Area. Under the patronage of Baroness Bathsheva de Rothschild, a new style of art glass was evolved in the early 1960s, based on forms of the talmudic period., From the end of the 19th century a school of primitive glass paintings developed in Safed, Jerusalem, and other centers. One of its later offsprings is the painter Shalom of Safed. Their subjects were *holy places, *Mizraḥ panels, amulets, and biblical topics., Mayer, Art, index, s.v.glass, glass blowing, glass bottle, glass cutters, glass makers, gold glasses; Goodenough, 1 (1953), 168–77; 2 (1953), 108–119, 218; Krauss, Tal Arch, 2 (1911), 285–8; A.B. Engle, in: Miscelanea de Estúdios Arabes y Hebráicos (1969), 15–16; E.H. Bryrne, in: jaos, 38 (1918), 176–87; C.J. Lamm, Mittelalterliche Glaeser und Steinschnitt-Arbeiten aus dem Nahen Osten, 1 (1930), 522–44 (a general bibliography); J.C. Pick, in: The Jews of Czechoslovakia, 1 (1968), 379–400; Roth, Art, 242–3, 355., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Glass."
+
+Encyclopaedia Judaica.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Glass." 
+Encyclopaedia Judaica.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/glass
+, 
+"Glass." 
+Encyclopaedia Judaica.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/glass
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, A normally complacent man is driven to the brink of savagery when a killer begins stalking his employees. 92m/C VHS . Alan Lovell, Lisa Peers, Adam Stone, Natalie McCurry; D: Chris Kennedy; W: Chris Kennedy; C: Peter De Vries; M: Mario Gregorie., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Glass."
+
+VideoHound's Golden Movie Retriever.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Glass." 
+VideoHound's Golden Movie Retriever.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/arts/culture-magazines/glass
+, 
+"Glass." 
+VideoHound's Golden Movie Retriever.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/arts/culture-magazines/glass
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Resources, Glass is a brittle, inorganic solid, composed mostly of inorganic oxides. The main ingredient of most glasses is silicon dioxide, SiO2,or silica—found in nature as sand. Generally manufactured by heating sand, soda, lime, and other ingredients (and quickly cooling the molten mass), glass is a fundamental component of a variety of products, including tableware, windshields, thermometers, and telescope lenses., Glass is generally considered an amorphous (non-crystalline) solid that is hard, usually transparent, and easily shattered. It is formed mostly of silica (sand) that is fused with such substances as phosphates or borates while at high temperatures. Compared with crystals, the structure of glass is an irregular arrangement of atoms. It is non-crystalline yet almost completely undeformable. This characteristic is called the vitreous state. Vitreous substances, when heated, will transform slowly through stages of decreasing viscosity. As a sample of glass is heated, it becomes more and more deformable, eventually reaching a point where it resembles a very viscous liquid. (Ice, on the other hand, does not go through these changes as it is heated. It changes directly from a solid to a liquid. Ice, therefore, is not a vitreous substance.) Glasses are only very slightly deformable. Glass tends to bend and elongate under their own weight, especially when formed into rods, plates, or sheets. Glass can be either organic or inorganic materials., , Many definitions of glass include the idea that they do not crystallize as they solidify. Since the definition of solidification is the act of crystallization, this idea of glass as a non-crystalline solid may not be entirely correct. Crystallization occurs when the molecules of a substance arrange themselves in a systematic, periodic fashion. The atoms or molecules of glass do not exhibit this periodicity. This has led to the idea of glass as an extremely viscous, or supercooled liquid., Glass is often referred to as an amorphous solid. An amorphous solid has a definite shape without the geometric regularity of crystalline solids. Glass can be molded into any shape. If glass is shattered, the resulting pieces are irregularly shaped. A crystalline solid would exhibit regular geometrical shapes when shattered. Amorphous solids tend to hold their shape, but they also tend to flow very slowly. If left undisturbed for a long period, glass will very slowly crystallize. Once it crystallizes, it is no longer considered glass. At this point, it has devitrified. This crystallization process is extremely slow and in many cases may never occur., The chemical make-up of standard window glass is quite similar to the mineral quartz. An x-ray crys-tallographic picture of quartz would show atoms arranged in an orderly, periodic sequence. X-ray crystallography studies of glass show no such arrangement. However, the atoms in glass are disordered and they show no periodic structure. This irregular arrangement of atoms not only defines a substance as glass, but also determines several of its properties., , The most common glasses are silicon based. Most glasses are 75% silicate. These glasses are based on the SiO2 molecule. This molecule creates an asymmetric, aperiodic structure. Some of the oxygen atoms are not bridged together, creating ions that need to be neutralized by metal cations. These metal cations are randomly scattered throughout the glass structure, adding to the asymmetry. The oxides of elements other than silicon can also form glasses. These other oxides include Al2O3, B2O3, P2O5, and As2O5., The bonds between the molecules or ions in glass are of varying length, which is why they show no symmetry or periodic structure. Because the bonds are not symmetrical, glass is isotropic and has no definite melting point. The melting of glass instead takes place over a wide temperature range. Changing the state of a substance with asymmetric bonds requires more energy than a crystalline structure would need to change its state. The tendency of glass to devitrify is a result of the atoms moving from a higher to a lower energy state., Given its durability and versatility, glass plays an important role in human culture. Glass blowing was first developed around 30 BC. Early people were likely to have discovered natural glass, which is created when lightning strikes sand, and were certain to have used obsidian—a dark volcanic glass—for weapons, ornaments, and money. The first manufactured glass probably took the form either of glass beads or ceramic glaze and appeared from around 4000 to 5000 BC. Surviving examples of Egyptian and Mesopotamian glass objects date to around 1550 BC., For centuries, glass, shaped by the use of molds, remained costly and difficult to produce. The invention of the blowpipe method of glass making (in which molten glass is puffed into shape with the use of a hollow tube) in about 30 BC made glass more commonplace. Typical uses at the time included windows as well as decorative objects., , The first four centuries AD are sometimes referred to as the First Golden Age of glass making, for during this period artisans produced a wide variety of artifacts that are now highly valued. After the decline of the Roman Empire, few developments took place in European glass making until the twelfth and thirteenth centuries, when stained glass windows (formed of pieces of colored glass outlined by lead strips and assembled into a narrative picture) began to appear in English and French churches. During the Crusades, Europeans were exposed to the accomplished glass making of the Near East, an influence evidenced by the growth of the craft in Italy, particularly Venice. Beginning around 1300, the Venetians ushered in the Second Golden Age of glass making; they became widely known for a particularly transparent, crystalline glass that was worked into a number of delicate objects., In the late 1400s and 1500s the Germans and other northern Europeans were producing containers and drinking vessels that differed markedly in their utilitarian value from those produced by the Venetians. Nonetheless, Venetian glass was immensely popular during the reign of Queen Elizabeth I (1558–1603). In 1674, George Ravenscroft (1618–1681) brought fame to English glass making when he invented lead glass (now usually called lead crystal), an especially brilliant glass he produced accidentally when he added lead oxide to his mixture instead of lime. In colonial America, the glass made by this technique became known as flint glass, and was usually etched or cut into facets to lend it additional luster., The first glass plant built in the United States was founded at Jamestown, Virginia, in 1608, but it survived for less than one year. Much later, in 1739, Caspar Wistar (1761–1818) successfully launched the American glass industry with a plant in Salem City, New Jersey. Other prominent figures in early American glass making included Henry William (Baron) Stiegel (1729–1785) and John F. Amelung. The renowned Sandwich glass that is now much coveted by American collectors was made by the Boston and Sandwich Glass Company. The Bakewell Company of Pittsburgh was another famous glass manufacturer of the time., The early 1800s saw a tremendous demand for glass windows, which were a symbol of affluence, particularly in the frontier communities of the United States. Window glass was originally made by spinning out a bubble of blown glass until it became flat; because of the bump, or crown, that was invariably left in its center, this was called crown glass. Around 1825, the cylinder process replaced the earlier method. Now the glass was blown into a cylinder shape that, when cooled, was cut down one side. When reheated, the cylinder flattened out to form a sheet. In 1842, John J. Adams invented a more sophisticated glass-flattening and tempering process that made not only plate glass but mirrors, showcases, and other products more widely available. During the last half of the nineteenth century, glass found wide use in medicinal containers, tableware, and kerosene lamps. Tempered glass (made exceptionally strong through a reheating process) was invented by Francois Royer de la Bastie in 1874, and wire glass (industrial sheet glass with metal mesh laminated into it) by Leon Appert in 1893. In 1895, Michael J. Owens (1859-1923) invented a bottle-making machine that allowed bottled drinks to be produced inexpensively., The great technological advances of the twentieth century broadened the range of ingredients, shapes, uses, and manufacturing processes for glass. Natural gas replaced the wood and coal that had previously been used in the glass making process, and huge operations were established. One of the most common forms of glass now produced is flat glass, used for windows, doors, and furniture. Formed by flattening melted glass between rollers, annealing (heat treating) in an oven called a lehr, then cutting into sheets and grinding and polishing until smooth, this category includes sheet glass and the higher quality plate glass. The best quality of all is achieved in float glass, invented in 1952 by Alistair Pilkington. Float glass is made by floating a ribbon of liquefied glass on top of molten tin so that it forms a perfectly even layer; the result is glass with a brilliant finish that requires no grinding or polishing. In 1980, Pilkington invented kappa float glass, which features a special, energy-efficient glaze that traps thermal heat while allowing solar heat to filter through., Other modern forms of glass include the laminated safety glass used for automobile windows, which is composed of sandwiched layers of plastic and glass; nonreflecting glass (invented by Katherine Burr Blodgett and others); structural glass, used in buildings; heat-resistant cookware such as Pyrex®; and fiberglass., Lefteri, Chris. Glass. Crans-pres-Celigny, Switzerland: RotoVision, 2002., Rao, K.J. Structural Chemistry of Glasses. Amsterdam, Netherlands, and New York: Elsevier, 2002., Sinton, Christopher W. Raw Materials for Glass and Ceramics: Sources, Processes, and Quality Control. Hoboken, NJ: Wiley, 2006., Zerwick, Chloë. A Short History of Glass. New York: Springer-Verlag, 1994., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Glass."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Glass." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/glass-1
+, 
+"Glass." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/glass-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Glass is a brittle, inorganic solid, composed mostly of inorganic oxides. The main ingredient of most glasses is silicon dioxide, SiO2 ,or silica—found in nature as sand . Generally manufactured by heating sand, soda, lime, and other ingredients (and quickly cooling the molten mass ), glass is a fundamental component of a variety of products, including tableware, windshields, thermometers, and telescope lenses. Given its durability and versatility, glass plays an important role in human culture. Glass blowing was first developed around 30 B.C., Early peoples were likely to have discovered natural glass, which is created when lightning strikes sand, and were certain to have used obsidian-a dark volcanic glass-for weapons, ornaments, and money. The first manufactured glass probably took the form either of glass beads or ceramic glaze and appeared around 4000-5000 B.C. Surviving examples of Egyptian and Mesopotamian glass objects date to around 1550 B.C., For centuries, glass, shaped by the use of molds, remained costly and difficult to produce. The invention of the blowpipe method of glass making (in which molten glass is puffed into shape with the use of a hollow tube) in about 30 B.C. made glass more commonplace. Typical uses at the time included windows as well as decorative objects., , The first four centuries after the birth of Christ are sometimes referred to as the First Golden Age of glass making, for during this period artisans produced a wide variety of artifacts that are now highly valued. After the decline of the Roman Empire, few developments took place in European glass making until the twelfth and thirteenth centuries, when stained glass windows (formed of pieces of colored glass outlined by lead strips and assembled into a narrative picture) began to appear in English and French churches. During the Crusades, Europeans were exposed to the accomplished glass making of the Near East, an influence evidenced by the growth of the craft in Italy, particularly Venice. Beginning around 1300, the Venetians ushered in the Second Golden Age of glass making; they became widely known for a particularly transparent, crystalline glass that was worked into a number of delicate objects., In the late 1400s and 1500s the Germans and other northern Europeans were producing containers and drinking vessels that differed markedly in their utilitarian value from those produced by the Venetians. Nonetheless, Venetian glass was immensely popular during the reign of Queen Elizabeth I (1558-1603). In 1674, George Ravenscroft (1618-1681) brought fame to English glass making when he invented lead glass (now usually called lead crystal ), an especially brilliant glass he produced accidentally when he added lead oxide to his mixture instead of lime. In colonial America, the glass made by this technique became known as flint glass, and was usually etched or cut into facets to lend it additional luster., The first glass plant built in the United States was founded at Jamestown, Virginia, in 1608, but it survived for less than a year. Much later, in 1739, Caspar Wistar successfully launched the American glass industry with a plant in Salem City, New Jersey. Other prominent figures in early American glass making included Henry William "Baron" Stiegel (1729-1785) and John F. Amelung. The renowned Sandwich glass that is now much coveted by American collectors was made by the Boston and Sandwich Glass Company; the Bakewell Company of Pittsburgh was another famous glass manufacturer of the time., The early 1800s saw a tremendous demand for glass windows, which were a symbol of affluence, particularly in the frontier communities of America. Window glass was originally made by spinning out a bubble of blown glass until it became flat; because of the bump or "crown" that was invariably left in its center, this was called crown glass. Around 1825, the cylinder process replaced the earlier method. Now the glass was blown into a cylinder shape that, when cooled, was cut down one side; when reheated, the cylinder flattened out to form a sheet. In 1842, John J. Adams invented a more sophisticated glass-flattening and tempering process that made not only plate glass but mirrors , showcases, and other products more widely available. During the last half of the nineteenth century, glass found wide use in medicinal containers, tableware, and kerosene lamps. Tempered glass (made exceptionally strong through a reheating process) was invented by François Royer de la Bastie in 1874, and wire glass (industrial sheet glass with metal mesh laminated into it) by Leon Appert in 1893. In 1895, Michael J. Owens (1859-1923) invented a bottle-making machine that allowed bottled drinks to be produced inexpensively., The great technological advances of the twentieth century broadened the range of ingredients, shapes, uses, and manufacturing processes for glass. Natural gas replaced the wood and coal that had previously been used in the glass making process, and huge operations were established. One of the most common forms of glass now produced is flat glass, used for windows, doors, and furniture. Formed by flattening melted glass between rollers , annealing (heat treating) in an oven called a lehr, then cutting into sheets and grinding and polishing until smooth, this category includes sheet glass and the higher quality plate glass. The best quality of all is achieved in float glass, invented in 1952 by Alistair Pilkington. Float glass is made by floating a ribbon of liquefied glass on top of molten tin so that it forms a perfectly even layer; the result is glass with a brilliant finish that requires no grinding or polishing. In 1980, Pilkington invented kappa float glass, which features a special, energy-efficient glaze that traps thermal heat while allowing solar heat to filter through., Other modern forms of glass include the laminated safety glass used for automobile windows, which is composed of sandwiched layers of plastic and glass; nonreflecting glass (invented by Katherine Burr Blodgett and others); structural glass, used in buildings; heat-resistant cookware such as Pyrex; and fiberglass., Doremus, R. H. Glass Science. New York: Wiley, 1990., Zerwick, Chloë. A Short History of Glass. New York: Springer-Verlag, 1994., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Glass."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Glass." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/glass-2
+, 
+"Glass." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/glass-2
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

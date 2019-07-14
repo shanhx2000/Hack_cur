@@ -17,11 +17,11 @@ from nltk.stem.wordnet import WordNetLemmatizer
 
 
 dictionary = {}
-stopwords = ['、','（','）','，','。','：','“','”',
+force_stopwords = ['、','（','）','，','。','：','“','”',
              '\n\u3000','\u3000','的','‘','’',
              'a','in','also','below','am','is','are','have',
              'the','of',',',' ']
-
+stopwords = []
 
 def process():
     cur_dir = os.getcwd()
@@ -42,11 +42,12 @@ def process():
         for line in textori:
             for word in line:
                 if word.isalpha() or word == ' ':
-                    output_wr = output_wr + word
+                    output_wr = output_wr + word.lower()
                 elif word == '\n' or word == '_':
-                    output_wr = output_wr + ', '
+                    output_wr = output_wr + ' '
                 else:
                     output_wr = output_wr + ' '
+        
         
         for word in output_wr:
             wr.write(word)
@@ -71,7 +72,7 @@ def process():
         print(fredist)
         
         for localkey in fredist.keys(): # 所有词频合并。 如果存在词频相加，否则添加
-            if localkey in stopwords: # 检查是否为停用词
+            if (localkey in stopwords) or (localkey in force_stopwords): # 检查是否为停用词
              #   print('-->停用词：', localkey)
                 continue
             if localkey in dictionary.keys(): # 检查当前词频是否在字典中存在
@@ -108,8 +109,8 @@ def write_to_file(words, file='results.txt'):
     f = open(file, 'w')
     for item in words:
        # for field in item:
-       f.write(str(item[0])+' ')
-       f.write(str(item[1]))#+','
+       f.write(str(item[0]))#+' '
+       #f.write(str(item[1]))#+','
        f.write('\n')
     f.close()
 

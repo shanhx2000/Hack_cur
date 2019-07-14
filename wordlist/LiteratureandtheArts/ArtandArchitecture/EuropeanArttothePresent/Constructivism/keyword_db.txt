@@ -1,0 +1,230 @@
+[BIBLIOGRAPHY, Although the term constructivism is used as a label for an important movement in art history (as in Russian constructivism), constructivism in the social sciences refers to a distinctive approach to theory and research that is opposed to the dominant empiricist, naturalist, and realist frameworks of mainstream social thought. This general approach is also frequently designated by the terms social constructivism and social constructionism., The constructivist outlook can be formulated based on three general claims: (1) the ontological thesis that what appears to be “natural” is in reality an effect of social processes and practices; (2) the epistemological thesis that knowledge of social phenomena is itself socially produced; and (3) the methodological thesis that the investigation of the social construction of reality must take priority over all other methodic procedures., , Historically, constructivist epistemologies have opposed both empiricist and realist philosophies of science. Empiricism is rejected for its passive view of mind and its assumption that beliefs and knowledge are formed through associative patterns of theory-neutral “sense data.” Realism—the belief in independently existent objects—is criticized for ignoring the various interpretive and constructive processes through which cognition of objects is actually realized. Against these naïve epistemologies, constructivism commends something like a Copernican revolution in our taken-for-granted ways of conceptualizing knowledge and reality. For the constructivist, cognition is no longer viewed as an objective representation of the real, but is approached as an active construction of reality, shaped by particular interests, actions, representational media, and social practices. Human beings do not merely “adapt” to a preexisting world; rather, as active agents, they participate in the interpretive construction of reality., One primary form of interpretation can be found in practical interaction mediated by everyday language and communicative forms. Thus, what might seem to be pre-given “natural” categories and relations are seen as products of particular social practices and interests. Moreover, such categories and relations are subject to historical change. Against empiricism and naturalism, constructivists argue that we should see every phenomenal order as the product of active processes of social interaction. The “real,” in other words, is viewed as a construction of agents and productive activities. Whatever beliefs we hold about reality are contextually defined and culturally constructed. Orthodox epistemology and commonsense thinking influenced by it tend to be atomistic, monological, and representational, whereas constructivism is holistic, instrumentalist, and pragmatic., This conflict between forms of realism and more pragmatic and praxis-oriented worldviews can be traced back to the scientific revolution of the seventeenth century and the thinking of the eighteenth-century Enlightenment. The constructivist spirit was symbolically expressed by a principle that was first proposed by the great Italian philosopher Giambattista Vico (1668–1744)—the verum-factum principle —according to which historians and social theorists can only truly know what has been made or shaped by human intention and design. For Vico, this idea opened the continent of history as a realm of contingent social constructions., , The other important philosophical source of constructivist themes is the antiempiricist critical epistemology formulated by Immanuel Kant (1724–1804) toward the end of the eighteenth century. Against the dominant empiricism of his day, Kant argued that cognition is not a passive reception of sensory data, but is, rather, the outcome of constructive processes of active cognition (involving a priori forms of intuition, categories of the understanding, and so on)., In keeping with the changing forms of empiricism and realism, the development of constructivism in the nineteenth and twentieth centuries took many forms. These include the historicist perspective of historical materialism (with Karl Marx’s [1818–1883] elaboration of a more praxis-based “dialectical” realism); Émile Durkheim’s (1858–1917) image of the social as a collective “social fact”; the verstehende or interpretive sociology defended by Wilhelm Dilthey (1833–1911), Georg Simmel (1858–1918), and Max Weber (1864–1920); Edmund Husserl’s (1859–1938) transcendental phenomenology; the philosophical hermeneutics associated with the philosophers Hans-Georg Gadamer (1900–2002) and Paul Ricoeur (1913–2005); the social phenomenology of Alfred Schutz (1899–1959); the sociology of knowledge represented by Karl Mannheim (1893–1947); and a range of interpretive sociologies influenced by these thinkers. Perhaps the seminal text in post–World War II (1939–1945) American sociology was Peter Berger and Thomas Luckmann’s The Social Construction of Reality (1966), which developed a sociology of knowledge synthesized from Marxist, Durkheimian, Meadian, and phenomenological traditions., Constructivism became an influential current of thought in the 1960s and 1970s as it converged with new approaches to the understanding of the constitutive rules and regulatory processes that inform the framework of social life. This was particularly important in so-called labeling theories of deviance and the “new criminology”; in debates about the symbolic sources of social identity (in the symbolic interactionist tradition); in the study of stereotyping, prejudice, and authoritarianism in the field of ethnicity and race relations; in the renewed concern with the historical and political construction of sexuality and gender relations (associated, in particular, with feminist sociology); and in the emergence of more microsociological inquiries into the negotiated character of everyday social orders., The constructivist outlook has had a major impact in shaping the landscape of contemporary intellectual life. Among the most important fields influenced by constructivism are: semiotics and structuralism, critical theory, general systems theory, structuration theory, postmodern theory, and gender theory., , In semiotics and structuralism, the structuralist movement explicitly embraces the constructive role of language and other cultural systems as reality-shaping forms of social production and reproduction (in terminology derived from Ferdinand de Saussure [1857–1913], language becomes a differential system of meaning construction). In psychology, Jean Piaget’s (1896–1980) structuralism provided one of the first explicit constructivist conceptions of human cognition, learning, and socialization, and James Gibson’s (1904–1979) theory of active affordances has led to constructivist research in perception and cognition (Gibson 1966)., In critical theory, the revision of historical materialism began with the Frankfurt School and continued under Jürgen Habermas and his students. Habermas’s differentiation of knowledge into three basic interest-defined types— instrumental (knowledge constructed in relation to work and labor), interpretive-hermeneutic (knowledge concerned with practical understanding in social life), and emancipative (knowledge linked to social criticism and change)—is an example of constructivism in critical theory., In general systems theory, societies actively construct their “environments” through cultural codes and representations. Structuration perspectives take as their theme the variable practices and differential processes of culturally mediated world construction. Examples of the latter are the “structuration” theories of society in the work of Pierre Bourdieu (1930–2002) and Anthony Giddens, and the closely related genealogical investigations of power/discourse formations associated with the work of Michel Foucault (1926–1984). Constructivism in postmodern theory is represented by the theory of language-games in Jean-François Lyotard (1924–1998) and the theory of simultation and hyperreality formulated by Jean Baudrillard. Gender theory has become especially marked in accounts of the discourse-constructed character of gendered identities, sexual inequalities, and patriarchal power influenced by post-structuralist theories of language., , Constructivist approaches can be found in a wide range of perspectives in contemporary social thought. The first and most pervasive is the so-called linguistic turn within contemporary philosophy and, closely linked to this, the “cultural” turn across all the social sciences. This insight into the radically constitutive implications of cultural processes challenges naturalistic methodologies by demonstrating the way in which all social relations and spheres of society are culturally produced, organized, and reproduced (Burr 1995; Gergen 1999). One example is the influence of a type of discursive “genealogy” influenced by the writings of Foucault (in essence, Foucault’s studies of disciplinary practices are inquiries into the discursive construction of “normal” schooling, penal practices, clinical medicine, and so on). In moving from a framework of individual construction (for example, the early work of Piaget) to theories of social construction, we emerge with a more radical sociology of the frameworks of knowledge viewed as cultural formations., It is no exaggeration to say that a field such as ethnicity or “race” relations has been transformed by constructivist approaches to the discourses of “racial” differences and “racialized” inequalities and disadvantage. The history and sociology of racism has developed in ways that demonstrate how particular categories of ethnic difference have been constructed historically in order to sustain particular systems of domination. Viewing human groups in terms of “races” is a relatively recent example of the violence that can be inflicted upon populations and whole societies by social categories. Every ideology based upon a belief in the innate or culturally prescribed inferiority of one group defined by some physical attribute, characteristic, or trait is seen as an example of wider processes of socially mediated power and domination. Constructivism thus not only offers new avenues of research into the workings of racist discourse but also has led to a renewed sense of the ethical and political problems inherent in using “racial” terms and ethnic stereotypes. Divisions between groups and communities based upon such discourses are primary examples of socially constructed relations. The problem of institutionalized discrimination and how such inequalities are maintained by racialized discourse is seen as being central to the workings of power and domination in society (an insight that has led to renewed interest in the historical dynamics of colonial and postcolonial systems)., Another field in which constructivist approaches have been highly productive is the branch of microsociology inspired by the writings of Harold Garfinkel, Aaron Cicourel, David Sudnow, and Harvey Sacks. Their work has led to the emergence of a distinctive framework of research concerned with the sense-making activities of everyday discourse and conversation (usually referred to as conversation analysis ). Discourse perspectives have also been influential in social psychology (as seen, for example, in the work of Jonathan Potter and Margaret Wetherell), including the explicitly social understandings of debates in experimental and physical science (Mulkay 1979; Knorr-Cetina 1981; Latour and Woolgar 1986), as well as the constructivist sociology of science associated with the Edinburgh School and approaches to the symbolic construction of organizations and organizational cultures (for example, in Karl Weick’s Sensemaking in Organizations [1995]). Further analysis of the constructivist program would need to distinguish between the different varieties of sociological and phenomenological constructivism, symbolic interactionism (Plummer 2000), linguistic constructivism, moderate and radical constructivism, and more ideologically sensitive discourse-theoretical models of knowledge construction (Gadamer 1975; Edwards and Potter 1992; Gergen 1982 and 1999; Grint and Woolgar 1997; Potter 1996; Potter and Wetherell 1987)., , Social constructivist approaches have actively transformed almost every subdisciplinary field within sociology and, more creatively, given rise to new research configurations and inquiries, most particularly associated with the sociology of the body, the self, cultural identity, and systems of difference. These approaches are most explicitly evident in the concept of embodiment regarded as a symbolically mediated process (Shotter 1993; Shotter and Gergen 1988); discursive psychology (Edwards and Potter 1992; Potter and Wetherell 1987); the symbolic dynamics of social identity and identity construction (Levine 1992; Bayer and Shotter 1998); the sociology of sex roles, sexuality, gender, and gender socialization (Burr 1998); critical investigations of ethnicity, racism, sexism, prejudice, and stereotyping (Billig 1991); the social construction of health and illness (White 2002); and more radical programs of reflexive social theory into the different forms of power and domination in everyday life and society (Sandywell 1996; Steier 1991). All of these approaches depend upon a more critical understanding of the historical dynamics of the construction of identity and difference in and as social relations. The challenge faced by contemporary constructivism is to open dialogues with these new problematics and to develop more reflexive frameworks that respect the constructive processes of social existence., SEE ALSO Realism ; Structuralism, Bayer, Betty M., and John Shotter, eds. 1998. Reconstructing the Psychological Subject: Bodies, Practices, and Technologies. London and Thousand Oaks, CA: Sage., Berger, Peter, and Thomas Luckmann. 1966. The Social Construction of Reality: A Treatise in the Sociology of Knowledge. New York: Doubleday., Billig, Michael. 1991. Ideologies and Opinions: Studies in Rhetorical Psychology. London and Newbury Park, CA: Sage., Burr, Vivian. 1995. An Introduction to Social Constructionism. New York and London: Routledge., Burr, Vivian. 1998. Gender and Social Psychology. London: Routledge., Edwards, Derek, and Jonathan Potter. 1992. Discursive Psychology. London and Newbury Park, CA: Sage., Foucault, Michel. 1972. The Archaeology of Knowledge. Trans. A. M. Sheridan Smith. London: Tavistock., Foucault, Michel. 1973. The Birth of the Clinic: An Archaeology of Medical Perception. Trans. A. M. Sheridan Smith. London: Tavistock., Gadamer, Hans Georg. 1975. Truth and Method. New York: Seabury., Garfinkel, Harold. 1967. Studies in Ethnomethodology. Englewood Cliffs, NJ: Prentice-Hall., Gergen, Kenneth J. 1982. Toward Transformation in Social Knowledge. New York: Springer Verlag., Gergen, Kenneth J. 1999. An Invitation to Social Construction. London and Thousand Oaks, CA: Sage., Gibson, James Jerome. 1966. The Senses Considered as Perceptual Systems. Boston: Houghton Mifflin., Grint, Keith, and Steve Woolgar. 1997. The Machine at Work: Technology, Work, and Organization. Cambridge, U.K.: Polity., Knorr-Cetina, Karin. 1981. The Manufacture of Knowledge: An Essay on the Constructivist and Contextual Nature of Science. Oxford: Pergamon., Latour, Bruno, and Steve Woolgar. 1986. Laboratory Life: The Construction of Scientific Facts. Princeton, NJ: Princeton University Press., Levine, George, ed. 1992. Constructions of the Self. New Brunswick, NJ: Rutgers University Press., Mulkay, Michael J. 1979. Science and the Sociology of Knowledge. London: Allen and Unwin., Plummer, Ken. 2000. Symbolic Interactionism in the Twentieth Century. In The Blackwell Companion to Social Theory, 2nd ed., ed. Bryan S. Turner, 193–222. Oxford: Blackwell., Potter, Jonathan. 1996. Representing Reality: Discourse, Rhetoric, and Social Construction. London: Sage., Potter, Jonathan, and Margaret Wetherell. 1987. Discourse and Social Psychology: Beyond Attitudes and Behaviour. London: Sage., Sandywell, Barry. 1996. Logological Investigations. 3 vols. London: Routledge., Shotter, John. 1993. Conversational Realities: Constructing Life Through Language. London and Thousand Oaks, CA: Sage., Shotter, John, and Kenneth J. Gergen, eds. 1988. Texts of Identity. London: Sage., Steier, Frederick, ed. 1991. Research and Reflexivity. London: Sage., Weick, Karl E. 1995. Sensemaking in Organizations. London and Thousand Oaks, CA: Sage., White, Kevin. 2002. An Introduction to the Sociology of Health and Illness. London and Thousand Oaks, CA: Sage., Barry Sandywell  , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Constructivism."
+
+International Encyclopedia of the Social Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Constructivism." 
+International Encyclopedia of the Social Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/constructivism
+, 
+"Constructivism." 
+International Encyclopedia of the Social Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/constructivism
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The term constructivism denotes a heterogeneous set of theoretical approaches currently stemming from areas so diverse as biology, neurophysiology, philosophy, sociology, cybernetics, cognitive psychology, rhetoric, and literary studies. In all their variety they share the basic idea that knowledge cannot be based on some kind of correspondence to or representation of actual reality but only on the active cognitive constructions or cognitive operations of an observer. Any possible "objects" of experience and knowledge are embedded in cognitive and social processes., Historically speaking the roots of constructivism begin in ancient skeptical philosophy, pass through the enlightenment philosophy of Immanuel Kant (1724–1804), the philosophy of language, and eventually to pragmatism. The most recent versions are radical constructivism and operational constructivism, where the term construction refers (1) to the construction of reality, (2) the construction of knowledge, and (3) the construction of tools and skills for human cognition., , Important impulses for radical constructivism were provided by Heinz von Foerster (1911–) due to his insights into the epistemological implications of the unspecified coding of external stimuli in the brain. The world as human beings know it, by means of their sense organs, is the product of internal mental activity. In this respect modern versions of constructivism draw on the concept of autopoiesis as it was introduced by the theoretical biologist Humberto Maturana (1928–) into epistemological discourse. According to the principle of autopoiesis every cognitive system operates on the basis of operative closure, that is to say, without direct input from its environment. Any stimulus from the environment can only stimulate the system to recursively produce its own elements and react to its own inner states. Hence any kind of knowledge or insight is an internal construction. However, this neither leads to relativism nor to the denial of an external reality. Constructivism should not be conflated with strong forms of idealism or antirealism. Yet any correspondence or mirror-theory of knowledge and truth is rejected because nothing corresponds to the internal categories, structures, and elements. Instead, categories of "compatibility," "fitting," or "viability" are of ultimate importance for constructivism since the external reality discriminates among the human constructions in favor of acceptable and fitting knowledge, assumptions, and cognitive skills. In addition, the self-referential and recursive operations inside the cognitive system produce stable states that tend to be taken as "givens" and can furthermore be socially stabilized in a broader culture., In Niklas Luhmann's (1927–1998) operative constructivism, any production of explicit knowledge is "second-order-observation" since it is not data but other observations that are observed. This second order observation can see the distinction between the analyzed observation and its contingent and constructed character, yet without simultaneously being able to see the contingency of its own observation. What is observed are contingent constructions, but the "own" observation is—due to the blind spot within every observation—assumed to be "realistic." In modern society, where every social subsystem observes "the world" in its own way, this hybrid combination of constructivism and realism leads to a polycontextual ontology., Due to the strong and widely held realistic assumptions within science and theology, constructivism so far has not attracted very much attention in the dialogue between religion and science. Constructivism does however argue for a nonfoundationalist view of knowledge that opens up new avenues for this dialogue. Moreover, based on the idea of autopoiesis in cognitive systems and its pragmatic orientation, constructivism vividly rejects any notion of reductionism between various cognitive approaches that seek to cope with "reality." Instead it emphasizes the limitedness and fragmentary nature of all human knowing. In addition, constructivism highlights the intimate bond between knowledge and ethics. Unexplored is the contribution of more socially oriented forms of constructivism in answering the question of the way in which, for example, the Christian faith exercises a subtle yet crucial influence on the nonreligious constructions of the wider culture. However, in order to fully embrace constructivism as religious epistemology, theology would have to accept the objectionable claim of God being a human construction for coping with life. And yet constructivism reflects at least one aspect of a central religious insight: Religious knowledge cannot secure its own stability, adequacy, and truth unless God makes Godself present in human understanding and knowing—a process often called revelation., See also Autopoiesis; Contextualism; Dualism; Functionalism; Nonfoundationalism; Pragmatism, foerster, heinz von. observing systems, 2nd edition. seaside, calif.: intersystems, 1984., glasersfeld, ernst von. radical constructivism. a way of knowing and learning. washington, d.c.: falmer press, 1995., luhmann, niklas. "the cognitive program of constructivism and a reality that remains unknown." in self organization: portrait of a scientific revolution, eds. wolfgang krohn and günter küppers. dordrecht, netherlands: kluwer, 1990., luhmann, niklas. die wissenschaft der gesellschaft. frankfurt, germany: suhrkamp, 1990., maturana, humberto r., and varela, francisco j. autopoiesis and cognition: the realization of the living. dordrecht, netherlands: reidel, 1980., maturana, humberto r., and varela, francisco j. the tree of knowledge: the biological roots of human understanding, rev. edition. boston and london: shambhala, 1992., gÜnter thomas, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Constructivism."
+
+Encyclopedia of Science and Religion.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Constructivism." 
+Encyclopedia of Science and Religion.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/encyclopedias-almanacs-transcripts-and-maps/constructivism
+, 
+"Constructivism." 
+Encyclopedia of Science and Religion.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/encyclopedias-almanacs-transcripts-and-maps/constructivism
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , Bibliography,  Ingberman (1994); Jencks (2002); Johnson &amp; and Wigley (1988); Khan-Magomedov (1975, 1986, 1987); Kopp (1970); Lampugnani (ed.) (1988); Lissitzky (1970, 1981); Ly-Küppers (1980); Lodder (1983); Margolin (1997); Richter (1958); Salingaros et al. (2004); O. Shvidkovsky (1970), 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Constructivism."
+
+A Dictionary of Architecture and Landscape Architecture.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Constructivism." 
+A Dictionary of Architecture and Landscape Architecture.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/constructivism
+, 
+"Constructivism." 
+A Dictionary of Architecture and Landscape Architecture.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/constructivism
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Influenced by cubism and futurism, constructivism had its roots in the abstract geometric constructions of Vladimir Tatlin. In 1920 the sculptors Antoine Pevsner and Naum Gabo joined Tatlin in the publication of the Realist Manifesto, from which the name constructivism was derived. Like the Futurists, they admired the machine and technology, functionalism, and modern industrial materials. Within architecture the constructivists stressed that form should be determined in the process of construction by the utilitarian aim of the building and the natural characteristics of the building materials. They grouped around the "Union of Contemporary Architects" (OSA) led by the Vesnin brothers (Alexander, Viktor, and Leonid) and Moisei Ginzburg and its journal Sovremennaya arkhitektura (Contemporary Architecture ). They argued that the construction of a new environment was not simply a matter of art or technology but entailed rebuilding culture from the bottom up. History had entered into a new creative cycle, and in that period of youth, utilitarian and constructive aspects of style were of paramount importance, and aesthetic simplicity and organizational logic must determine the new style., This in no way signaled the demise of aesthetic emotion, rather its transformation under the influence of modern economics, technology, and the machine. Ginzburg developed what became known as the Functional Method, whereby the functional requirements of a structure, such as the "diagram of movement," within the building and the siting of individual living units within a structure, were given priority in spatial composition. To achieve the desired goal, adherents used the pavilion method, which divided a complex into blocks according to their intended use and linked these units by walkways or bridges to satisfy the entire ensemble's ultimate social function as a work of art. Ginzburg put his theory to best use in a housing complex designed and built between 1928 and 1930 for Narkomfin (the People's Commissariat of Finance) on Novinsky Boulevard, now House 25, Tchaikovsky Street., See also: cultural revolution; futurism., Hudson, Hugh D., Jr. (1994). Blueprints and Blood: The Stalinization of Soviet Architecture, 1917-1937. Princeton, NJ: Princeton University Press., Lodder, Christina. (1983). Russian Constructivism. New Haven, CT: Yale University Press., Hugh D. Hudson Jr., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Constructivism."
+
+Encyclopedia of Russian History.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Constructivism." 
+Encyclopedia of Russian History.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/constructivism
+, 
+"Constructivism." 
+Encyclopedia of Russian History.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/constructivism
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, constructivism, Russian art movement founded c.1913 by Vladimir Tatlin, related to the movement known as suprematism. After 1916 the brothers Naum Gabo and Antoine Pevsner gave new impetus to Tatlin's art of purely abstract (although politically intended) constructions. Their sculptural works derived from cubism and futurism, but had a more architectonic and machinelike emphasis related to the technology of the society in which they were created. The Soviet regime at first encouraged this new style. However, beginning in 1921, constructivism (and all modern art movements) were officially disparaged as unsuitable for mass propaganda purposes. Gabo and Pevsner went into exile, while Tatlin remained in Russia. In theatrical scene design constructivism spread beyond Russia through the efforts of Vsevolod Meyerhold.
+, See G. Rickey, Constructivism (1967)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"constructivism."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"constructivism." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/constructivism
+, 
+"constructivism." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/constructivism
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+ , 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"constructivism."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"constructivism." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/constructivism
+, 
+"constructivism." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/constructivism
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Constructivism was an avant-garde movement in twentieth-century art that embraced the fine arts from painting to architecture, with parallel movements in literature, theater, and film. The term was first coined in 1921 by artists in Russia, where it was closely associated with the utopian idealism generated by the Russian Revolution of October 1917 and the civil war (1918–1920). The term was used to describe an entirely new kind of creative activity in which artistic skills were harnessed not to create works of art but to design practical objects of everyday use and total environments for the new society. This movement is identified as Russian or Soviet constructivism. The term constructivism was subsequently used in Europe during the 1920s and later to describe a geometric abstract art in which the precision of the forms and their mathematical qualities evoke associations with science, engineering, and technology and with progressive social and scientific values. This broader movement is called international constructivism., Soviet constructivism originated with the Working Group of Constructivists (Rabochaya gruppa konstruktivistov) set up in Moscow in March 1921, consisting of the critic Alexei Gan (1895–1940) and the artists Varvara Stepanova (1894–1958), Alexander Rodchenko (1891–1956), Karl Ioganson [Karlis Johansons] (1890–1926), Konstantin Medunetsky (1900–1934), and the brothers Vladimir (1899–1982) and Georgy Stenberg (1900–1933). Proclaiming a new synthesis of art, industry, and politics, the group relegated their purely artistic explorations to the role of "laboratory work," aspiring to extend their creative experiments with abstract forms into the real environment by participating in the industrial manufacture of useful objects. They organized their work according to three principles: tektonika ("tectonics," or the functionally, socially, and politically appropriate use of industrial material within communist society), construction (the organization of this material for a given purpose), and faktura (the conscious handling and manipulation of material)., , The concept of construction derives from the technique of building up a sculpture from distinct material elements, instead of modeling or carving the form. Invented by Pablo Picasso (1881–1973),
+it was developed further in Russia by Vladimir Tatlin (1885–1953) in his Counter Reliefs of 1914 and then in his revolutionary Model for a Monument to the Third International (1920), intended to be the functioning headquarters for the organization dedicated to fomenting world revolution. The exhibition of the Model in Moscow in December 1920 inspired the formation of the constructivist group., The constructivists developed and promoted their ideas within the Moscow Higher Artistic and Technical Workshops (VKhUTEMAS—Vysshie [gosudarstvennye] khudozhestvenno-tekhnicheskie masterskie), which were set up in 1920 to train artists for industry. Many figures, like Lyubov Popova (1889–1924) and Gustav Klucis (1895–1944), became associated with constructivism, while Moisei Ginzburg (1892–1946) and Alexander Vesnin (1883–1959) extended its principles into architecture. The practical results of the constructivists' aspirations can be seen in designs for workers' clothing, furniture, textiles, posters, and graphics as well as in stage productions. Notable examples are Popova's set design for Fernand Crommelynck's (1886–1970) farce The Magnanimous Cuckold of 1922 (in which a machine replaced the traditional set, and theatrical costumes were replaced by so-called production clothing or prozodezhda), Rodchenko's Workers' Club of 1925, and the Vesnin brothers' design for the Leningrad Pravda building (1924). By the late 1920s the lack of official and market support led to a general decline of constructivism, despite a late flowering of photography and photomontage, used for communist propaganda., International constructivism as a self-conscious movement was initiated at Düsseldorf in May 1922 when the International Faction of Constructivists was organized by Theo van Doesburg (1883–1931) representing Dutch De Stijl, Hans Richter (1888–1976), and El Lissitzky (1890–1941). The faction's declaration emphasized their rejection of subjectivity and individualism in favor of a more scientific and objective approach, which involved "the systematization of the means of expression" and "art as a method of organization that applies to the whole of life." Whereas the Moscow constructivists rejected art, the international constructivists saw art as an activity that embraced the making of works of art as well as the design of useful objects. Whereas the Russian constructivists were committed to communism, the international constructivists adopted a non-aligned political radicalism. The movement gained ground in Germany during the 1920s, where it was stimulated by the Erste russische Kunstausstellung of October 1922; the presence of Russian émigrés such as Lissitzky and Naum Gabo (1890–1977); and the activity of Hungarian artists such as László Moholy-Nagy (1895–1946), who had been inspired by the Moscow constructivists and the communist ideals of the short-lived Hungarian Revolution of 1919. Constructivist movements of various complexions were also active in Poland and Czechoslovakia. After the 1920s it becomes more difficult to disentangle constructivism from the broader history of non-objective art. In the early 1930s, as the repressive regimes of Germany and the Soviet Union effectively destroyed modernism, Paris became a
+haven for abstract painters and sculptors. By the end of the decade, the center of constructivism had shifted to Britain. After World War II a new generation of artists in America and Western Europe explored the aesthetic possibilities of constructivism's visual language and its scientific and mathematical resonances., See alsoArchitecture; De Stijl; Lissitzky, El; Modernism; Moholy-Nagy, László; Painting, Avant-Garde; Theater. , Bann, Stephen, ed. The Tradition of Constructivism. London, 1974., Gough, Maria. The Artist as Producer: Russian Constructivism in Revolution. Berkeley, Calif., 2005., Kiaer, Christina. Imagine No Possessions: The Socialist Objects of Russian Constructivism. Cambridge, Mass., and London, 2005., Lodder, Christina. Russian Constructivism. New Haven, Conn., and London, 1983., Christina Lodder, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Constructivism."
+
+Encyclopedia of Modern Europe: Europe Since 1914: Encyclopedia of the Age of War and Reconstruction.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Constructivism." 
+Encyclopedia of Modern Europe: Europe Since 1914: Encyclopedia of the Age of War and Reconstruction.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/constructivism-0
+, 
+"Constructivism." 
+Encyclopedia of Modern Europe: Europe Since 1914: Encyclopedia of the Age of War and Reconstruction.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/constructivism-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

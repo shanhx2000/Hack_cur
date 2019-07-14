@@ -1,0 +1,421 @@
+[
+fold1 
+/ fōld/
+•
+v. [tr.]
+1.
+bend (something flexible and relatively flat) over on itself so that one part of it covers another:
+she folded all her clothes and packed all her bags.
+ ∎ 
+(fold something in/into)
+mix an ingredient gently with (another ingredient), esp. by lifting a mixture with a spoon so as to enclose it without stirring or beating:
+fold the egg whites into the chocolate mixture.
+ ∎  [intr.]
+(of a piece of furniture or equipment) be able to be bent or rearranged into a flatter or more compact shape, typically in order to make it easier to store or carry:
+the deck chair folds flat |
+[as  adj.] (folding)
+a folding chair.
+ ∎ 
+bend or rearrange (a piece of furniture or equipment) in such a way:
+he folded up his tripod.
+ ∎  [intr.] (fold out)
+be able to be opened out; unfold:
+the sofa folds out.
+ ∎ 
+(of a bird) collapse (its wings) and lay them flat against its body:
+the crow folded its wings to a sharp angle and dive-bombed the vulture.
+ ∎ 
+(often be folded)  Geol. 
+cause (rock strata) to undergo bending or curvature:
+[as  n.] (folding)
+a more active period of igneous activity caused intense folding.
+
+2.
+cover or wrap something in (a soft or flexible material):
+a plastic bag was folded around the book.
+ ∎ 
+hold or clasp (someone) closely in one's arms with passion or deep affection:
+Bob folded her in his arms and kissed her.
+
+
+3.
+[intr.]  inf. 
+(of an enterprise or organization) cease operating as a result of financial problems or a lack of support:
+the club folded earlier this year.
+ ∎ 
+(esp. of a sports player or team) suddenly stop performing well or effectively:
+he folded in the second round.
+ ∎ 
+(of a poker player) drop out of a hand:
+an unerring knack for knowing when to fold and when to stay in.
+
+
+
+•
+n.
+1.
+(usu. folds)
+a form or shape produced by the gentle draping of a loose, full garment or piece of cloth:
+the fabric fell in soft folds.
+ ∎ 
+an area of skin that sags or hangs loosely.
+ ∎ 
+ chiefly Brit. 
+an undulation or gentle curve of the ground; a slight hill or hollow:
+the house lay in a fold of the hills.
+ ∎ 
+ Geol. 
+a bend or curvature of strata.
+
+2.
+a line or crease produced in paper or cloth as the result of folding it.
+ ∎ 
+a piece of paper or cloth that has been folded:
+a fold of paper slipped out of the diary.
+
+
+
+PHRASES: 
+fold one's arms
+bring one's arms together and cross them over one's chest.
+fold one's hands
+bring or hold one's hands together.DERIVATIVES: 
+fold·a·ble
+adj.
+fold2 
+•
+n.
+a pen or enclosure in a field where livestock, esp. sheep, can be kept.
+ ∎  (the fold)
+a group or community, esp. when perceived as the locus of a particular set of aims and values:
+he's performing a ritual to be accepted into the fold.
+
+
+•
+v. [tr.]
+shut (livestock) in a fold.
+
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fold."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"fold." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/fold-0
+, 
+"fold." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/fold-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, fold, in geology, bent or deformed arrangement of stratified rocks. These rocks may be of sedimentary or volcanic origin. Although stratified rocks are normally deposited on the earth's surface in horizontal layers (see stratification), they are often found inclined or curved upward or downward. Arches, or upfolds, in stratified rock are called anticlines; depressions or downfolds, synclines. A third type of fold, the monocline, is a steplike structure sloping in one direction only. It is more correctly called a flexure and generally passes at depth into a fracture called a fault. An imaginary line drawn along the crest of an anticline or the trough of a syncline is its axis; the two sides curving away from the axis are the limbs. If both limbs, dipping in opposite directions, make the same angle with the horizontal, and if an imaginary axial plane passed through the axis and the center of the fold is vertical and divides the fold into two equal halves, the fold is symmetrical; if the limbs make unequal angles, and if the axial plane is inclined and does not bisect the fold, the fold is asymmetric. If one limb lies partly under the other, and the axial plane is inclined, the fold is overturned; if one limb lies almost completely under the other, and the axial plane is almost horizontal, the fold is recumbent. The axis of a fold cannot be indefinitely extended parallel to the horizontal, but plunges or emerges as the fold tapers off to a plane. Certain domes are very short anticlines with axes plunging at both ends, while some basins, similarly, are synclinal structures. Folds are commonly formed at some distance below the surface, but complete folds or portions of folds are exposed by erosion. Anticlines frequently have their crests eroded, till only the worn-down stumps of the two limbs remain. In a similar manner synclines may be eroded so that only the edges of the limbs project above the surface. The ridge crests of the Appalachian Mts. are eroded limbs of folds. The nature of the original fold can generally be determined from the arrangement of the outcrops, or exposed portions; thus, two outcrops dipping toward each other mark a syncline, and two outcrops dipping away from each other, an anticline. Folds on a grand scale, extending, for example, most of the length of a continent, are known as geosynclines and geanticlines. The immediate cause of folding is generally conceded to be the horizontal compression of the earth's surface, anticlines being squeezed up by this compression and synclines formed between anticlines. The problem of the ultimate cause of fold formation is similar to that of fault formation, both being earth movements involved in mountain building and plate tectonics. Porous and permeable rocks of anticlines often contain oil and gas reservoirs. Organic remains of late Paleozoic tree fern swamps were converted to anthracite coal during the folding of the Appalachian Mts., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fold."
+
+ The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"fold." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/fold
+, 
+"fold." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/fold
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fold."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"fold." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/fold
+, 
+"fold." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/fold
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fold."
+
+The Concise Oxford Dictionary of English Etymology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"fold." 
+The Concise Oxford Dictionary of English Etymology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/fold-3
+, 
+"fold." 
+The Concise Oxford Dictionary of English Etymology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/fold-3
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fold."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"fold." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/fold
+, 
+"fold." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/fold
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fold."
+
+The Concise Oxford Dictionary of English Etymology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"fold." 
+The Concise Oxford Dictionary of English Etymology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/fold-2
+, 
+"fold." 
+The Concise Oxford Dictionary of English Etymology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/fold-2
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, a flock enclosed within a fence or shelter; a congregation or group of Christians., Examples: fold of Christ, 1541; of sheep, 1697., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Fold."
+
+Dictionary of Collective Nouns and Group Terms.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Fold." 
+Dictionary of Collective Nouns and Group Terms.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/fold
+, 
+"Fold." 
+Dictionary of Collective Nouns and Group Terms.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/fold
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"fold."
+
+Oxford Dictionary of Rhymes.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"fold." 
+Oxford Dictionary of Rhymes.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/fold
+, 
+"fold." 
+Oxford Dictionary of Rhymes.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/fold
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, A fold is a bend in a body of rock or sediment that forms due to a change in pressure. Wavelike folds are composed of layers of Earth’s crust that bend and buckle under enormous pressure as the crust hardens, compresses, and shortens. Folds form much the same way as a hump arises in a sheet of paper pushed together from both ends., Folds may be softly rolling or severe and steep, depending on the intensity of the forces involved in the deformation and the nature of the rocks involved. The scale may be massive, creating mile upon mile of mountains like the Appalachian chain, traversing eastern North America from Alabama to the Gulf of St. Lawrence in eastern Canada. In general, folded mountain belts represent periods of compression or squeezing during which the crust may be shortened significantly. During the formation of the Alps,, stratified rock layers that originally covered an area about 300 miles (482 km) wide were squeezed together until they had a width of less than 120 miles (193 km). Folds may also be minute, seen simply as tiny ripples a few centimeters in size., Horizontal pressure results in two basic fold forms: anticlines, which are arched, upfolded strata that generally appear convex upward, and synclines, which are downfolds or reverse arches that are typically concave upward. An important and definitive characteristic of these folds is the relative position of the oldest and youngest layers within them. At the core of an anticline lie stratigraphically older layers, with younger layers comprising the outermost layers. The opposite is true in a syncline, where the youngest layers form the core, with the oldest beds situated at the outside., A line drawn along points of maximum curvature is called the axis. The inclined rock that lies on either side are called the fold limbs. One limb of a downfold is also the limb of the adjacent upfold. Limbs on either side of a symmetrical fold are at relatively equal angles. A fold that has only a single limb it is known as a monocline. These often form steplike ridges rising from flat or gently sloping terrain., As folding intensity increases, the folds often become more asymmetrical—i.e., one limb of an anticline dips at a steeper angle. In overturned folds, the angle of this limb becomes so steep that the tilted limb lies almost beneath the upper limb. Recumbent folds literally lie on their sides, with the lower limb turned completely upside-down., In many cases the axis of the fold in not horizontal. Such folds are known as plunging folds, because they plunge in the direction that the axis is tilted. Folds with a curved axis are called doubly plunging folds. Domes are broad warped areas in which the plunge of the anticline is approximately equal in all directions. The corresponding synclinal structure is known as a structural basin., See also Fault; Tectonics; Unconformity., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Fold."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Fold." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fold
+, 
+"Fold." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fold
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, A fold is a bend in a body of rock or sediment that forms due to a change in pressure . Wave-like folds are composed of layers of the earth's crust that bend and buckle under enormous pressure as the crust hardens, compresses, and shortens. Folds form much the same way as a hump arises in a sheet of paper pushed together from both ends., Folds may be softly rolling or severe and steep, depending on the intensity of the forces involved in the deformation and the nature of the rocks involved. The scale of folding may be massive, creating mile upon mile of mountains like the Appalachian chain, traversing eastern
+North America from Alabama to the Gulf of St. Lawrence in eastern Canada. In general, folded mountain belts represent periods of compression or squeezing during which the crust may be shortened significantly. During the formation of the European Alps, stratified rock layers that originally covered an area about 300 mi (482 km) wide were squeezed together until they had a width of less than 120 mi (193 km). Folds may also be minute, seen simply as tiny ripples a few centimeters in size., Horizontal pressure results in two basic fold forms: anticlines, arched, upfolded strata that generally appear convex upward, and synclines, downfolds or reverse arches that are typically concave upward. An important and definitive characteristic of these folds is the relative position of the oldest and youngest layers within the fold. At the core of an anticline lie stratigraphically older layers. The outer most layers that make up the fold are younger in age. The opposite is true in the case of a syncline. At the core of a syncline are the youngest layers, with the oldest beds situated at the outside of the fold., A line drawn along the points of maximum curvature of the fold is called the axis. The inclined rock that lies on either side of the axis are called the fold limbs. One limb of a downfold is also the limb of the adjacent upfold. Limbs on either side of a symmetrical fold are at relatively equal angles. A fold that has only a single limb it is known as a monocline. These often form step-like ridges rising from flat or gently sloping terrain., As the intensity of the folding increases, the resultant folds often become more asymmetrical, i.e., one limb of an anticline dips at a steeper angle . In overturned folds, the angle of this limb becomes so steep that the tilted limb lies almost beneath the upper limb. Recumbent folds literally lie on their sides, with the lower limb turned completely upside-down., In many cases the axis of the fold in not horizontal. Such folds are known as plunging folds, and are said to plunge in the direction that the axis is tilted. Folds with a curved axis are called doubly plunging folds. Domes are broad warped areas in which the plunge of the anticline is approximately equal in all directions. The corresponding synclinal structure is known as a structural basin ., See also Fault; Tectonics; Unconformity., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Fold."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Fold." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fold-0
+, 
+"Fold." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/fold-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

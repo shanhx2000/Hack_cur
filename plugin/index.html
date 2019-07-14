@@ -14,13 +14,15 @@
                 height: 100px;
             }
         </style>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     </head>
     <body bgcolor="#4B4B4B">
             <div style="color: #FFF">
-                <p id="p1">Add Tag</p>
+                <p id="p1">Add</p>
             </div>
-            <form>
-                <input type="text" placeholder="tag name" style="width:150px">
+            <form action="http://49.234.134.58:5000/" method="POST">
+                <input class="form-control" type="text" placeholder="" style="width:150px" name="search-key">
                 <input type="button" style="width:40px">
             </form>
     </body>

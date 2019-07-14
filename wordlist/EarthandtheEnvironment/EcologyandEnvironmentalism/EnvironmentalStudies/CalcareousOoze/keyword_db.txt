@@ -1,0 +1,99 @@
+[Calcareous ooze is the general term for layers of muddy, calcium carbonate (CaCO3) bearing soft rock sediment on the seafloor. Of all the distinct types of veneers covering the Earth's crust—be it soil , sediment, snow, or ice—none are more widespread than red-clay and calcareous ooze. Only a small proportion of calcareous ooze is precipitated inorganically. For the most part, calcareous ooze comprises the fossil hard parts of planktic (Greek planktos = floating around) and benthic (Greek benthos = the deep) single-celled marine organisms whose calcium carbonate skeletons are discarded upon death or reproduction. Calcareous ooze is distinguished by its main biogenic component into foraminiferal ooze, coccolithophore ooze, or pteropod ooze, respectively. However, coccolithophorids and planktic foraminifera form the largest part of the pelagic calcareous ooze with less contribution due to pteropods, calcareous dinoflagellates, and lithothamnium., Foraminiferal ooze contains foraminifera (in Latin, foramen = hole; ferre = bearing), large, mainly marine protozoans that bear a shell perforated with small holes through which temporary cytoplasmic protrusions (pseudopodia) project. Foraminifera are divided into planktic and benthic foraminifera that inhabit the upper few hundred meters or the bottom of the world oceans , respectively. Their global distribution through passive transport by ocean currents, coupled with their prolific productivity and sensitivity to environmental variations, has led to their utilization for interpreting marine sediments. Despite their low number of modern species, their vast quantities produce a sediment cover that occupies roughly one third of the entire earth's surface., , Coccolithophorid ooze contains coccolithophorids (in Greek, kokkos = grain; lithos = stone; phoros = bearing), belong to marine nanno-phytoplankton (algae) whose cells (the so-called coccospheres) are covered by calcite platelets (the so-called coccoliths). However, the ratio of coccoliths per cell varies for different species. Coccolithophorids live in all oceans and depending on geographical zonation, species dominance is changing. Ecological strategies are likely to enable certain species to adapt to different temperature , nutrient, light, or energy regimes. Once dead, coccolithophorids disintegrate into single coccoliths that lastly are preserved as coccolith (ophorid) ooze. Coccolithophorids (and even more their coccoliths) may be small in size, but they occur in huge numbers in the sediment., Pteropod ooze contains pteropods (in Greek pteron = wing; pod = foot), marine gastropod mollusks adapted to pelagic life that have a foot with wing-shaped lobes used as swimming organs. They are abundant in all oceans, although most species seem to prefer the circum-global tropical and subtropical regions. Distribution of pteropods is limited by water depth, temperature, salinity, oxygen content, and nutrient supply. They form very thin and fragile shells that hardly preserve under biochemical (e.g., dissolution) or physical (e.g., ingestion) attack. For this reason, preservation of pteropod ooze is mostly restricted to shallow parts of the oceans, i.e., continental shelf , slopes, ridges and rises., Calcium carbonate consists of calcium (Ca2+), inorganic carbon (C4+), and oxygen (O2−) ions. Calcium ions are derived from weathering of continental calcareous hard rocks and are available in excess. In marine geochemistry , carbonate is expressed as total dissolved inorganic carbon and carbonate alkalinity. However, bicarbonate (HCO3−) and carbonate (CO32−) ions are the predominant forms of dissolved CO2 in sea water. The simplified calcification reaction:, 2 HCO3− + Ca2+ ⇋ CaCO3 + CO2 + H2O, shows that dissolved inorganic carbon (and carbonate alkalinity) lower while, in turn, CO2 is released to the atmosphere. Consequently, CaCO3 precipitation by marine organisms acts as one source for CO2. Depending on the mineral structure, CaCO3 is called calcite (trigonal structure) or aragonite (rhombic structure)., Due to a complex carbonate chemistry , calcareous ooze begins to dissolve below the calcium carbonate lysocline in the water column. Below the calcium carbonate compensation depth (CCD ) calcareous ooze is completely dissolved., CaCO3-bearing hard parts carry unique geochemical signals, namely the naturally fractionated isotopes of the elements oxygen (i.e., 16O, 18O) and carbon (i.e., 12C, 13C, 14C). In carbonated water, oxygen and carbon in the dissolved CO2 and in the surrounding water exchange until there are set amounts of each isotope (16O:18O and 12C:13C:14C, respectively) in CO2and H2O. These amounts are determined by the bonding properties of each molecule type for each isotope, and are a function of temperature. The 16O:18O ratio gets higher the colder the water is from which it precipitates. Since marine organisms use ambient HCO3− and CO32− ions to build their hard parts, we have knowledge of the isotopic composition of total CO2 in sea water by measuring CO2 in calcium carbonate precipitates., The discovery of calcareous ooze in the deep-sea during the H.M.S. Challenger expedition (1872–76) stimulated crucial modern climate research. Calcareous ooze became a reliable recorder of past environmental conditions on Earth containing information on ancient biosphere , hydrosphere, and atmosphere properties. Among them are abundance and distribution patterns of organism assemblages, oxygen and carbon isotope signatures of calcareous hard parts, bulk sediment properties, etc. (the so-called proxy parameters). Past ocean characteristics (temperature, productivity, etc.) can therefore be deduced by determining the different proxies for any chosen sample. A set of consecutively dated samples (e.g., chronostratigraphy by means of 14C, Rb/Sr, K/Ar) consequently yields time series of fossil records that can be transformed into successions of environmental conditions., Investigating calcareous ooze of modern (i.e., Holocene) and ancient (e.g., Pleistocene) oceans means to elucidate the role that oceanic processes play in global climate change during various geologic time intervals and at different levels of precision. Among them, the global carbon cycle is one of the topics that many scientific disciplines have turned their attention to, since short and long term variations of CO2in the atmosphere can be attributed—at least partially—to fossil fuel emissions and other human activities., These calcareous sediment records also contain information relating to the history of adjacent land masses, providing insight into the history of climate and vegetation cover on the continents., See also  Dating methods; Limestone, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Calcareous Ooze."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Calcareous Ooze." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/calcareous-ooze
+, 
+"Calcareous Ooze." 
+World of Earth Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/calcareous-ooze
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"calcareous ooze."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"calcareous ooze." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/calcareous-ooze-0
+, 
+"calcareous ooze." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/calcareous-ooze-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"calcareous ooze."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"calcareous ooze." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/calcareous-ooze
+, 
+"calcareous ooze." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/calcareous-ooze
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

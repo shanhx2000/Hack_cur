@@ -1,0 +1,99 @@
+[The geothermal gradient is the rate of change of temperature (ΔT) with depth (ΔZ), in the earth. Units of measurement are °F/100 ft or °C/km. In the geosciences, the measurement of T is strongly associated with heat flow, Q, by the simple relation: Q=KΔT/ΔZ, where K is the thermal conductivity of the rock ., Temperatures at the surface of the earth are controlled by the Sun and the atmosphere, except for areas such as hot springs and lava flows. From shallow depths to about 200 ft (61 m) below the surface, the temperature is constant at about 55°F (11°C). In a zone between the near surface and about 400 ft (122 m), the gradient is variable because it is affected by atmospheric changes and circulating ground water . Below that zone, temperature almost always increases with depth. However, the rate of increase with depth (geothermal gradient) varies considerably with both tectonic setting and the thermal properties of the rock., High gradients (up to 11°F/100 ft, or 200°C/km) are observed along the oceanic spreading centers (for example, the Mid-Atlantic Rift) and along island arcs (for example, the Aleutian chain). The high rates are due to molten volcanic rock (magma ) rising to the surface. Low gradients are observed in tectonic subduction zones because of thrusting of cold, water-filled sediments beneath an existing crust . The tectonically stable shield areas and sedimentary basins have average gradients that typically vary from 0.82–1.65°F/100 ft (15–30°C/km)., Measurements of thermal gradient data in Japan range widely and over short horizontal distances between to 0.6–4.4°F/100 ft (10–80°C/km). The Japanese Islands are a volcanic island arc that is bordered on the Pacific side by a trench and subduction complex. The distribution of geothermal gradients is consistent with the tectonic settings. In the northeastern part of Japan, the thermal gradient is low on the Pacific side of the arc and high on the back-arc side. The boundary between the outer low thermal gradient and the high thermal gradient regions roughly coincides with the boundary of the volcanic front., The geothermal gradient is important for the oil, gas, and geothermal energy industries. Downhole logging tools must be hardened if they are to function in deep oil and gas wells in areas of high gradient. Calculation of geothermal gradients in the geological past is a critical part of modeling the generation of hydrocarbons in sedimentary basins. In Iceland, geothermal energy, the main source of energy, is extracted from those areas with geothermal gradients ≥2.2°F/100 ft (≥40°C/km)., See also  Island arcs; Subduction zone; Hydrothermal processes, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Geothermal Gradient."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Geothermal Gradient." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/geothermal-gradient
+, 
+"Geothermal Gradient." 
+World of Earth Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/geothermal-gradient
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"geothermal gradient."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"geothermal gradient." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/geothermal-gradient-0
+, 
+"geothermal gradient." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/geothermal-gradient-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"geothermal gradient."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"geothermal gradient." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/geothermal-gradient
+, 
+"geothermal gradient." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/geothermal-gradient
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

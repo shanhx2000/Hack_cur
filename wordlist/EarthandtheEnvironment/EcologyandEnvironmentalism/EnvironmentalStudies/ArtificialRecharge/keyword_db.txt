@@ -1,0 +1,100 @@
+[Water-supply development is challenging. Increasing demands for water joined with concerns for environmental protection require a variety of new water management tools. Such a tool for the conjunctive use of surface water and groundwater supplies is the artificial recharge (AR) of groundwater. Application and benefits are worldwide., Artificial recharge of groundwater is the process of adding water to an aquifer through human effort. Many different techniques and purposes exist for causing AR, but this discussion focuses on augmentation of a water
+supply for later use. Projects are varied but usually involve storing surplus surface water in an aquifer for later use. Recovery (withdrawal) of the stored underground water commonly is by wells., Aquifer storage and recovery is a special type of artificial recharge of groundwater that uses dual-purpose wells for both injecting water into the aquifer and recovering (withdrawing) it later. Although the intent of AR generally is to increase groundwater storage for later use, incidental activities such as excess irrigation, stormwater disposal, canal leakage, and leaking water pipes may also result in AR., , Artificial recharge and aquifer storage and recovery are valuable water management tools that effectively help to offset increased demands for water. The variety of techniques, methods, and circumstances for these processes is vast and expanding., Artificial recharge requires some form of man-made structure. Surface spreading techniques involve keeping water at the surface in areas where the water can percolate down to a shallow, unconfined aquifer. Spreading basins, check dams in stream channels, furrows, trenches, and ditches are common AR examples (see Figure 1)., Surface spreading areas require periodic maintenance since the suspended sediment in the source water will settle out, clog the surface of the recharge area, and reduce the recharge rate. Microbial growth in the shallow soils also causes clogging. Many countries and most western states within the United States possess some AR projects that use some form of surface spreading techniques., Injection techniques use wells to accomplish AR. Injection wells usually place water directly into a deep, confined aquifer where surface spreading would usually not work. Injection wells also require maintenance to remove particles, microbial growth, and chemical precipitates (solid substances)., Injection wells are used in many countries. For example, such wells have been an important part of the water supply system in Israel since 1956. Society generally views the various AR structures as a more environmentally acceptable way to manage water rather than building dams for more surface storage. Yet the use of AR in any location still must overcome a variety of technical, legal, and financial obstacles., , Artificial recharge provides a tool to maintain or increase reliable water supplies. In some areas, agriculture and other uses have resulted in serious groundwater depletion. AR is important in these locations as a means of stabilizing the supply and sustaining withdrawals by wells. A large project in Los Angeles County, California recharges an annual average of 308 billion liters (80 billion gallons, or 250,000 acre-feet)., In some coastal areas, groundwater depletion can reverse the natural movement of groundwater to the sea and cause saltwater intrusion of the aquifer inland. In this case, AR provides a valuable hydraulic barrier that will likely prevent water quality degradation., Site selection for AR is critical. Some aquifers hold little or no potential for successful AR projects, whereas others have great potential. Ideally, an aquifer will hold, store, and transmit desired amounts of recharge water without significant migration and chemical degradation of that water. In addition, the permeability of shallow earth materials should not limit the infiltration by surface spreading. Site investigation for AR should include hydrogeologic mapping of the aquifer to identify aquifer characteristics. Advanced techniques would use computer simulations for modeling groundwater flow and transport., Water availability is often the most important consideration for the timing of AR. This occurs when the supply from the source is abundant and exceeds other demands. In most cases this involves strong seasonal weatherrelated influences, but it can also result during peak flow events or unusually wet years. Typically, AR by spreading techniques uses untreated surface water as its source. Injection techniques have used untreated water, treated drinking water, or reclaimed water, as appropriate for the site-specific conditions. The injection of reclaimed wastewater is a more constant supply and less dependent on seasonal availability., , Aquifer storage and recovery (ASR) may be defined as the storage of water in an aquifer through a well during times when water is available, and later recovery of the water from the same well (see Figure 2). ASR is a specific type of AR that involves potable water. The technique provides for specific placement of water in the aquifer and recovery of essentially the same water. Ideally, the recovered water will remain potable and not require additional treatment. ASR is generally pursued by cities., ASR can occur in saline (salty) or brackish aquifers. This is possible when the potable injection water displaces, rather than mixes with, the natural water. Some mixing on the fringes of the stored water does take place and reduces the quality of some of the recovered water. ASR pilot testing is important to identify the chemical changes associated with any aquifer., There are now ASR facilities in many countries and several U.S. states. Most of the facilities in the United States are in Florida, Arizona, and California, but the oldest ASR facility in the country is at Wildwood, New Jersey. Starting in 1968, the Wildwood community began the development of a system that now has four ASR wells. Each year the system stores about 380 million liters (99 million gallons) during off-peak months and recovers about 300 million liters (79 million gallons) during the summer months., ASR has valuable application potential in numerous locations. Many cities are already using ASR to provide a source of water for daily use, peak demands, and emergency supply. The popularity of ASR is likely to expand as a component of total municipal water supply., see also Aquifer Characteristics; Groundwater; Hydrogeologic Mapping; Hydrologic Cycle; Modeling Groundwater Flow and Transport; Reclamation and Reuse; Supplies, Protecting Public Drinking-Water; Wells and Well Drilling., Donn Miller , Bouwer, Herman, Ground Water Hydrology. New York: McGraw-Hill, 1978., O'Hare, Margaret P. et al. Artificial Recharge of Ground Water: Status and Potential in the Contiguous United States. Chelsea, MI: Lewis Publishers, 1986., Pyne, R. David G. Groundwater Recharge and Wells: A Guide to Aquifer Storage Recovery. Boca Raton, FL: CRC Press, 1994., Stiles, Eric, ed. High Plains States Groundwater Demonstration Program, Program Summary Report. Denver, CO: U.S. Bureau of Reclamation, 2000., Pyne, R. David G. Aquifer Storage and Recovery. &lt;http://www.asrforum.com&gt;., Water availability from streams varies seasonally due to climate differences. During low-flow periods, many streams may not possess enough water to sustain the aquatic ecosystem. Diverting water during high-flow periods for artificial recharge reduces the impact on aquatic stream life if the stored water later seeps back into the stream via a natural hydraulic connection., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Artificial Recharge."
+
+Water:Science and Issues.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Artificial Recharge." 
+Water:Science and Issues.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/artificial-recharge
+, 
+"Artificial Recharge." 
+Water:Science and Issues.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/artificial-recharge
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"artificial recharge."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"artificial recharge." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/artificial-recharge
+, 
+"artificial recharge." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/artificial-recharge
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"artificial recharge."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"artificial recharge." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/artificial-recharge-0
+, 
+"artificial recharge." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/artificial-recharge-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

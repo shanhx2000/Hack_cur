@@ -1,0 +1,5 @@
+In physics, sound is a vibration that typically propagates as an audible wave of pressure, through a transmission medium such as a gas, liquid or solid.
+
+In human physiology and psychology, sound is the reception of such waves and their perception by the brain.[1] Humans can only hear sound waves as distinct pitches when the frequency lies between about 20 Hz and 20 kHz. Sound waves above 20 kHz are known as ultrasound and is not perceptible by humans. Sound waves below 20 Hz are known as infrasound. Different animal species have varying hearing ranges.
+
+Sound can propagate through a medium such as air, water and solids as longitudinal waves and also as a transverse wave in solids (see Longitudinal and transverse waves, below). 

@@ -1,0 +1,305 @@
+[Geochemistry is the study of the chemical processes that form and shape the earth., Earth is essentially a large mass of crystalline solids that are constantly subject to physical and chemical interaction with a variety of solutions (e.g., water ) and substances. These interactions allow a multitude of chemical reactions., It is through geochemical analysis that estimates of the age of Earth are formed. Because radioactive isotopes decay at measurable and constant rates (e.g., half-life ) that are proportional to the number of radioactive atoms remaining in the sample, analysis of rocks and minerals can also provide reasonably accurate determinations of the age of the formations in which they are found. The best measurements obtained via radiometric dating (based on the principles of nuclear reactions) estimate the age of Earth to be four and one half billion years old., Dating techniques combined with spectroscopic analysis provide clues to unravel Earth's history. Using neutron activation analysis, Nobel Laureate Luis Alvarez discovered the presence of the element iridium when studying samples from the K-T boundary layer (i.e., the layer of sediment laid down at the end of the Cretaceous and beginning of the Tertiary Periods). Fossil evidence shows a mass extinction at the end of the Cretaceous Period , including the extinction of the dinosaurs. The uniform iridium layer—and presence of quartz crystals with shock damage usually associated only with large asteroid impacts or nuclear explosions—advanced the hypothesis that a large asteroid impact caused catastrophic climatic damage that spelled doom for the dinosaurs., Although hydrogen and helium comprise 99.9% of the atoms in the universe, Earth's gravity is such that these elements readily escape Earth's atmosphere. As a result, the hydrogen found on Earth is found bound to other atoms in molecules., , Geochemistry generally concerns the study of the distribution and cycling of elements in the crust of the earth. Just as the biochemistry of life is centered on the properties and reaction of carbon , the geochemistry of Earth's crust is centered upon silicon . Also important to geochemistry is oxygen . Oxygen is the most abundant element on Earth. Together, oxygen and silicon account for 74% of Earth's crust., The type of magma (Basaltic, Andesitic or Ryolytic) extruded by volcanoes and fissures (magma is termed lava when at Earth's surface) depends on the percentage of silicon and oxygen present. As the percentage increases, the magma becomes thicker, traps more gas, and is associated with more explosive eruptions., The eight most common elements found on Earth, by weight, are oxygen (O), silicon (Si), aluminum (Al), iron (Fe), calcium (Ca), sodium (Na), potassium (K), and magnesium (Mg)., Unlike carbon and biochemical processes where the covalent bond is most common, however, the ionic bond is the most common bond in geology . Accordingly, silicon generally becomes a cation and will donate four electrons to achieve a noble gas configuration. In quartz, each silicon atom is coordinated to four oxygen atoms. Quartz crystals are silicon atoms surrounded by a tetrahedron of oxygen atoms linked at shared corners., Rocks are aggregates of minerals and minerals are composed of elements. A mineral has a definite (not unique) formula or composition. Diamonds and graphite are minerals that are polymorphs (many forms) of carbon. Although they are both composed only of carbon, diamonds and graphite have very different structures and properties. The types of bonds in minerals can affect the properties and characteristics of minerals., Pressure and temperature affect the structure of minerals. Temperature can determine which ions can form or remain stable enough to enter into chemical reactions. Olivine , ((Fe, Mg)2 SiO4), for example is the only solid that will form at 1,800°C. According to olivine's formula, it must be composed of two atoms of either Fe or Mg. Olivine is built by the ionic substitution of Fe and Mg—the atoms are interchangeable because they the same electrical charge and are of similar size—and thus, olivine exists as a range of elemental compositions termed a solid solution series . Olivine can thus be said to be "rich" in iron or rich in magnesium. As magma cools larger atoms such as potassium ions enter into reactions and additional minerals form., The determination of the chemical composition of rocks involves the crushing and breakdown of rocks until they are in small enough pieces that decomposition by hot acids (hydrofluoric, nitric, hydrochloric, and perchloric acids) allows the elements present to enter into solution for analysis. Other techniques involve the high temperature fusion of powdered inorganic reagent (flux) and the rock . After melting the sample, techniques such as x-ray fluorescence spectrometry may be used to determine which elements are present., Chemical and mechanical weathering break down rock through natural processes. Chemical weathering of rock requires water and air. The basic chemical reactions in the weathering process include solution (disrupted ionic bonds), hydration, hydrolysis, and oxidation., The geochemistry involved in many environmental issues has become an increasing important aspect of scientific and political debate. The effects of acid rain are of great concern to geologists not only for the potential damage to the biosphere , but also because acid rain accelerates the weathering process. Rainwater is made acidic as it passes through the atmosphere. Although rain becomes naturally acidic as it contacts nitrogen, oxygen, and carbon dioxide in the atmosphere, many industrial pollutants bring about reactions that bring the acidity of rainwater to dangerous levels. Increased levels of carbon dioxide from industrial pollution can increase the formation of carbonic acid. The rain also becomes more acidic. Precipitation of this "acid rain" adversely affects both geological and biological systems., According to plate tectonic theory, the crust (lithosphere ) of Earth is divided into shifting plates. Geochemical analysis of Earth's tectonic plates reveals a continental crust that is older, thicker and more granite-like than the younger, thinner oceanic crusts made of basaltic (iron, magnesium) materials., See also  Atomic mass and weight; Atomic number; Atomic structure; Big Bang theory; Chemical bonds and physical properties; Chemical elements; Geologic time, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+ "Geochemistry."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Geochemistry." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/geochemistry
+, 
+"Geochemistry." 
+World of Earth Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/geochemistry
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Chalcophiles, lithophiles, siderophiles, and atmophiles are classes of elements based upon similar geochemical properties and reactive affinities. The classes were originally advanced by Swiss-born Victor Goldschmidt (1888–1947) and are terms still widely used by geologists and geochemists. The key factor in determining an element's class is the type of chemical bonds that the element forms., Chalcophile elements have a high bonding affinity—usually in the form of covalent bonds—with sulfur, and are, accordingly, usually abundant in sulfides. Chalcophiles also exhibit a bonding affinity with selenium, tellurium, arsenic, and antimony and therefore also exhibit high levels of derivatives of these elements. When sulfur is abundant, chalcophile elements readily form sulfide minerals as they precipitate from the magma . This process partially explains the formation of extensive deposits of iron-nickel-copper sulfides., Lithophiles have a high bonding affinity with oxygen . Lithophiles have an affinity to form ionic bonds and are represented by silicates (silicon and oxygen) in the crust and mantle. Other lithophile elements include magnesium, aluminum , sodium, potassium, iron , and calcium., , Siderophiles exhibit a weak affinity to both oxygen and sulphur. Siderophiles have an affinity for iron and a distinguishing characteristic of siderophiles is that they exhibit high solubility in molten iron. Siderophile elements generally have a low reactivity and exhibit an affinity to form metallic bonds. As a result, siderophiles are most often found in their native state. Not abundant in the core or mantle, most siderophiles are thought to be richest at Earth's core. Platinum (Pt) group metals, including Ruthium (Ru), Rhodium (Rd), Palladium (Pd), Osmium (Os), and Iridium (Ir), show exhibit a strong siderophile tendency., Atmophiles are a related fourth class of elements characterized by their ability to form van der Waals bonds. Atmophiles are also highly volatile., Chalcophiles, lithophiles, siderophiles, and atmophiles have differing densities. Accordingly, after formation from the molten state, these differential densities tend to separate the classes. For example, siderophiles have a greater average density than lithophiles and thus lithophiles would tend to "rise" in the molten state relative to siderophiles. Although the element classes were derived, in part, from an attempt to explain the distribution of elements, the density differences do not always result in the expected distribution of classes in the earth's core, mantle and crust., Because geochemical reactivity is a function of electron structure—especially the number of electrons available for bonding—element classes tend to follow groupings or trend as related to the periodic table . The difference in the classification of elements can also be linked to differing valence states., It is possible for some elements to be assigned to more than one group. The reactivity of an element can also be driven by the relative amounts of elements surrounding it. For example, iron, when in an oxygen deprived environment (e.g., at the earth's core) acts as a siderophile. In the more oxygen rich environment of the crust and mantle, iron acts as a lithophile or chalcophile, and in this form is commonly found in igneous rocks . When sulfur is present is found in sulfide deposits. Siderophiles when surrounded by sulfur, arsenic, and antimony may act as chalcophiles., See also  Chemical bonds and physical properties; Chemical elements, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Chalcophiles, Lithophiles, Siderophiles, and Atmophiles."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Chalcophiles, Lithophiles, Siderophiles, and Atmophiles." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/chalcophiles-lithophiles-siderophiles-and-atmophiles
+, 
+"Chalcophiles, Lithophiles, Siderophiles, and Atmophiles." 
+World of Earth Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/chalcophiles-lithophiles-siderophiles-and-atmophiles
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, geochemistry, study of the chemical changes on the earth. More specifically, it is the study of the absolute and relative abundances of chemical elements in the minerals, soils, ores, rocks, water, and atmosphere of the earth and the distribution and movement of these elements from one place to another as a result of their chemical and physical properties. Geochemical studies also include the study of isotopes of chemical elements, especially their abundance and stability in the universe. Geochemistry provides a theoretical basis for ore prospecting and has refined and improved the methods of determining the age of rocks including the use of radioactive isotopes to date the rock. Chemical studies of ancient sedimentary rocks and the fluids contained in them have provided insights into the evolution of the oceans and the atmosphere. Experiments have been conducted with gases that recreate the primordial atmosphere. Today, important work in geochemistry involves the study of geochemical cycles in the atmosphere; marine and estuarine waters; and the earth's crust. There are many studies in relation to the effects of massive amounts of pollutants on the environment.
+, See K. B. Krauskopf, Introduction to Geochemistry (1967); G. Faure, Principles and Applications of Geochemistry (1991)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"geochemistry."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"geochemistry." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/geochemistry
+, 
+"geochemistry." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/geochemistry
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"geochemistry."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"geochemistry." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/geochemistry
+, 
+"geochemistry." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/geochemistry
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+ge·o·chem·is·try 
+/ ˌjēōˈkeməstrē/
+•
+n.
+the study of the chemical composition of the earth and its rocks and minerals.
+
+DERIVATIVES: 
+ge·o·chem·i·cal
+/ -ˈkemikəl/ adj.
+ge·o·chem·ist
+/ -ˈkemist/ n.
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"geochemistry."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"geochemistry." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/geochemistry
+, 
+"geochemistry." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/geochemistry
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"geochemistry."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+ "geochemistry." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/geochemistry
+, 
+"geochemistry." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/geochemistry
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, History of the science of geochemistry, Characteristics and processes, Geochemistry for the future, Geochemistry is the study of the chemistry of Earth. Geochemists are interested in the origin and evolution of chemical compounds found in rock, soil, and water; the origin and decomposition of minerals and rocks; and the circulation of chemical elements through all parts of Earth including the atmosphere and biological forms., Understanding the distribution of chemical isotopes and their stability (or instability) is important in fields such as age-dating in archaeology and medical uses of radioactive isotopes. Some significant chemical elements like carbon, phosphorus, nitrogen, and sulfur have geochemical cycles that are indicators of environmental contamination or the need to rotate crops in fields., Geochemistry has many subdivisions. Inorganic geochemistry explains the relationships and cycles of the elements and their distribution throughout the structure of Earth. Exploration geochemistry (also called geochemical prospecting) uses geochemical principles to locate ore bodies, groundwater supplies, and oil and gas. Organic geochemistry uses the chemical indicators associated with life forms to trace human habitation as well as plant and animal activity on Earth, including the origin and evolution of petroleum. It has also been important in understanding the paleoclimate, paleooceanography, and primordial life and life’s evolution. Sedimentary geochemistry applies principles of geochemistry to understand chemical sedimentary rocks such as limestone, gypsum, and salt as well as the role of chemical reactions in the transformation of sediments into rock through a process known as diagenesis., Environmental geochemistry came into prominence in the 1980s when environmental concerns made the tracking of chemicals in organic tissues, groundwater, surface water, the marine environment, soil, and rock important to scientists, engineers, and government agencies responsible for the public wellbeing., , Geochemistry did not come into its own as a science until the 1800s. The discoveries of hydrogen and oxygen (two of the most important elements needed for life on earth) in 1766 by Henry Cavendish (1731–1810) and in 1770 by Joseph Priestley (1733–1804), respectively, opened the door for understanding chemical elements and the concept of the atom. Russia stakes claim to the founder of geochemistry, V. I. Vernadsky (1863–1945). Vernadsky was an expert in mineralogy and was the first to relate chemical elements to the formation of minerals in nature. Also in the 1800s, pioneering geochemists discovered how to produce salt from seawater and identified other elements and compounds like ozone, which helped in the understanding of the creation of life on Earth and the chemical requirements for maintaining it. The first American geochemist was F. W. Clarke (1847–1931), who became the chief chemist of the United States Geological Survey shortly after it was founded in 1884., Just as the biochemistry of life is centered on the properties and reaction of carbon, the geochemistry of Earth’s crust is centered upon silicon. Together, oxygen and silicon account for 74% of Earth’s crust., Unlike carbon and biochemical processes where the covalent bond is most common, many of the materials and processes of interest to geologists are characterized by ionic bonds. Silicon generally becomes a cation and will donate four electrons to achieve a noble gas configuration. In quartz, each silicon atom is coordinated to four oxygen atoms. Quartz crystals are silicon atoms surrounded by a tetrahedron of oxygen atoms linked at shared corners., Rocks are aggregates of minerals and minerals are composed of elements. All minerals have a definite, but not fixed, structure and composition. Diamonds and graphite are minerals that are polymorphs (many forms) of carbon. Although they are both composed only of carbon, diamonds and graphite have very different structures and properties. The types of bonds in minerals can affect the properties and characteristics of minerals., Pressure and temperature also affect the structure of minerals. Temperature can determine which ions can form or remain stable enough to enter into chemical reactions. Olivine (Fe, Mg2 SiO4), for example, is the only solid that will form at 1,800°C. Olivine is composed of two atoms of either iron or magnesium. The atoms are interchangeable because they carry the same electrical charge and are of similar size, thus, olivine exists as a range of compositions termed a solid solution series. Depending upon the ionic substitution of iron or magnesium, Olivine is said to be either rich in iron or rich in magnesium., The determination of the chemical composition of rocks involves the crushing and breakdown of rocks until they are in small enough pieces that decomposition by hot acids (hydrofluoric, nitric, hydrochloric, and perchloric acids) allows the elements present to enter into a solution for analysis. Other techniques involve the high temperature fusion of powdered inorganic reagent (flux) and the rock. After melting the sample, techniques such as x-ray fluorescence spectrometry may be used to determine which elements are present., Chemical and mechanical weathering break down rock through natural processes. Chemical weathering of rock requires water and air. The basic chemical reactions in the weathering process include solution (disrupted ionic bonds), hydration, hydrolysis, and oxidation., Of all the important work done by geochemists, improving our understanding of life on Earth may be the highest priority. In their mastery of the cycles of elements, geochemists can analyze other cycles such as the delicate balance between the atmosphere and the hydrosphere that produces the biosphere, or the portions of the earth either on land or in the water and air where life flourishes. New advances and understanding are broadening public awareness of the need to preserve the atmosphere and the oceans and our need to see the earth as a complicated mechanism., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Geochemistry."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Geochemistry." 
+The Gale Encyclopedia of Science.
+
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/geochemistry-0
+, 
+"Geochemistry." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/geochemistry-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The tools of chemistry can be applied to the study of the structure and composition of Earth and its neighboring planets in the solar system. Geochemistry has revealed that Earth has a layered solid structure. The thin outer crust, along with its water, and the gaseous atmosphere are capable of supporting life. Earth is a dynamic object, with circulation currents in its atmosphere and hydrosphere being driven by solar energy and the energy beneath its surface., Geochemistry is concerned with the exploitation of Earth’s resources, such as metals and petroleum. It has also helped in the understanding of some of today’s most important environmental problems, such as global warming, ozone depletion, and soil and water pollution. There is still a great deal to be learned about the chemistry of Earth, the dynamic processes that have shaped it and how human activities may change it., , Geochemistry is the study of the structure and composition of Earth. Its foundations were laid by Swiss mineralogist Victor Goldschmidt (1888–1947) in the early twentieth century. An important advance took place in the 1960s, when new oceanographic evidence backed the controversial theory of continental drift that had been put forward by German scientist Alfred Wegener (1880–1930) in 1912, in which he suggested that the continents had moved away from one another over geologic time. The underlying reason for continental drift is the slow movement of so-called tectonic plates, which are large blocks of Earth’s crust, driven by forces deep inside Earth., The solid part of Earth has a three-layered structure. The central core extends from the center of Earth for about 2,100 mi (3,380 km) and accounts for one third of its 5.976 × 1024 kilograms total mass. It is composed of iron and nickel. The inner part of the core is liquid. The core is surrounded by a layer called the mantle, which accounts for most of the rest of Earth’s mass and is around 2,000 mi (3,220 km) thick. The outermost area, the one people are most familiar with as earth, is the crust which comprises only 0.5% of the mass of Earth. Earth’s crust is much thinner than the other two layers, being only 60 mi (96 km) at its maximum depth and, in most places, it is much thinner than this., The major elements in Earth’s mantle and crust are, in order of abundance: oxygen (44%), magnesium (23%), silicon (21%), iron (8%), calcium (2.5%), and aluminum (2.4%). Iron and aluminum are of great economic importance, as are elements present in lesser amounts such as copper, silver, and, of course, gold. The mantle and crust are composed of minerals, which are inorganic crystalline compounds, which make up a hard substance called rock. Aluminum and magnesium silicates are the most common mineral groups found in rock, but there are also carbonates, sulfates, sulfides, and oxides. Over 3,500 different minerals have been found on Earth and characterized by chemical analysis and structural techniques like x-ray crystallography., , Each type of rock has its own characteristic mixture of minerals, occurring in different percentages and making up different grain sizes. For example, granite is a mixture of the minerals mica, feldspar, and quartz. Rocks might seem solid and stable but, in fact, they are constantly being broken down and reformed in a phenomenon known as the rock cycle. Rocks are classified according to how they are formed. Igneous rocks, like basalt, are formed from the cooling of molten rock emerging from volcanic vents. Sedimentary rocks are formed from sediment, which is an accumulation of rock, deposits and particles and precipitated matter from solution over a period of time. Examples include gypsum, sandstone, and limestone. Metamorphic rocks come from the action of pressure or heat on a rock after its original formation. For example, marble is a metamorphic rock made out of limestone., CHLOROFLUOROCARBONS (CFCS): A family of chemical compounds consisting of carbon, fluorine, and chlorine that were once used widely as propellants in commercial sprays but regulated in the United States since 1987 because of their harmful environmental effects., CORE: The central region of a star, where thermonuclear fusion reactions take place to produce the energy necessary for the star to support itself against its own gravity., CRUST: The hard, outer shell of Earth that floats upon the softer, denser mantle., MANTLE: The thick, dense layer of rock that underlies Earth’s crust and overlies the core., OZONE LAYER: The layer of ozone that begins approximately 15 km above Earth and thins to an almost negligible amount at about 50 km, and which shields Earth from harmful ultraviolet radiation from the sun. The highest natural concentration of ozone (approximately 10 parts per million by volume) occurs in the stratosphere at approximately 25 km above Earth. The stratospheric ozone concentration changes throughout the year as stratospheric circulation changes with the seasons. Natural events such as volcano eruptions and solar flares can produce changes in ozone concentration, but man-made changes are of the greatest concern., TECTONIC PLATES: Thick crustal blocks that move relative to one another on the outer surface of Earth, causing continents to shift., Rocks are broken down over a period of time by a process called weathering. Mechanical weathering is a physical disintegration of rocks into smaller particles by the action of waves, glaciers, rain, and wind. Chemical weathering actually changes the chemical composition of a rock by subjecting it to chemical reactions. Common forms of chemical weathering include oxidation, which is a reaction with oxygen in the atmosphere, and hydrolysis, which is a reaction with moisture., , Besides the solid part of Earth, geochemistry also covers the hydrosphere, which is the water in the oceans, seas, lakes, and smaller bodies, and the atmosphere. Together, Earth’s crust, hydrosphere, and lower atmosphere make up the biosphere, which is the zone at Earth’s surface that is occupied by plant, animal, and microbial life. The thin layer of soil on top of Earth’s crust is a mixture of minerals and organic matter that supports plant and invertebrate life., The Earth is a dynamic system. Solar energy drives ocean and atmospheric circulation and the hydrologic cycle. Forces within Earth arising from its liquid component cause movements of the tectonic plates that not only move continents and oceans on the geologic timescale, but also cause natural catastrophes such as volcanic eruptions and earthquakes., Earth’s crust contains many materials of economic value, such as metals, coal, and petroleum. The most significant metals are aluminum, nickel, iron, copper, zinc, mercury, tin, and lead. Gold, silver, and diamond also have a high value. Other important mineral resources include sand, gravel, limestone, and clay, which are used in building and construction work. Rock salt is important for culinary use and for water softening. Meanwhile, sulfur is mined for the manufacture of sulfuric acid, which is one of the most important raw materials of the chemical industry., Mining and extracting these valuable geochemical substances can have severe environmental and social consequences. Mining disfigures the landscape in a very obvious way and is often a dangerous occupation. It also releases pollutants into the air and water supply. This is why recycling and reducing our consumption of mineral resources, coal, and petroleum is so important., Geochemistry also plays an important role in helping to understand and control environmental problems. Analysis of atmospheric ozone levels over Antarctica in the early 1980s led to the discovery of an unexpected hole in the stratospheric ozone layer and its link to emissions of chlorofluorocarbons (CFCs). The findings helped shape the world’s first environmental treaty, the Montreal Protocol, in 1987, which requires the phasing out of CFCs so that ozone depletion can be slowed and eventually halted. Geochemical measurements in the atmosphere and oceans are also monitoring the effects of global warming. Increasingly sensitive instrumentation also allows for ongoing monitoring of pollution levels in air, water, and on land so that environmental legislation on emissions can be supported and enforced by high quality data., See Also Laboratory Methods in Environmental Science; Mining and Quarrying Impacts; Resource Extraction; Soil Chemistry, Books , Cunningham, W.P., and A. Cunningham. Environmental Science: A Global Concern. New York: McGraw-Hill International Edition, 2008., Web Sites , International Mine Water Association. “Geochemistry by William M. White, Cornell University.” August 25, 2005. http://www.imwa.info/geochemistry/ (accessed March 25, 2008)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Geochemistry."
+
+Environmental Science: In Context.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Geochemistry." 
+Environmental Science: In Context.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/energy-government-and-defense-magazines/geochemistry
+, 
+"Geochemistry." 
+Environmental Science: In Context.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/energy-government-and-defense-magazines/geochemistry
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Geochemistry is the science or study of the chemistry of the earth . Geochemists who practice this science are interested in the origin of chemical elements, their evolution , the classes and many divisions of minerals and rocks and how they are created and changed by earth processes, and the circulation of chemical elements through all parts of the earth including the atmosphere and biological forms., The circulation of elements in nature has many practical applications. Understanding the distribution of chemical isotopes and their stability (or instability) helps in fields as varied as age-dating in archaeology and medical uses of radioactive isotopes. Some significant chemical elements like carbon , phosphorus , nitrogen , and sulfur have geochemical cycles that are indicators of environmental contamination or the need to rotate crops in fields., , Geochemistry has many subdivisions. Inorganic geochemistry explains the relationships and cycles of the elements and their distribution throughout the structure of the earth and their means of moving by thermodynamics and kinetics. Exploration geochemistry (also called geochemical prospecting) uses geochemical principles to locate ore bodies, mineral fields, groundwater supplies, and oil and gas fields. Organic geochemistry uses the chemical indicators associated with life forms to trace human habitation as well as plant and animal activity on Earth. It has been important in understanding the paleoclimate , paleooceanography, and primordial life and life's evolution. Sedimentary geochemistry interprets what is known from hard rock geochemistry in soil and other sediments and their erosion , deposition patterns, and metamorphosis into rock. Environmental geochemistry is the newest branch of the science and came into prominence in the 1980s when environmental concerns made the tracking of chemicals in organic tissues, groundwater, surface water , the marine environment, soil, and rock important to scientists, engineers, and government agencies responsible for the public's well-being., Geochemistry did not come into its own as a science until the 1800s. The discoveries of hydrogen and oxygen (two of the most important elements needed for life on earth) in 1766 by Henry Cavendish and in 1770 by Joseph Priestley, respectively, opened the door for understanding chemical elements and the concept of the atom. Russia stakes claim to the founder of geochemistry, V. I. Vernadsky. Vernadsky was an expert in mineralogy and was the first to relate chemical elements to the formation of minerals in nature. Also in the 1800s, pioneering geochemists discovered how to produce salt from seawater and identified other elements and compounds like ozone , which helped in the understanding of the creation of life on earth and the chemical requirements for maintaining it. The first American geochemist was F. W. Clarke, who became the chief chemist of the United States Geological Survey shortly after it was founded in 1884., Just as the biochemistry of life is centered on the properties and reaction of carbon, the geochemistry of the Earth's crust is centered upon silicon. (Si). Also important to geochemistry is oxygen, the most abundant element on earth. Together, oxygen and silicon account for 74% of the Earth's crust., Unlike carbon and biochemical processes where the covalent bond is most common, ionic bonds are typically found in geology . Accordingly, silicon generally becomes a cation and will donate four electrons to achieve a noble gas configuration. In quartz, each silicon atom is coordinated to four oxygen atoms . Quartz crystals are silicon atoms surrounded by a tetrahedron of oxygen atoms linked at shared corners., Rocks are aggregates of minerals and minerals are composed of elements. All minerals have a definite structure and composition. Diamonds and graphite are minerals that are polymorphs (many forms) of carbon. Although they are both composed only of carbon, diamonds and graphite have very different structures and properties. The types of bonds in minerals can affect the properties and characteristics of minerals., Pressure and temperature also affect the structure of minerals. Temperature can determine which ions can form or remain stable enough to enter into chemical reactions . Olivine (Fe, Mg)2 SiO4), for example, is the only solid that will form at 1,800°C. According to Olivine's formula, it must be composed of two atoms of either iron or magnesium . The atoms are interchangeable because they carry the same electrical charge and are of similar size, thus, Olivine exists as a range of compositions termed a solid solution series. Depending upon the ionic substitution of iron or magnesium, Olivine is said to be either rich in iron or rich in magnesium., The determination of the chemical composition of rocks involves the crushing and breakdown of rocks until they are in small enough pieces that decomposition by hot acids (hydrofluoric, nitric, hydrochloric, and perchloric acids) allows the elements present to enter into a solution for analysis. Other techniques involve the high temperature fusion of powdered inorganic reagent (flux) and the rock. After melting the sample , techniques such as x-ray fluorescence spectrometry may be used to determine which elements are present., Chemical and mechanical weathering break down rock through natural processes. Chemical weathering of rock requires water and air. The basic chemical reactions in the weathering process include solution (disrupted ionic bonds), hydration, hydrolysis , and oxidation., Of all the important work done by geochemists, improving our understanding of life on Earth may be the highest priority. In their mastery of the cycles of elements, geochemists can analyze other cycles such as the delicate balance between the atmosphere and the hydrosphere that produces the biosphere , or the portions of the earth either on land or in the water and air where life flourishes. New advances and understanding are broadening public awareness of the need to preserve the atmosphere and the oceans and our need to see the earth as a complicated mechanism., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Geochemistry."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Geochemistry." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/geochemistry-1
+, 
+"Geochemistry." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/geochemistry-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

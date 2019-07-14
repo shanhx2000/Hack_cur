@@ -1,0 +1,623 @@
+[A model is an abstraction of reality or a representation of a real object or situation. In other words, a model presents a simplified version of something. It may be as simple as a drawing of house plans, or as complicated as a miniature but functional representation of a complex piece of machinery. A model airplane may be assembled and glued together from a kit by a child, or it actually may contain an engine and a rotating propeller that allows it to fly like a real airplane., A more useable concept of a model is that of an abstraction, from the real problem, of key variables and relationships. These are abstracted in order to simplify the problem itself. Modeling allows the user to better understand the problem and presents a means for manipulating the situation in order to analyze the results of various inputs (“what if” analysis) by subjecting it to a changing set of assumptions., In the business world, models can be used for many different types of analysis, and created models are considered to be intellectual property under U.S. law., , Some models are replicas of the physical properties (relative shape, form, and weight) of the object they represent. Others are physical models but do not have the same physical appearance as the object of their representation. A third type of model deals with symbols and numerical relationships and expressions. Each of these fits within an overall classification of four main categories: physical models, schematic models, verbal models, and mathematical models., Physical Models. Physical models look like the finished object they represent. Iconic models are exact or extremely similar replicas of the object being modeled. Model airplanes, cars, ships, and even models of comic book super-heroes look exactly like their counterpart but in a much smaller scale. Scale models of municipal buildings, shopping centers, and property developments such as subdivisions, homes, and office complexes all hopefully look exactly as the “real thing” will look when it is built. The advantage is the models' correspondence with the reality of appearance. In other words, the model user can tell exactly what the proposed object will look like, in three dimensions, before making a major investment., In addition to looking like the object they represent, some models perform as their counterparts would. This allows experiments to be conducted on the model to see how it might perform under actual operating conditions. Scale models of airplanes can be tested in wind tunnels to determine aerodynamic properties and the effects of air turbulence on their outer surfaces. Model automobiles can be exposed to similar tests to evaluate how wind resistance affects such variables as handling and gas mileage. Models of bridges and dams can be subjected to multiple levels of stress from wind, heat, cold, and other sources in order to test such variables as endurance and safety., A scale model that behaves in a manner that is similar to the “real thing” is far less expensive to create and test than its actual counterpart. These types of models often are referred to as prototypes., , Additionally, some physical models may not look exactly like their object of representation but are close enough to provide some utility. Many modern art statues represent some object of reality, but are so different that many people cannot clearly distinguish the object they represent. These are known as analog models. An example is the use of cardboard cutouts to represent the machinery being utilized within a manufacturing facility. This allows planners to move the shapes around enough to determine an optimal plant layout., Schematic Models. Schematic models are more abstract than physical models. While they do have some visual correspondence with reality, they look much less like the physical reality they represent. Graphs and charts are schematic models that provide pictorial representations of mathematical relationships. Plotting a line on a graph indicates a mathematical linear relationship between two variables. Two such lines can meet at one exact location on a graph to indicate the break-even point, for instance. Pie charts, bar charts, and histograms can all model some real situation, but really bear no physical resemblance to anything., Diagrams, drawings, and blueprints also are versions of schematic models. These are pictorial representations of conceptual relationships. This means that the model depicts a concept such as chronology or sequence. A flow chart describing a computer program is a good example. The precedence diagrams used in project management or in assembly-line balancing show the sequence of activities that must be maintained in order to achieve a desired result., , Verbal Models. Verbal models use words to represent some object or situation that exists, or could exist, in reality. Verbal models may range from a simple word presentation of scenery described in a book to a complex business decision problem (described in words and numbers). A firm's mission statement is a model of its beliefs about what business it is in and sets the stage for the firm's determination of goals and objectives., Verbal models frequently provide the scenario necessary to indicate that a problem is present and provide all the relevant and necessary information to solve the problem, make recommendations, or at least determine feasible alternatives. Even the cases presented in management textbooks are generally verbal models that represent the workings of a business without having to take the student to the firm's actual premises., Oftentimes, these verbal models provide enough information to later depict this problem in mathematical form. In other words, verbal models frequently are converted into mathematical models so that an optimal, or at least functional, solution may be found utilizing some mathematical technique. A look in any mathematics book, operations management book, or management science text generally provides some problems that appear in word form. The job of the student is to convert the word problem into a mathematical problem and seek a solution., , Mathematical Models. Mathematical models are perhaps the most abstract of the four classifications. These models do not look like their real-life counterparts at all. Mathematical models are built using numbers and symbols that can be transformed into functions, equations, and formulas. They also can be used to build much more complex models such as matrices or linear programming models., A common mathematical model used by businesses is the bell curve, which shows the statistical occurrence of data. The user can then solve the mathematical model (seek an optimal solution) by utilizing simple techniques such as multiplication and addition or more complex techniques such as matrix algebra or Gaussian elimination. Since mathematical models frequently are easy to manipulate, they are appropriate for use with calculators and computer programs., Mathematical models can be classified according to use (description or optimization), degree of randomness (deterministic and stochastic), and degree of specificity (specific or general). Following is a more detailed discussion of mathematical model types., Descriptive Models. Descriptive models are used to merely describe something mathematically. Common statistical models in this category include the mean, median, mode, range, and standard deviation. Consequently, these phrases are called “descriptive statistics.” Balance sheets, income statements, and financial ratios also are descriptive in nature., , Optimization Models. Optimization models are used to find an optimal solution. The linear programming models are mathematical representations of constrained optimization problems. These models share certain common characteristics. Knowledge of these characteristics enables the user to recognize problems that can be solved using linear programming., For example, a firm that assembles computers and computer equipment is about to start production of two new types of computers. Each type will require assembly time, inspection time, and storage space. The amounts of each of these resources that can be devoted to the production of the computers is limited. The manager of the firm would like to determine the quantity of each computer to produce in order to maximize the profit generated by their sale. In order to develop a suitable model, the manager has obtained the information in Table 1., In this problem, the total impact of each type of computer on the profit and each constraint is a linear function of the quantity of that variable. By completing the model with the relevant constraints, the user has a suitable model for determining the quantity of each computer to produce in order to maximize (the optimum) the firm's profit. Optimization also can mean minimization when referring to financial losses, scrap, rework, time, or distance. Again, optimization models may be used in this sense., , Deterministic Models. Deterministic models are those for which the value of their variables is known with certainty. In the previous example, the manager knew profit margins, and constraint values with certainty. This makes the linear programming model a deterministic optimization model., Models that have values that are not known with certainty are said to be stochastic or probabilistic models. For example, a manufacturer that is having trouble deciding whether to build a large or small facility knows that the solution to this capacity problem depends upon the volume of demand that materializes. High demand would require a large facility while low demand would require a small facility. While the manufacturer has no way of knowing with certainty what demand will be, it can at least determine the probability of the occurrence of each. For example, if the manufacturer estimates that the probability of the occurrence of high demand is 70 percent and the occurrence of low demand is 30 percent, it can use this information along with the monetary value (expected payoff) of each situation to construct mathematical models such as payoff matrices or decision trees to find an optimal decision (see Table 2)., This type of model can be said to be a stochastic optimization model. Some models can be very similar with the degree of randomness being the key differentiator. For example, in project management techniques, program evaluation and review technique (PERT) and the critical path method (CPM) are very similar except that CPM is used whenever the required time to complete the activities is known and PERT is used whenever the required activity times are not known but can be estimated. CPM is considered to be deterministic while PERT generally is said to be probabilistic. Once the activity times are established, the two techniques are virtually the same throughout the remainder of the problem's completion., , Specific Models. Specific models apply to only one situation or model one unique reality. The previous examples of profit function (descriptive), objective function (optimization), and payoff matrix (probabilistic), are all specific models. In other words, the values established in the model are relevant for that one unique situation. Linear programming models can be said to be deterministic specific, while decision trees can be called probabilistic specific models., General Models. General models can be utilized in more than one situation. For example, the question of how much to order is determined by using an economic order quantity (EOQ) model. EOQ models identify the optimal order quantity by minimizing the sum of certain annual costs that vary with order size. On the other hand, the question of how much should be ordered for the next (fixed) interval is determined by the fixed order interval (FOI) model, which is used when orders must be placed at fixed time intervals (weekly, twice, etc.)., Knowing the type of model that is required provides the user with some advantage when converting a verbal model to a mathematical model. For example, if the decision maker reads the verbal model and determines that the situation is probabilistic and uses situation-specific variables, he or she might seek to convert the verbal model to a payoff matrix or a decision tree (both examples of stochastic/probabilistic specific models)., The goal of modeling use is to adequately portray realistic phenomenon. Once developed properly, a great deal can be learned about the real-life counterpart by manipulating a model's variables and observing the results., Real-world decisions involve an overwhelming amount of detail, much of which may be irrelevant for a particular problem or decision. Models allow the user to eliminate the unimportant details so that the user can concentrate on the relevant decision variables that are present in a situation. This increases the opportunity to fully understand the problem and its solution., In his book, Operations Management, William J. Stevenson lists nine benefits of models:, With the advent of Internet business, web business models were born, and these are considered especially helpful in allowing companies to view complex relationships that exist only in cyberspace. According to Michael Rappa's 2008 article “Business Models on the Web,” basic business models such as the advertising model or the infomediary model can now be applied to Internet companies, replacing physical departments and processes with virtual components., The accuracy of the results of the model analysis is dependent upon how well the model represents reality. The closer the model is to its actual counterpart, the more accurate the conclusions drawn and the predictions made about the object of attention. Hence, the model user must strive for the most accurate representation possible., Model users also must be careful to identify the decision variable values that provide the best output for the model. This is referred to as the model's optimal solution. However, irrelevant variables may cloud the picture and cause inaccurate conclusions or sluggish analysis., In their book Operations Management: Concepts, Methods, and Strategies, Mark Vonderembse and Gregory White present a step-by-step process for successfully building a useful model:, If the user is not familiar with models and their use, he or she would be wise to study the variety of models that are available for use and seek to understand their purpose and how each is used to generate results. Additionally, the user would be well served to learn how the individual model's results are interpreted and used, and what assumptions and limitations apply to each., Models provide the most effective means developed for predicting performance. It is hard to conceive a prediction system that is not finally a model. To construct a model of a real process or system, careful consideration of the, system elements that must be abstracted is required. This in itself usually is a profitable activity, for it develops insights into the problem., Lack of information quickly appears when beginning to build a model. Companies may consider asking the following questions: What do we really know? Where are the gaps in available data? It is often impractical or impossible to manipulate the real world system in order to determine the effect of certain variables. The dangers in using predictive models lie in the possibility of oversimplifying problems to keep models in workable form. The decision maker may place too much faith in a seemingly rigorous and complete analysis., It is important for the model user to realize that model development and model solution are not completely separable. While the most accurate representation possible may seem desirable, the user still must be able to find a solution to the modeled problem. Model users need to remember that they are attempting to simplify complex problems so that they may be analyzed easily, quickly, and inexpensively without actually having to perform the task. Also desirable is a model that allows the user to manipulate the variables so that “what if” questions can be answered., Models come in many varieties and forms, ranging from the simple and crude to the elegant and exotic. Whatever category they are in, all models share the distinction of being simplifications of more complex realities that should, with proper use, result in a useful decision-making aid., Models are important and widely used in management. Marketing managers utilize the product life cycle model to facilitate understanding of the phases of product life. Accounting managers use ratios, such as the current ratio and the quick ratio, to quickly grasp the ability of an organization to pay its bills in the short term. Information systems managers have flow diagrams to depict the logic needed to develop a computerized order-entry system. Financial managers use net present value and internal rate of return in analyzing investment alternatives. Operations managers have precedence diagrams, decision trees, lot sizing models, material requirements planning, assembly-line balancing, and a host of other models they can use to make better decisions. Organizational performance is a result of the decisions that management makes. Models make these decisions easier to understand and often can lead to an optimal choice., SEE ALSO Decision Rules and Decision Analysis; Decision Support Systems , Buffa, Elwood S. Operations Management: Problems and Models. 3rd ed. New York: Wiley, 1972., Meredith, Jack R., and Scott M. Shafer. Operations Management for MBAs. New York: John Wiley &amp; Sons, 1999., Rappa, Michael. “Business Models on the Web.” Managing the Digital Enterprise. Available from: http://digitalenterprise.org/index.html.Updated 2008., Stevenson, William, J. Operations Management. 7th ed. Boston: McGraw-Hill/Irwin, 2002., Vonderembse, Mark A., and Gregory P. White. Operations Management: Concepts, Methods, and Strategies. 3rd ed. Minneapolis/St. Paul, MN: West Publishing Company, 1996., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Models and Modeling."
+
+Encyclopedia of Management.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Models and Modeling." 
+Encyclopedia of Management.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/management/encyclopedias-almanacs-transcripts-and-maps/models-and-modeling
+, 
+"Models and Modeling." 
+Encyclopedia of Management.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/management/encyclopedias-almanacs-transcripts-and-maps/models-and-modeling
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Modeling, which is also called observational learning or imitation, is a behaviorally based procedure that involves the use of live or symbolic models to demonstrate a particular behavior, thought, or attitude that a client may want to acquire or change. Modeling is sometimes called vicarious learning, because the client need not actually perform the behavior in order to learn it., Modeling therapy is based on social learning theory. This theory emphasizes the importance of learning from observing and imitating role models, and learning about rewards and punishments that follow behavior. The technique has been used to eliminate unwanted behaviors, reduce excessive fears, facilitate learning of social behaviors, and many more. Modeling may be used either to strengthen or to weaken previously learned behaviors., , Modeling has been used effectively to treat individuals with anxiety disorders, post-traumatic stress disorder , specific phobias , obsessive-compulsive disorder , eating disorders, attention-deficit/hyperactivity disorder , and conduct disorder . It has also been used successfully in helping individuals acquire such social skills as public speaking or assertiveness. The effectiveness of modeling has led to its use in behavioral treatment of persons with substance abuse disorders, who frequently lack important behavioral skills. These persons may lack assertiveness, including the ability to say "no"; in addition, they may have thought patterns that make them more susceptible to substance abuse., Modeling when used alone has been shown to be effective for short-term learning. It is, however, insufficient for long-lasting behavior change if the target behavior does not produce rewards that sustain it. Modeling works well when it is combined with role-play and reinforcement . These three components are used in a sequence of modeling, role-play, and reinforcement. Role-play is defined as practice or behavioral rehearsal of a skill to be used later in real-life situations. Reinforcement is defined as rewarding the model's performance or the client's performance of the newly acquired skill in practice or in real-life situations., Several factors increase the effectiveness of modeling therapy in changing behaviors. Modeling effects have been shown to be more powerful when:, , Therapy begins with an assessment of the client's presenting problem(s). The assessment usually covers several areas of life, including developmental history (the client's family background, education, employment, social relationships); past traumatic experiences; medical and psychiatric history; and an outline of the client's goals. The client works with the therapist to list specific treatment goals; to determine the target behavior(s) to be learned or changed; and to develop a clear picture of what the behavior(s) will look like. The therapist then explains the rationale and concepts of the treatment. He or she also considers any negative consequences that may arise as the client makes changes in his or her behavior., The client then observes the model enacting the desired behavior. Some models may demonstrate poor or inadequate behaviors as well as those that are effective. This contrast helps the client to identify ineffective behaviors as well as desired ones. Modeling can be done in several different ways, including live modeling, symbolic modeling, participant modeling, or covert modeling., Live modeling refers to watching a real person, usually the therapist, perform the desired behavior the client has chosen to learn. For example, the therapist might model good telephone manners for a client who wants a job in a field that requires frequent telephone contact with customers., Symbolic modeling includes filmed or videotaped models demonstrating the desired behavior. Other examples of symbolic models include photographs, picture books, and plays. A common example of symbolic modeling is a book for children about going to the hospital, intended to reduce a child's anxiety about hospitals and operations. With child clients, cartoon figures or puppets can be used as the models. Self-modeling is another form of symbolic modeling in which clients are videotaped performing the target behavior. The video is than replayed and clients can observe their behaviors and how they appear to others. For example, public speaking is one of the most common feared situations in the general adult population. A law student who is afraid of having to present arguments in a courtroom might be videotaped speaking to classmates who are role-playing the judge and members of the jury. The student can then review the videotape and work on his or her speech problems or other aspects of the performance that he or she would like to change., In participant modeling, the therapist models anxiety-evoking behaviors for the client, and then prompts the client to engage in the behavior. The client first watches as the therapist approaches the feared object, and then approaches the object in steps or stages with the therapist'sencouragement and support. This type of modeling is often used in the treatment of specific phobias. For example, a person who is afraid of dogs might be asked to watch the therapist touch or pet a dog, or perhaps accompany the therapist on a brief walk with a dog. Then, with the therapist's encouragement, the client might begin by touching or holding a stuffed dog, then watching a live dog from a distance, then perhaps walking a small dog on a leash, and eventually by degrees touching and petting a live dog., , In covert modeling, clients are asked to use their imagination, visualizing a particular behavior as the therapist describes the imaginary situation in detail. For example, a child may be asked to imagine one of his or her favorite cartoon characters interacting appropriately with other characters. An adult client is asked to imagine an admired person in his or her life performing a behavior that the client wishes to learn. For example, a person may greatly admire his or her mother for the way she handled the challenges of coming to the United States from another country. If the client is worried about the challenge of a new situation (changing careers, having their first child, etc.), the therapist may ask him or her to imagine how their mother would approach the new situation, and then imagine themselves acting with her courage and wisdom., Models in any of these forms may be presented as either a coping or a mastery model. The coping model is shown as initially fearful or incompetent and then is shown as gradually becoming comfortable and competent performing the feared behavior. A coping model might show a small child who is afraid of swimming in the ocean, for example. The little boy or girl watches smaller children having fun playing in the waves along the edge of the shore. Gradually the child moves closer and closer to the water and finally follows a child his or her age into the surf. The mastery model shows no fear and is competent from the beginning of the demonstration. Coping models are considered more appropriate for reducing fear because they look more like the client, who will probably make mistakes and have some setbacks when trying the new behavior., Having the model speak his or her thoughts aloud is more effective than having a model who does not verbalize. As the models speak, they show the client how to think through a particular problem or situation. A common example of this type of modeling is sports or cooking instruction. A golf or tennis pro who is trying to teach a beginner how to hold and swing the club or racquet will often talk as they demonstrate the correct stance and body movements. Similarly, a master chef will often talk to students in a cooking class while he or she is cutting up the ingredients for a dish, preparing a sauce, kneading dough, or doing other necessary tasks. The model's talking while performing an action also engages the client's sense of hearing, taste, or smell as well as sight. Multisensory involvement enhances the client's learning., , Role-playing is a technique that allows the client opportunities to imitate the modeled behaviors, which strengthens what has been learned. Role-play can be defined as practice or behavior rehearsal; it allows the client to receive feedback about the practice as well as encouraging the use of the newly learned skill in real-life situations. For example, a group of people who are trying to learn social skills might practice the skills needed for a job interview or for dealing with a minor problem (returning a defective item to a store, asking someone for directions, etc.). Role-play can also be used for modeling, in that the therapist may role-play certain situations with clients. During practice, the therapist frequently coaches, prompts, and shapes the client's enactment of the behavior so that the rehearsals can come increasingly close to the desired behavior., Feedback and social reinforcement of the client's performance in the practice phase is an important motivator for behavior change. Feedback may take the form of praise, approval, or encouragement; or it may be corrective, with concrete suggestions for improving the performance. Suggestions are followed by additional practice. Such tangible reinforcements as money, food, candy, or tokens have been used with young children and chronic psychiatric patients. The therapist may teach the client how to use self-reinforcement; that is, using self-praise after performing the desired behavior. The purpose of reinforcement is to shift the client's performance concerns from external evaluation by others to internal evaluation of their own efforts., Modeling has been shown to be effective in such group programs as social skills training and assertiveness training as well as in individual therapy. The general approach to both social skills training and assertiveness training is the incorporation of the modeling, role-play, and reinforcement sequence. After assessment of each group member's presenting problem, each member is asked to keep a diary of what happened when the situation occurred during the week. Group members develop goals for dealing with their individual situations, and each person determines how he or she can meet these goals. Modeling is done with either the therapist or other group members role-playing how to deal effectively with a particular problem situation., , While modeling therapy is a relatively short-term approach to behavioral change, some therapeutic techniques take longer than others. Imagery, for example, requires more sessions than in vivo (real-life) treatments. In vivo work that takes place outside the therapist's office would require longer time periods for each session. Other considerations include the nature of the client's problem; the client's willingness to do homework; the client's financial resources; and the presence and extent of the client's support network. The therapist's length of experience and personal style also affect the length of therapy., There are, however, guidelines of treatment length for some disorders. Treatment of obsessive-compulsive disorder may require five weekly sessions for approximately three weeks, with weekly follow-up sessions for several months. Depressive disorders may require three to six months, with the client experiencing short-term relief after three to four weeks of treatment. General anxiety disorder may also take several months of weekly sessions. The length of treatment depends on the ability to define and assess the target behaviors. Clients may meet with the therapist several times a week at the beginning of treatment; then weekly for several months; then monthly for follow-up sessions that may become fewer in number or spaced more widely until therapy is terminated., Modeling or observational learning is effective as a method of learning such behaviors as self-assertion, self-disclosure, helping others, empathic behaviors, moral judgment, and many other interpersonal skills. Modeling is also effective in eliminating or reducing such undesirable behaviors as uncontrolled aggression, smoking, weight problems, and single phobias., The expected outcome is that clients will be able to use their new behaviors outside the treatment setting in real-life situations. This result is called transfer of training, generalization, or maintenance. Homework is the most frequently used technique for transfer of training. Homework may represent a contractual agreement between the therapist and the client in which the client gives a report on his or her progress at each meeting., To ensure that generalization occurs and that clients will use their new skills, several "tranfer enhancers" are used to increase the likelihood of successful transfer of training. Transfer enhancers include:, See also Behavior modification, Braswell, Lauren and Philip C. Kendall. "Cognitive-Behavioral Therapy with Youth." In Handbook of Cognitive Behavioral Therapies, edited by Keith S. Dobson. 2nd ed. New York: The Guilford Press. 2001., Jinks, Gordon. "Specific Strategies and Techniques." In Handbook of Counselling and Psychotherapy, edited by Colin Feltham and Ian Horton. London: Sage Publications, 2000., Sharf, Richard S. "Behavior Therapy." In Theories of Psychotherapy and Counseling: Concepts and Cases.  2nd ed. Stamford: Thomson Learning, 2000., American Psychological Association. 750 First St. N.E., Washington, D.C. 20002. (202) 336-5800. &lt;http://helping.apa.org&gt;., Association for Advancement of Behavior Therapy. 305 Seventh Ave., 16th Floor, New York, NY 10001. (212) 647-1890. &lt;http://www.aabt,org&gt;., National Institute of Mental Health. 6001 Executive Boulevard, RM8184, MSC 9663, Bethesda, MD 20892-9663. (301) 443-4513. &lt;http://www.nimh.nih.gov&gt;., National Mental Health Association. 1021 Prince Street, Alexander, VA 22314-2971. (703) 684-7722. &lt;http://www.nmha.org&gt;., Janice VanBuren, Ph.D., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Modeling."
+
+Gale Encyclopedia of Mental Disorders.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Modeling." 
+Gale Encyclopedia of Mental Disorders.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/psychology/encyclopedias-almanacs-transcripts-and-maps/modeling
+, 
+"Modeling." 
+Gale Encyclopedia of Mental Disorders.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/psychology/encyclopedias-almanacs-transcripts-and-maps/modeling
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, BIBLIOGRAPHY, Social sciences rely increasingly on modeling as a result of their mathematization, the overall computerization of science, and the increase of available data. Once dubbed the “hermeneutic sciences,” the social sciences now resemble more than before the natural sciences, in which model building, testing, and comparison occupy a central role. In this development, economists have undoubtedly been pioneers among the social scientists: Since World War II, model building has become the main practice of economists. What is more, the various modeling methods adopted and developed by economists have disseminated to other social sciences. Especially, political scientists have been inspired by the rational-choice style of modeling and the associated mathematical techniques used by economists (see Morton 1999). Sociologists have, however, preferred statistical modeling, being rather skeptical about modeling social phenomena in abstract mathematical terms (Edling 2002)., Interestingly, although social scientists use in their modeling activities the same kinds of mathematical and statistical tools that natural scientists use, they often see models in a different light than do natural scientists. Whereas for social scientists models tend to be highly abstract and even unrealistic depictions of their target systems, both natural scientists and philosophers have tended to appreciate the concreteness of models as opposed to the theory. This contrast between the attitudes of social and natural scientists is partly explained by the fact that with models, social scientists often refer to what they call “formal” or “mathematical models,” which seem hopelessly plain and simple in comparison to the social phenomena they aim to explain. Although by “formal models” social scientists usually mean “mathematical models,” a model need not be mathematical to be formal. Any model that is presented symbolically or diagrammatically, allowing one to manipulate the model in order to obtain different results or predictions, can be regarded as formal. A good example of formal but not mathematical models is provided by chemical formulas (such as H2O for water). Several philosophers, especially adherents to the semantic conception of theories (see below), distinguish between “abstract models” and the mathematical means used to express them. From their point of view, a set of mathematical equations, that is, what frequently is called a “mathematical model” by social scientists, actually should not be regarded as a model, but rather the abstract entity to which these equations refer., , Generally speaking, the most conspicuous feature of scientific models is perhaps the variety of the forms and functions they may take in scientific endeavors. The things called “models” in science make up a truly heterogeneous group: They can be diagrams, physical three-dimensional things, mathematical equations, computer simulations, model organisms, or even laboratory populations. Apart from explanation and prediction, models are used for heuristic purposes and as a tool for theory construction. Moreover, it is typical of modeling that models are often employed to explore the implications, dynamics, or internal consistency of multiple theoretical assumptions. Models can also be used as “proofs” of various theoretical possibilities., Examples of well-known theoretical models in economics and political science include the Heckscher-Ohlin-Samuelson model, which is a general equilibrium mathematical model of international trade; the Hicks-Hansen IS-LM model, which summarizes some major features of Keynesian macroeconomics with the help of two curves; the Edgeworth-Bowley diagram, which is a geometric device defining efficient allocations in exchange situations; and the Hotelling-Downs model of two-party competition, which predicts that candidates converge to the policy preferred by the median voter. What is remarkable about these models (and is reflected, in fact, by their names) are the long histories during which they have been developed and extended by several authors. These examples exemplify also other typical features of models: their didactic value, for which the IS-LM model is especially famous, and the applicability of models as general templates to very different kinds of problems. For instance, the Edgeworth-Bowley diagram has been used for analyzing various kinds of situations in economics: consumers in exchange, production decisions of firms, welfare questions, and so on. The Hotelling-Downs model has in turn traveled from economics to political science, in which instance the original geographical dimension of the model has become merely metaphoric., Theoretical models in the social sciences are tested either through experimentation or by estimating them by statistical methods. Often, though, the empirical models in the social sciences are based on informal theoretical reasoning, not having a formal model as a starting point. Apart from testing, integrating data, and guiding further observation and theory construction, empirical quantitative models are also constructed for predictive purposes. The statistical techniques used for predictive analysis can be grouped into different regression techniques widely used by econometrics and machine-learning approaches that originate from the research on artificial intelligence. Sharing characteristics of both theory and experiment, computer simulation offers an alternative to traditional mathematical modeling in that it allows theoreticians to experiment with more complex theoretical models than what is possible if the models are required to be analytically solvable. Moreover, the possibility provided by multiagent simulation models of exploring the emergence of macro-level behaviors from the interactions of micro-level entities in some environmental contexts seems attractive from the social science point of view., , Given the multiplicity of models and their uses in science, it has been difficult to explicate what kind of entities models are and how they give us knowledge. Two different philosophical approaches to models can be discerned in the literature. On one hand, there have been attempts to establish, within a formal framework, what scientific models are: The earlier, syntactic view of theories and the prevailing semantic approach to models are both attempts of this kind. According to the syntactic view, the task of a model was to provide an interpretation to a skeletal axiomatized theory “in terms of more or less familiar conceptual or visualizable materials” (Nagel 1961, p. 90). The syntactic view was contested by the semantic conception of theories, which replaced the syntactic formulation of a theory with a theory's models. According to the semantic conception, theories are not assemblages of propositions or statements, but rather assemblages of models, which are taken to be structures that are defined by the use of suitable logico-mathematical language., On the other hand, issues such as scientific reasoning, scientific discovery, and theory change have prompted philosophers to focus on the role and place of models in scientific practice (see Hesse 1966). Continuing this line of work, Margaret Morrison and Mary Morgan (1999) have suggested that models should be understood as investigative instruments that mediate between theory and data because of their autonomous nature. The autonomousness of models is due to their heterogeneous construction: Apart from theoretical notions and empirical data, they may contain also analogies, mathematical techniques, stylized facts, and policy views (Boumans 1999). As Morrison and Morgan stress that through the work of constructing and manipulating models we learn from them, their approach provides a starting point for treating models also as productive things, instead of attributing their cognitive value only to representation (Knuuttila 2005)., Indeed, the epistemic value of models has traditionally been assigned to representation. It has been claimed that models give us knowledge to the extent that they represent accurately their target phenomena. This has proven problematical, especially for the social sciences, because we usually already have some kind of preunderstanding of the social reality—which may not match with the theoretical representations of it. Of all the social sciences, economics, whose mathematization started already in the nineteenth century, has been most ridden with this problem. The most persistent philosophical problem of economics has concerned the “realisticness” of economic theories and their basic assumptions. The issue has been whether such assumptions as utility maximization, perfect information, and perfectly competitive markets “are (‘too’) unrealistic or (‘sufficiently’) realistic,” or whether that should matter at all (Mäki 1994, p. 236). Famously, the 1974 Nobel prize winner in economics, Milton Friedman, has claimed that the “unrealism” of the assumptions of economics does not matter because the goal of science is the development of hypotheses that give “valid and meaningful” predictions about phenomena (Friedman 1953). To economists themselves, however, the basic assumptions do seem to matter—being a subject of continued discussion—and thus the question is how to defend them., , Uskali Mäki has suggested that economists practice a “method of isolation,” in which a set of elements is theoretically removed from the influence of other elements in a given situation with the help of idealizing assumptions (Mäki 1992). Consequently, a theory may be true even if it is partial and involves idealizations, if it has succeeded in representing the workings of the isolated causal factors in a right way. Robert Sugden (2002) denies that economic models are made by abstracting key features of the real world. He treats economic models as (more or less) “credible worlds” whose relation to the real world is established by inferential reasoning. Moreover, he claims that we compare model systems to real systems in much the same way as we compare two real systems to each other. What the two approaches have in common is that they both conceive of economic modeling as devising plausible causal mechanisms that might produce the observable phenomena., SEE ALSO Economics; Friedman, Milton; Game Theory; Heckscher-Ohlin-Samuelson Model; Ideal Type; IS-LM Model; Mathematics in the Social Sciences; Mundell-Fleming Model; Philosophy of Science; Positivism; Realism; Samuelson, Paul A.; Social Science , Boumans, Marcel. 1999. Built-In Justification. In Models as Mediators: Perspectives on Natural and Social Science, ed. Mary S. Morgan and Margaret Morrison, 66–96. Cambridge, U.K.: Cambridge University Press., Edling, Cristofer R. 2002. Mathematics in Sociology. Annual Review of Sociology 28: 197–220., Friedman, Milton. 1953. Essays in Positive Economics. Chicago: University of Chicago Press., Hesse, Mary. 1966. Models and Analogies in Science. Notre Dame, IN: University of Notre Dame Press., Knuuttila, Tarja. 2005. Models, Representation, and Mediation. Philosophy of Science 72: 1260–1271., Mäki, Uskali. 1992. On the Method of Isolation in Economics. Poznań Studies in the Philosophy of Science and Humanities 26: 316–351., Mäki, Uskali. 1994. Reorienting the Assumptions Issue. In New Directions in Economic Methodology, ed. Roger Backhouse, 236–256. London: Routledge., Morrison, Margaret, and Mary S. Morgan. 1999. Models as Mediating Instruments. In Models as Mediators: Perspectives on Natural and Social Science, ed. Mary S. Morgan and Margaret Morrison, 10–37. Cambridge, U.K.: Cambridge University Press., Morton, Rebecca M. 1999. Methods and Models: A Guide to the Empirical Analysis of Formal Models in Political Science. Cambridge, U.K.: Cambridge University Press., Nagel, Ernest. 1961. The Structure of Science. New York: Harcourt, Brace., Sugden, Robert. 2002. Credible Worlds: The Status of the Theoretical Models in Economics. In Fact and Fiction in Economics: Models, Realism, and Social Construction, ed. Uskali Mäki, 107–136. Cambridge, U.K.: Cambridge University Press., Tarja Knuuttila  , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Models And Modeling."
+
+International Encyclopedia of the Social Sciences.
+.
+ Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Models And Modeling." 
+International Encyclopedia of the Social Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/models-and-modeling
+, 
+"Models And Modeling." 
+International Encyclopedia of the Social Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/models-and-modeling
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The process of learning by watching others; a therapeutic technique used to effect behavioral change., The use of modeling in psychotherapy was influenced by the research of social learning theorist Albert Bandura , who studied observational learning in children, particularly in relation to aggression . Bandura pioneered the concept of vicarious conditioning , by which one learns not only from the observed behavior of others but also from whether that behavior is rewarded or punished. Bandura concluded that certain conditions determine whether or not people learn from observed behavior. They must pay attention and retain what they have observed, and they must be capable of and motivated to reproduce the behavior. The effects of observed behavior are also stronger if the model has characteristics similar to those of the observer or is particularly attractive or powerful (the principle behind celebrity endorsements). Bandura maintained that television offered a major source of modeling, educating thousands of people to drink certain sodas or use brand name soaps. Likewise, violence and death modeled on television influenced behaviors, according to some social learning who cite the assassination attempt on President Ronald Reagan. John Hinckley made the attempt after watching Taxi Driver 15 times. Four girls testified in court that they watched Born Innocent before raping a California girl with a bottle, similar to a scene in the movie. Other theorists counter that television provides a release, rather than a modeling for aggressive behavior. In one study, researchers found that juvenile boys who watched aggressive television shows were less likely to exhibit violence than juvenile boys who did not., Critics of modeling as an explanation for violent behavior maintain that the theory does not allow for differences in genetics, brain functioning and learning differences. Critics of the Bandura's findings on aggression maintain that the methods employed led to the outcome, including high frustration levels of children because they were not allowed to touch the toys., As a therapeutic technique for changing one's behavior, modeling has been especially effective in the treatment of phobias. As with systematic desensitization , an individual is exposed to the feared object or situation in progressively anxiety-provoking forms. However, this series of confrontations, instead of being imagined or experienced directly, is first modeled by another person. In symbolic modeling, the person receiving treatment has also had relaxation training, and his or her task is to watch the series of modeled situations (live or on film) while remaining relaxed. As soon as a situation or action provokes anxiety, it is discontinued and the observer returns to a state of relaxation. In another effective technique, "live modeling with participation," the observer actively imitates the behavior of a live model in a series of confrontations with a feared object or situation. For example, persons being treated to overcome fear of snakes watch and imitate a model. They gradually progress from touching a snake with a gloved hand to retrieving a loose snake bare-handed and letting it crawl on their bodies., In individual therapy sessions, the therapist may model anxiety-producing behaviors while the client, remaining relaxed, first watches and then imitates them. In therapy involving social skills and assertiveness training, this technique may take the form of behavioral rehearsal , in which the therapist models and then helps the client practice new, more socially adaptive behaviors., Beyond phobias, modeling has wide application in therapy. Therapists use the modeling technique to illustrate healthy behaviors that clients can learn by example and practice in session. With children, the therapist models a variety of responses to difficult situations. In the situation of dealing with a classroom bully, the therapist models alternate responses in the context of a role play , where the therapist acts as the child initially and the child assumes the role of the bully. Then roles reverse. The child practices the behavior and responses modeled while the therapist portrays the bully. In couples' therapy, modeling is used to teach listening and communications skills. With quarreling couples, the therapist models responses to facilitate resolution rather than spiral the discussion downward into name-calling. Modeling has also been used effectively in anger management and in abuse cases., Schools offer one of the largest arenas for modeling where teachers first demonstrate the behavior they seek, be it classroom decorum or how to work a long division problem. Bandura maintains that self-efficacy may be influenced by modeling. A behavior modeled increases the student's belief about what is possible, enhancing the student's ability to accomplish the task set forth., See also Imitation, Bandura, Albert. Self-Efficacy: The Exercise of Control. New York: W. H. Freeman, 1997., Decker, Phillip J. and Nathan, Barry R. Behavior Modeling Training: Principles and Application. New York: Praeger, 1985., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Modeling."
+
+Gale Encyclopedia of Psychology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Modeling." 
+Gale Encyclopedia of Psychology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/medicine/encyclopedias-almanacs-transcripts-and-maps/modeling
+, 
+"Modeling." 
+Gale Encyclopedia of Psychology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/medicine/encyclopedias-almanacs-transcripts-and-maps/modeling
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+mod·el 
+/ ˈmädl/
+•
+n.
+1.
+a three-dimensional representation of a person or thing or of a proposed structure, typically on a smaller scale than the original:
+a model of St. Paul's Cathedral |
+[as  adj.]
+a model airplane. 
+ ∎ 
+(in sculpture) a figure or object made in clay or wax, to be reproduced in another more durable material.
+
+2.
+a system or thing used as an example to follow or imitate:
+the law became a model for dozens of laws banning nondegradable plastic products |
+[as  adj.]
+a model farm. 
+ ∎ 
+a simplified description, esp. a mathematical one, of a system or process, to assist calculations and predictions:
+a statistical model used for predicting the survival rates of endangered species.
+ ∎  (model of)
+a person or thing regarded as an excellent example of a specified quality:
+as she grew older, she became a model of self-control |
+[as  adj.]
+he was a model husband and father.
+ ∎  (model for)
+an actual person or place on which a specified fictional character or location is based:
+the author denied that Marilyn was the model for his tragic heroine.
+
+
+3.
+a person, typically a woman, employed to display clothes by wearing them:
+a fashion model.
+ ∎ 
+a person employed to pose for an artist, photographer, or sculptor.
+
+
+4.
+a particular design or version of a product:
+trading your car in for a newer model.
+
+
+•
+v.
+(-eled
+, -el·ing
+;  Brit.  -elled, -el·ling) [tr.]
+1.
+fashion or shape (a three-dimensional figure or object) in a malleable material such as clay or wax:
+use the icing to model a house.
+ ∎ 
+(in drawing or painting) represent so as to appear three-dimensional:
+the body of the woman to the right is modeled in softer, riper forms.
+ ∎  (model something on/after)
+use (esp. a system or procedure) as an example to follow or imitate:
+the research method will be modeled on previous work.
+ ∎  (model oneself on)
+take (someone admired or respected) as an example to copy:
+he models himself on rock legend Elvis Presley.
+ ∎ 
+devise a representation, esp. a mathematical one, of (a phenomenon or system):
+a computer program that can model how smoke behaves.
+
+2.
+display (clothes) by wearing them.
+ ∎  [intr.]
+work as a model by displaying clothes or posing for an artist, photographer, or sculptor.
+
+
+
+DERIVATIVES: 
+mod·el·er
+/ ˈmädl-ər/ n.
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"model."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"model." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/model-0
+, 
+"model." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/model-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates.  Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"model."
+
+A Dictionary of Sociology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"model." 
+A Dictionary of Sociology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/social-sciences/dictionaries-thesauruses-pictures-and-press-releases/model
+, 
+"model." 
+A Dictionary of Sociology.
+. Retrieved
+July 13, 2019
+ from Encyclopedia.com: 
+https://www.encyclopedia.com/social-sciences/dictionaries-thesauruses-pictures-and-press-releases/model
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, model and modeling, in painting, the use of light and shade to simulate volume in the representation of solids. In sculpture the terms denote a technique involving the use of a pliable material such as clay or wax. As opposed to carving, modeling permits addition as well as subtraction of material and lends itself to freer handling and change of intention. The technique is exemplified also by those works in cast metal and plaster that are made from the mold of a clay original. The mold is made by the process of cire perdue. The noun model is used to describe such an original and also any three-dimensional scale model for a larger or more elaborate project in architecture, landscaping, or industry. It also denotes a person or object used as an aid to representation in painting., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"model and modeling."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"model and modeling." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/model-and-modeling
+, 
+"model and modeling." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/model-and-modeling
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"model."
+
+A Dictionary of Computing.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"model." 
+A Dictionary of Computing.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/computing/dictionaries-thesauruses-pictures-and-press-releases/model
+, 
+"model." 
+A Dictionary of Computing.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/computing/dictionaries-thesauruses-pictures-and-press-releases/model
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"modeling."
+
+A Dictionary of Computing.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"modeling." 
+A Dictionary of Computing.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/computing/dictionaries-thesauruses-pictures-and-press-releases/modeling
+, 
+"modeling." 
+A Dictionary of Computing.
+. Retrieved
+ July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/computing/dictionaries-thesauruses-pictures-and-press-releases/modeling
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"model."
+
+The Concise Oxford Dictionary of English Etymology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"model." 
+The Concise Oxford Dictionary of English Etymology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/model-1
+, 
+"model." 
+The Concise Oxford Dictionary of English Etymology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/model-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"model."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"model." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/model-0
+, 
+"model." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/model-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"model."
+
+A Dictionary of Plant Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"model." 
+A Dictionary of Plant Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/model-1
+, 
+"model." 
+A Dictionary of Plant Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/model-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"model."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"model." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/model
+, 
+"model." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/model
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"model."
+
+Oxford Dictionary of Rhymes.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"model." 
+Oxford Dictionary of Rhymes.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/model
+, 
+"model." 
+Oxford Dictionary of Rhymes.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/model
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Education and Training: None, Salary: Varies—see profile, Employment Outlook: Good, Models pose for still photographers, television cameras, and artists. They also display clothes and accessories for clothing manufacturers and stores., There are several different kinds of models. Artists' models typically work for individual painters, sculptors, and photographers, but most also work for art schools on a part-time basis. They must be comfortable working nude or wearing very little clothing, since the contours and fine lines of their bodies must be visible to the artists. Artists' models also need the ability to hold poses for long periods of time., Photographic models, also known as print models, are hired by advertising agencies and freelance photographers. They may appear in a print advertisement for clothing, accessories, or makeup. Photographic models also appear on magazine covers and in feature stories. These models must be attractive, photogenic, and able to portray different moods by changing their expressions or poses. Photographic models are usually very young, and they stay in the business an average of only seven years., Fashion models generally work for clothing manufacturers, fashion magazines, retail stores, or dress designers. They display the latest in clothing designs at fashion shows and are sometimes referred to as runway models. Other fashion models work in showrooms, small designer shops, and department stores., Fashion models must be able to wear clothing and accessories well. They must walk and move to bring out the best in the clothes they wear. Except for an elite few, fashion models are not as highly paid as photographic models, but they can have longer careers. Some can model more mature styles of clothing as they grow older., , Fitting, or fit, models are called in by garment manufacturers when an outfit is almost complete. Only then can designers see how their fashions will look on a real person. Although fit models do not command the high salaries of fashion models, they tend to have more work, and their careers can last as long as their figures meet the needs of the clothing manufacturer. Large-sized models can also find work in this field., Television commercial models generally work for advertising agencies and demonstrate a variety of products. Models with acting experience are among the first to be hired for television spots. The exception to this general rule is the advertisement of makeup and other beauty products: casting directors often choose photographic models for these roles. Although many television models are young, older models are also needed for certain products., Interested individuals do not necessarily need a high school diploma to become a model; however, employers tend to prefer models with a diploma or its equivalent. Most photographic models are very slender, because they will look ten pounds heavier in photographs. In addition to being physically attractive, models are usually quite tall. Female fashion models are about five feet ten inches tall (although some are shorter), and male models are typically six feet one or taller. There are no specific requirements for fit models or for artists' models, but artists' models must have a great deal of stamina to hold the same pose for several hours at a time., , Prospective models should study speech, dance, drama, and fashion design in high school. Fashion and photographic models should be fastidious about personal grooming. Skin, hair, nails, and clothes must be perfect, and models must know how to dress and apply makeup to achieve different kinds of looks. Some beginners attend modeling schools to improve their posture, movement, makeup application skills, and diet. Information on a modeling school's reputation may be found online., Because this is a very competitive field, candidates should first seek advice from a professional model, an agent, a fashion designer, or a photographer. If you decide that you want to become a model, develop a portfolio—a collection of many pictures of you in different settings, poses, and types of clothing. Be sure to choose a good photographer to help you develop your portfolio. Visit modeling agencies, fashion designers, and manufacturers for jobs. You may have to call on many agencies before one accepts you as a client. If you have attended a modeling school, check with the placement office for help in finding a job., Artists' models can look for jobs in college and adult education art departments. The head of the art department may know of individual artists and sculptors who need models. You can also check the want ads in your local newspaper for potential jobs., Photographic models are already at the top of their field. A few fashion models become photographic models, but most remain on the runway throughout their careers. Models with acting ability can become television models, and a few become actors., Some models move into other jobs in the fashion industry, becoming fashion coordinators or beauty editors of a magazine. A few successful models have opened their own modeling agencies., , Many models have to supplement their incomes with work in other fields because modeling assignments are not always steady. Most openings for models will be to replace those who leave the field. A few other openings will occur because of increased spending for advertising. Most modeling jobs are in New York City because the fashion industry is located there; for successful models, a willingness to travel is a necessity., Models work under very different conditions in a variety of places. Their work is hard and not as glamorous as many people assume. Showroom models usually work a regular forty-hour week, but most other models work irregular hours. Photographic models pose under hot studio lights indoors and work outdoors in all kinds of weather, wearing all kinds of clothes. An assignment may mean a trip to a famous landmark that the photographer is using as background. Because the work is generally part time, models may need a second job., Fashion models usually work indoors in pleasant surroundings such as high-fashion stores and showrooms. In the busy season they must stand and walk a great deal and change outfits often. Showroom models often have office duties, such as typing, filing, or answering phones, during slower seasons. Fit models work in a garment manufacturer's place of business. They must stand while the designer makes adjustments in the outfit being modeled. Television models work in studios under bright lights. Like photographic models, they sometimes work on location. Artists' models work in classrooms and in artists' studios and lofts. Photographic, fashion, and television models have many chances to meet different kinds of people. Their lives are often hectic but exciting., A model's private life often revolves around work. Because models depend on their appearance for their work, they must look fresh and alert every day. This often means going to bed early, working out regularly, and always watching what they eat., Earnings for models vary greatly, and since many work through agencies as free-lancers, exact salaries are hard to determine. Income also varies with the type of modeling and the model's degree of experience. Artists' models make a standard fee of $10 to $12 per hour modeling for beauty and fashion shots in art school photography classes, and $12 to $15 per hour for high-fashion and nude modeling in painting and drawing classes. Professional photographic models may earn between $150 and $250 per day, and a select few earn as much as $500,000 per year or more; however, a career as a photographic model lasts only about six to eight years., Models who work through agencies must pay their agency a percentage of their fees. Steadily employed fashion models usually earn from $30,000 to $60,000 per year. Fitting models are paid by the hour. Rates in Manhattan's garment district range from $50 to $100 per hour. A top fitting model might make as much as $250 to $450 per hour in a major designer's house., Television models must belong to the Screen Actors Guild or the American Federation of Television and Radio Artists. The unions set the rates that models will be paid. Models in a television commercial can earn $2,000 to $3,000 for an eight-hour photo session. Also, television models may get additional pay, called residuals, when their commercials are used again., MODELS.com, Inc.1133 Broadway, Ste. 221New York, NY 10010(646) 638-3901http://www.nama.ca/index.html, Models working full time receive vacations and other fringe benefits. Freelance and part-time models do not receive benefits., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Model."
+
+Career Information Center, 9th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+ , 
+"Model." 
+Career Information Center, 9th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/economics/news-and-education-magazines/model
+, 
+"Model." 
+Career Information Center, 9th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/economics/news-and-education-magazines/model
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Definition, Purpose, Description, Normal results, Resources, Modeling, which is also called observational learning or imitation, is a behaviorally based procedure that involves the use of live or symbolic models to demonstrate a particular behavior, thought, or attitude that a client may want to acquire or change. Modeling is sometimes called vicarious learning, because the client need not actually perform the behavior in order to learn it., Modeling therapy is based on social learning theory. This theory emphasizes the importance of learning that is derived from observing and imitating role models, and learning about rewards and punishments that follow behavior. The technique has been used to eliminate unwanted behaviors, reduce excessive fears, facilitate learning of social behaviors, and many more. Modeling may be used either to strengthen or to weaken previously learned behaviors., , Modeling has been used effectively to treat individuals with anxiety disorders ; post-traumatic stress disorder ; specific phobias ; obsessive-compulsive disorder ; eating disorders; attention-deficit/hyperactivity disorder; and conduct disorder . It has also been used successfully in helping individuals acquire such social skills as public speaking or assertiveness. The effectiveness of modeling has led to its use in behavioral treatment of persons with substance abuse disorders, who frequently lack important behavioral skills. These persons may lack assertiveness, including the ability to say “no”; in addition, they may have thought patterns that make them more susceptible to substance abuse ., Modeling when used alone has been shown to be effective for short-term learning. It is, however, insufficient for long-lasting behavior change if the target behavior does not produce rewards that sustain it. Modeling works well when it is combined with role-play and reinforcement. These three components are used in a sequence of modeling, role-play, and reinforcement. Role-play is defined as practice or behavioral rehearsal of a skill to be used later in real-life situations. Reinforcement is defined as rewarding the model’s performance or the client’s performance of the newly acquired skill in practice or in real-life situations., Several factors increase the effectiveness of modeling therapy in changing behaviors. Modeling effects have been shown to be more powerful when:, Types of modeling, , Therapy begins with an assessment of the client’s presenting problem(s). The assessment usually covers several areas of life, including developmental history (the client’s family background, education, employment, social relationships); past traumatic experiences; medical and psychiatric history; and an outline of the client’s goals. The client works with the therapist to list specific treatment goals; to determine the target behavior(s) to be learned or changed; and to develop a clear picture of what the behavior(s) will look like. The therapist then explains the rationale and concepts of the treatment. He or she also considers any negative consequences that may arise as the client makes changes in his or her behavior., The client then observes the model enacting the desired behavior. Some models may demonstrate poor or inadequate behaviors as well as those that are effective. This contrast helps the client to identify ineffective behaviors as well as desired ones. Modeling can be done in several different ways, including live modeling, symbolic modeling, participant modeling, or covert modeling., Live modeling refers to watching a real person, usually the therapist, perform the desired behavior the client has chosen to learn. For example, the therapist might model good telephone manners for a client who wants a job in a field that requires frequent telephone contact with customers., Symbolic modeling includes filmed or videotaped models demonstrating the desired behavior. Other examples of symbolic models include photographs, picture books, and plays. A common example of symbolic modeling is a book for children about going to the hospital, intended to reduce a child’s anxiety about hospitals and operations. With child clients, cartoon figures or puppets can be used as the models. Self-modeling is another form of symbolic modeling in which clients are videotaped performing the target behavior. The video is than replayed and clients can observe their behaviors and how they appear to others. For example, public speaking is one of the most common feared situations in the general adult population. A law student who is afraid of having to present arguments in a courtroom might be videotaped speaking to classmates who are role-playing the judge and members of the jury. The student can then review the videotape and work on his or her speech problems or other aspects of the performance that he or she would like to change., In participant modeling, the therapist models anxiety-evoking behaviors for the client, and then prompts the client to engage in the behavior. The client first watches as the therapist approaches the feared object, and then approaches the object in steps or stages with the therapist’sencouragement and support. This type of modeling is often used in the treatment of specific phobias. For example, a person who is afraid of dogs might be asked to watch the therapist touch or pet a dog, or perhaps accompany the therapist on a brief walk with a dog. Then, with the therapist’ sencouragement, the client might begin by touching or holding a stuffed dog, then watching a live dog from a distance, then perhaps walking a small dog on a leash, and eventually by degrees touching and petting a live dog., , In covert modeling, clients are asked to use their imagination, visualizing a particular behavior as the therapist describes the imaginary situation in detail. For example, a child may be asked to imagine one of his or her favorite cartoon characters interacting appropriately with other characters. An adult client is asked to imagine an admired person in his or her life performing a behavior that the client wishes to learn. For example, a person may greatly admire their mother for the way she handled the challenges of coming to the United States from another country. If the client is worried about the challenge of a new situation in their own life (changing careers, having their first child, etc.), the therapist may ask them to imagine how their mother would approach the new situation, and then imagine themselves acting with their mother’scourage and wisdom., Models in any of these forms may be presented as either a coping or a mastery model. The coping model is shown as initially fearful or incompetent and then is shown as gradually becoming comfortable and competent performing the feared behavior. A coping model might show a small child who is afraid of swimming in the ocean, for example. The little boy or girl watches smaller children having fun playing in the waves along the edge of the shore. Gradually the child moves closer and closer to the water and finally follows a child his or her age into the surf. The mastery model shows no fear and is competent from the beginning of the demonstration. Coping models are considered more appropriate for reducing fear because they look more like the client, who will probably make mistakes and have some setbacks when trying the new behavior., Having the model speak his or her thoughts aloud is more effective than having a model who does not verbalize. As the models speak, they show the client how to think through a particular problem or situation. A common example of this type of modeling is sports or cooking instruction. A golf or tennis pro who is trying to teach a beginner how to hold and swing the club or racquet will often talk as they demonstrate the correct stance and body movements. Similarly, a master chef will often talk to students in a cooking class while he or she is cutting up the ingredients for a dish, preparing a sauce, kneading dough, or doing other necessary tasks. The model’stalking while performing an action also engages the client’ssense of hearing, taste, or smell as well as sight. Multisensory involvement enhances the client’s learning., , Role-playing is a technique that allows the client opportunities to imitate the modeled behaviors, which strengthens what has been learned. Role-play can be defined as practice or behavior rehearsal; it allows the client to receive feedback about the practice as well as encouraging the use of the newly learned skill in real-life situations. For example, a group of people who are trying to learn social skills might practice the skills needed for a job interview or for dealing with a minor problem (returning a defective item to a store, asking someone for directions, etc.). Role-play can also be used for modeling, in that the therapist may role-play certain situations with clients. During practice, the therapist frequently coaches, prompts, and shapes the client’s enactment of the behavior so that the rehearsals can come increasingly close to the desired behavior., Feedback and social reinforcement of the client’s performance in the practice phase is an important motivator for behavior change. Feedback may take the form of praise, approval, or encouragement; or it may be corrective, with concrete suggestions for improving the performance. Suggestions are followed by additional practice. Such tangible reinforcements as money, food, candy, or tokens have been used with young children and chronic psychiatric patients. The therapist may teach the client how to use self-reinforcement; that is, using self-praise after performing the desired behavior. The purpose of reinforcement is to shift the client’s performance concerns from external evaluation by others to internal evaluation of their own efforts., Modeling has been shown to be effective in such group programs as social skills training and assertive-ness training as well as in individual therapy. The general approach to both social skills training and assertiveness training is the incorporation of the modeling, role-play, and reinforcement sequence. After assessment of each group member’s presenting problem, each member is asked to keep a diary of what happened when the situation occurred during the week. Group members develop goals for dealing with their individual situations, and each person determines how he or she can meet these goals. Modeling is done with either the therapist or other group members role-playing how to deal effectively with a particular problem situation., , While modeling therapy is a relatively short-term approach to behavioral change, some therapeutic techniques take longer than others. Imagery, for example, requires more sessions than in vivo (real-life) treatments. In vivo work that takes place outside the therapist’s office would require longer time periods for each session. Other considerations include the nature of the client’s problem; the client’s willingness to do homework; the client’s financial resources; and the presence and extent of the client’ssupport network. The therapist’slength of experience and personal style also affect the length of therapy., There are, however, guidelines of treatment length for some disorders. Treatment of obsessive-compulsive disorder may require five weekly sessions for approximately three weeks, with weekly follow-up sessions for several months. Depressive disorders may require 3-6 months, with the client experiencing short-term relief after 3–4 weeks of treatment. General anxiety disorder may also take several months of weekly sessions. The length of treatment depends on the ability to define and assess the target behaviors. Clients may meet with the therapist several times a week at the beginning of treatment; then weekly for several months; then monthly for follow-up sessions that may become fewer in number or spaced more widely until therapy is terminated., Modeling or observational learning is effective as a method of learning such behaviors as self-assertion, self-disclosure, helping others, empathic behaviors, moral judgment, and many other interpersonal skills. Modeling is also effective in eliminating or reducing such undesirable behaviors as uncontrolled aggression, smoking, weight problems, and single phobias., The expected outcome is that clients will be able to use their new behaviors outside the treatment setting in real-life situations. This result is called transfer of training, generalization, or maintenance. Homework is the most frequently used technique for transfer of training. Homework may represent a contractual agreement between the therapist and the client in which the client gives a report on his or her progress at each meeting., , To ensure that generalization occurs and that clients will use their new skills, several “tranfer enhancers” are used to increase the likelihood of successful transfer of training. Transfer enhancers include:, Generalization —A person’s ongoing use of new behaviors that were previously modeled for him or her. Generalization is also called transfer of training or maintenance., In vivo —A Latin phrase that means “in life.” In modeling and exposure therapies, it refers to practicing new behaviors in a real setting, as distinct from using imagery or imagined settings., Reinforcement —In behavioral therapy, the ability of a behavior to produce effects that will make the user want to perform the behavior again. In modeling, reinforcement refers to rewarding the model’s demonstration of a skill or the client’s performance of the newly acquired skill in practice or in real-life situations., Role-playing —A technique used in therapy in which participants act out roles relevant to real-life situations in order to change their attitudes and behaviors., Vicarious —Acquired through imagined participation in the experience of others. Modeling is a form of vicarious learning., See alsoBehavior modification., Braswell, Lauren and Philip C. Kendall. “Cognitive-Behavioral Therapy with Youth.” In Handbook of Cognitive Behavioral Therapies,edited by Keith S. Dobson. 2nd ed. New York: The Guilford Press. 2001., Jinks, Gordon. “Specific Strategies and Techniques.” In Handbook of Counselling and Psychotherapy,edited by Colin Feltham and Ian Horton. London: Sage Publications, 2000., Sharf, Richard S. “Behavior Therapy.” In Theories of Psychotherapy and Counseling: Concepts and Cases.2nd ed. Stamford: Thomson Learning, 2000., American Psychological Association. 750 First St. N.E., Washington D.C. 20002. (202) 336-5800. http://helping.apa.org, Association for Advancement of Behavior Therapy. 305 Seventh Ave., 16th Floor, New York, NY 10001. (212) 647-1890. http://www.aabt.org, National Mental Health Association. 1021 Prince Street, Alexander, VA 22314-2971. (703) 684-7722. http://www.nmha.org, National Institute of Mental Health. 6001 Executive Boulevard, RM8184, MSC 9663, Bethesda, MD 20892-9663. (301) 443-4513. http://www.nimh.nih.gov, Janice Van Buren, Ph.D., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+ 
+, 
+"Modeling."
+
+The Gale Encyclopedia of Mental Health.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Modeling." 
+The Gale Encyclopedia of Mental Health.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/medicine/encyclopedias-almanacs-transcripts-and-maps/modeling-0
+, 
+"Modeling." 
+The Gale Encyclopedia of Mental Health.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/medicine/encyclopedias-almanacs-transcripts-and-maps/modeling-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Models are abstractions of reality, and modeling is the process of creating these abstractions of reality (Wallace 1994). Models take a variety of forms based upon their function, structure, and degree of quantification (Tersine and Grasso 1979). For example the functions of a chart of an organization is to describe and does not provide any predictions or recommendations; a sales forecast predicts the future based upon a particular business strategy; and a procedural manual for a manufacturing process is normative in that it provides advice on how to manage a process. The structure of a model can be symbolic (represented by equations), analog (using graphs to model physical networks), or iconic (physical representations such as scale models). Models are usually thought of as being quantitative, and able to be represented mathematically. However, qualitative models are far more common. For example, mental models play a very important role in the conceptualization of a situation (Crapo, Waisel, Wallace and Willemain 2000) and verbal and textual models are used in the process of communicating mental models. Because reality is near-infinitely complex, all data needs to be processed, which involves a movement from information to knowledge. Models are forms of codified knowledge., Science can be seen as a model-building enterprise, because it attempts to produce abstractions of reality that help scientists understand the world (Little 1994). Technological advances in computing allow for the development of complex computer-based models in a wide range of fields. These models can be used to describe phenomena observed in the world as well as to provide structure to real or hypothetical experiences described or postulated by individuals or groups. Models play a very important role in formalizing and integrating theoretical principles from science that pertain to the phenomena being studied. For example, the computational models used for weather forecasting integrate scientific principles from a variety of the physical and natural sciences., , As the role of models within society increases, the significance of ethical issues related to the development and use of models also rises. Models are generally designed by experts who may hold privileged positions, yet model users and those affected by models may cover a wide demographic range. Thus, it is ethically imperative that researchers consider the relationships among the modeler(s), the model, the user(s), and those affected by the model., Models may be developed for a range of purposes, in a variety of domains, including research, education, and applications. This entry begins with a brief overview of the ethics of modeling in each of these domains. The next focus is on ethical issues that span all three domains. Finally, the conclusion provides an assessment of the current status of the ethics of modeling., Models play an important role in scientific and engineering research. Scientific researchers seek to better understand the world, and models can serve as a way for them to create these understandings. Engineers try to improve the world by creating new technologies, and modeling allows them to explore their ideas in the abstract before moving on to the concrete. Computer aided design is one example. This technology allows an engineer to create a model design and view the resulting product in a three-dimensional graphical representation. This creative process can be repeated many times with various participants before the physical prototype is produced. In both science and engineering, models serve as tools for understanding the world and the ways in which people can improve that world., , One important ethical issue of modeling in research is the relationship between modeling and the norms of science. John Allison and colleagues (1994) argue that the fundamental ethic of science is an assumption of openness and access to data and methodology that fosters repeatability and verifiability. Yet, they point out that science increasingly relies on proprietary databases that do not allow others to repeat or verify the studies, such as economic analyses that use corporate financial data. They assert that models in this context may pose a danger to society, unless their data and methodology are kept open, as has been overwhelmingly the case over the long history of scholarly scientific research. Thus, it is important to consider not only the ends to which modeling is used in research but also the means through which it is used., One way to ensure that models for research are used ethically is to develop a code of ethics for modeling within a particular domain of research. Saul I. Gass (1994) explores the codes of ethics for various research fields and organizations. He concludes that a uniform code of ethics should be developed so that researchers within a wide range of specialties can benefit from it., Another important use of modeling is for instruction. In education, models can be used to help students better understand a problem. Manipulation of the model—whether it is a formula, a plastic mock-up, or a computer simulation—helps students develop a better understanding of the problem at hand. Similarly, models can be useful in training, potentially allowing trainees to practice techniques and skills in a relatively risk-free environment., , Barbara Y. White and John R. Frederiksen (2000) argue that computer-based models are particularly important in education because they make scientific inquiry potentially accessible to all students. They assert that computer-based models can help students develop the conceptual models necessary for scientific inquiry. These tools allow students to experiment with models in order to better understand naturally occurring relationships captured by theories in physics or other academic subjects. White and Frederiksen further argue that students should be able to use computers not only to learn to apply models but also to create models and understand the principles behind modeling natural systems. Modeling in education can thus include both learning to build models and learning to use models., Perhaps one of the most ethically intriguing applications of modeling is the use of virtual reality in education and training. Virtual reality models have been used to train and evaluate doctors, pilots, and other professionals. The goal of such models is to provide a safe environment that mirrors the work environment in potentially all ways except the consequences of the actions taken in the simulated environment. One issue requiring further study is the role that consequences play in affecting actions, and consequently, the potential utility of such environments. Another issue is that virtual reality environments may become so realistic that it becomes difficult or impossible to distinguish between the actual situation and the model of it. In such cases, transparency may be one way to avoid ethical dilemmas. Thorough documentation of the model, delineation of the assumptions the model makes about reality and values, and an explicit representation of the components of the model and how they are linked are all ways to help ensure the transparency of the model., Modeling may also be used in a wide range of applications. Computational models have contributed to developments such as Dupont's discovery and use of ozone-friendly chemicals (Hoffman 1995), structures than can better withstand earthquakes (Booker 1994), and innovations in nanotechnology (Bozman 1993). Computational models are also increasingly being used for public policy-making (Kollman et al. 2003), and as a result they are receiving an increasing degree of attention in the popular press (see for example Ashley 2003). One major application of models is as aids for decision-making. Models used for decision-making may be either primarily descriptive or prescriptive—that is, they may attempt to portray reality as it is or reality as it should be. Neither of these tasks is as simple as it might seem. The design of both descriptive and prescriptive models is influenced by the perspectives of the participants, and thus it requires transparent communication and consensus between the builder(s) of the model and the user(s) of the model (Wallace 1994)., , The relationship between the model builder(s) and model user(s) is inherently problematic. John D. C. Little (1994) describes six pitfalls for modelers to avoid:, Modelers must find ways to avoid these pitfalls that result from misinformed or misbehaving users., Deborah G. Johnson and John M. Mulvey (1995) identify three types of relationships between modelers and users. First, they discuss a paternalistic relationship in whichthe modeleractsasanunquestionable expertwith total control of the relationship. Next, they explore a second way of understanding this relationship, the agency model, in which the user has the upper hand in the relationship, and the modeler is merely an implementer of the user's will. They reject both of these views as being unbalanced and failing to ensure that both sides strive to fulfill their roles. They conclude that the fiduciary model is the ideal model for the relationship between the modeler and the user, because under this model, the user and the modeler work together to construct the model and the user's expectations for the model., In each of these three domains of research, education, and applications, models can be used to either help or replace humans. Models used in research may either assist researchers or take over for them. Educators may either use models or be supplanted by them. Finally, in applications such as decision-making, models may either support human decision makers or automate their roles. Given this stark choice, it is important to consider the ethical implications of both models that help humans and models that replace humans., , Mulvey (1994) argues that models that are used to replace humans, which he refers to as "computerized decision procedures," are ethically problematic because they can easily be misused or abused. Intentional manipulation of a model may be used to serve the will of those that control it, who are often the elites within a society. Thus, models intended to replace humans may be used in antidemocratic and authoritarian ways., Vincent P. Barabba (1994) points out, however, that models used by humans can also be misused and abused. A model can, for example, be oversold, so that limitations in the accuracy, precision, or scope of the model are underemphasized or completely ignored. In this way, models used by humans may also be used by elites to ensure that their will is achieved., It is thus important to consider the power dimensions of models and modeling. As discussed above, there are a range of possible relationships between modelers and users, and the best type of relationship appears to be a fiduciary relationship whereby modelers and users each have both responsibilities and expectations as part of the modeling process. It is important that steps are taken to regulate this relationship, to avoid unethical behavior on either side of the transaction, and to ensure the best outcomes for both modelers and users, as well as for those affected by the model (Leet and Wallace 1994)., Models also present other ethical challenges. Models are designed to make reality more easily understandable, yet these same models may, intentionally or unintentionally, distort reality in important ways. Models may be used to make very value-laden decisions appear "scientific" and "objective." In building and using models, it is thus important to understand their limitations as well as the cultural specificity of the knowledge content and values that are explicitly and implicitly embedded in models (Leet and Wallace 1994)., , Richard O. Mason (1994) argues that modelers, as a part of their fiduciary relationship with users, have a professional responsibility for the models they build. To meet this professional responsibility, a modeler must fulfill two covenants: a covenant with reality and a covenant with values. The covenant with reality involves technical and social elements: The faithfulness of a model to reality often depends on highly technical decisions by the modeler, yet it is also a fundamental part of the relationship between the modeler and the user. According to the covenant with values, a modeler must understand and incorporate the user's values into the model in an effective way. These covenants are particularly important because a successful model may become a standard that affects a wide range of users and people affected by the model (see also Carrier and Wallace 1994)., In addition, it is important for the modeling process to be as transparent as possible. Because models always reflect the social and cultural context in which they are created, in both their knowledge content and values, it is most helpful if the model is open and honest about these influences. Models that contain assumptions should make these assumptions clear, rather than masking them as fact. Similarly, the extent to which a model is descriptive or prescriptive should be made immediately obvious to the user. Importantly, allowing the user to see clearly into the model is a way for the modeler to share control and responsibility with the user, allowing the user to make informed decisions based on all relevant data, rather than placing blind faith in a black box., These three covenants—the covenant with reality, the covenant with values, and the covenant with transparency—can all help modelers and users communicate optimally so that they can mutually benefit from the process of modeling. All three covenants are important, because they make clear what users should be able to expect from designers, allowing designers and users to work as partners. Such cooperation ensures that modeling will be used for ethically responsible uses within the domains of science and technology., WILLIAM A. WALLACE
+KENNETH R. FLEISCHMANN, SEE ALSO Georgia Basin Futures Project;
+Operations Research., Allison, John; Abraham Charnes; William W. Cooper; and Toshiyuki Sueyoshi. (1994). "Uses Of Modeling in Science and Society." In Ethics in Modeling, ed. William  A. Wallace. Tarrytown, NY: Pergamon. These authors address the question of the contribution and interpretation of models affects decisions., Ashley, Steven. (2003). "Alloy By Design." Scientific American 289(1): 24. This brief article documents how the use of computational models led to the invention of a new class of titanium-based alloys, which are now used in medical implants, eyeglasses frames, and spacecraft parts., Barabba, Vincent P. (1994). "The Role of Models in Managerial Decision Making—Never Say the Model Says." In Ethics in Modeling, ed. William A. Wallace. Tarrytown, NY: Pergamon. Barabba propounded Barabba's Law ("Never say the model says!") and discusses ways to limit model builders from making excessive claims for their models., Booker, Ellis. (1994). "Working Toward a Quake-Proof Design." Computerworld 28(5): 86. Describes how computational modeling in an interdisciplinary environment is being applied to the problem of predicting the damage that can result from earthquakes., Bozman, Jean S. (1993). "Tiny Technology: The Small World of Nanotechnology Opens Possibilities for Molecular Computing." Computerworld 27(31): 28. Touches on applications of computational modeling to nanotechnology., , Carrier, Harold D., and William A. Wallace. (1994). "An Epistemological View of Decision Aid Technology with Emphasis on Expert Systems." In Ethics in Modeling, ed. William A. Wallace. Tarrytown, NY: Pergamon. Discusses the philosophical foundations of statistics, operations research, and expert systems. Presents a framework to aid decision makers in choosing an appropriate decision technology for solving a particular problem., Crapo, Andrew; Laurie B. Waisel; William A. Wallace; and Thomas R. Willemain. (2000). "Visualization and the Process of Modeling: A Cognitive-Theoretic View." In Proceedings KDD-2000: The Sixth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Boston, MA, ed. Raghu Ramakrishnan, Sal Stolfo, Roberto Bayardo, and Ismail Parsa. New York: Association of Computing Machinery. This paper provides a description of the process of modeling and, based upon theories of cognition, shows how visualization can assist in developing computational models for very large, high dimensional datasets., Gass, Saul I. (1994). "Ethical Concerns and Ethical Answers." In Ethics in Modeling, ed. William A. Wallace. Tarrytown, NY: Pergamon. Offers guidelines for professional behavior by modelers., Hoffman, Thomas (1995). "Making A Difference: Say Good-bye To Ozone-Wrecking Chemicals." Computerworld 29  (23): 105. Explains how computational modeling techniques have been used since the 1970s to explore the environmental impacts of ozone-depleting chloroflurocarbons., Johnson, Deborah G., and John M. Mulvey. (1995). "Accountability and Computer Decision Systems." Communications of the ACM 38(12): 58–64. Focuses on the issue of accountability in the design of computer decision systems. Argues that it is important for the designers of computer decision systems to develop and adhere to a set of standards in order to increase public trust in these systems., Kollman, Ken; John F. Miller; and Scott E. Page, eds. (2003). Computational Models in Political Economy. Cambridge, MA: MIT Press. Contains a variety of applications of computational modeling to the fields of political science and economics., Leet, Edith H., and William A. Wallace. (1994). "Society's Role in the Ethics of Modeling." In Ethics in Modeling, ed. William A. Wallace. Tarrytown, NY: Pergamon. Discusses the proposition that values are inherent in any model, and offers suggestions on how to ensure users are cognizant of this fact., Little, John D. C. (1994). "On Model Building." In Ethics in Modeling, ed. William A. Wallace. Tarrytown, NY: Pergamon. Reviews the process of modeling and notes several "pit falls" that can waylay the model builder., Mason, Richard O. (1994). "Morality and Models." In Ethics in Modeling, ed. William A. Wallace. Tarrytown, NY: Pergamon. Presents three covenants that should guide the relationship between the model builder and the user., Mulvey, John M. (1994). "Models in the Public Sector: Success, Failure, and Ethical Behavior." In Ethics in Modeling, ed. William A. Wallace. Tarrytown, NY: Pergamon. Focuses on the interpretation of models and the fact that lack of understanding of the techniques used in modeling hinders a user's ability to ascertain the values inherent in the models., Tersine, Richard J., and Edward T. Grasso. (1979). "Models: A Structure for Managerial Decision Making." Industrial Management 21(2): 6–11. Presents a very comprehensive classification scheme for models., Wallace, William A., ed. (1994). Ethics in Modeling. Tarrytown, NY: Pergamon., White, Barbara Y., and John R. Frederiksen. (2000). "Technological Tools and Instructional Approaches for Making Scientific Inquiry Accessible to All." In Innovations in Science and Mathematics Education: Advanced Designs for Technologies of Learning, ed. Michael J. Jacobson and Robert B. Kozma. Mahwah, NJ: Erlbaum. The authors use the example of physics education to explore how modelng can shape student involvement in science., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Models and Modeling."
+
+Encyclopedia of Science, Technology, and Ethics.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Models and Modeling." 
+Encyclopedia of Science, Technology, and Ethics.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/models-and-modeling
+, 
+"Models and Modeling." 
+Encyclopedia of Science, Technology, and Ethics.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/models-and-modeling
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

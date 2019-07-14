@@ -1,0 +1,164 @@
+[Two numbers are said to be amicable (i.e., friendly) if each one of them is equal to the sum of the proper divisors of the others (i.e., whole numbers less than the given numbers that divide the given number with no remainder). For example, 220 has proper divisors 1, 2, 4, 5, 10, 11, 20, 22, 44, 55, and 110. The sum of these divisors is 284. The proper divisors of 284 are 1, 2, 4, 71, and 142. Their sum is 220; so 220 and 284 are amicable. This is the smallest pair of amicable numbers., The discovery of amicable numbers is attributed to the neo-Pythagorean Greek philosopher Iamblichus of Chalcis (c. AD 250–330), who credited Pythagoras (582–500 BC) with the original knowledge of their nature. The Pythagoreans believed that amicable numbers, like all special numbers, had a profound cosmic significance. A biblical reference (a gift of 220 goats from Jacob to Esau, Genesis 23: 14) is thought by some to indicate an earlier knowledge of amicable numbers., No pairs of amicable numbers other than 220 and 284 were discovered by European mathematicians until 1636, when French mathematician Pierre de Fermat (1601–1665) found the pair 18, 496 and 17, 296. A century later, Swiss mathematician Leonhard Euler (1707–1783) made an extensive search and found about 60 additional pairs. Surprisingly, however, he overlooked the smallest pair after 220 and 284, which is 1184 and 1210. It was subsequently discovered in 1866 by a 16-year-old boy, Nicolo Paganini., During the medieval period, Arabian mathematicians preserved and developed the mathematical knowledge of the ancient Greeks. For example, the polymath Thabit ibn Qurra (836–901) formulated an ingenious rule for generating amicable number pairs: Let a = 3(2n) – 1, b = 3(2n-1) – 1, and c = 9(22n-1) – 1; then, if a, b, and c are primes, 2nab and 2nc are amicable. This rule produces 220 and 284 when n is 2. When n is 3, c is not a prime, and the resulting numbers are not amicable. For n = 4, it produces Fermat’s pair, 17, 296 and 18, 416, skipping over Paganini’s pair and others., Other scientists who have studied amicable numbers throughout history are Spanish mathematician Al Madshritti (died 1007), Islamic mathematician Abu Mansur Tahir al-Baghdadi (980–1037), French mathematician and philosopher René Descartes (1596–1650), and Swiss mathematician Leonhard Euler (1707–1783)., Amicable numbers serve no practical purpose, but professionals and amateurs alike have for centuries enjoyed seeking them and exploring their properties., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Amicable numbers."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Amicable numbers." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/amicable-numbers
+, 
+"Amicable numbers." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/amicable-numbers
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, A perfect number, in mathematics, is a whole number that is equal to the sum of its divisors including 1 but excluding the number itself. Thus, for example, 6 is a perfect number because 1 + 2 + 3 = 6. Likewise 28 is a perfect number because 1 + 2 + 3 + 4 + 7 + 14 = 28. The terminology of perfect goes back to the ancient Greeks of Euclid of Alexandra’s (c. 325–c. 265 BC) time who would personify numbers. Thus, if the sum of the divisors was less than the number, the number was called deficient. If the sum was greater than the number it was called abundant. The ancient Greeks had calculated the first four perfect numbers: 6, 28, 496, and 8, and 128., Swiss mathematician Leonhard Euler (1707– 1783)—who was born in Switzerland but worked in Germany and Russia—proved that every even perfect number is of the form 2p–1 (2p –1) where p is a prime and 2p–1 is also a prime. He called a Mersenne prime in honor of French mathematician and philosopher Marin Mersenne (1588–1648), a Franciscan friar who often served as an intermediary in the correspondence between the most prominent mathematicians of his time. For example, if p = 2, a prime, then 2p–1 = 22 –1 = 4 – 1 = 3 is also a prime and 2p–1 (2p –1) = 2 × 3 = 6 that, as has been seen is indeed a perfect number. If p = 3, the next prime, then 2p –1 = 23 –1 = 8 – 1 = 7 is again a prime. This gives 22 × 7 = 4 × 7 = 28 which, as been seen, is also a perfect number. The first case where p is a prime but 2p – 1 is not occurs when p = 11. Here we have 211 –1 = 2048 – 1 = 23 × 89., The search for even perfect numbers, then, is the same as the search for Mersenne primes. As of October 2006, 44 are known corresponding to p = 2, 3, 7, 13,..., 756,839,..., 232,582,656 × (232,582,657 – 1) where the last one, as well as some of the others, were found by computers. The largest of these, 232,582,656 × (232,582,657 – 1) yields a perfect number of 19,616,714 digits., At the present time, no odd perfect numbers are known. It is suspected that none exist and this hypothesis has been tested by computers up to their limits but, of course, this does not constitute a proof that none exist., Roy Dubish, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Perfect Numbers."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Perfect Numbers." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/perfect-numbers-0
+, 
+"Perfect Numbers." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/perfect-numbers-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"perfect numbers."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"perfect numbers." 
+World Encyclopedia.
+
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/perfect-numbers
+, 
+"perfect numbers." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/perfect-numbers
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Two numbers are said to be amicable (i.e., friendly) if each one of them is equal to the sum of the proper divisors of the others, i.e., whole numbers less than the given numbers that divide the given number with no remainder. For example, 220 has proper divisors 1, 2, 4, 5, 10, 11, 20, 22, 44, 55, and 110. The sum of these divisors is 284. The proper divisors of 284 are 1, 2, 4, 71, and 142. Their sum is 220; so 220 and 284 are amicable. This is the smallest pair of amicable numbers., The discovery of amicable numbers is attributed to the neo-Pythagorean philosopher Iamblichus (c.250-330), who credited Pythagoras with the original knowledge of their nature. The Pythagoreans believed that amicable numbers, like all special numbers, had a profound cosmic significance. A biblical reference (a gift of 220 goats from Jacob to Esau, Genesis 23: 14) is thought by some to indicate an earlier knowledge of amicable numbers., No pairs of amicable numbers other than 220 and 284 were discovered by European mathematicians until 1636, when the French mathematician Pierre de Fermat (1601-1665) found the pair 18,496 and 17,296. A century later, the Swiss mathematician Leonhard Euler (1707-1783) made an extensive search and found about 60 additional pairs. Surprisingly, however, he overlooked the smallest pair, 1184 and 1210, which was subsequently discovered in 1866 by a 16-year-old boy, Nicolo Paganini., During the medieval period, Arabian mathematicians preserved and developed the mathematical knowledge of the ancient Greeks. For example, The polymath Thabit ibn Qurra (836-901) formulated an ingenious rule for generating amicable number pairs: Let a = 3(2n) - 1, b = 3(2n-1) - 1, and c = 9(22n-1) - 1; then, if a, b, and c are primes, 2nab and 2nc are amicable. This rule produces 220 and 284 when n is 2. When n is 3, c is not a prime, and the resulting numbers are not amicable. For n = 4, it produces Fermat's pair, 17,296 and 18,416, skipping over Paganini's pair and others., Amicable numbers serve no practical purpose, but professionals and amateurs alike have for centuries enjoyed seeking them and exploring their properties., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Amicable Numbers."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Amicable Numbers." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/amicable-numbers-0
+, 
+"Amicable Numbers." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/amicable-numbers-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, A perfect number is a whole number which is equal to the sum of its divisors including 1 by excluding the number itself. Thus 6 is a perfect number becauses 1 + 2 + 3 = 6. Likewise 28 is a perfect number because 1 + 2 + 3 + 4 + 7 + 14 = 28., Leonard Euler (1707-1783), a mathematician born in Switzerland but who worked in Germany and Russia, proved that every even perfect number is of the form 2p-1 (2p -1) where p is a prime and 2p -1 is also a prime, called a Mersenne prime in honor of Mersenne (1588-1648), a Franciscan friar who often served as an intermediary in the correspondence between the most prominent mathematicians of his time. For example, if p = 2, a prime, then 2p -1 = 22 -1 = 4-1 = 3 is also a prime and 2 p-1(2p -1) = 2 × 3 = 6 which, as we have seen is indeed a perfect number. If p = 3, the next prime, then 2p -1 = 23 1 = 8-1 = 7 is again a prime. This gives us 22 × 7 = 4 × 7 = 28 which, as we have seen, is also a perfect number. The first case where p is a prime but 2p -1 is not occurs when p = 11. Here we have 211 -1 = 2048-1 = 23 × 89., The search for even perfect numbers, then, is the same as the search for Mersenne primes. At the present time 32 are known corresponding to p = 2, 3, 7, 13,..., 756,839 where the last one, as well as some of the others, were found by computers. The largest of these, 756,839 yields a perfect number of 227,832 digits., At the present time no odd perfect numbers are known. It is suspected that none exist and this hypothesis has been tested by computers up to 10300 but, of course, this does not constitute a proof that none exist., The terminology of "perfect" goes back to the Greeks of Euclids time who would personify numbers. Thus if the sum of the divisors was less than the number, the number was called deficient. If the sum was greater than the number it was called abundant., Roy Dubish, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Perfect Numbers."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Perfect Numbers." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/perfect-numbers
+, 
+"Perfect Numbers." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/perfect-numbers
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

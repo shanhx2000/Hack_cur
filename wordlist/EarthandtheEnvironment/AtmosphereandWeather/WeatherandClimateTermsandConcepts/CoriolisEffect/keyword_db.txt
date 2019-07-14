@@ -1,0 +1,196 @@
+[The Coriolis effect (sometimes called the Coriolis force) is the apparent deflection of air masses and fluids caused by Earth's rotation . Named after the French mathematician Gustave-Gaspard Coriolis, (1792-1843), who developed the concept in 1835, the Coriolis force is a pseudoforce (false force) and should properly be termed the Coriolis effect. As a result of the Coriolis effect, there is an apparent deflection of all matter in motion to the right of their path in the Northern Hemisphere, and to the left in the Southern Hemisphere. In the Northern Hemisphere, air is deflected counterclockwise (to right of its established path of motion) as it moves inward toward a low-pressure area (zone of convergence). In the Northern Hemisphere, air is deflected clockwise (again, to the right of its established path of motion) as it moves outward toward a low-pressure area (zone of convergence). These deflections and rotations are reversed in the Southern Hemisphere., The Coriolis effect is a mechanical principle demonstrating that, on a rotating solid body, an inertial force acts on the body at right angles to its direction of motion. The Coriolis effect is based on the classic laws of motion introduced by English physicist and mathematician Sir Isaac Newton (1642-1727) in his work, Philosophiae Naturalis Principia Mathematica (Mathematical principles of natural philosophy)., Within its rotating coordinate system, the object acted on by the Coriolis effect appears to deflect off of its path of motion. This deflection is not real. It only appears to happen because the coordinate system that establishes a frame of reference for the observer is also rotating. The Coriolis effect is due to the motion of a rotating frame of reference (e.g., Earth's rotation)., For example, if a missile is launched northward from the equator. The missile will land to the right of a directly northward target because, when launched, the missile moving along with the ground at the equator moves faster to the east than its direct northward target. Conversely, if a missile were fired from the North Pole to a directly southward target (a target on a great circle that also passed through the South Pole) will also land to the right of its intended target because during the missile's flight the target area has moved farther to the east faster. In the Southern Hemisphere these deflections are reversed (i.e., objects are deflected to the left)., The Coriolis effect is important to virtually all sciences that relate to Earth and planetary motions. It is critical to the dynamics of the atmosphere including the motions of winds and storms. In oceanography , it helps explains the motions of oceanic currents. Accounting for the Coriolis effect is critical in planning the motions of aircraft and the launch and recovery of spacecraft. In astronomy and astrophysics the Coriolis effect explains the rotation of sunspots., A popular canard (a popular, widely accepted, but false premise) is that water in sinks and toilet bowls drains away in counterclockwise or clockwise motion depending on whether the drain is located in the northern or Southern Hemisphere. The fact is that the Coriolis effect acts only on fluids over great distances or long lengths of time, but is not great enough to produce these defections. These deflections are caused by other factors (drain shape, initial water velocity, etc.), See also  Air masses and fronts; Atmospheric circulation; Ocean circulation and currents; Weather and climate; Wind, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Coriolis Effect."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Coriolis Effect." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/coriolis-effect
+, 
+"Coriolis Effect." 
+World of Earth Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/coriolis-effect
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, Coriolis effect (kôr´ē-ō´lĬs) [for G.-G. de Coriolis, a French mathematician], tendency for any moving body on or above the earth's surface, e.g., an ocean current or an artillery round, to drift sideways from its course because of the earth's rotation. In the Northern Hemisphere the deflection is to the right of the motion; in the Southern Hemisphere it is to the left. The Coriolis deflection of a body moving toward the north or south results from the fact that the earth's surface is rotating eastward at greater speed near the equator than near the poles, since a point on the equator traces out a larger circle per day than a point on another latitude nearer either pole. A body traveling toward the equator with the slower rotational speed of higher latitudes tends to fall behind or veer to the west relative to the more rapidly rotating earth below it at lower latitudes. Similarly, a body traveling toward either pole veers eastward because it retains the greater eastward rotational speed of the lower latitudes as it passes over the more slowly rotating earth closer to the pole. It is extremely important to account for the Coriolis effect when considering projectile trajectories, terrestrial wind systems, and ocean currents., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Coriolis effect."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Coriolis effect." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+ https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/coriolis-effect
+, 
+"Coriolis effect." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/coriolis-effect
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Coriolis effect."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Coriolis effect." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/coriolis-effect
+, 
+"Coriolis effect." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/coriolis-effect
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Coriolis effect."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Coriolis effect." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/coriolis-effect
+, 
+"Coriolis effect." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/coriolis-effect
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Behavior of objects under the Coriolis effect, History, Significance of the Coriolis effect, Resources, The Coriolis effect occurs when, on a rotating solid body, an inertial (apparent) force acts on a body at right angles to its direction of motion when it moves towards or away from the axis of rotation. The Coriolis effect (also called the Coriolis force) is based on the laws of motion introduced world by Issac Newton (1642–1727)., Within its rotating coordinate system, the object acted on by the Coriolis effect appears to experience a force that would deflect it from its path of motion. This force is not real, like the “centrifugal force” that also seems to act on objects that are stationary or following arbitrary paths in rotating coordinate systems. A force is exerted on an object moving towards or away from the axis of rotation in a rotating system, but only if that object is to maintain a fixed position or move in an arbitrary path relative to the rotating coordinate system., , One way to understand the Coriolis effect is to imagine an ant crawling from the outer rim of a horizontal rotating disc toward the center of the disk. At the rim, where it begins its journey, the ant is making a certain number of revolutions per second. Given its mass and its distance from the center of rotation, it has a certain angular momentum. As it moves toward the center, to retain that angular momentum it must increase its angular velocity—make more revolutions per second. One can see this effect when a spinning skater pulls their arms in closer to their body and spins more rapidly. But if the ant is to walk a straight line toward the axis, then it will continue to make the same number of revolutions per second (because every point on a straight line drawn on the disc from axis to edge makes the same number of revolutions per second). The ant’s feet must, therefore, exert a force on the surface of the record that is counter to the direction of rotation as it moves toward the axis. This force transfers angular momentum from the ant to the disc (which is, presumably, far more massive than the ant); since momentum is always conserved, the angular momentum lost by the ant is equal and opposite to that gained by the disc (or whatever the disc mechanism is attached to, such as Earth). In this case a force is indeed exerted on the ant, but it is exerted by the muscles of the ant’s own legs, acting through friction on the surface of the disc; it is not some mysterious “Coriolis force” coming out of nowhere. This is why the Coriolis force is said to be “not real.”, Now imagine that a toy cannon on the edge of the disc is fired toward the center. The cannon ball moves freely with respect to the rotating reference frame of the disc (unlike the ant, which pushes sideways with its feet to achieve straight-line motion in the rotating reference frame). The path traced by the toy cannon ball over the rotating disc will lag the path that it would have taken had the disc not been rotating. From a nonrotating point of view, say that of a person standing in the room, the surface of the disc will rotate out from under the path of the cannon ball as the cannon ball flies over the disc. From the point of view of the rotating surface, however, the cannon ball is accelerated by a mysterious force that acts against the direction of rotation. The cannon ball is not in fact being acted on by any force, but is simply following a path that is curved sideways from the point of view of the rotating frame of the disc. Again, the “Coriolis force” is seen to be “not real.”, The effects described above would act in reverse for an ant or cannon ball traveling away from the axis of rotation. They also work on the scale of a planet, an accretion disk of material falling into a black hole, or a galaxy., The Coriolis effect was first described by Gustave-Gaspard Coriolis, for whom the effect is named. Coriolis (1792–1843) was a French mathematician and engineer who graduated in highway engineering. He was a professor of mechanics at the École Centrale des Arts et Manufactures and later at the École des Ponts et Chaussées. Coriolis studied the motions of moving parts in machines relative to the fixed parts. His special gift was for interpreting and adapting theories to applied mathematics and mechanics. Coriolis was an assistant professor of mechanics and analysis and later director of studies at the École Polytechnique in Paris from 1816 to 1838 where he gave the terms “work” and “kinetic energy” their scientific and practical meanings, which are still used today., Coriolis authored several books. His first, Du calcul de l’effet des machines (On the Calculation of Mechanical Action ) was published in 1829 and discussed applied mechanics. He also wrote The´orie mathe´matique des effects du jeu de billiard (Mathematical Theory of the Game of Billiards ) in 1835, and his understanding of the motions of billiard balls was directly related to his study of other solid bodies like the planets and especially planet Earth. In 1835, he published a paper called “Sur les équations du mouvement relatif des systemes des corps” (“On the Equations of Relative Motion of Systems of Bodies”), which described the force later named the Coriolis effect. Publication of this paper changed the studies of meteorology (weather), ballistics, oceanography, and astronomy as well as mechanics. The Coriolis effect and other mechanical principles were also described in a book published in 1844 after Coriolis’ death and titled Traite´ de la me´chanique des corps solides (Treatise on the Mechanics of Solid Bodies )., The Coriolis effect is important to virtually all sciences that relate to Earth and planetary motions. It is critical to the dynamics of the atmosphere including the motions of winds and storms. In oceanography, it explains the motions of oceanic currents. Ballistics encompasses not only weapons but the motions of aircraft including launching and orbiting spacecraft. In the mechanics of machinery, rotating motors and other electrical devices generate instantaneous voltages (called Christoffel voltages) that must be calculated relative to the rotation. In astronomy, astrophysics, and studies of the dynamics of the stars, the Coriolis effect explains the rotation of sunspots and the true directions of light seen on Earth from the stars., The Coriolis effect does not have any relationship to two other effects. For many years, geologists have used the Coriolis effect to suggest that right banks of rivers will tend to erode more rapidly than left banks in the Northern Hemisphere; this has been proven not to be true. Also, many people claim that the spiraling water in a sinks or toilet bowl drains in counterclockwise or clockwise motion depending on whether the drain is located in the Northern or Southern Hemisphere. This is not the case. The Coriolis effect related to Earth’s rotation is too weak to control fluid spiraling on such a small scale. Rather, the direction of drainage spiraling is determined by the shape of each individual container. In either hemisphere, North or South, one can observe drainage spirals that go either to the right or the left., deFuentes, Sean. The Coriolis Effect. Melbourne, Australia: Hard Pressed Publications, 2004., National Aeronautics and Space Administration (NASA). “Rotating Frames of Reference in Space and on Earth.” September 22, 2004. &lt;http://www-spof.gsfc.nasa.gov/stargaze/Srotfram.htm&gt; (accessed October 23, 2006)., Gillian S. Holmes, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Coriolis Effect."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+
+"Coriolis Effect." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/coriolis-effect-0
+, 
+"Coriolis Effect." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/coriolis-effect-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The Coriolis effect is a mechanical principle demonstrating that, on a rotating solid body, an inertial force acts on the body at right angles to its direction of motion . The Coriolis effect (also called the Coriolis force) is based on the classic laws of motion introduced to the world by Sir Issac Newton (1642–1727). A rotating body not only moves according to Newtonian motion, but it is also acted on by an inertial force. If that body is rotating in a counterclockwise direction, the inertial force will deflect the body to its own right with respect to the observer. If the body is rotating in a clockwise motion, the inertial force acts to the left of the direction of motion., Within its rotating coordinate system, the object acted on by the Coriolis effect appears to deflect off of its path of motion. This deflection is not real. It only appears to happen because the coordinate system that establishes a frame of reference for the observer is also rotating. The Coriolis effect is, therefore, linked to the motion of the object, the motion of Earth (the rotating frame of reference), and the latitude on Earth at which the object is moving., , Several illustrations of the Coriolis effect are described below. First, imagine that a cannon on the equator is fired to the north. The cannon ball will land farther to the right than its target because the cannon ball moving on the equator moves faster to the east than its target, which started out farther to the north. If the cannon is fired from the North Pole at a target toward the equator, the cannon ball will again land to the right of its true path because the target area has moved farther to the east faster. In other words, in the Northern Hemisphere, the cannon ball will always land to the right of its target no matter where it is fired relative to the target. In the Southern Hemisphere, the effect is reversed and the cannon ball will always fall to the left of its target., The second involves an experiment demonstrating the Coriolis effect. Imagine a phonograph record on a turntable. The center hole is the North Pole, and the rim of the record is the equator. As the record turns on the table, a chalk line drawn across the record from the hole to the rim toward the person drawing the line will curve to the right., A third example uses a carousel or merry-go-round to illustrate the Coriolis effect. As the carousel goes around, a rider on the carousel stands at the center (the North Pole) and throws the ball to someone standing on the ground beyond the edge of the carousel. From the ground, the ball appears to travel in a straight line, but, to the rider, the ball seems to travel in a curve., , The Coriolis effect was first described by Gustave-Gaspard Coriolis, for whom the effect is named. Coriolis (1792–1843) was a French mathematician and engineer who graduated in highway engineering . He was a professor of mechanics at the École Centrale des Arts et Manufactures and later at the École des Ponts et Chaussées. Coriolis studied the motions of moving parts in machines relative to the fixed parts. His special gift was for interpreting and adapting theories to applied mathematics and mechanics. Coriolis was an assistant professor of mechanics and analysis and later director of studies at the École Polytechnique in Paris from 1816 to 1838 where he gave the terms "work" and "kinetic energy" their scientific and practical meanings, which are still used today., Coriolis authored several books. His first, Du calcul de l'effet des machines (On the calculation of mechanical action) was published in 1829 and discussed applied mechanics. He also wrote Théorie math‚matique des effects du jeu de billiard (Mathematical theory of the game of billiards) in 1835, and his understanding of the motions of billiard balls was directly related to his study of other solid bodies like the planets and especially planet Earth. In 1835, he published a paper called "Sur les équations du mouvement relatif des systemes des corps" ("On the equations of relative motion of systems of bodies"), which described the force later named the Coriolis effect. Publication of this paper changed the studies of meteorology (weather ), ballistics , oceanography , and astronomy as well as mechanics. The Coriolis effect and other mechanical principles were also described in a book published in 1844 after Coriolis' death and titled Traité de la méchanique des corps solides (Treatise on the mechanics of solid bodies)., The Coriolis effect is important to virtually all sciences that relate to Earth and planetary motions. It is critical to the dynamics of the atmosphere including the motions of winds and storms. In oceanography, it explains the motions of oceanic currents . Ballistics encompasses not only weapons but the motions of aircraft including launching and orbiting spacecraft. In the mechanics of machinery, rotating motors and other electrical devices generate instantaneous voltages (called Christoffel voltages) that must be calculated relative to the rotation . In astronomy, astrophysics , and studies of the dynamics of the stars, the Coriolis effect explains the rotation of sunspots and the true directions of light seen on Earth from the stars., The Coriolis effect does not have any relationship to two other effects. For many years, geologists have used the Coriolis effect to suggest that right banks of rivers will tend to erode more rapidly than left banks in the Northern Hemisphere; this has been proven not to be true. Also, many people claim water in their sinks and toilet bowls drains away in counterclockwise or clockwise motion depending on whether the drain is located in the Northern or Southern Hemisphere. The Coriolis effect acts only on fluids over great distances or long lengths of time , so the motion of draining water is due to the shape of the drain not to the pseudoforce of the Coriolis effect., Kearns, Graham. "The Great Coriolis Conspiracy." Weatherwise 5, no. 3 (June 1998): 63., National Oceanic and Atmospheric Administration (NOAA). Coriolis Force. [cited 2003]. &lt;http://www.nws.noaa.gov./om/educ/activit/coriolis.htm&gt;, Gillian S. Holmes, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Coriolis Effect."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Coriolis Effect." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/coriolis-effect-1
+, 
+"Coriolis Effect." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/coriolis-effect-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

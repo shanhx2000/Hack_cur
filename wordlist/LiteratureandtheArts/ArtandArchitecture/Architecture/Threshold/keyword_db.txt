@@ -1,0 +1,319 @@
+[A threshold is the exposure level or dose of an agent above which toxicity or adverse health effects can occur, and below which toxicity or adverse health effects are unlikely. For example, taking aspirin is therapeutic and not dangerous up to a contain dose, but above that dose it can cause nausea, brain damage, bleeding, and, eventually, death. Sulfuric acid is not dangerous when only small amounts of it get on a person's skin, but if the amount gets too high, it burns. Thresholds for toxicity exist because, up to a certain point, the body can repair damage and detoxify chemicals to which it is exposed. If the exposures get too high, however, the detoxification and repair mechanisms are overwhelmed and toxicity starts to occur., Thresholds for toxicity can be different in different people, with some people likely to be sensitive to smaller levels of exposures than others. In other words, toxicity thresholds are distributed differently within a population. For example, some people can breathe a lot of paint stripper without feeling ill, while others get sick from it quite easily. So while it may be easy to demonstrate a chemical's threshold for toxicity in identical laboratory animals, a threshold for toxicity in a diverse human population may be very difficult to determine., , The concept of a threshold for toxicity has played an important role in chemical regulation. Until recently, chemicals that cause cancer were assumed to have no threshold for their effects, while chemicals that cause other kinds of health effects were assumed to have thresholds. It is now known that some cancer-causing chemicals have thresholds and some other toxic agents do not, and this knowledge is slowly making its way into regulatory guidelines., An example of a nonregulatory guideline that is based on toxicity thresholds is the threshold limit value (TLV). TLVs were derived as chemical exposure levels that are permissible in the workplaces—if workplace exposures stay below the TLVs, workers are unlikely to be adversely affected. TLVs were established first in 1968 by a nongovernmental organization known as the American Conference of Governmental Industrial Hygienists (ACGIH) based on available scientific information and best professional judgment. The ACGIH TLV Committee periodically reevaluates and updates the TLVs, based on professional judgment and new scientific information, but it uses no explicit risk-based or feasibility-based methodology. When the Occupational Safety and Health Act was enacted in 1970, the new Occupational Safety and Health Administration adopted existing TLVs as workplace permissible exposure limits (PELs)., Gail Charnley, (see also: Carcinogen; Exposure Assessment; Herbicides; National Institute for Occupational Safety and Health; Occupational Safety and Health Administration; Pesticides; Regulatory Authority; Risk Assessment, Risk Management; Toxicology ), Aldridge, W. N. (1986). "The Biological Basis and Measurement of Thresholds." Annual Review of Pharmacology and Toxicology 26:39–58., —— (1995). "Defining Thresholds in Occupational and Environmental Toxicology." Toxicology Letters 77:109–118., American Conference of Governmental Industrial Hygienists (ACGIH) (2001). Documentation of the Threshold Limit Values and Biological Exposure Indices, 7th edition. Cincinnati, OH: Author., Ottoboni, M. A. (1997). The Dose Makes the Poison: A Plain Language Guide to Toxicology, 2nd edition. New York: Van Nostrand Reinhold Co., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Threshold."
+
+Encyclopedia of Public Health.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Threshold." 
+Encyclopedia of Public Health.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/encyclopedias-almanacs-transcripts-and-maps/threshold
+, 
+"Threshold." 
+Encyclopedia of Public Health.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/encyclopedias-almanacs-transcripts-and-maps/threshold
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+thresh·old 
+/ ˈ[unvoicedth]reshˌ(h)ōld/
+•
+n.
+1.
+a strip of wood, metal, or stone forming the bottom of a doorway and crossed in entering a house or room.
+ ∎  [in  sing.]
+a point of entry or beginning:
+she was on the threshold of a dazzling career.
+ ∎ 
+the beginning of an airport runway on which an aircraft is attempting to land.
+
+2.
+the magnitude or intensity that must be exceeded for a certain reaction, phenomenon, result, or condition to occur or be manifested:
+nothing happens until the signal passes the threshold |
+[as  adj.]
+a threshold level. 
+ ∎ 
+the maximum level of radiation or a concentration of a substance considered to be acceptable or safe:
+their water would meet the safety threshold of 50 milligrams of nitrates per liter.
+ ∎ 
+ Physiol.  &amp;  Psychol. 
+a limit below which a stimulus causes no reaction:
+everyone has a different pain threshold.
+
+
+
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"threshold."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"threshold." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/threshold-0
+, 
+"threshold." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/threshold-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"threshold."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"threshold." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/threshold
+, 
+"threshold." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/threshold
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"threshold."
+
+The Concise Oxford Dictionary of English Etymology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"threshold." 
+The Concise Oxford Dictionary of English Etymology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/threshold-1
+, 
+"threshold." 
+The Concise Oxford Dictionary of English Etymology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/threshold-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"threshold."
+
+A Dictionary of Nursing.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"threshold." 
+A Dictionary of Nursing.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/caregiving/dictionaries-thesauruses-pictures-and-press-releases/threshold
+, 
+"threshold." 
+A Dictionary of Nursing.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/caregiving/dictionaries-thesauruses-pictures-and-press-releases/threshold
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"threshold."
+
+A Dictionary of Biology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"threshold." 
+A Dictionary of Biology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/threshold-0
+, 
+"threshold." 
+A Dictionary of Biology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/threshold-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"threshold."
+
+A Dictionary of Architecture and Landscape Architecture.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"threshold." 
+A Dictionary of Architecture and Landscape Architecture.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/threshold
+, 
+"threshold." 
+A Dictionary of Architecture and Landscape Architecture.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/threshold
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"threshold."
+
+Oxford Dictionary of Rhymes.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"threshold." 
+Oxford Dictionary of Rhymes.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/threshold
+, 
+"threshold." 
+Oxford Dictionary of Rhymes.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/threshold
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, An internationally acclaimed research biologist is frustrated by his inability to save a dying 14-year-old woman born with a defective heart. She becomes the recipient of the first artificial heart. Solid performances. 97m/C VHS . CA Donald Sutherland, Jeff Goldblum, John Marley, Mare Winningham; D: Richard Pearce. Genie ‘83: Actor (Sutherland)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Threshold."
+ 
+VideoHound's Golden Movie Retriever.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Threshold." 
+VideoHound's Golden Movie Retriever.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/arts/culture-magazines/threshold
+, 
+"Threshold." 
+VideoHound's Golden Movie Retriever.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/arts/culture-magazines/threshold
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

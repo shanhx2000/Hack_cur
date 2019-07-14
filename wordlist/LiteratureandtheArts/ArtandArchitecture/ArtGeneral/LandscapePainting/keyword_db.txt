@@ -1,0 +1,267 @@
+[Historical development, The influence of Sauer, Geography as landscape science, Current usage, Other uses of the concept, BIBLIOGRAPHY, In any discussion of the development of geography as a modern academic discipline, attention must be directed to the important concept of “landscape,” for the identification, description, and interpretation of landscapes has long been a major geographic enterprise. Indeed, during the 1920s and 1930s several attempts were made to construct methodologies that made landscape study the essential, if not exclusive, task of geography (Passarge 1921–1930; Sauer 1925; Bryan 1933; Dickinson 1939). While geographers are no longer preoccupied with landscape to this extent, there remains substantial agreement that landscape study is one of the important themes of geographic research, most notably in the subfield of cultural geography (Wagner &amp; Mikesell 1962). If a count were taken of technical terms used most frequently in geographic publications, the number of references to landscape would probably be exceeded only by those to area and region. Moreover, the same generalization can be made for the corresponding term in other languages, for example, Landschaft (German), landskap (Swedish), landschap (Dutch), pay sage (French), paesaggio (Italian), and paisaje (Spanish)., The etymology of the common use of landscape is reasonably clear. In its Old English form (landscipe), the term was used in the Middle Ages to refer to a district owned by a particular lord or inhabited by a particular group of people. The modern forms of the word (landskip, landscape) date from the late sixteenth or early seventeenth century, when the influence of Dutch landschap painters encouraged a revival and redefinition of landscape to refer to representations of scenery, especially rural scenery, and then to scenery in general or a particular scene (James 1934; Jackson 1964)., , The popular conception of landscape was well expressed by Philip Gilbert Hamerton, who wrote several books on landscape painting and landscape appreciation in the latter half of the nineteenth century. In a book entitled Landscape (1885), he wrote that the word could be used “in two senses— a general and a particular. In the general sense, the word ‘landscape’ without the article means the visible world, all that can be seen on the surface of the earth by a man who is himself upon the surface; and in the special sense, ’a landscape’ means a piece of the earth’s surface that can be seen at once; and it is always understood that this piece will have a certain artistic unity” (Hamerton [1885] 1890, p. 10)., This dual definition is reiterated in Webster’s New International Dictionary of the English Language, where landscape is described as “a portion of land or territory which the eye can comprehend in a single view, including all the objects so seen, especially in its pictorial aspect.” Moreover, both Hamerton and Webster’s give the term a subjective connotation, for the reference is to area or scenery as viewed by a particular human observer. The dual popular meaning of landscape and its subjective overtones caused persistent difficulty when geographers spoke of the “objective reality” of landscape and tried to employ the term as a scientific concept., The conception of geography as the scientific study of landscape is developed most completely in the American geographic literature in Carl Sauer’s “The Morphology of Landscape” (1925), where the Landschaft studies of German geographers are reviewed and endorsed as an alternative to the philosophy then current in American geography. During the first quarter of the twentieth century American geographers moved away from their initial interest in physiography, and many redefined their concern as an attempt to trace causal relationships between elements of the natural environment and the activities or creations of man. To Sauer this development represented a denial of the proper task of the discipline, which was to establish a system embracing the “phenomenology of landscape.” He argued that geography could not claim an independent status if it were preoccupied with a particular causal relationship and failed to claim a body of phenomena or “naively given section of reality” as its own. Just as the facts of history are time facts and their association gives rise to the concept of period, so the facts of geography could be regarded as place facts and their association could be expressed by the concept of landscape. According to this view, a landscape, defined as “an area made up of a distinct association of forms, both physical and cultural,” has objective identity based on recognizable constitution, limits, and generic relation to other landscapes. Departing from the popular conception of the term, Sauer held that a landscape should not be regarded as an actual scene viewed by a particular observer but rather as a generalization derived from the observation of many individual scenes. Beginning with infinite diversity, the geographer should select salient and related features in order to establish the character of a landscape and place it in a system. Personal judgment in the selection of landscape content could be minimized by agreement on a logical, predetermined mode of inquiry. In other words, the underlying assumption of Sauer’s argument was that the features thus studied would be characteristic and could be grouped into a pattern and that the landscape defined eventually by this inductive procedure could be described as belonging to a specific group in a general series. In addition, Sauer, following Krebs (1923), felt that landscapes should be studied genetically, that the structural units of a landscape should be placed in a develop-mental sequence, with the condition of the area prior to the introduction of man’s activities as the datum line. The essential task of landscape study was thus to trace the development of a “natural landscape” into a “cultural landscape.”, , Sauer’s statement had considerable influence in the development of American geographic thought, not only because it offered an alternative to “environmentalism” but also because he transmitted the ideas of several European geographers who were more advanced methodologically than their American counterparts at that time. However, the redefinition of geography as the study of landscape morphology proved to have serious practical and methodological difficulties, and Sauer repudiated many features of this initial programmatic statement in later publications (Sauer 1963). Perhaps the most serious weakness of his argument of 1925 was the assumption that geographers should begin their inquiry by reconstructing the prehuman or natural condition of an area. In a world nearly devoid of undisturbed natural landscapes (Urlandschaften), the difficulties entailed in such a task are forbidding, and geographers concerned primarily with the present visible landscape were understandably reluctant to begin their studies in antiquity. Moreover, the genetic—morphological method proved uncongenial to economic geographers whose studies tended to develop along generic and functional lines. Even in Broek’s study of the Santa Clara Valley (1932), which is probably the most complete substantive application of Sauer’s methodology, the datum line is not a re-constructed natural landscape but rather the “primitive” condition of the area when the first Europeans arrived. Similarly, studies of landscape development in Europe usually start not at the time of initial human occupation but rather at the period immediately preceding the great phase of forest clearing, draining of marshes, and reclamation of heathlands (Darby 1951). As geographers accumulated a comprehensive record of the effects of human activity on vegetation, soil, and surface features, they became increasingly wary of the concept of natural landscape (International Symposium – 1956). The distinction most generally accepted today is between a “wild” or “primitive” landscape, in which features of the natural environment are altered but not eradicated or completely controlled, and “cultivated” or “artificial” landscapes (Aschmann 1959; Raup 1959; Nelson 1959)., The methodological objections raised against the definition of geography as landscape science centered on two issues, the vagueness of the term and certain philosophical difficulties (Broek 1938; Hartshorne 1939). Landscape had been employed by geographers to refer to the impression conveyed by an area, to the objects producing that impression, and to the area itself. In other words, the dual meaning of “scenery” and “area” was carried over from the popular use of the term “landscape.” In German usage, Landschaft refers most commonly to a territorial unit and can usually be regarded as a synonym for “district,” “area,” or “region” (Burge 1935; Lautensach 1938; Schmithüsen 1964; Wernli 1958). The ambiguity of Landschaft is enhanced by the fact that Land cannot be defined as the coincident areal expression of Landschaft, as in the case of the French terms pays and paysage, because a Landschaft is usually regarded as being smaller than a Land, as, for example, in the Landschaften of Rhineland or Siegerland. The German geographic literature also abounds in such expressions asKleinlandschaften (small districts or tracts), Grosslandschaften (large areas or regions), Landschaftsgruppe (groups of functionally related or morphologically similar areas or regions), Landschaftsgurtel (extensive belts or zones), and in such specific terms as Stadtlandschaften (urbanized areas), Agrarlandschaften (rural areas), and historische Landschaften (areas in which functional or morphologic unity is enhanced by the long continuation of an integrative force). Each of these terms refers to a general class of Landschaften. However, in the case of such expressions as Alpenlandschaft reference is made not only to the general characteristics of mountainous areas but also to the European Alps as a specific delimited area. Moreover, Landschaftskunde may refer to the study of particular Landschaften or to the regional differentiation of the entire globe. It is not surprising, therefore, that a substantial part of the methodological literature of German geographers deals with the problem of defining Landschaft and Landschaften (Passarge 1921–1930; Waibel 1933; Burger 1935; Lautensach 1938; 1953; Bobek &amp; Schmithüsen 1949; Schmithüsen 1964), and that the attempts to translate these terms compounded the inherent ambiguity of “landscape.”, In addition to the semantic problem, many geographers felt that it could not be maintained that the study and interpretation of landscape is the exclusive preserve of the geographer or that landscape, however defined, contains all that is geographical. By the 1940s, the notion that landscape study should be regarded as the essential task of geography was generally discarded in favor of the view that landscape features constitute merely one of several documents and points of reference in geographic research., , The landscape features studied most often by geographers are those that have to do with the occupation and utilization of land (Sauer 1925; Bryan 1933; Sorre 1961; Houston 1964). Such features include the form and arrangement of settlement (houses and other buildings); field patterns, roads, paths, and other communication lines; crops and the “wild” or “tame” vegetation associated with settlements; irrigation works; and surface modifications—in short, the patterns and imprints of culture. Tangible, visible objects thus constitute the essential raw material of landscape study. However, the perspective of the geographer is not that of an individual observer located at a particular point on the ground. The geographer’s work entails map interpretation as well as direct observation, and he makes no distinction between foreground and background (Vallaux 1925). The landscape of the geographer is thus very different from that of the painter, poet, or novelist. By means of survey, sampling, or detailed inventory, he achieves the comprehensive but synthetic perspective of a helicopter pilot or balloonist armed with maps, photographs, and a pair of binoculars. Indeed, it has been suggested that the geographic definition of landscape might be framed with reference to air photographs, both vertical and oblique, in which case the corresponding German term would not be Landschaft but rather Landschaftsbild (Hartshorne 1959, p. 23)., However, landscape studies inevitably include consideration of cultural expressions that are invisible. If the rationale is to discover landscape features coincident with a culture area, then one may begin by delimiting the area according to linguistic or other nonmaterial phenomena. Moreover, without recourse to historical study there is no way to distinguish between what is ancient or recent, native or foreign. Culture history, accordingly, must enter strongly into any explanatory study of landscape (Wagner &amp; Mikesell 1962, pp. 1–24; Sauer 1963). Again, a landscape may be regarded not as an end in itself but merely as empirical data that can be employed to document culture change (Hill 1964). Most geographers who employ landscape data or seek to explain entire landscapes have ceased to be preoccupied (if indeed they ever were) with what is visible or invisible, material or nonmaterial, for “there can be no finite limit placed upon the variety of data with which the regional cultural geographer must deal in his effort to depict the operation of man in his chosen landscape” (Spencer 1954, p. vii)., A good indication of the scope of recent research is provided by a symposium dealing with the development of the agrarian landscape in northwestern Europe (International Geographical Congress 1961). The subjects covered in this collection include (1) the prehistoric landscape and its connection with later development of settlement and field patterns, (2) medieval regulations of settlement and field patterns, (3) the influence of agrarian revolutions (e.g., the enclosure movement) on the landscape, and (4) recent changes in the agrarian landscape of industrialized and commercialized countries., , The virtues of an uninhibited approach to landscape study are perhaps most effectively illustrated by one early and three recent attempts to determine the effect of landscape tastes on landscape evolution (Gradmann 1924; Lowenthal &amp; Prince 1964; 1965; Hard 1965). In greater or lesser degree, landscapes always embody irrational creation. Accordingly, the origin, persistence, or disappearance of the concrete features of a landscape may be explained most adequately not by their form or function but by the idealized images and visual prejudices of human groups or of individuals., Finally, it must be noted that landscape is an important concept in several fields apart from geography. The origin of landscape as a painter’s term has already been mentioned (Clark 1949). The reconstruction and interpretation of ancient landscapes is one of the essential tasks of archeology (Bradford 1957). Novelists, poets, and travel writers employ landscape description either as an end in itself or as a way to establish a mood or set a scene (Bart 1957; Durrell 1960). In addition, a large critical literature on local and regional landscapes has been produced by architects, city planners, and others concerned with problems of landscape design (Colvin 1948; Nairn 1965). These several conceptions have been presented since 1952 in the magazine Landscape, published by J. B. Jackson of Santa Fe, New Mexico. Indeed, the diverse contributions to this magazine—from architects, ecologists, geographers, planners, and observers from many other backgrounds—provide an effective illustration of the continued value of landscape as an integrating concept in social science., Marvin W. Mikesell, [Directly related are the entries Area; Environment; Environmentalism; Region. Other relevant material may be found in Geography; and in the biography of Sauer.], Aschmann, Homer 1959 The Evolution of a Wild Landscape and Its Persistence in Southern California. Association of American Geographers, Annals 49 (Supplement): 34–46., Bart, Benjamin F. 1957 Flaubert’s Landscape Descriptions. Ann Arbor: Univ. of Michigan Press., Bobek, Hans; and Schmithusen, J. 1949 Die Landschaft im logischen System der Geographic. Erdkunde 3:112–120., Bradford, John 1957 Ancient Landscapes. London: Bell., Broek, Jan O. M. 1932 The Santa Clara Valley, California: A Study in Landscape Changes. Utrecht (Netherlands): Oosthoek., Broek, Jan O. M. 1938 The Concept Landscape in Human Geography. Volume 2, section 3a, pages 103–109 in International Geographical Congress, Fifteenth, Amsterdam, 1938, Comptes rendus. Leiden (Netherlands): Brill., Bryan, Patrick W. 1933 Mans Adaptation of Nature: Studies of the Cultural Landscape. Univ. of London Press., Burger, Kurt 1935 Der Landschaftsbegriff: Ein Beitrag zur geographischen Erdraumauffassung. Dresdener geographische Studien 7:1–131., Clark, Kenneth M. 1949 Landscape Into Art. London: Murray., Colvin, Brenda 1948 Land and Landscape. London: Murray., Darby, H. C. 1951 The Changing English Landscape. Geographical Journal 117:377–394., Dickinson, Robert E. 1939 Landscape and Society. Scottish Geographical Magazine 55:1–l15., Durrell, Lawrence 1960 Landscape With Literary Figures. New York Times Book Review June 12: 1 only., Gradmann, Robert 1924 Das harmonische Landschafts bild. Gesellschaft fur Erdkunde zu Berlin, Zeitschrift [1924]: 129–147., Hamerton, Philip (1885) 1890 Landscape. Boston: Roberts., Hard, Gerhard 1965 Arkadien in Deutschland: Bemerkungen zu einem landschaftlichen Reiz. Erde 96, no. 1:21–41., Hartshorne, Richard 1939 The Nature of Geography: A Critical Survey of Current Thought in the Light of the Past. Association of American Geographers, Annals 29:173–658., Hartshorne, Richard 1959 Perspective on the Nature of Geography. Association of American Geographers, Monograph Series, No. 1. Chicago: Rand McNally., Hill, A. David 1964 The Changing Landscape of a Mexican Municipio: Villa Las Rosas, Chiapas. Univ. of Chicago, Department of Geography., Houston, James M. 1964 The Western Mediterranean World: An Introduction to Its Regional Landscapes. London: Longmans., International Geographical Congress, Nineteenth, 1960, Symposium on the Morphogenesis of the Agrarian Cultural Landscape, Vadstena (Sweden) 1961 Papers. Edited by Staffan Helmfrid. Geografiska annaler (Stockholm) 43, no. 1–2., International Symposium on Man’s Role in Changing the Face of the Earth, Princeton, N.J., 1955 1956 Man’s Role in Changing the Face of the Earth. Edited by William L. Thomas et al. Univ. of Chicago Press., Jackson, J. B. 1964 The Meanings of Landscape. Kulturgeografi (Aarhus, Denmark) 88:47–51., James, Preston E. 1934 The Terminology of Regional Description. Association of American Geographers, Annals 24:78–86., Krebs, Norbert 1923 Natur- und Kulturlandschaft. Gesellschaft füumir Erdkunde zu Berlin, Zeitschrift [1923]:81–94., Lautensach, Hermann 1938 Über die Erfassung und Abgrenzung von Landschaftsraumen. Volume 2, section 5, pages 12–26 in International Geographical Congress, Fifteenth, Amsterdam, 1938, Comptes rendus. Leiden (Netherlands): Brill., Lautensach, Hermann 1953 Über die Begriffe Typus und Individuum in der geographischen Forschung. Miinchener geographische Hefte 3:1–31., Lowenthal, David; and Prince, Hugh C. 1964 The English Landscape. Geographical Review 54:309–346., Lowenthal, David; and Prince, Hugh C. 1965 English Landscape Tastes. Geographical Review 55:186–222., Nairn, Ian 1965 The American Landscape: A Critical View. New York: Random House., Nelson, Howard J. 1959 The Spread of an Artificial Landscape Over Southern California. Association of American Geographers, Annals 49 (Supplement): 80–99., Passarge, Siegfried 1919–1921 Grundlagen der Landschaftskunde: Ein Lehrbuch und eine Anleitung zu landschaftskundlicher Forschung und Darstellung. 3 vols. Hamburg (Germany): Friedrich., Passarge, Siegfried 1921–1930 Vergleichende Landschaftskunde. 5 vols. Berlin: Reimer., Passarge, Siegfried (1923) 1929 Die Landschaf tsgiirtel der Erde: Natur und Kultur. Breslau (then Germany) : Hirt., Raup, H. R. 1959 Transformation of Southern California to a Cultivated Land. Association of American Geographers, Annals 49 (Supplement): 58–78., Sauer, Carl O. (1925) 1963 The Morphology of Landscape. Pages 315–350 in Carl O. Sauer, Land and Life: A Selection From the Writings of Carl Ortwin Sauer. Berkeley: Univ. of California Press., Sauer, Carl O. 1963 Land and Life: A Selection From the Writings of Carl Ortwin Sauer. Edited by John Leighly. Berkeley: Univ. of California Press., Schmithusen, Josef 1964 Was ist eine Landschaft Erdkundliches Wissen 9:1–24., Sorre, Maximilien 1961 L’homme sur la terre. Paris: Hachette., Spencer, Joseph E. 1954 Asia, East by South: A Cultural Geography. New York: Wiley., Vallaux, Camille (1925) 1929 Les sciences geographiques. New ed. Paris: Alcan., Wagner, Philip L.; and Mikesell, Marvin W. (editors) 1962 Readings in Cultural Geography. Univ. of Chicago Press., Waibel, Leo H. 1933 Was verstehen wir unter Landschaftskunde? Geographischer Anzeiger 34:197–207., Wernli, Otto 1958 Die neuere ,Entwicklung des Landschaftsbegriffes. Geographica helvetica 13:1–59., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Landscape."
+
+International Encyclopedia of the Social Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Landscape." 
+International Encyclopedia of the Social Sciences.
+
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/landscape
+, 
+"Landscape." 
+International Encyclopedia of the Social Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/landscape
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, landscape painting, portrayal of scenes found in the natural world; these scenes are treated as the subject of the work of art rather than as an element in another kind of painting.
+  Early LandscapesIn the West, the concept of landscape grew very slowly. Nature was traditionally viewed as consisting of isolated objects long before it was appreciated as scene or environment. As a result landscape painting as an independent art was a late development in the West. Many scenes, from the Hellenistic pastoral paintings of antiquity to the religious works of the 16th cent. AD, contained expansive landscape backgrounds, but they were usually subordinated within a narrative context.
+  The Renaissance and the Sixteenth CenturyIn Renaissance Italy the study of perspective gave rise to a careful rendering of scenery according to conventional formulas. Giorgione and the Venetian painters excelled at pastoral vistas that recalled scenes from classical literature. Flemish works enhanced by meticulous landscape detail became popular in Italy and encouraged Patinir and others to cater to this taste. Altdorfer, the Danube painter of the early 16th cent., created some of the first works devoted entirely to landscape.During and after the Reformation the use of religious subject matter was restricted and numerous artists in the north became specialists in the landscape genre at which, when painting backgrounds of religious works, they had become proficient. These artists, among whom Pieter Bruegel the elder was most notable, were devoted to fantastic scenes painted according to established convention in tones of brown for the foreground, green for the middle ground, and blue for the background panorama. In Rome, Dutch artists, led by Coninxloo, initiated the concept of the ideal landscape.
+  The Seventeenth and Eighteenth CenturiesClaude Lorrain was supreme master of this genre. His serene pastoral works and the heroic compositions of Poussin contrasted with the concurrent Dutch tendency toward realism. The great 17th-century Dutch landscape masters from van Goyen to Ruisdael, Hobbema, and Rembrandt transformed into paint what they saw in the Dutch countryside (see Dutch art). The Rococo saw a revival of ideal pastoral scenes in the works of Watteau and Gainsborough. The 18th-century Englishman Thomas Girtin was an important influence on future landscape painting.
+  The Nineteenth and Twentieth CenturiesEngland produced the major late 19th-century landscape masters: the visionary Turner and the poetic Constable. Constable, who greatly influenced the French Romantics, also served as an important inspiration to the Barbizon school in France, whose members returned to the serene pastoral mood. In Germany, C. D. Friedrich sustained the poetic tradition of landscape, as did the luminists of the American Hudson River school. Turner's exploration of the atmospheric effects of light interested Monet, whose plein-air works, forming the basis of impressionism, elevated landscape to the highest position in artists' esteem that it had yet held.Landscape also became a principal source material of postimpressionism. The exponents of surrealism revealed the fearful power of imaginary landscape. In addition, many of the 20th-century artists working in the abstract idiom have employed both landscape and still life as basic sources for their widely differing work.
+  Landscape Art in the EastIn China landscape art reached extraordinary perfection as early as the 8th cent. It engaged the highest talents during the T'ang, Sung, and Ming dynasties (see Chinese art). The prominence accorded landscape in both Chinese and Japanese art reflects the esteem for nature characteristic of East Asian religions.Bibliography, See K. Clark, Landscape into Art (1949, repr. 1961); Z. Szabo, Landscape Painting in Watercolor (1971); P. Monahan, Landscape Painting (1985); J. Arthur, Spirit of Place: Contemporary Landscape Painting and the American Tradition (1989); A. Wilton and T. Barringer, American Sublime: Landscape Painting in the United States, 1820–1880 (2002)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"landscape painting."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"landscape painting." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/landscape-painting
+, 
+"landscape painting." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/landscape-painting
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+land·scape 
+/ ˈlan(d)ˌskāp/
+•
+n.
+1.
+all the visible features of an area of countryside or land, often considered in terms of their aesthetic appeal:
+the giant cacti that dominate this landscape.
+
+ ∎ 
+a picture representing an area of countryside:
+[as  adj.]
+a landscape painter.
+ ∎ 
+the genre of landscape painting.
+ ∎ fig. 
+the distinctive features of a particular situation or intellectual activity:
+the event transformed the political landscape.
+
+2.
+[as  adj.]
+(of a page, book, or illustration, or the manner in which it is set or printed) wider than it is high. Compare with portrait (sense 2).
+
+
+•
+v. [tr.] (usu. be landscaped)
+improve the aesthetic appearance of (a piece of land) by changing its contours, adding ornamental features, or planting trees and shrubs:
+the site has been tastefully landscaped [as  n.] (landscaping)
+the company spent $15,000 on landscaping.
+
+DERIVATIVES: 
+land·scap·er n.
+land·scap·ist
+/ -ˌskāpist/ n.
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"landscape."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+ &lt;https://www.encyclopedia.com&gt;.
+, 
+"landscape." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/landscape-0
+, 
+"landscape." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/landscape-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"landscape painting."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"landscape painting." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/landscape-painting
+, 
+"landscape painting." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/landscape-painting
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+ "landscape."
+
+Oxford Dictionary of Rhymes.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"landscape." 
+Oxford Dictionary of Rhymes.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/landscape
+, 
+"landscape." 
+Oxford Dictionary of Rhymes.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/landscape
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"landscape."
+
+A Dictionary of Computing.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"landscape." 
+A Dictionary of Computing.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/computing/dictionaries-thesauruses-pictures-and-press-releases/landscape
+, 
+"landscape." 
+A Dictionary of Computing.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/computing/dictionaries-thesauruses-pictures-and-press-releases/landscape
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"landscape."
+
+The Concise Oxford Dictionary of English Etymology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"landscape." 
+The Concise Oxford Dictionary of English Etymology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/landscape-1
+, 
+"landscape." 
+The Concise Oxford Dictionary of English Etymology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/landscape-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

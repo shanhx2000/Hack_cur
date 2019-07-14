@@ -1,0 +1,131 @@
+[Isotherms are lines that connect points of equal temperature on weather maps, so at every point along a given isotherm the temperature values are the same. The word originates from Greek, where isos means equal and therm means heat. Isotherms are created from regularly scheduled, simultaneous temperature readings at different locations. For a proper comparison between the observation places, the measured temperature values are corrected for each location as if it was located at sea level. Isotherms help to visualize and interpret the horizontal temperature distribution of an area by showing patterns of temperature on a weather or oceanography map. Constructing a map of isotherms is an elementary step in temperature data analysis, and the process in general is called contouring. It can also be done for other parameters such as barometric pressure (isobars ), geopotential height (isohypses), dew point temperature (isodrosotherms), wind speed (isotachs), and salinity (isohalines)., Isotherms are always smooth, labeled with the values, and mostly parallel to each other. Although the interval between the isotherms is arbitrarily chosen, within the same map it is a constant, and usually a round value. The value is selected such that the contour map both contains enough contours to show the patterns, and yet it is not crowded with too many lines. Because data is available only in the temperature observation points, interpolation should be used to create the isotherms between the measurement points. On the other hand, extrapolation to areas where no data is available is not acceptable. An isotherm should never split, cross, or touch another isotherm, because then at the crossing point it would have two different temperature values, which is physically impossible. Sometimes, contour maps are enhanced using color filling, when the area between pairs of isotherms is filled with special colors, so a particular color denotes the range of values between the two temperature values., The relative spacing of the isotherms indicates the temperature gradient, the amount by which the temperature values vary across each unit of horizontal distance, in a direction perpendicular to the isotherms. The gradient is larger where the isotherms are closer. From the contour maps, areas of large gradient (regions where the temperature is changing quickly), as well as flat fields (regions where the temperature variation is not much) can be easily identified., See also  Isobars; Temperature and temperature scales, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Isotherm."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Isotherm." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/isotherm
+, 
+"Isotherm." 
+World of Earth Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/isotherm
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, isotherm, line drawn on a map of a particular region of the earth's surface connecting points of equal temperature; each point reflects one temperature reading or an average of several readings over a period of time. The relative spacing of the isothermal lines indicates a temperature gradient, i.e., the amount of temperature change over a given distance., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"isotherm."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"isotherm." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/isotherm
+, 
+"isotherm." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/isotherm
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"isotherm."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"isotherm." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/isotherm-0
+, 
+"isotherm." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/isotherm-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"isotherm."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"isotherm." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/isotherm
+, 
+"isotherm." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/isotherm
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

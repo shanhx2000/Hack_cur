@@ -1,0 +1,163 @@
+[The asthenosphere is the layer of Earth that lies at a depth 60–150 mi (100–250 km) beneath Earth's surface. It was first named in 1914 by the British geologist J. Barrell, who divided Earth's overall structure into three major sections: the lithosphere , or outer layer of rock-like material; the asthenosphere; and the centrosphere, or central part of the planet. The asthenosphere gets its name from the Greek word for weak, asthenis, because of the relatively fragile nature of the materials of which it is made. It lies in the upper portion of Earth's structure traditionally known as the mantle., Geologists are somewhat limited as to the methods by which they can collect information about Earth's interior. For example, they may be able to study rocky material ejected from volcanoes and lava flows for hints about properties of the interior regions. But generally speaking, the single most dependable source of such information is the way in which seismic waves are transmitted through Earth's interior. These waves can be produced naturally as the result of earth movements, or they can be generated synthetically by means of explosions, air guns, or other techniques., Seismic studies have shown that a type of wave known as S-waves slow down significantly as they reach a depth of about 62 mi (100 km) beneath Earth's surface. Then, at a depth of about 155 mi (250 km), their velocity increases once more. Geologists have taken these changes in wave velocity as indications of the boundaries for the region now known as the asthenosphere., , The material of which the asthenosphere is composed can be described as plastic-like, with much less rigidity than the lithosphere above it. This property is caused by the interaction of temperature and pressure on asthenospheric materials. Any rock will melt if its temperature is raised to a high enough temperature. However, the melting point of any rock is also a function of the pressure exerted on the rock. In general, as the pressure is increased on a material, its melting point increases., The temperature of the materials that make up the asthenosphere tend to be just below their melting point. This gives them a plastic-like quality that can be compared to glass . As the temperature of the material increases or as the pressure exerted on the material increases, the material tends to deform and flow. If the pressure on the material is sharply reduced, so will be its melting point, and the material may begin to melt quickly. The fragile melting point pressure balance in the asthenosphere is reflected in the estimate made by some geologists that up to 10% of the asthenospheric material may actually be molten. The rest is so close to being molten that relatively modest changes in pressure or temperature may cause further melting., In addition to loss of pressure on the asthenosphere, another factor that can bring about melting is an increase in temperature. The asthenosphere is heated by contact with hot materials that make up the mesosphere beneath it. Obviously, the temperature of the mesosphere is not constant. It is hotter in some places than in others. In those regions where the mesosphere is warmer than average, the extra heat may actually increase the extent to which asthenospheric materials are heated and a more extensive melting may occur., , The asthenosphere is now thought to play a critical role in the movement of plates across the face of Earth's surface. According to plate tectonic theory, the lithosphere consists of a relatively small number of very large slabs of rocky material. These plates tend to be about 60 mi (100 km) thick and many thousands of miles wide. They are thought to be very rigid themselves but capable of flowing back and forth on top of the asthenosphere. The collision of plates with each other, their lateral sliding past each other, and their separation from each other are thought to be responsible for major geologic features and events such as volcanoes, lava flows, mountain building, and deep-sea rifts., In order for plate tectonic theory to seem sensible, some mechanism must be available for permitting the flow of plates. That mechanism is the semi-fluid character of the asthenosphere itself. Some observers have described the asthenosphere as the lubricating oil that permits the movement of plates in the lithosphere., Geologists have now developed sophisticated theories to explain the changes that take place in the asthenosphere when plates begin to thin or to diverge from or converge toward each other. For example, suppose that a region of weakness has developed in the lithosphere. In that case, the pressure exerted on the asthenosphere beneath it is reduced, melting begins to occur, and asthenospheric materials begin to flow upward. If the lithosphere has not actually broken, those asthenospheric materials cool as they approach Earth's surface and eventually become part of the lithosphere itself., On the other hand, suppose that a break in the lithosphere has actually occurred. In that case, the asthenospheric materials may escape through that break and flow outward before they have cooled. Depending on the temperature and pressure in the region, that outflow of material (magma ) may occur rather violently, as in a volcano , or more moderately, as in a lava flow., Pressure on the asthenosphere may also be reduced in zones of divergence, where two plates are separating from each other. Again, this reduction in pressure may allow asthenospheric materials in the asthenosphere to begin melting and to flow upward. If the two overlying plates have actually separated, asthenospheric material may flow through the separation and form a new section of lithosphere., In zones of convergence, where two plates are flowing toward each other, asthenospheric materials may also be exposed to reduced pressure and begin to flow upward. In this case, the lighter of the colliding plates slides upward and over the heavier of the plates, which dives down into the asthenosphere. This process is called subduction. Since the lithospheric material is more rigid than the material in the asthenosphere, the latter is pushed outward and upward. During this movement of plates, pressure on the asthenosphere is reduced, melting occurs, and molten materials flow upward to Earth's surface. In any one of the examples cited here, the asthenosphere supplies new material to replace lithospheric materials that have been displaced by some other tectonic or geologic mechanism., See also  Continental drift theory; Continental shelf; Crust; Earth, interior structure; Plate tectonics, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Asthenosphere."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Asthenosphere." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/asthenosphere
+, 
+"Asthenosphere." 
+World of Earth Science.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/asthenosphere
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, asthenosphere (ăsthēn´əsfēr), region in the upper mantle of the earth's interior, characterized by low-density, semiplastic (or partially molten) rock material chemically similar to the overlying lithosphere. The upper part of the asthenosphere is believed to be the zone upon which the great rigid and brittle lithospheric plates of the earth's crust move about (see plate tectonics). The asthenosphere is generally located between 45–155 miles (72–250 km) beneath the earth's surface, though under the oceans it is usually much nearer the surface and at mid-ocean ridges rises to within a few miles of the ocean floor. Although its presence was suspected as early as 1926, the worldwide occurrence of the plastic zone was confirmed by analyses of earthquake waves from the Chilean earthquake of May 22, 1960. The seismic waves, the speed of which decreases with the softness of the medium, passed relatively slowly though the asthenosphere, thus it was given the name Low Velocity zone, or the Seismic Wave Guide (see seismology). Deep-zone earthquakes, i.e., those that occur in the asthenosphere or below it, may be caused by crustal plates sinking into the mantle along convergent crustal boundaries. See earth., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"asthenosphere."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"asthenosphere." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/asthenosphere
+, 
+"asthenosphere." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/asthenosphere
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"asthenosphere."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"asthenosphere." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/asthenosphere
+, 
+"asthenosphere." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/asthenosphere
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Properties of the asthenosphere, The asthenosphere in plate tectonic theory, Resources, The asthenosphere is the ductile layer situated beneath Earth’s rigid lithosphere. It was first named in 1914 by the British geologist Joseph Barrell, who divided Earth’s overall structure into three major sections: the lithosphere, or outer layer of rock-like material; the asthenosphere; and the centrosphere, or central part of the planet., The asthenosphere derives its name from the Greek word asthenis, meaning weak, because its strength is much lower than that of the overlying lithosphere. The lithosphere and asthenosphere are defined on the basis of their mechanical properties, whereas the crust and mantle are defined on the basis of their chemical composition. As such, the lithosphere includes both the crust and the upper portion of the mantle, in which temperatures are less than 2,372°F (1, 300°C). The asthenosphere includes the portion of the mantle with temperatures above 2,372°F. The depth of the top of the asthenosphere ranges from a few miles near mid-ocean ridges to 62-93 miles (100-150 km) beneath old oceanic crust (far removed from mid-ocean ridges) and 155-186 miles (250-300 km) beneath continental cores or cratons., , The top of the asthenosphere is marked by a change in the velocity with which certain kinds of seismic waves, known as S-waves, move through Earth. The velocity of the S-waves is inversely proportional to the temperature of the rock through which they are moving, and the top of the asthenosphere corresponds to a low velocity zone near the top of the mantle., The asthenosphere is ductile and deforms easily compared to the overlying lithosphere because of its temperature and pressure. Any rock will melt if its temperature is raised high enough. However, the melting point of any rock or mineral is also a function of the pressure exerted on the rock or mineral. In general, as the pressure is increased on a material, the melting point increases. The temperature of the rocks that constitute the asthenosphere is below their melting point. As temperature or pressure on increases, the material tends to deform and flow. If the pressure reduced, so will be its melting point and the material may begin to melt. The melting point and pressure balance in the asthenosphere have led geologists to infer that as much as 10% of the asthenospheric material may be molten. The rest is so close to being molten that relatively modest changes in pressure or temperature may cause further melting., The asthenosphere is heated by contact with hot materials that make up the mesosphere beneath it, but the temperature of the mesosphere is not constant. It is hotter in some places than others. In those regions where the mesosphere is warmer than average, the extra heat may increase the extent to which the asthenosphere is heated and local melting may occur., , The asthenosphere is thought to play a critical role in the movement of Earth’s tectonic plates. According to plate tectonic theory, the lithosphere consists of a small number of rigid and relatively cool slabs known as plates. Although the plates are comparatively rigid, they can move along the top of the plastic asthenosphere. The collision, lateral sliding, and separation of plates is responsible for geologic features and events such as volcanoes and lava flows, episodes of mountain building, and deep crustal faults and rifts., Geologists have developed theories to explain the changes that take place in the asthenosphere when plates begin to diverge or converge. If a region of weakness has developed in the lithosphere, the, Lithosphere —The rigid outer layer of Earth that extends to a depth of about 62 mi (100 km)., Magma —Molten rock beneath Earth’s surface., Seismic wave —A disturbance produced by compression or distortion on or within Earth, which propagates through Earth materials. A seismic wave may be produced by natural (e.g. earthquakes) or artificial (e.g. explosions) means., pressure exerted on the asthenosphere beneath it is reduced, melting begins to occur, and the asthenosphere begins to flow upward. If the lithosphere has not separated, the asthenosphere cools as it rises and becomes part of the lithosphere. If there is a break in the lithosphere, magma may escape and flow outward. Depending on the temperature and pressure in the region, that outflow of material (magma) may occur in a violent volcanic eruption or a quiescent lava flow. In either case, the plates spread apart in a process known as rifting., In zones of convergence, where two plates are moving toward each other, the asthenosphere may be exposed to increased pressure and begin to flow downward. In this case, the lighter of the two colliding plates slides up and over the heavier plate, which is subucted into the asthenosphere. Because the cooler and denser lithosphere is more rigid than the asthenosphere, the asthenosphere is pushed outward and upward. During subduction, the downward moving plate is heated, melting occurs, and molten rock flows upward to Earth’s surface. Such mountain ranges as the Urals, Appalachian, and Himalayas were formed as products of plate collisions. Island arcs such as the Japanese or Aleutians Islands and deep sea trenches are also common products of plate convergence., See also Continental drift; Continental margin; Continental shelf; Planetary geology; Plate tectonics., Tarbuck, E. J., F. K. Lutgens, and D. Tasa. Earth: An Introduction to Physical Geology. Upper Saddle River, New Jersey: Prentice Hall, 2004., David E. Newton, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Asthenosphere."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Asthenosphere." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/asthenosphere-0
+, 
+"Asthenosphere." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/asthenosphere-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The asthenosphere is the layer of Earth situated at an average depth of about 62 mi (about 100 km) beneath Earth's surface. It was first named in 1914 by the British geologist Joseph Barrell, who divided Earth's overall structure into three major sections: the lithosphere , or outer layer of rock-like material; the asthenosphere; and the centrosphere, or central part of the planet . The asthenosphere gets its name from the Greek word for weak, asthenis, because of the relatively fragile nature of the materials of which it is made. It lies in the upper portion of Earth's internal structure traditionally known as the mantle. Scientists have not seen the asthenosphere of Earth, but its existence has a profound effect upon the planet and the manner in which the Earth's crust behaves. For anyone living near a plate boundary on Earth, the asthenosphere contributes mightily to the uneasy geologic conditions which may plague the area., Geologists are somewhat limited as to the methods by which they can collect information about Earth's interior . For example, they may be able to study rocky material ejected from volcanoes and lava flows for hints about properties of the interior regions. Generally speaking, however, the single most dependable source of such information is the way in which seismic waves are transmitted through Earth's interior. These waves can be produced naturally as the result of earth movements, or they can be generated synthetically by means of explosions, air guns, or other techniques., , In any case, seismic studies have shown that a type of waves known as S-waves slow down significantly as they reach an average depth of about 62 mi (100 km) beneath Earth's surface. Then, at a depth of about 155 mi (250 km), their velocity increases once more. Geologists have taken these changes in wave velocity as indications of the boundaries for the region now known as the asthenosphere., The material of which the asthenosphere is composed can be described as plastic-like, with much less rigidity than the lithosphere above it. This property is caused by the interaction of temperature and pressure on asthenospheric materials. Any rock will, of course, melt if its temperature is raised to a high enough temperature. However, the melting point of any rock (or of any material) is also a function of the pressure exerted on the rock (or the material). In general, as the pressure is increased on a material, its melting point increases., Materials that make up the asthenosphere tend to be slightly cooler than their melting point. This gives them a plastic-like quality that can be compared to glass . As the temperature of the material increases or as the pressure exerted on the material increases, the material tends to deform and flow. If the pressure on the material is sharply reduced, so will be its melting point, and the material may begin to melt quickly. The fragile melting point/pressure balance in the asthenosphere is reflected in the estimate made by some geologists that up to 10% of the asthenospheric material may actually be molten. The rest is so close to being molten that relatively modest changes in pressure or temperature may cause further melting., , In addition to loss of pressure on the asthenosphere, another factor that can bring about melting is an increase in temperature. The asthenosphere is heated by contact with hot materials that make up the mesosphere beneath it. Obviously, the temperature of the mesosphere is not constant. It is hotter in some places than in others. In those regions where the mesosphere is warmer than average, the extra heat may actually increase the extent to which asthenospheric materials are heated and a more extensive melting may occur. The results of such an event are described below., The asthenosphere is now thought to play a critical role in the movement of plates across the face of Earth's surface. According to plate tectonic theory, the lithosphere consists of a relatively small number of very large slabs of rocky material. These plates tend to be about 60 mi (100 km) thick and in most instances many thousands of miles wide. They are thought to be very rigid themselves but capable of being moved on top of the asthenosphere. The collision of plates with each other, their lateral sliding past each other, and their separation from each other are thought to be responsible for major geologic features and events such as volcanoes, lava flows, mountain building, and deep crustal faults and rifts., In order for plate tectonic theory to make any sense, some mechanism must be available for permitting the flow of plates. That mechanism is the semi-fluid character of the asthenosphere itself. Some observers have described the asthenosphere as the 'lubricating oil' that permits the movement of plates in the lithosphere. Others view the asthenosphere as the driving force or means of conveyance for the plates., , Geologists have now developed theories to explain the changes that take place in the asthenosphere when plates begin to diverge from or converge toward each other. For example, suppose that a region of weakness has developed in the lithosphere. In that case, the pressure exerted on the asthenosphere beneath it is reduced, melting begins to occur, and asthenospheric materials begin to flow upward. If the lithosphere has not actually broken, those asthenospheric materials cool as they approach Earth's surface and eventually become part of the lithosphere itself. On the other hand, suppose that a break in the lithosphere has actually occurred. In that case, the asthenospheric materials may escape through that break and flow outward before they have cooled. Depending on the temperature and pressure in the region, that outflow of material (magma ) may occur rather violently, as in a volcano , or more moderately, as in a lave flow. Both these cases produce crustal plate divergence, or spreading apart. Pressure on the asthenosphere may also be reduced in zones of divergence, where two plates are separating from each other. Again, this reduction in pressure may allow asthenospheric materials in the asthenosphere to begin melting and to flow upward. If the two overlying plates have actually separated, asthenospheric material may flow through the separation and form a new section of lithosphere., In zones of convergence, where two plates are moving toward each other, asthenospheric materials may also be exposed to increased pressure and begin to flow downward. In this case, the lighter of the colliding plates slides upward and over the heavier of the plates, which dives down into the asthenosphere. Since the heavier lithospheric material is more rigid than the material in the asthenosphere, the latter is pushed outward and upward. During this movement of plates, material of the downgoing plate is heated in the asthenosphere, melting occurs, and molten materials flow upward to Earth's surface. Mountain building is the result of continental collision in such situations, and great mountain chains like the Urals, Appalachian, and Himalayas have been formed in such a fashion. When oceanic plates meet one another, island arcs (e.g., Japan or the Aleutians) are formed. Great ocean trenches occur in places of plate convergence. In any one of the examples cited here, the asthenosphere supplies new material to replace lithospheric materials that have been displaced by some other tectonic or geologic mechanism., Therefore, whether scientists are considering the origin of compressed mountain ranges like the Himalayas, or the origin of the great ocean trenches (like the Peru-Chile trench), they also consider the activity of the asthenosphere, which keeps Earth's plates continually geologically active., See also Continental drift; Continental margin; Continental shelf; Planetary geology; Plate tectonics., Press, Frank, and Raymond Sevier. Understanding Earth. San Francisco: Freeman, 2000., Tarbuck, Edward. J., Frederick K. Lutgens, and Dennis Tassa, eds. Earth: An Introduction to Physical Geology, 7th ed. Upper Saddle River, NJ: Prentice Hall, 2002., Fuchs, Karl, and Claude Froidevaux. Composition, Structure, and Dynamics of the Lithosphere and Asthenosphere System. Washington, DC: American Geophysical Union, 1987., David E. Newton, —The outer layer of Earth, that extends to a depth of about 60 mi (100 km)., —Molten material exuded from below Earth's surface, generally consisting of rock-like materials rich in silicon and oxygen., —A disturbance produced by compression or distortion on or within the earth, which propagates through Earth materials; a seismic wave may be produced by natural (e.g. earthquakes) or artificial (e.g. explosions) means., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Asthenosphere."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Asthenosphere." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/asthenosphere-1
+, 
+"Asthenosphere." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/asthenosphere-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

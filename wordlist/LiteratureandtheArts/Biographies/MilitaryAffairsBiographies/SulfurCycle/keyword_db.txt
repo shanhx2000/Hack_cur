@@ -1,0 +1,100 @@
+[Chemical forms and transformations of sulfur, Humans and the sulfur cycle, Resources, Sulfur is an important nutrient for organisms, being an key constituent of certain amino acids, proteins, and other biochemicals. Plants satisfy their nutritional needs for sulfur by assimilating simple mineral compounds from the environment. This mostly occurs as sulfate dissolved in soilwater that is taken up by roots, or as gaseous sulfur dioxide that is absorbed by foliage in environments where the atmosphere is somewhat polluted with this gas. Animals obtain the sulfur they need by eating plants or other animals, and digesting and assimilating their organic forms of sulfur, which are then used to synthesize necessary sulfur-containing biochemicals., In certain situations, particularly in intensively managed agriculture, the availability of biologically useful forms of sulfur can be a limiting factor to the productivity of plants, and application of a sulfate-containing fertilizer may prove to be beneficial. Sulfur compounds may also be associated with important environmental damages, as when sulfur dioxide damages vegetation, or when acidic drainages associated with sulfide minerals degrade ecosystems., Sulfur (S) can occur in many chemical forms in the environment. These include organic and mineral forms, which can be chemically transformed by both biological and inorganic processes., , Sulfur dioxide is a gas that can be toxic to plants at concentrations much smaller than one part per million in the atmosphere, and to animals at larger concentrations. There are many natural sources of emission of SO2 to the atmosphere, such as volcanic eruptions and forest fires. Large emissions of SO2 are also associated with human activities, especially the burning of coal and the processing of certain metal ores. In the atmosphere, SO2 is oxidized to sulfate, an anion that occurs as a tiny particulate in which the negative charges are electrochemically balanced by the positive charges of cations, such as ammonium (NH4+), calcium (Ca2+), or hydrogen ion (H+). These fine particulates can serve as condensation nuclei for the formation of ice crystals, which may settle from the atmosphere as rain or snow, delivering the sulfate to terrestrial and aquatic ecosystems. If the sulfate is mostly balanced by hydrogen ion, the precipitation will be acidic, and can damage some types of freshwater ecosystems., Hydrogen sulfide is another gas, with a strong smell of rotten eggs. Hydrogen sulfide is emitted from situations in which organic sulfur compounds are being decomposed in the absence of oxygen. Once H2S is emitted to the atmosphere, it is slowly oxidized to sulfate, which behaves as described above., Sulfur can occur in many chemically reduced mineral forms, or sulfides, in association with many metals. The most common metal sulfides in the environment are iron sulfides (such as FeS2; these are called pyrites when they occur as cubic crystals), but all heavy metals can occur in this mineral form. Whenever metal sulfides are exposed to an oxygen-rich environment, certain bacteria begin to oxidize the sulfide, generating sulfate as a product, and tapping energy from the process which is used to sustain their own growth and reproduction. This autotrophic process is called chemosynthesis, and the bacteria involved are named Thiobacillus thiooxidans. When a large quantity of sulfide is oxidized in this way, an enormous amount of acidity is associated with the sulfate product., Organic sulfur refers to an extremely diverse array of sulfur-containing organic molecules. These can range in weight and complexity from amino acids, proteins, and nucleic acids, to large molecules such as humic substances in soil or water. Organic sulfur is a chemically reduced form of sulfur. When it is exposed to an oxygen-rich atmosphere, bacteria oxidize the organic sulfur to derive energy, while liberating sulfate, usually in association with hydrogen ions and acidity., Human activities influence the rates and character of certain aspects of the sulfur cycle in important ways, sometimes causing substantial environmental damages., , Acid rain is a well-known environmental problem. Acid rain is ultimately associated with large emissions of sulfur dioxide to the atmosphere by human sources, such as oil- and coal-fired power plants, metal smelters, and the burning of fuel oil to heat homes. The SO 2is eventually oxidized in the atmosphere to sulfate, much of which is balanced by hydrogen ions, so the precipitation chemistry is acidic. In addition, the, vicinity of large point-sources of SO2 emission is generally polluted by relatively large concentrations of this gas. If its concentration is large enough, the SO 2 can cause toxicity to plants, which may be killed, resulting in severe ecological damages. In addition, atmospheric SO2 can be directly deposited to surfaces, especially moist soil, plant, or aquatic surfaces, since SO2 can readily dissolve in water. When this happens, the SO2 becomes oxidized to sulfate, generating acidity. This means of direct input of sulfur dioxide is called dry deposition, and is a fundamentally different process from the so-called wet deposition of sulfate and acidity with precipitation., Acid mine drainage is another severe environmental problem that is commonly associated with coal and metal mining, and sometimes with construction activities such as road building. In all of these cases, physical disturbance results in the exposure of large quantities of mineral sulfides to atmospheric oxygen. This causes the sulfides to be oxidized to sulfate, a process accompanied by the generation of large amounts of acidity. Surface waters exposed to acid mine drainage can become severely acidified, to a pH less than 3, resulting in severe biological damages and environmental degradation., Sulfur is also an important mineral commodity, with many industrial uses in manufacturing. Sulfur for these purposes is largely obtained by cleaning sour natural gas of its content of H2S, and from pollution control at some metal smelters., In a few types of intensively managed agriculture, crops may be well fertilized with nitrogen, phosphorus,, Acid mine drainage —Surface water or ground-water that has been acidified by the oxidation of pyrite and other reduced-sulfur minerals that occur in coal and metal mines and their wastes., Electrochemical balance —In an aqueous solution, the number of positive charges associated with cations must equal the number of negative charges of anions, so the solution does not develop an electrical charge., and other nutrients, and in such cases there may be a deficiency of sulfate availability. Because sulfate is an important plant nutrient, it may have to be applied in the form of a sulfate-containing fertilizer. In North America, sulfate fertilization is most common in prairie agriculture., Dodds, Walter K. Freshwater Ecology: Concepts and Environmental Applications. San Diego: Academic Press, 2002., Bill Freedman, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Sulfur Cycle."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Sulfur Cycle." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/sulfur-cycle-0
+, 
+"Sulfur Cycle." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/sulfur-cycle-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The series of chemical reactions by which sulfur moves through the earth's atmosphere , hydrosphere, lithosphere, and biosphere . Sulfur enters the atmosphere naturally from volcanoes and hot springs and through the anaerobic decay of organisms. It exists in the atmosphere primarily as hydrogen sulfide and sulfur dioxide . After conversion to sulfates in the air, sulfur is carried to the earth's surface by precipitation. There it is incorporated into plants and animals who return sulfur to the earth's crust when they die. Through their use of fossil fuels , humans have a large effect on the sulfur cycle, approximately tripling the amount of the element returned to the atmosphere., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Sulfur Cycle."
+
+Environmental Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Sulfur Cycle." 
+Environmental Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/sulfur-cycle
+, 
+"Sulfur Cycle." 
+Environmental Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/sulfur-cycle
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Sulfur is an important nutrient for organisms, being an key constituent of certain amino acids, proteins , and other biochemicals. Plants satisfy their nutritional needs for sulfur by assimilating simple mineral compounds from the environment. This mostly occurs as sulfate dissolved in soil water that is taken up by roots, or as gaseous sulfur dioxide that is absorbed by foliage in environments where the atmosphere is somewhat polluted with this gas. Animals obtain the sulfur they need by eating plants or other animals, and digesting and assimilating their organic forms of sulfur, which are then used to synthesize necessary sulfur-containing biochemicals., In certain situations, particularly in intensively managed agriculture, the availability of biologically useful forms of sulfur can be a limiting factor to the productivity of plants, and application of a sulfate-containing fertilizer may prove to be beneficial. Sulfur compounds may also be associated with important environmental damages, as when sulfur dioxide damages vegetation, or when acidic drainages associated with sulfide minerals degrade ecosystems., Sulfur (S) can occur in many chemical forms in the environment. These include organic and mineral forms, which can be chemically transformed by both biological and inorganic processes., , Sulfur dioxide is a gas that can be toxic to plants at concentrations much smaller than one part per million in the atmosphere, and to animals at larger concentrations. There are many natural sources of emission of SO2 to the atmosphere, such as volcanic eruptions and forest fires. Large emissions of SO2 are also associated with human activities, especially the burning of coal and the processing of certain metal ores. In the atmosphere, SO2 is oxidized to sulfate, an anion that occurs as a tiny particulate in which the negative charges are electrochemically balanced by the positive charges of cations, such as ammonium (NH +4 ), calcium (Ca2+), or hydrogen ion (H+). These fine particulates can serve as condensation nuclei for the formation of ice crystals, which may settle from the atmosphere as rain or snow, delivering the sulfate to terrestrial and aquatic ecosystems. If the sulfate is mostly balanced by hydrogen ion, the precipitation will be acidic, and can damage some types of freshwater ecosystems., Hydrogen sulfide is another gas, with a strong smell of rotten eggs. Hydrogen sulfide is emitted from situations in which organic sulfur compounds are being decomposed in the absence of oxygen . Once H2S is emitted
+to the atmosphere, it is slowly oxidized to sulfate, which behaves as described above., Sulfur can occur in many chemically reduced mineral forms, or sulfides, in association with many metals. The most common metal sulfides in the environment are iron sulfides (such as FeS2; these are called pyrites when they occur as cubic crystals), but all heavy metals can occur in this mineral form. Whenever metal sulfides are exposed to an oxygen-rich environment, certain bacteria begin to oxidize the sulfide, generating sulfate as a product, and tapping energy from the process which is used to sustain their own growth and reproduction. This autotrophic process is called chemosynthesis, and the bacteria involved are named Thiobacillus thiooxidans. When a large quantity of sulfide is oxidized in this way, an enormous amount of acidity is associated with the sulfate product., Organic sulfur refers to an extremely diverse array of sulfur-containing organic molecules. These can range in weight and complexity from amino acids, proteins, and nucleic acids, to large molecules such as humic substances in soil or water. Organic sulfur is a chemically reduced form of sulfur. When it is exposed to an oxygen-rich atmosphere, bacteria oxidize the organic sulfur to derive energy, while liberating sulfate, usually in association with hydrogen ions and acidity., Human activities influence the rates and character of certain aspects of the sulfur cycle in important ways, sometimes causing substantial environmental damages., , Acid rain is a well-known environmental problem. Acid rain is ultimately associated with large emissions of sulfur dioxide to the atmosphere by human sources, such as oil- and coal-fired power plants, metal smelters, and the burning of fuel oil to heat homes. The SO2 is eventually oxidized in the atmosphere to sulfate, much of which is balanced by hydrogen ions, so the precipitation chemistry is acidic. In addition, the vicinity of large point-sources of SO2 emission is generally polluted by relatively large concentrations of this gas. If its concentration is large enough, the SO2 can cause toxicity to plants, which may be killed, resulting in severe ecological damages. In addition, atmospheric SO2 can be directly deposited to surfaces, especially moist soil, plant , or aquatic surfaces, since SO2 can readily dissolve in water. When this happens, the SO2 becomes oxidized to sulfate, generating acidity. This means a direct input of sulfur dioxide is called dry deposition, and is a fundamentally different process from the so-called wet deposition of sulfate and acidity with precipitation., Acid mine drainage is another severe environmental problem that is commonly associated with coal and metal mining , and sometimes with construction activities such as road building. In all of these cases, physical disturbance results in the exposure of large quantities of mineral sulfides to atmospheric oxygen. This causes the sulfides to be oxidized to sulfate, a process accompanied by the generation of large amounts of acidity. Surface waters exposed to acid mine drainage can become severely acidified, to a pH less than 3, resulting in severe biological damages and environmental degradation., Sulfur is also an important mineral commodity, with many industrial uses in manufacturing. Sulfur for these purposes is largely obtained by cleaning sour natural gas of its content of H2S, and from pollution control at some metal smelters., In a few types of intensively managed agriculture, crops may be well fertilized with nitrogen , phosphorus , and other nutrients , and in such cases there may be a deficiency of sulfate availability. Because sulfate is an important plant nutrient, it may have to be applied in the form of a sulfate-containing fertilizer. In North America , sulfate fertilization is most common in prairie agriculture., Atlas, R.M., and R. Bartha. Microbial Ecology. Menlo Park: Benjamin/Cummings, 1994., Freedman, B. Environmental Ecology. 2nd ed. San Diego: Academic Press, 1995., Bill Freedman, —Surface water or groundwater that has been acidified by the oxidation of pyrite and other reduced-sulfur minerals that occur in coal and metal mines and their wastes., —In an aqueous solution, the number of positive charges associated with cations must equal the number of negative charges of anions, so the solution does not develop an electrical charge., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Sulfur Cycle."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Sulfur Cycle." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/sulfur-cycle
+, 
+"Sulfur Cycle." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/sulfur-cycle
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

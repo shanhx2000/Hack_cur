@@ -1,0 +1,439 @@
+[Humidity is a measure of the quantity of water vapor in the air. There are different methods for determining this quantity and those methods are reflected in a variety of humidity indexes and readings., The humidity reading in general use by most meteorologists is relative humidity. The relative humidity of air describes the saturation of air with water vapor. Given in terms of percent humidity (e.g., 50% relative humidity), the measurement allows a comparison of the amount of water vapor in the air with the maximum amount water vapor that—at a given temperature—represents saturation. Saturation exists when the phase state changes of evaporation and condensation are in equilibrium., Approximately one percent of Earth's total water content is suspended in the atmosphere as water vapor, precipitation , or clouds . Humidity is a measure only of the vapor content., Because water vapor exerts a pressure, the presence of water vapor in the air contributes vapor pressure to the over-all atmospheric pressure . Actual vapor pressures are measured in millibars. One atmosphere of pressure (1 atm) equals 1013.25 mbar., In contrast to the commonly used relative humidity, the absolute humidity is a measure of the actual mass of water vapor in a defined volume of air. Absolute humidity is usually expressed in terms of grams of water per cubic meter., Specific humidity is a measure of the mass of water vapor in a defined volume of air relative to the total mass of gas in the defined volume., The amount of water vapor needed to achieve saturation increases with temperature . Correspondingly, as temperature decreases, the amount of water vapor needed to reach saturation decreases. As the temperature of a parcel of air is lowered it will eventual reach saturation without the addition or loss of water mass. At saturation (dew point ) condensation or precipitation. This is the fundamental mechanism for cloud formation as air moving aloft is cooled. The level of cloud formation is an indication of the humidity of the ascending air because—given the standard temperature lapse rate—a parcel of air with a greater relative humidity will experience condensation (e.g., cloud formation) at a lower altitude than a parcel of air with a lower relative humidity., The differences in the amount of water vapor in a parcel of air can be dramatic. A parcel of air near saturation may contain 28 grams of water per cubic meter of air at 30°F (−1°C), but only 8 grams of water per cubic meter of air at 10°F (−12°C)., An increasingly popular measure of comfort, especially in the hotter summer months, is the heat index. The heat index is an integrated measurement of relative humidity and dry air temperature. The measurement is useful because higher humidity levels retard evaporation from the skin (perspiration) and lower the effectiveness of physiological cooling mechanisms., Absolute humidity may be measured with a sling cyclometer. A hydrometer is used to measure water vapor content. Water vapor content can also be can be expressed as grains/cubic ft. A grain, a unit of weight, equals 1/7000 of a pound., See also  Adiabatic heating; Atmospheric composition and structure; Atmospheric inversion layers; Atmospheric lapse rate; Atmospheric pressure; Hydrologic cycle; Hydrostatic pressure; Weather forecasting methods; Weather forecasting; Wind chill, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Humidity."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Humidity." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/humidity
+, 
+"Humidity." 
+World of Earth Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/humidity
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, humidity, moisture content of the atmosphere, a primary element of climate. Humidity measurements include absolute humidity, the mass of water vapor per unit volume of natural air; relative humidity (usually meant when the term humidity alone is used), the ratio of the actual water-vapor content of the air to its total capacity at the given temperature; specific humidity, the mass of water vapor per unit mass of natural air; and the mixing ratio, the mass of water vapor per unit mass of dry air. Absolute humidity finds greatest application in ventilation and air-conditioning problems. Humidity is measured by means of a hygrometer. The rate of evaporation decreases as the moisture content of the air increases and approaches saturation. In addition, the saturation point (moisture-holding capacity of the air) increases rapidly as the temperture of the air rises (see dew). Thus cold air, while its moisture content is necessarily quite low (low absolute humidity), may be almost saturated with respect to the maximum amount of water vapor it is capable of holding (high relative humidity). Cold air with high relative humidity
+"feels"
+colder than dry air of the same temperature because high humidity in cold weather increases the conduction of heat from the body. Conversely, hot air attended by high relative humidity
+"feels"
+warmer than it actually is because of an increased conduction of heat to the body combined with a lessening of the cooling effect afforded by evaporation. On the other hand, a low relative humidity
+"modifies"
+the effect of temperature extremes on the human body. Humidity decreases with altitude. Proximity to large bodies of water and the prevalence of moisture-bearing winds favor high humidity. A temperature-humidity index has been developed by the U.S. National Weather Service that gives a single numerical value in the general range of 70 to 80 reflecting the outdoor atmospheric conditions of temperature and humidity as a measure of comfort (or discomfort) during warm weather. The temperature-humidity index, ITH, is defined as follows: ITH=0.4 (dry-bulb thermometer temperature F + wet-bulb thermometer temperature F) + 15. When the index is 70 most people feel comfortable; at 75 about half the population is uncomfortable; at 80 most are uncomfortable., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"humidity."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"humidity." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/humidity
+, 
+"humidity." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/humidity
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"humidity."
+
+A Dictionary of Food and Nutrition.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"humidity." 
+A Dictionary of Food and Nutrition.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/humidity
+, 
+"humidity." 
+A Dictionary of Food and Nutrition.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/humidity
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"humidity."
+
+A Dictionary of Biology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"humidity." 
+A Dictionary of Biology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/humidity-3
+, 
+"humidity." 
+A Dictionary of Biology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/humidity-3
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"humidity."
+
+A Dictionary of Zoology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"humidity." 
+A Dictionary of Zoology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/humidity-2
+, 
+"humidity." 
+A Dictionary of Zoology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/humidity-2
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+hu·mid·i·ty 
+/ (h)yoōˈmiditē/
+•
+n.
+(pl.  -ties)
+the state or quality of being humid.
+ ∎ 
+a quantity representing the amount of water vapor in the atmosphere or a gas:
+the temperature is seventy-seven, the humidity in the low thirties.
+ ∎ 
+atmospheric moisture.
+
+
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"humidity."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"humidity." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/humidity-0
+, 
+"humidity." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/humidity-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"humidity."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"humidity." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/humidity-0
+, 
+"humidity." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/humidity-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"humidity."
+
+A Dictionary of Plant Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"humidity." 
+A Dictionary of Plant Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/humidity-1
+, 
+"humidity." 
+A Dictionary of Plant Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/humidity-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"humidity."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"humidity." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/humidity
+, 
+"humidity." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/humidity
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+ Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"humidity."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"humidity." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/humidity
+, 
+"humidity." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/humidity
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"humidity."
+
+Oxford Dictionary of Rhymes.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"humidity." 
+Oxford Dictionary of Rhymes.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/humidity
+, 
+"humidity." 
+Oxford Dictionary of Rhymes.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/humidity
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Humidity is a measure of the amount of water vapor in the air. There are different methods for determining humidity, and those methods are reflected in a variety of humidity indexes and readings., The humidity measure used by most meteorologists, which describes the saturation of air with water vapor, is relative humidity. Given in terms of percent humidity (e.g., 50% relative humidity), the measurement allows a comparison of the amount of water vapor in the air with the maximum amount water vapor that—at a given temperature—represents saturation. Saturation exists when the phase state changes of evaporation and condensation are in equilibrium., Approximately one percent of Earth’s total water content is suspended in the atmosphere as water vapor, precipitation, or clouds. Humidity is a measure only of the vapor content., Because water vapor exerts a pressure, the presence of water vapor in the air contributes vapor pressure to the overall atmospheric pressure. Actual vapor pressures are measured in millibars (mbar). One atmosphere of pressure (1 atm) equals 1013.25 millibars., In contrast to the commonly used value of relative humidity, absolute humidity is a measure of the mass of water vapor in a defined volume of air. Absolute humidity is usually expressed in terms of grams of water per cubic meter., Specific humidity is a measure of the mass of water vapor in a defined volume of air relative to the total mass of gas in the defined volume., The amount of water vapor needed to achieve saturation increases with temperature. Correspondingly, as temperature decreases, the amount of water vapor needed to reach saturation decreases. As the temperature of a parcel of air is lowered, it will eventual reach saturation without the addition or loss of water mass. At saturation (dew point), condensation or precipitation forms. This is the fundamental mechanism for cloud formation as air moving aloft is cooled. The level of cloud formation is an indication of the humidity of the ascending air because, given the standard temperature lapse rate, a parcel of air with a greater relative humidity will experience condensation (e.g., cloud formation) at a lower altitude than a parcel of air with a lower relative humidity., The differences in the amount of water vapor in a parcel of air can be significant. A parcel of air near saturation may contain 28 g of water per cubic meter of air at 30°F (-1°C), but only 8 g of water per cubic meter of air at 10° F (-12°C)., An increasingly popular measure of comfort, especially in the hotter summer months, is the heat index. The heat index is an integrated measurement of relative humidity and dry air temperature. The measurement is useful because higher humidity levels retard evaporation from the skin (perspiration) and lower the effectiveness of physiological cooling mechanisms., Absolute humidity may be measured with a sling psychrometer. A hydrometer is used to measure water vapor content. Water vapor content can also be can be expressed as grains/cubic ft. Grains, a unit of weight, equals 1/7000 of a pound., See also Atmospheric temperature; Hydrologic cycle; Weather forecasting; Weather., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Humidity."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Humidity." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/humidity-0
+, 
+"Humidity." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/humidity-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Humidity is a measure of the quantity of water vapor in the air. There are different methods for determining this quantity and those methods are reflected in a variety of humidity indexes and readings., The humidity reading in general use by most meteorologists is relative humidity. The relative humidity of air describes the saturation of air with water vapor. Given in terms of percent humidity (e.g., 50% relative humidity), the measurement allows a comparison of the amount of water vapor in the air with the maximum amount water vapor that—at a given temperature—represents saturation. Saturation exists when the phase state changes of evaporation and condensation are in equilibrium., Approximately 1% of Earth's total water content is suspended in the atmosphere as water vapor, precipitation , or clouds . Humidity is a measure only of the vapor content., Because water vapor exerts a pressure , the presence of water vapor in the air contributes vapor pressure to the overall atmospheric pressure . Actual vapor pressures are measured in millibars. One atmosphere of pressure (1 atm) equals 1013.25 mbar., In contrast to the commonly used value of relative humidity, absolute humidity is a measure of the actual mass of water vapor in a defined volume of air. Absolute humidity is usually expressed in terms of grams of water per cubic meter., Specific humidity is a measure of the mass of water vapor in a defined volume of air relative to the total mass of gas in the defined volume., The amount of water vapor needed to achieve saturation increases with temperature . Correspondingly, as temperature decreases, the amount of water vapor needed to reach saturation decreases. As the temperature of a parcel of air is lowered, it will eventual reach saturation without the addition or loss of water mass. At saturation (dew point ), condensation or precipitation forms. This is the fundamental mechanism for cloud formation as air moving aloft is cooled. The level of cloud formation is an indication of the humidity of the ascending air because, given the standard temperature lapse rate , a parcel of air with a greater relative humidity will experience condensation (e.g., cloud formation) at a lower altitude than a parcel of air with a lower relative humidity., The differences in the amount of water vapor in a parcel of air can be dramatic. A parcel of air near saturation may contain 28g of water per cubic meter of air at 30° F (-1° C), but only 8g of water per cubic meter of air at 10°F (-12° C)., An increasingly popular measure of comfort, especially in the hotter summer months, is the heat index . The heat index is an integrated measurement of relative humidity and dry air temperature. The measurement is useful because higher humidity levels retard evaporation from the skin (perspiration) and lower the effectiveness of physiological cooling mechanisms., Absolute humidity may be measured with a sling cyclometer. A hydrometer is used to measure water vapor content. Water vapor content can also be can be expressed as grains/cubic ft. Grains, a unit of weight, equals 1/7000 of a pound., See also Atmospheric temperature; Hydrologic cycle; Weather forecasting; Weather., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Humidity."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Humidity." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/humidity-1
+, 
+"Humidity." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/humidity-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

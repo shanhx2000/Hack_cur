@@ -1,0 +1,312 @@
+[There is no precise definition of how many stories or what height makes a building a skyscraper. "I don't think it is how many floors you have. I think it is attitude," architect T. J. Gottesdiener told the Christian Science Monitor. Gottesdiener, a partner in the firm of Skidmore, Owings &amp; Merrill, designers of numerous tall buildings including the Sears Tower in Chicago, Illinois, continued, "What is a skyscraper? It is anything that makes you stop, stand, crane your neck back, and look up.", Some observers apply the word "skyscraper" to buildings of at least 20 stories. Others reserve the term for structures of at least 50 stories. But it is widely accepted that a skyscraper fits buildings with 100 or more stories. At 102 stories, the Empire State Building's in New York occupied height reaches 1,224 ft (373 m), and its spire, which is the tapered portion atop a building's roof, rises another 230 ft (70 m). Only 25 buildings around the world stand taller than 1,000 ft (300 m), counting their spires, but not antennas rising above them., , The tallest freestanding structure in the world is the CN Tower in Toronto, Canada, which rises to a height of 1,815 ft (553 m); constructed to support a television antenna, the tower is not designed for human occupation, except for a restaurant and observation deck perched at 1,100 ft (335 m). The world's tallest occupied structure is the Petronas Twin Towers in Kuala Lumpur, Malaysia, which reach a height of 1,483 ft (452 m), including spires. The Sears Tower in Chicago boasts the highest occupied level; the roof of its 110th story stands at 1,453 ft (443 m)., In some ways, super-tall buildings are not practical. It is cheaper to build two half-height buildings than one very tall one. Developers must find tenants for huge amounts of space at one location; for example, the Sears Tower encloses 4.5 million square feet (415,000 square meters). On the other hand, developers in crowded cities must make the fullest possible use of limited amounts of available land. Nonetheless, the decision to build a dramatically tall building is usually based not on economics, but on the desire to attract attention and gain prestige., Several technological advances occurred in the late nineteenth century that combined to make skyscraper design and construction possible. Among them were the ability to mass produce steel, the invention of safe and efficient elevators, and the development of improved techniques for measuring and analyzing structural loads and stresses. During the 1920s and 1930s, skyscraper development was further spurred by invention of electric arc welding and fluorescent light bulbs (their bright light allowed people to work farther from windows and generated less heat than incandescent bulbs)., , Traditionally, the walls of a building supported the structure; the taller the structure, the thicker the walls had to be. A 16-story building constructed in Chicago in 1891 had walls 6 ft (1.8 m) thick at the base. The need for very thick walls was eliminated with the invention of steel-frame construction, in which a rigid steel skeleton supports the building's weight, and the outer walls are merely hung from the frame almost like curtains. The first building to use this design
+was the 10-story Home Insurance Company Building, which was constructed in Chicago in 1885., The 792-ft (242-m) tall Woolworth Building, erected in New York City in 1913, first combined all of the components of a true skyscraper. Its steel skeleton rose from a foundation supported on concrete pillars that extended down to bedrock (a layer of solid rock strong enough to support the building), its frame was braced to resist expected wind forces, and its high-speed elevators provided both local and express service to its 60 floors., In 1931, the Empire State Building rose in New York City like a 1,250-ft (381-m) exclamation point. It would remain the world's tallest office building for 41 years. By 2000, only six other buildings in the world would surpass its height., Reinforced concrete is one important component of skyscrapers. It consists of concrete (a mixture of water, cement powder, and aggregate consisting of gravel or sand) poured around a gridwork of steel rods (called rebar) that will strengthen the dried concrete against bending motion caused by the wind. Concrete is inherently strong under compressive forces; however, the enormous projected weight of the Petronas Towers led designers to specify a new type of concrete that was more than twice as strong as usual. This high-strength material was achieved by adding very fine particles to the usual concrete ingredients; the increased surface area of these tiny particles produced a stronger bond., , The other primary raw material for skyscraper construction is steel, which is an alloy of iron and carbon. Nearby buildings often limit the amount of space available for construction activity and supply storage, so steel beams of specified sizes and shapes are delivered to the site just as they are needed for placement. Before delivery, the beams are coated with a mixture of plaster and vermiculite (mica that has been heat-expanded to form sponge-like particles) to protect them from corrosion and heat. After each beam is welded into place, the fresh joints are sprayed with the same coating material. An additional layer of insulation, such as fiberglass batting covered with aluminum foil, may then be wrapped around the beams., To maximize the best qualities of concrete and steel, they are often used together in skyscraper construction. For example, a support column may be formed by pouring concrete around a steel beam., A variety of materials are used to cover the skyscraper's frame. Known as "cladding," the sheets that form the exterior walls may consist of glass, metals, such as aluminum or stainless steel, or masonry materials, such as granite, marble, or limestone., Design engineers translate the architect's vision of the building into a detailed plan that will be structurally sound and possible to construct., Designing a low-rise building involves creating a structure that will support its own weight (called the dead load) and the weight of the people and furniture that it will contain (the live load). For a skyscraper, the sideways force of wind affects the structure more than the weight of the building and its contents. The designer must ensure that the building will not be toppled by a strong wind, and also that it will not sway enough to cause the occupants physical or emotional discomfort., , Each skyscraper design is unique. Major structural elements that may be used alone or in combination include a steel skeleton hidden behind non-load-bearing curtain walls, a reinforced concrete skeleton that is in-filled with cladding panels to form the exterior walls, a central concrete core (open column) large enough to contain elevator shafts and other mechanical components, and an array of support columns around the perimeter of the building that are connected by horizontal beams to one another and to the core., Because each design is innovative, models of proposed super tall buildings are tested in wind tunnels to determine the effect of high wind on them, and also the effect on surrounding buildings of wind patterns caused by the new building. If tests show the building will sway excessively in strong winds,
+designers may add mechanical devices that counteract or restrict motion., In addition to the superstructure, designers must also plan appropriate mechanical systems such as elevators that move people quickly and comfortably, air circulation systems, and plumbing., Each skyscraper is a unique structure designed to conform to physical constraints imposed by factors like geology and climate, meet the needs of the tenants, and satisfy the aesthetic objectives of the owner and the architect. The construction process for each building is also unique. The following steps give a general idea of the most common construction techniques., Once construction of a skyscraper is underway, work on several phases of the structure proceeds simultaneously. For example, by the time the support columns are several stories high, workers begin building floors for the lower stories. As the columns reach higher, the flooring crews move to higher stories, as well, and finishing crews begin working on the lowest levels. Overlapping these phases not only makes the most efficient
+use of time, but it also ensures that the structure remains stable during construction., , The Empire State Building was intended to end the competition for tallest building. It was to tower 102 stories, 1,250 ft (381 m) above Manhattan's streets. Its developers, John J. Raskob and Pierre Samuel Du Pont, along with former New York Governor Alfred E. Smith, announced in August 1929 their intention to build the world's tallest building. They chose the construction firm Starrett Brothers and Eken, and the architectural firm Shreve, Lamb, and Harmon for the project with William F. Lamb as the chief designer. If is set back from the street above the fifth floor and then soars uninterrupted for more than 1,000 ft (305 m) to the 86th floor. The exterior is limestone and granite and vertical chrome-nickel-steel alloy columns extend from the sixth floor to the top. The building contained 67 elevators and 6,500 glass windows, topped with a 200-ft (61-m) mooring mast for dirigibles., The Empire State Building was completed on April 11, 1931, 12 days ahead of schedule and officially opened on May 1, 1931. The building took its place in history as the tallest building ever built, holding this title for more than 40 years. It was not until 1972, when the 1,348-ft-(411-m-) tall twin towers of the World Trade Center were completed that the Empire State Building was surpassed in height. The World Trade Center in turn was surpassed in 1974 by the Sears Tower in Chicago, which at 1,453 ft (443 mj became the tallest building in the world., Various factors are taken into consideration when assuring quality control. Because of the huge scale of skyscrapers, a small positioning error at the base will be magnified when extended to the roof. In addition to normal surveying instruments, unusual devices like global positioning system (GPS) sensors and aircraft bombsights may be used to verify the placement and alignment of structural members., Soil sensors around the building site are used to detect any unexpected earth movement caused by the construction activity., , Excavation of the foundation pit and basement levels require the removal of enormous amounts of dirt. When the 110-story World Trade Center towers were built in New York in the early 1970s, more than I million cubic yards (765,000 cubic meters) of soil and rock were removed and dumped in the Hudson River to create 23.5 acres (95,100 square meters) of new land, on which another skyscraper was later constructed., Plans have been developed for several new skyscrapers that would break existing height records. For example, a 108-story building at 7 South Dearborn Street in Chicago, expected to be completed by 2004, will be 1,550 ft (473 m) tall. It will provide 43 acres (174,000 square meters) of enclosed space on a lot only 200 ft (61 m) square., In 1956, American architect Frank Lloyd Wright announced plans for a mile-high (1.6-km tall) skyscraper in which 100,000 people could work. In 1991, another American architect, Dr. Eugene Tsui, designed a 2-mile (3,220-m) tall building that would provide space for living, working, and recreation for 1,000,000 people. Although such buildings may be theoretically constructable, they are currently impractical. For example, human comfort levels limit elevator speeds to no more than 3,000 ft/min (915 m/min). To accommodate the 100,000 people working in Wright's proposed structure, the number of elevator shafts would have taken up too large a portion of the building's area., Improvements in elevator technology will be important for future skyscraper designs. Self-propelled, cableless elevator cars that move horizontally, as well as vertically, have been proposed, but are still under development. Computerized car dispatching systems using fuzzy logic could be refined to carry people more efficiently by grouping passengers whose destinations are near each other., Books Dunn, Andrew. Structures: Skyscrapers. New York: Thomson Learning, 1993., Michael, Duncan. How Skyscrapers Are Made. New York: Facts on File Publications, 1987., Hayashi, Alden M. "The Sky's the Limit." Scientific American Presents: Extreme Engineering (Winter 1999): 66 ff., Richey, Warren. "New Rush of Buildings Reaching for the Clouds." The Christian Science Monitor (July 8, 1998): 1., Dankwa, E. T. New York Skyscrapers.http://mx3.xoom.com/iNetwork/NYC (March 2000)., "Ultima's Tower, Two-Mile High Sky City." Tsui Design &amp; Research.http://www.tdrinc.com/ultima.html (March 2000)., —LorettaHall, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Skyscraper."
+
+How Products Are Made.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+ , 
+"Skyscraper." 
+How Products Are Made.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/manufacturing/news-wires-white-papers-and-books/skyscraper
+, 
+"Skyscraper." 
+How Products Are Made.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/manufacturing/news-wires-white-papers-and-books/skyscraper
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, SKYSCRAPERS entered American parlance around 1890, describing ten-to fifteen-story commercial buildings mostly in Chicago and New York. Dependent on the passenger elevator, telephone, and incandescent bulb for internal circulation, communication, and illumination, the structural potential of its steel frame ensured that the economic benefit of multiplying lot size twenty, fifty, or one hundred times would render municipal height restrictions obsolete. Well before New York's 1913 Woolworth Building opened at 792 feet (54 stories), the world's tallest edifice excepting the Eiffel Tower in Paris, it was a social convention to wonder if the only limit to upward growth were the heavens themselves., Artistic hesitation characterized skyscraper design from the beginning, less so in Chicago than in New York. Although skyscrapers' determining features were steel and height, architects were inclined to hide steel inside highly decorated, thick masonry walls. In addition, they negated height by wrapping every few stories with a protruding cornice interrupting vertical flow or by periodically shifting styles, so, as a building ascended, it resembled a stack of small structures. Those willing to embrace height tended to base form on historical analogies, usually French gothic cathedrals or Italian medieval towers., , In Chicago, Louis Sullivan referred to the classical column, but in his pioneering search for a self-referential skyscraper aesthetic, he transformed base, shaft, and capital into commercial ground floor, office tier, and attic for ancillary services, each function indicated externally. By recessing windows and walls a few inches behind columns and mullions, he privileged vertical elements of the frame to create, he wrote in 1896, "a proud and soaring thing" that was "every inch of it tall." Although highly regarded by critics, Sullivan's "system of vertical construction" was not widely adopted by architects, not even his Chicago School (c. 1885–1915) colleagues, whose so-called "utilitarian" building facades, less ornamented and more fenestrated than Sullivan's, closely followed in composition the grid pattern of the frame, which in reality is nondirectional., Chicago School buildings were America's principal contribution to the formative stages of what was soon labeled "modern architecture." The implication, which might be encapsulated in the phrase "form follows structure," was disregarded in the United States during the 1920s, but it was taken up in Europe, particularly in Germany,, where in 1921 and 1922 Ludwig Mies van der Rohe proposed free-form skyscrapers entirely encased with glass panels clipped to the edges of floor slabs. Of the 265 entries from 23 countries to the 1922 Chicago Tribune headquarters competition, 37 were German, notable among them Walter Gropius and Adolf Meyer's grid of reinforced concrete completely filled with windows. These and other European designs conclusively demonstrated what Chicagoans had almost perceived. Since load-bearing walls were structurally unnecessary, a skyscraper's facade could be reduced to little more than frame and glazing. The lesson was ignored when the Tribune Company selected Raymond Hood and John Mead Howells's decidedly unglassy, neogothic cousin to the Woolworth Building., , Until large-scale private sector construction halted during the Great Depression, American skyscrapers were either historical pastiches or tips of the hat to European art deco. Most famous were New York's Chrysler, Empire State, and Rockefeller Center buildings (of 1930 and 1931), featuring diagonal or zigzag "jazz age" ornament and equal amounts of glass and masonry in alternating vertical or horizontal strips forming crisp, rectilinear facades that nonetheless hide the frame. Two exceptions were noteworthy: Hood's 1929–1931 McGraw-Hill Building, designed with André Fouilhoux, in New York; and William Lescaze's 1929–1932 Philadelphia Savings Fund Society Building, designed with George Howe. Both were in what was labeled "the international style," which made structurally determined form something of a fetish., It was fitting that the European émigrés Fouilhoux (from Paris) and Lescaze (from Zurich) figured prominently in the reconfiguration of American skyscrapers, because a third European, Mies van der Rohe, who arrived in Chicago in 1938, almost single-handedly completed the process, beginning with his 1946–1949 Promontory Apartments. More than any other edifice, his 1954–1958 Seagram Building in New York made the flatroofed, glass-walled, steel-or concrete-framed, minimally ornamented box a corporate signature as well as an indication that derivations of European modernism had captured the mainstream of American architecture., A comparison of the two McGraw-Hill Buildings in New York suggests how much had changed since 1929. The first, by Hood with Fouilhoux, is bluish-green glazed terra-cotta and steps back five times before reaching its penthouse, which is sided with huge firm-name graphics. Its thirty-five richly textured, horizontally articulated stories complement the vertical thrust of the elevator shafts and stairwell. Although resolutely international in style, it resembles no other building. The four identical facades of the second McGraw-Hill Building, built in 1973 by Harrison, Abramovitz, and Harris, soar without interruption or variation through forty-five stories of closely spaced reddish granite columns. Devoid of graphics, it is a clone of the flanking Celanese and Exxon Buildings by the same architects. In less than half a century, collective anonymity replaced architectural individuality in every American city., , The low profile adopted by American corporations after World War II gave way in the 1980s to a more assertive public posture expressed architecturally in post-modernism (POMO): the return of polychrome, ornament, and historical reference enlivened by mixtures of nonorthogonal with rectilinear geometries. Rejecting the Mies-inspired modernist box and companion frame-based aesthetic, POMO recaptured a spirit of experimentation akin to that of the European 1920s but enhanced by an array of new materials and technologies, including computer-assisted design. The sky was again the limit in terms not of height but of artistic possibility., Globalization of capital internationalized the profession. For example, four architects were invited in 2000 to submit proposals for a new New York Times headquarters: Norman Foster of London; Renzo Piano with offices in Paris and Genoa; Cesar Pelli, the Argentina-born dean of the Yale School of Art and Architecture; and Frank Gehry, a Toronto native residing in California. Gehry produced a twisting, undulating, concave and convex agglomeration of sinewy, computer-generated, non-Euclidean shapes that appears to be one tower or three, depending on the viewer's vantage point. Like the other submissions, it makes no reference except for signage to site or function, suggesting that any one of the four could be erected anywhere to serve any purpose. Sharing only the absence of similarity, they are as far removed from the modernist box as that was from the Woolworth Building., During the course of a century, an American commercial building type, stylistically conditioned by historical precedent or by the steel frame, became an omnifunctional symbol of globalization conditioned only by architectural imagination. Technical limits to skyscraper height may be approaching, but form has no limits at all., Goldberger, Paul. The Skyscraper. New York: Knopf, 1981., Scuri, Piera. Late-Twentieth-Century Skyscrapers. New York: Van Nostrand Reinhold, 1990., Twombly, Robert. Power and Style: A Critique of Twentieth-Century Architecture in the United States. New York: Hill and Wang, 1995., Van Leeuwen, Thomas A. P. The Skyward Trend of Thought: The Metaphysics of the American Skyscraper. Cambridge, Mass.: MIT Press, 1988., RobertTwombly, See alsoArchitecture ; World Trade Center ., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Skyscrapers."
+
+Dictionary of American History.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Skyscrapers." 
+Dictionary of American History.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/skyscrapers
+, 
+"Skyscrapers." 
+Dictionary of American History.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/skyscrapers
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, skyscraper, modern building of great height, constructed on a steel skeleton. The form originated in the United States.
+  Development of the FormMany mechanical and structural developments in the last quarter of the 19th cent. contributed to its evolution. With the perfection of the high-speed elevator after 1887, skyscrapers were able to attain any desired height. The earliest tall buildings were of solid masonry construction, with the thick walls of the lower stories usurping a disproportionate amount of floor space. In order to permit thinner walls through the entire height of the building, architects began to use cast iron in conjunction with masonry. This was followed by cage construction, in which the iron frame supported the floors and the masonry walls bore their own weight.The next step was the invention of a system in which the metal framework would support not only the floors but also the walls. This innovation appeared in the Home Insurance Building in Chicago, designed in 1883 by William Le Baron Jenney—the first building to employ steel skeleton construction and embody the general characteristics of a modern skyscraper. The subsequent erection in Chicago of a number of similar buildings made it the center of the early skyscraper architecture. In the 1890s the steel frame was formed into a completely riveted skeleton bearing all the structural loads, with the exterior or thin curtain walls serving merely as an enclosing screen.
+  Legal and Aesthetic RefinementsIn 1892 the New York Building Law made its first provisions for skeleton constructions. There followed a period of experimentation to devise efficient floor plans and aesthetically satisfying forms. In New York City the Flatiron Building by D. H. Burnham was constructed in 1902, the Metropolitan Life Insurance Tower in 1909, and the Woolworth Building, 60 stories high, by Cass Gilbert, in 1913. The last, with Gothic ornamentation, exemplifies the general tendency at that time to adapt earlier architectural styles to modern construction. The radical innovator Louis Henry Sullivan gave impetus to a new, bold aesthetic for skyscrapers. An excellent example is his design for the Wainwright building in St. Louis (1890–91). Frank Lloyd Wright also contributed his unorthodox vision to such structures as the Price Tower (1953) in Bartlesville, Okla.In 1916, New York City adopted the Building Zone Resolution, establishing legal control over the height and plan of buildings and over the factors relating to health, fire hazard, and assurance of adequate light and air to buildings and streets. Regulations regarding the setting back of exterior walls above a determined height, largely intended to allow light to reach the streets, gave rise to buildings whose stepped profiles characterize the American skyscraper of subsequent years.With the complex structural and planning problems solved, architects still seek solutions to the difficulties of integrating skyscrapers with community requirements of hygiene, transportation, and commercial interest. In New York during the 1950s, public plazas were incorporated into the designs of the Lever House by Gordon Bunshaft and the Seagram Building of Mies van der Rohe. These International style buildings are also examples of the effective use of vast expanses of glass in skyscrapers. More recently, numerous skyscrapers have been constructed in a number of postmodern modes.
+  Outstanding SkyscrapersBy convention, a skyscraper is a building that is used primarily for human habitation with the greatest majority of its height divided into occupiable floors. Freestanding structures used primarily for broadcasting or sightseeing are classified as towers. The height of a building is measured from the sidewalk level of the main entrance to the structural top of the building. This includes spires but does not include television antennas, radio antennas, or flagpoles. By this definition the tallest building is the Burj Khalifa, Dubai, United Arab Emirates, which was topped off in 2009 at 2,717 ft (828 m) and 160 stories; it is also tallest structure in the world. Taipei 101, Taipei, Taiwan, is the second tallest at 1,671 ft (509 m) and 101 stories in 2003. The twin Petronas Towers (opened 1997) in Kuala Lumpur, Malaysia, are the third tallest; 88 stories high and topped by twin spires, they stand 1,483 ft (456 m) tall. The Willis Tower (opened 1974, formerly the Sears Tower) in Chicago is the tallest building in the United States; its 110 stories rise 1,454 ft (443 m) with an additional 253 ft (77 m) for the television antenna on top.Among the highest New York City skyscrapers are One World Trade Center, the primary building in the new World Trade Center complex, with 104 stories, 1,776 ft (541 m) high; 432 Park Ave., with 96 stories, 1,396 ft (424 m) high; the Empire State Building, with 102 stories, 1,250 ft (381 m) high; the Chrysler Building, with 77 stories, 1,048 ft (319 m) high; 60 Wall Tower, with 67 stories, 950 ft (290 m) high; and the GE (formerly RCA) Building in Rockefeller Center, with 70 stories, 850 ft (259 m) high. The former World Trade Center, which was the tallest building in the city until it was destroyed (Sept., 2001) by a terrorist attack, had two unstepped, rectangular towers of 110 stories each, one 1,362 ft (415 m) and the other 1,368 ft (417 m) high.Bibliography, See K. Sabbagh, Skyscraper: The Making of a Building (repr. 1991); C. Willis, Form Follows Finance: Skyscrapers and Skylines in New York and Chicago (1995); P. Johnson and J. Dupre, Skyscrapers (1996); D. Hoffmann, Frank Lloyd Wright, Louis Sullivan, and the Skyscraper (1999); S. B. Landau and C. W. Condit, The Rise of the New York Skyscraper, 1865–1913 (repr. 1999)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"skyscraper."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"skyscraper." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/skyscraper
+, 
+"skyscraper." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/skyscraper
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , Bibliography,  Bletter &amp; and Robinson (1975); Condit (1952, 1960, 1961, 1964, 1968, 1973); Goldberger (1981); H H Sturgis (1985); D. Hoffmann (1988); S. Landau &amp; and Condit (1996); Leeuwen (1988); C. Willis (1995); Yeang (1997); Zukowsky (ed.) (1987), 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"skyscraper."
+
+A Dictionary of Architecture and Landscape Architecture.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"skyscraper." 
+A Dictionary of Architecture and Landscape Architecture.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/skyscraper
+, 
+"skyscraper." 
+A Dictionary of Architecture and Landscape Architecture.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/skyscraper
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"skyscraper."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"skyscraper." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/skyscraper
+, 
+"skyscraper." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/skyscraper
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+sky·scrap·er 
+/ ˈskīˌskrāpər/
+•
+n.
+1.
+a very tall building of many stories.
+2. another term for skysail.
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"skyscraper."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"skyscraper." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/skyscraper-0
+, 
+"skyscraper." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/skyscraper-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"skyscraper."
+
+Oxford Dictionary of Rhymes.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"skyscraper." 
+Oxford Dictionary of Rhymes.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/skyscraper
+, 
+"skyscraper." 
+Oxford Dictionary of Rhymes.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/skyscraper
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Gun-wielding helicopter pilot/heroine Carrie Wink (Smith) must battle villainous mercenaries holding hostages in an LA skyscraper. But she stills manages to find time for lots of steamy showers (to best display the only assets the film has). 96m/C VHS, DVD . Anna Nicole Smith, Richard Steinmetz; D: Raymond Martino; W: William Applegate Jr.; C: Frank Harris; M: Jim Halfpenny., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Skyscraper."
+
+VideoHound's Golden Movie Retriever.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Skyscraper." 
+VideoHound's Golden Movie Retriever.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/arts/culture-magazines/skyscraper
+, 
+"Skyscraper." 
+VideoHound's Golden Movie Retriever.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/arts/culture-magazines/skyscraper
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The ten-story Home Insurance Company Building, built in Chicago, Illinois, in 1885, is considered to be the first modern skyscraper., A skyscraper is a very tall building with many stories. Skyscrapers usually refer to structures that serve as residences or work places for thousands of people. The term "skyscraper" was first used in the United States in the 1880s, where the form of the structure originated. Originally used to describe a building with at least ten stories, today it refers to buildings with forty to more than one hundred floors. Its height is measured from the street level where the main entrance is located to the top of the structure, which includes spires (the tapered portion on top of a building's roof). However flagpoles, television antennas, and radio antennas are not included., The tallest skyscrapers in the world are a pair of office buildings in Kuala Lumpur, Malaysia. The Petronas Twin Towers stand 1,483 feet (452 meters) tall, including spires. Completed in 1997, each of the towers holds eighty-eight stories. The Sears Tower in Chicago, Illinois, at 1,454 feet (443 meters), is the second tallest skyscraper. It opened in 1974. (The television antenna on top of the 110-story building adds an additional 253 feet [77 meters] to its height.) The third tallest skyscraper, the Jin Mao Tower in Shanghai, China, rises to 1,381 feet (421 meters). It was constructed in 1998 and has eighty-eight stories., , The Empire State Building in New York, New York, completed in 1931, held the title of the world's tallest skyscraper for more than forty years. In 1972, the twin towers of the World Trade Center surpassed the Empire State Building in height. The twin towers, which collapsed due to damage
+sustained from a terrorist attack on September 11, 2001, each had 110 floors and rose to 1,362 feet (415 meters) and 1,368 (417 meters), respectively., During the 1850s, the need for more office spaces in big cities, where land was expensive or scarce, gave rise to the construction of buildings that could hold several stories. The walls of a building typically support its structure; therefore, a tall building would require very thick stone or brick walls on the lower stories to hold up the higher levels. The earliest tall buildings in the United States consisted of about five stories, with the lower floors losing plenty of space to the thick walls. In later years, architects used cast iron (a metal composed of a mixture of iron, carbon, and silicon) frames to bear the weight of the upper floors. The walls remained of stone and brick construction., In the late 1880s, major technological advances made possible the design and construction of buildings with more stories. The invention of steel-frame construction, in which a rigid steel skeleton supported the building's weight, eliminated the need for very thick walls. The outer walls, made of bricks or stones, held only their own weight and were then supported by the steel frame. The first skyscraper to use this design was the ten-story Home Insurance Company Building, which was built in Chicago, Illinois, in 1885 by William Le Baron Jenney (1832–1907). This was considered the first skyscraper., Steel (an alloy of iron and carbon), being stronger and weighing less than iron, was the ideal material for the framework because it allowed for additional stories. The ability to mass-produce steel further increased the construction of skyscrapers., , The invention of the safety elevator in 1852 by Elisha Otis (1811–1861) created the ability to reach the upper stories of tall buildings with ease and safety. This steam-powered rope elevator had an automatic safety device that kept it from falling if the lifting rope broke. Nearly forty years later, in 1889, the high-speed, electric-powered, roped elevator enabled the construction of higher structures., Reinforced concrete is an important component (part) of skyscrapers. It is made from concrete poured around a framework of steel rods,
+strengthening the resulting dried concrete against bending movement caused by the wind. A type of high-strength concrete has been developed by adding very fine particles to the regular concrete ingredients. The increased surface area of these tiny particles produces a stronger bond. This type of concrete was used in Petronas Twin Towers., The other important material for skyscraper construction is steel. Different sizes of steel beams (long pieces of steel) are delivered to the construction site as they are needed. Before delivery, the beams are coated with a substance that protects them from rust and heat. After each beam is welded into place, the same coating substance is used to cover the fresh joints. Another layer of insulation, such as fiberglass batting covered with aluminum foil, may then be wrapped around the beams., , The exterior walls of a skyscraper are called curtain walls because they hang from the frames like curtains. A variety of materials, called claddings, make up these exterior walls. They may be glass; metal, such as aluminum or stainless steel; or masonry materials, such as granite, marble, or limestone., The architect designs the skyscraper, determining the shape and height as well as its inside and outside appearances. Some architects use a computer program that helps them see how the skyscraper will look when completed, or how the building will fit into its surroundings., Next, structural engineers put the architect's ideas into a detailed plan. The engineers make sure the structure will support not only the weight of the skyscraper, but also the weight of the people and furniture the skyscraper will contain., Some of the world's tallest structures are not necessarily skyscrapers because they do not house offices or living quarters. The world's tallest freestanding (standing unsupported or with attachment) structure is not a skyscraper. The CN tower in Toronto, Canada, was erected in 1975 to support a huge television antenna. It measures 1,815 feet (553 meters), with the Skypod (comprised of a restaurant, nightclub, and an observation viewing deck) at around 1,100 feet (335 meters) from the street. The world's second largest freestanding structure is also a television tower that was built in 1967. The Ostankino Tower in Moscow, Russia, has an observation deck located almost two-thirds up the tower's total height of 1,771 feet (540 meters). A restaurant called the Seventh Heaven, with three dining areas, is located below the observation deck., , Tall buildings, especially their top levels, can sway anywhere from two inches to more than two feet in strong winds. The engineers have to make sure the structure is sound enough that it will not be toppled by the sideways force of wind, or that it will not sway too much to cause the
+occupants physical or emotional discomfort. Models of the planned building are tested in wind tunnels to determine the effects of high winds., If tests show the building will sway excessively in strong winds, designers may add a central core. They may also incorporate devices to counteract the motion or restrict motion. One such device is called the tuned mass damper, which is a heavy weight in the top level of the building. When the building starts to sway, the computer system moves this heavy weight in the opposite direction, thereby reducing the amount of sway., Tall buildings also affect the wind patterns of surrounding areas. The wind between skyscrapers that are built near one another is known to be stronger., Each skyscraper design is different. Major structural designs that may be used alone or combined with others include a steel skeleton hidden behind curtain walls that do not support the structure's weight and a reinforced concrete skeleton that is in-filled with cladding panels to form
+exterior walls. The design may also include a central concrete core to hold the elevators, as well as the air conditioning, water pipes, and ducts for electrical wirings. Still another design includes support columns around the perimeter of the building that are connected by horizontal beams to one another and to the core., , Each skyscraper is designed to suit the needs of its future occupants, whether they are apartment dwellers or office workers. The owner and the architect have to approve what the final structure will look like. The structure of the building also has to take into consideration the layout of the land and the type of climate in the area. For example, in Japan, designers have to allow for the occurrence of earthquakes when they design the structure. The construction process for each building differs. However, all skyscrapers follow basic methods., 1 Construction usually begins with digging a hole that will hold the foundation. The depth of the hole depends on how far down the bedrock (solid rock deep underground) is and how many basement levels will be built., Digging a deep hole can cause movement of the surrounding soil. To prevent this from happening and to seal out water from around the foundation site, a diaphragm wall is constructed. This is done by digging a deep narrow ditch around the boundary of the planned hole. As the ditch is dug, it is filled with slurry (watery clay) to keep its sides from collapsing. As each section of the ditch reaches the desired depth, a cage of reinforced steel is lowered into it. Concrete is pumped into the ditch, displacing the slurry. The slurry is reused in other sections of the ditch. The concrete hardens, forming the wall., 2 If the bedrock lies close to the surface, the soil on top of it is removed. The bedrock surface is smoothed to form a leveled surface for the foundation. Footings (holes into which the building's support columns will be held in place) are drilled in the bedrock. Then the support columns made of steel or reinforced concrete are placed in the footings., , 3 If the bedrock lies very deep, long steel columns or reinforced concrete columns called piles are sunk through the soil until they are embedded in the bedrock. This can be done using one of two methods. Steel piles may be embedded in the bedrock by repeatedly dropping
+a heavy weight on their tops. The second method involves drilling shafts (large tubes) through the soil and into the bedrock. Steel rods are inserted through the shafts and concrete is poured around them, resulting in reinforced concrete columns., 4 Finally, a foundation platform of reinforced concrete is poured on top of the support columns., Once construction of a skyscraper has started, work on several phases of the structure generally takes place at the same time. For example, when the support columns are several stories high, workers begin building floors for the lower stories. As the columns are built higher, the flooring crews move to higher stories. In the meantime, the finishing crews start work on the lowest level. This process not only saves time but also ensures that the structure stays safe during construction., 5 If steel columns and beams are used in the building, each piece is lifted into place by tall cranes (machines that lift and move heavy materials). While the lowest stories are under construction, the cranes stay on the ground. As the structure rises higher, the cranes may be placed on the highest completed level of the steel skeleton., Workers either bolt or weld the ends of the beams into place., 6 Many skyscrapers have a core (middle section) made of concrete. The core serves to keep the structure from swaying too much from strong winds. The core usually contains the elevator shafts, as well as the pipes for transporting water and the ducts (large pipes) for electrical wirings. Concrete may also be used to construct support columns., Concrete cores and support columns are constructed using a technique called slip-forming. Steel rods are put inside a metal or wooden form called a formwork, which is made to the desired shape. The formwork is constructed so that it moves upward. As concrete is poured around the rods inside the formwork, the formwork rises. The speed of the climbing formwork is timed so that the concrete at the lower part has set before the formwork moves upward. The concrete mixture has to be such that it has hardened by the time the formwork is raised. In this way, the entire concrete core or column is made as one continuous piece., 7 In some skyscrapers, the floors are made of reinforced concrete. In others, the floors are supported by horizontal steel beams that are attached to the core and/or support columns. Steel decks (panels of
+thin, corrugated steel) are laid on the beams and welded in place. Then, concrete is poured over the steel decks., 8 In most skyscrapers, the core and support columns bear the weight of the structure and its contents. The outer walls simply enclose the structure. The walls are constructed by attaching panels of materials, such as glass, metal, and stone, to the building's framework. These materials are called claddings., 9 After a story has been enclosed by exterior walls, it is ready for interior finishing. This includes installation of electrical wires, telephone wires, plumbing pipes, interior walls, ceiling panels, bathroom fixtures, lighting fixtures, water tanks, and sprinkler systems for fire control. Mechanical components, such as elevators, air conditioners, heating systems, and electricity generators are also put in place., 10 After completion of the superstructure, a roof is installed. This may be constructed like a floor and then waterproofed with a layer of rubber or plastic. Finally, the roof is covered with attractive weather-resistant tiles or metal., The race is always on for constructing the highest skyscraper. The building at 7 South Dearborn Street in Chicago, Illinois, due for completion by 2004, will surpass the Petronas Twin Towers. It will rise 1,550 feet (471 meters) and contain 108 stories. Two television antennas will make the total height 2,000 feet., Plans for other skyscrapers are being developed. In India, two pyramid-shaped buildings are being proposed. The taller of the two would reach 2,222 feet (677 meters). Japan, faced with scarce land to house its growing population, has proposed the X-Seed 4000, its name designating its height in meters. The 12,000-foot building is designed to accommodate about one million people. Another idea involves a skyscraper called the Millennium Tower (2,438 feet, or 800 meters) to be constructed in the Bay of Tokyo., While building these skyscrapers is possible, they are just ideas. Such projects would cost a lot of money because extremely tall structures require very strong foundations and materials. The task of getting materials
+up to the highest stories would also require more expenses. Additional stories would require more elevators that would take up more spaces in the building core. One solution is to group passengers according to a common destination. Another solution is to have two sets of elevators—one elevator to take passengers partway up the building and another elevator to take these passengers the rest of the way., Macaulay, David. Building Big. Boston, MA: Houghton Mifflin Company, 2000., Oxlade, Chris. Skyscrapers. Chicago, IL: Reed Educational &amp; Professional Publishing, 2001., Severance, John B. Skyscrapers: How America Grew Up. New York, NY: Holiday House, 2000., Harris, Tom. "How Skyscrapers Work." How Stuff Works.http://howstuffworks.com/skyscraper.htm (accessed on July 22, 2002)., The Skyscraper Museum.http://www.skyscraper.org (accessed July 22, 2002)., SkyscraperPage.com.http://www.skyscraperpage.com (accessed July 22, 2002)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Skyscraper."
+
+CDs, Super Glue, and Salsa: How Everyday Products Are Made: Series 3.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Skyscraper." 
+CDs, Super Glue, and Salsa: How Everyday Products Are Made: Series 3.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/culture-magazines/skyscraper
+, 
+"Skyscraper." 
+CDs, Super Glue, and Salsa: How Everyday Products Are Made: Series 3.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/culture-magazines/skyscraper
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

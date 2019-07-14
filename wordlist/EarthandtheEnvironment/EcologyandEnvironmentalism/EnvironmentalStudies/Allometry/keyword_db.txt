@@ -1,0 +1,167 @@
+[The relationship of the growth of one part of an organism to the growth of another part or the growth of the whole organism is called allometry. The term also applies to the measure and study of such growth relationships. Allometry comes from the Greek word allos, which means "other," so allometric
+means "other than metric." Isometric growth, where the various parts of an organism grow in one-to-one proportion, is rare in living organisms. If organisms grew isometrically, young would look just like adults, only smaller. In contrast, most organisms grow non-isometrically; the various parts and organisms do not increase in size in a one-to-one ratio. One of the best known examples of non-isometric growth is human growth. The relative proportions of a human body change dramatically as the human grows. Medieval and earlier painters sometimes did not realize this and drew children as tiny adults. But the bodies of tiny adults do not look like those of children. Children have proportionately larger heads and shorter legs than adults. The difference is even more dramatic when human embryos are compared to adults. The figure above shows the relative proportions of a human male at various stages of growth, scaled to the same total height., A general equation expressing the fundamental relationship of allometric growth is y axk in which y is the size of one organ; x is the size of another; a is a constant; and k is known as the growth ratio. Mathematical tools developed by allometrists have allowed a thorough description of the differential growth of the different parts of an organism. Biologists expect that allometry will eventually improve our understanding of the biological processes that regulate the growth rate., , A change in form with increasing size is a response to increasing instability. For example, body weight increases with the cube of total height. But the strength of muscles and bone depends on cross-sectional area. Area is proportional to the square of a dimension, so the strength increases with the square of total body height. If muscle mass and bone mass did not increase more rapidly than the mass of the body as a whole, the human body would become unstable and unable to support its own weight. On the other hand, metabolic rates (and the heat produced by metabolism) increase less rapidly than total body height, since the larger volume-to-surface-area ratio means
+that less heat is lost through the skin. In humans, a 100 percent increase in height produces a 73 percent increase in metabolic heat production., Another example of allometric growth is seen in male fiddler crabs, Uca pugnax. These crabs are so named because of their one large claw and "pugnacious" attitude (pugnare means "to fight" in Latin). In small males, the two claws are of equal weight, each containing about one-twelfth of the total weight of the crab. However, the size of the large claw increases disproportionately to the growth of the rest of the animal, producing in larger males a claw that may contain two-fifths of the total weight of the crab., Allometric growth is usually detected by graphing the growth data on a log-log plot. That is, the horizontal and vertical axes of the graph are both logarithmic scales. The general allometric growth equation has the form y axk. Taking the logarithm of both sides produces the following equation: log(y) klog(x) log(a)., This equation has the basic form of a linear equation in slope-intercept form, y mx b. If the body mass of Uca pugnax is plotted on the x-axis and the claw mass is plotted on the y-axis of a log-log plot, then the result will be a straight line whose slope is the relative growth rate of claw mass to body mass. In the male Uca pugnax, the ratio is 6:1. This means that the mass of the big claw increases six times faster than the mass of the rest of
+the body. In females, the claw grows isometrically and remains about 8 percent of the body weight throughout growth. Allometric growth occurs only in males., Allometric growth is also seen in nonhuman primates. For example, the jaw and other facial structures of baboons have a growth rate about four and one-quarter times that of the skull. As the baboon matures, the jaw protrudes further and further until it dominates the facial features., see also Functional Morphology., Elliot Richmond , Curtis, Helena, and N. Sue Barnes. Biology, 5th ed. New York: Worth Publishing, 1989., Huxley, J. S. Problems of Relative Growth. New York: Dial Press, 1932., Thompson, D. W. On Growth and Form. Cambridge, U.K.: Cambridge University Press, 1942., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Allometry."
+
+Animal Sciences.
+.
+
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Allometry." 
+Animal Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/allometry
+, 
+"Allometry." 
+Animal Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/allometry
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"allometry."
+
+A Dictionary of Zoology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+ , 
+"allometry." 
+A Dictionary of Zoology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/allometry-2
+, 
+"allometry." 
+A Dictionary of Zoology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/allometry-2
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"allometry."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"allometry." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/allometry-0
+, 
+"allometry." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/allometry-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"allometry."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"allometry." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/allometry
+, 
+"allometry." 
+A Dictionary of Earth Sciences.
+. Retrieved
+ July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/allometry
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"allometry."
+
+A Dictionary of Plant Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"allometry." 
+A Dictionary of Plant Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/allometry-1
+, 
+"allometry." 
+A Dictionary of Plant Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/allometry-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

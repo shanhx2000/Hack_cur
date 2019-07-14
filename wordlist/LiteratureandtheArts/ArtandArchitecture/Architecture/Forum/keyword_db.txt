@@ -1,0 +1,311 @@
+[A court of justice where disputes are heard and decided; a judicial tribune that hears and decides disputes; a place of jurisdiction where remedies afforded by the law are pursued., The appropriate forum for a lawsuit depends upon which court has jurisdiction over the parties and the subject matter of the case, a matter governed mostly by statutes and court rules. For example, rules of procedure provide that disputes involving a certain dollar amount or disputes between citizens of different states may be heard in a particular court. When a contract is the subject of the litigation, the parties may have included in the contract a forum selection clause that designates the court where any disputes arising from the contract may be heard. A forum selection clause will generally be upheld by a court unless the party resisting it can show that enforcement of the clause would be unfair or unreasonable under the circumstances of the particular case., When more than one court is the appropriate forum to hear a dispute, the plaintiff may engage in forum shopping. In this situation, the plaintiff seeks to have a dispute heard in the court that the plaintiff believes will render the most favorable verdict or judgment, regardless of whether that forum imposes hardship or inconvenience on the opposing party. The defendant may even be unable to appear in the forum selected by the plaintiff, thus permitting the plaintiff to win the action by default., Forum shopping is frowned upon by the courts. Many federal and state procedural rules, as well as federal and state statutes, discourage this practice by limiting a plaintiff's choice of forum to locations reasonably convenient to both parties. The Uniform Child Custody Jurisdiction Act, for example, limits the exercise of jurisdiction over child custody decrees to the home state of the child., A court that has jurisdiction may decline to exercise it when the parties and the interests of justice would benefit if the action were heard in another court that also has jurisdiction over the matter. This is called the doctrine of forum non conveniens (Latin for "forum not convenient"). A defendant seeking to invoke the doctrine of forum non conveniens must make a motion to have the action dismissed even though the original forum has jurisdiction to hear the action. The court, in its discretion, will consider a number of factors in deciding whether to grant or deny the motion, including whether the necessary witnesses can be compelled to attend the proceedings and the cost of obtaining their attendance; ease of access to evidence pertinent to the dispute, including the distance from the site of the events that resulted in the litigation; and any other practical factors that would facilitate the trial of the lawsuit. For instance, if a lawsuit is brought in Alaska but all the witnesses live in Washington State, and the property that is the subject of the dispute is also in Washington, then the court may conclude that it is more convenient to litigate the case in Washington than in Alaska. In some states, however, the court will rarely dismiss an action on the grounds of forum non conveniens when the plaintiff is a resident of the forum state. In addition, to protect the plaintiff's interests, a court will permit dismissal of the action only if the plaintiff consents to the trial of the lawsuit in the more convenient forum., In the federal court system and within many states, statutes have been enacted to allow a court to transfer a case to another court that operates within the same system or state and where the case might have been brought in the first place. Thus, the court to which the case is transferred must also have jurisdiction over the matter. Unlike a forum non conveniens motion, a transfer request may be made by either party and does not require that the action be dismissed and then reinstituted in the new court. In addition, to obtain a transfer, the requesting party needs to show a lesser degree of inconvenience than that required before a court will grant a forum non conveniens motion. For example, federal law provides that a case may be transferred from one federal forum to another "[f]or the convenience of parties and witnesses" and "in the interest of justice" (28 U.S.C.A. § 1404(a) (West Supp. 1995)). But, since transfers are limited to courts within the same system or state, a defendant who wants to change from a federal forum to a state court, or to a court in another country, or from a state court of one state to a state court of another state, must still bring a motion to dismiss the action based on forum non conveniens., Gunnarsson, Helen W. 2003. "Breathing New Life Into Forum Non Conveniens?" Illinois Bar Journal 91 (October)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Forum."
+
+West's Encyclopedia of American Law.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Forum." 
+West's Encyclopedia of American Law.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/law/encyclopedias-almanacs-transcripts-and-maps/forum
+, 
+"Forum." 
+West's Encyclopedia of American Law.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/law/encyclopedias-almanacs-transcripts-and-maps/forum
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, forum, market and meeting place in ancient Roman towns in Italy and later in the provinces, corresponding to the Greek agora. By extension the word forum often indicates the meeting itself in modern usage. The forum was usually square or rectangular in shape and had, among other buildings, a basilica with shops, the public treasury, the curia, and a prison; under Greek influence colonnades were introduced.
+The old Roman Forum extended into a marshy valley from Capitoline Hill along the Palatine Hill. When, much later, the Basilica of Constantine was added it reached almost to the Colosseum. The valley between the hills was crossed by a small stream emptying into the Tiber, which drained the area and was canalized underground (probably in the 6th cent. BC) to become the great sewer, the Cloaca Maxima (a portion of which still exists). At the south end of the Forum was the house of the vestal virgins and nearby the temple of Vesta. West of the temple, as an entrance to the Forum proper, was the Arch of Augustus, having on one side the temple of deified Julius Caesar and on the other that of Castor and Pollux. Behind it was a building, now the Church of Santa Maria Antiqua, with fine 8th-century frescoes. Along the southwest side of the Forum was the Basilica Julia, and along its northeast side were the Basilica Aemilia and the curia, where the senate met. The Forum was closed to the northwest by the Arch of Septimius Severus and by the rostra (platforms adorned with beaks of captured vessels), from which tribunes, consuls, and orators made their speeches. Beyond them, toward Capitoline Hill, were temples, among them the Temple of Concord and the temple of Saturn, housing the treasury.In imperial times the old Forum became inadequate; the emperors built new forums to the northeast, from the Basilica of Constantine to the valley between the Capitoline and Quirinal. On the southeast were the Forum of Vespasian with the Temple of Peace surrounded by a colonnade; next the Forum of Nerva; then that of Augustus with the temple of Mars. Southwest was the smaller Forum of Julius Caesar, a colonnade enclosing the temple of Venus. Beyond the Forum of Augustus was the Forum of Trajan, a vast colonnaded square; then the Basilica Ulpia; then the two libraries with, between them, the Column of Trajan, which is still standing. The temple of Trajan closed the Emperors' Forums to the northwest.In the 4th cent., the decay of the old Forum began; earthquakes, fires, and the barbarian invasions completed its destruction. In the Middle Ages materials from the forums were used to build new monuments throughout the city. Only in the 19th and 20th cent. were systematic excavations made to bring to light what was left. The forums are now, with the Palatine and Colosseum, an imposing complex of ruins, testifying to the magnificence of ancient Rome., See M. Grant, The Roman Forum (1970)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"forum."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"forum." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/forum
+, 
+"forum." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/forum
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+fo·rum 
+/ ˈfôrəm/
+•
+n.
+(pl.  fo·rums
+)
+1.
+a place, meeting, or medium where ideas and views on a particular issue can be exchanged:
+it will be a forum for consumers to exchange their views on medical research.
+2.
+a court or tribunal.
+
+3.
+(pl.  fo·ra
+/ ˈfôrə/ )
+(in an ancient Roman city) a public square or marketplace used for judicial and other business.
+
+
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"forum."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"forum." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/forum-1
+, 
+"forum." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/forum-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"forum."
+
+A Dictionary of Architecture and Landscape Architecture.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"forum." 
+A Dictionary of Architecture and Landscape Architecture.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/forum
+, 
+"forum." 
+A Dictionary of Architecture and Landscape Architecture.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/forum
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"forum."
+
+The Concise Oxford Dictionary of English Etymology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"forum." 
+The Concise Oxford Dictionary of English Etymology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/forum-2
+, 
+"forum." 
+The Concise Oxford Dictionary of English Etymology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/forum-2
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"forum."
+
+The Oxford Dictionary of Phrase and Fable.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"forum." 
+The Oxford Dictionary of Phrase and Fable.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/forum
+, 
+"forum." 
+The Oxford Dictionary of Phrase and Fable.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/forum
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"forum."
+
+A Dictionary of Computing.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"forum." 
+A Dictionary of Computing.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/computing/dictionaries-thesauruses-pictures-and-press-releases/forum
+, 
+"forum." 
+A Dictionary of Computing.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/computing/dictionaries-thesauruses-pictures-and-press-releases/forum
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, of Greeks—Sqfire in N. Y. Times, 1983., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Forum."
+
+Dictionary of Collective Nouns and Group Terms.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Forum." 
+Dictionary of Collective Nouns and Group Terms.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/forum-0
+, 
+"Forum." 
+Dictionary of Collective Nouns and Group Terms.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/forum-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"forum."
+
+Oxford Dictionary of Rhymes.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"forum." 
+Oxford Dictionary of Rhymes.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/forum-0
+, 
+"forum." 
+Oxford Dictionary of Rhymes.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/forum-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

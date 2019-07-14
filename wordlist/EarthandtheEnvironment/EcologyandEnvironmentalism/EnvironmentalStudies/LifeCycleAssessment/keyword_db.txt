@@ -1,0 +1,69 @@
+[A typical product has a range of environmental impact arising from its manufacture, use, and disposal. A life cycle assessment (LCA) evaluates the entire environmental impact of a product through its life cycle. An LCA might, for example, compare the environmental impact of ordering an item online to going to a store to buy it. The analysis would include the environmental impact of having the item mailed to the purchaser's home directly from the distributor versus having it sent from the distributor to the store, and then having the customer drive to the store to buy it. In this example, an LCA has shown that it can be environmentally preferable to buy products online, but only if the item is sent by standard truck mail rather than by express airmail. Other LCAs have shown that lightweight plastic bumpers are superior to heavier steel bumpers for cars, and that the relative merits of cloth versus disposable diapers depend on how the cloth diapers are dried, because electric drying uses so much energy., Life cycle analyses of products are typically coupled with efforts to reduce their environmental impact. Extended producer responsibility (EPR) is the concept that the producer of a product is also responsible for recycling the product. In Germany, producers are required to take back the packaging of their products, and in the Netherlands, the cost of cars incorporates a recycling tax., see also
+Recycling;
+Reuse., Journal of Industrial Ecology. Available from http://www.yale.edu/jie., U.S. Environmental Protection Agency. National Risk Management Research Laboratory, Life-Cycle Assessment Web site. "LC Access." Available from http://www.epa.gov/ORD., Valerie M. Thomas , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Life Cycle Analysis."
+
+Pollution A to Z.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Life Cycle Analysis." 
+Pollution A to Z.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/educational-magazines/life-cycle-analysis
+, 
+"Life Cycle Analysis." 
+Pollution A to Z.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/educational-magazines/life-cycle-analysis
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Life cycle assessment (or LCA) refers to a process in industrial ecology by which the products, processes, and facilities used to manufacture specific products are each examined for their environmental impacts. A balance sheet is prepared for each product that considers: the use of materials; the consumption of energy; the recycling , re-use, and/or disposal of non-used materials and energy (in a less-enlightened context, these are referred to as "wastes"); and the recycling or re-use of products after their commercial life has passed. By taking a comprehensive, integrated look at all of these aspects of the manufacturing and use of products, life cycle assessment finds ways to increase efficiency, to re-use, reduce, and recycle materials, and to lessen the overall environmental impacts of the process., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Life Cycle Assessment."
+
+Environmental Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Life Cycle Assessment." 
+Environmental Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/life-cycle-assessment
+, 
+"Life Cycle Assessment." 
+Environmental Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/life-cycle-assessment
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

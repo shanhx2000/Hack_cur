@@ -1,0 +1,208 @@
+[Earth's atmosphere weighs about 6.5 × 1021 (5.98 × 1024). Spread out across Earth's entire surface area, it exerts an air (barometric) pressure of about 14.7 pounds per square inch (psi) (101 kilopascals [kPa]) at sea level. While that is the average, the actual barometric pressure varies greatly from place to place and from one moment to the next. The barometric pressure at the summit of Mount Everest, is one third of the barometric pressure at sea level. The greatest barometric pressure extremes ever recorded at sea level were 15.7 psi (108 kPa) during a very cold winter in Siberia and 13.5 psi (87 kPa) recorded in the eye of a Pacific Ocean typhoon. Barometric pressure differences are important because they are the basic creators of weather., The sun is the major factor in causing pressure variations in the atmosphere. Hot equatorial air rises and flows north. As it moves Coriolis forces in the northern hemisphere bend it to the west in the tropics and to the east in the temperate zones, setting up cells of clockwise and counterclockwise atmospheric flow. The changing atmospheric pressures that come with these flows can be used to predict the weather. In fact, prior to the advent of the radio, the only tool sailors had to predict the weather was the barometer, which told them which way the air pressure was changing. A rising barometric pressure was a sign of improving weather. A falling barometer was a sign to batten down the hatches and hope for the best., , Many people do not realize that atmospheric pressure exists since it cannot be felt. Its existence was discovered by the Italian scientist Evangelista Torricelli. Torricelli made his discovery during an attempt to help silver miners, who were having trouble keeping their mines dry. The only pump available to the miners were suction pumps, which could only raise water 32 ft (9.8 m). Torricelli deduced the reason the pump could not raise water more than that was because the weight of the atmosphere was only heavy enough to support a column of water 32 ft (9.8 m) high. Torricelli's insight was that if a see-saw were arranged such that half of it was under a vacuum and half of it was under atmospheric pressure, 32 ft (9.8 m) of water would have to be placed on the vacuum side of the see-saw to balance the atmospheric pressure acting on the other side. The miners' pumps were like a see-saw trying to balance more than 32 ft (9.8 m) of water., To test his theory, Torricelli took a glass tube about 4 ft (1.2 m) long, sealed it at one end, and filled it with mercury. Holding his thumb over the open end, he upended the tube into a bowl of mercury. His theory was that, since mercury is 13.5 times more dense than water, barometric pressure would only be high enough to support a column of mercury 2.4 ft (0.73 m) high (the maximum height the suction pumps could pull water divided by 13.5). In actuality, the atmosphere supported a column of mercury 2.5 ft (0.76 m) high. The extra distance was because the vacuum at the top of the glass tube was almost perfect—Torricelli was also the first person to create a vacuum—and the seals in the miners' pumps were not. It is not clear who noticed that barometers could be used to forecast the weather, though it is possible it was Ferdinand dei Medici, Grand Duke of Tuscany., While mercury barometers, even to this day, are the most accurate barometers, they are not without drawbacks. Trying to read a mercury barometer on board a ship caught in a hurricane is not easy. The idea for a mercury-free barometer (an aneroid barometer) first occurred to Gottfried Leibniz (coinventor of calculus) around 1700. Metallurgy was not sufficiently advanced in 1700 to realize Leibniz's idea. The French inventor Lucien Vidie developed the first practical aneroid barometer in 1843. Aneroid barometers are the most common barometers in use today. They are the circular, brass, clock-like instruments with a sweep indicator pointing to the current barometric pressure. They are commonly seen in weather stations and on board boats. Aneroid barometers function by measuring the expansion and contraction of a hollow metal capsule., , The only components of a mercury baromeeter are glass and mercury. Aneroid barometers, on the other hand, are very complex machines similar to fine watches. The aneroid capsule, which is the device that moves with changes in air pressure, is made from an alloy of beryllium and copper. The movements are made from stainless steel (e.g., AISI 304L) with jeweled bearings (synthetic rubies or sapphires). Jewels are used in the bearings because they have very low frictional resistance. Barometer cases can be made out of anything, but are usually made out of brass (a mixture of copper and zinc). There are many types of brass. One of the most common is "clockbrass," a mixture of 65% copper and 35% lead. Barometer dials can be made out of anything: aluminum, steel, brass, or paper., Product design for an aneroid barometer involves a careful analysis of the contracting and expanding properties of the aneroid capsule, design of the temperature compensation system, and mechanical design of the linkage between the aneroid capsule and the sweep indicator., The aneroid capsule is very thin, hollow, and usually shaped like a bellows. Most of the air is removed from the capsule so that the contraction and expansion of the capsule is strictly a function of the elasticity of the capsule and any of its supporting springs. Leaving air in the capsule would induce non-linearity into the capsule response. As the capsule contracted, if there were any air left, the air pressure in the capsule would rise, which would make further compression of the capsule harder. The barometer designer calculates how much the aneroid capsule will expand or contract under the expected range of pressures the barometer will be subjected to. Based on these movements, the designer specifies the linkages that will translate the movement of the capsule into the movement of a sweep indicator on the barometer face., The aneroid barometer is sensitive to temperature variations both because the capsule and its linkages will expand or contract as the temperature changes and also because the capsule's elastic properties (how much the capsule will deflect under changes in outside pressure) also change with temperature. There are several ways to compensate for temperature-induced movements of the barometer components. One of the more elegant solutions involves the use of a bimetallic strip. A bimetallic strip consists of two flat pieces of metal, made of different types of elements or alloys, welded back to back. Because the temperature changes in the bimetallic strip and capsule are predictable, the bimetallic strip can be used to compensate for the capsule movements. As temperatures change, the two components of the bimetallic strip try to expand by different amounts. This causes the bimetallic strip to bend toward the component with the smaller coefficient of expansion. This bending motion can be used to shift the indicator hand or compress the aneroid capsule to compensate for the temperature change., , The linkage between the aneroid capsule and the sweep indicator is almost as complex as the movement of a fine Swiss watch. In fact, a quality barometer linkage incorporates many of the same components. The linkage's purpose is to translate the tiny horizontal motion of an expanding bellows (a few thousands of an inch or centimeter) into the sweep motion of an indicator arm. The required magnification of the capsule movement can be accomplished using levers. A see-saw is a form of lever. The very end of the see-saw moves through a much greater
+arc than a point near the pivot. By arranging for the aneroid capsule to push or pull on a point near the pivot of a see-saw-like lever, the movement of the capsule is greatly magnified at the far end of the lever. Any nonlinearity of the capsule movement can be compensated for using a fusee, pronounced FU-say. A fusee, which was invented by Leonardo da Vinci, is a spiral-cut pulley shaped like a cone. At the zero point of the barometer, the end of the see-saw lever is connected to the middle of the fusee by a chain. As the aneroid capsule compresses, the fusee rotates, shifting the chain down to a smaller diameter. What this accomplishes is that as the aneroid capsule hardens under compression, a smaller movement of the chain can produce the same movement of the sweep indicator., Quality control requires that the completed barometer be tested under different atmospheric conditions. All aneroid barometers come with a zeroing screw to adjust the initial position of the sweep indicator to be the same barometric pressure as that of a very precise standard barometer kept at the factory. The new barometer is then subjected to varying barometric pressures to assess how accurately it can record the actual pressure. Barometers that cannot meet the required factory tolerances, which vary from manufacturer to manufacturer, have their movements replaced., Mercury barometers contain the highly-toxic heavy metal that gives them their name. However, many localities and some states have banned the use of mercury in thermometers, barometers, and blood pressure recording devices. It is only a matter of time before the mercury barometer disappears from common use. Wastes generated during aneroid barometer manufacturing are limited to minor amounts of metal from the linkage machining. Casting wastes from the barometer cases are usually immediately recycled at the casting house., The future of the barometer is a digital version. By placing parallel steel plates inside the aneroid capsule and running a current across them, the distance between the two plates can be determined as it is proportional to the capacitance of the plates (capacitance is a measure of the amount of electric charge that can be stored on the plate). As the aneroid capsule shrinks and expands, the capacitance of the two plates changes, providing a measure of the change in atmospheric pressure driving the change in plate position. This obviates the need for jeweled bearings, fusee, and machined linkages, but produces an instrument with all the charm of a digital watch. However, with the insatiable need of the weather service supercomputers for data, the future will inevitably bring a huge number of very inexpensive barometers and thermometers stationed throughout the world and connected through the world wide web., Barry, Roger G., and Richard J. Chorley. Atmosphere, Weather, and Climate. 6th ed. New York: Routledge, 1998., Middleton, W. E. Knowles. The History of the Barometer. Baltimore: The Johns Hopkins Press, 1964., Accuweather Web Page. 20 September 2001. &lt;http://www.accuweather.com&gt;., JeffRaines, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Aneroid Barometer."
+
+How Products Are Made.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Aneroid Barometer." 
+How Products Are Made.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/manufacturing/news-wires-white-papers-and-books/aneroid-barometer
+, 
+"Aneroid Barometer." 
+How Products Are Made.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/manufacturing/news-wires-white-papers-and-books/aneroid-barometer
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"aneroid barometer."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"aneroid barometer." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/aneroid-barometer-0
+, 
+"aneroid barometer." 
+A Dictionary of Ecology.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/aneroid-barometer-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"aneroid barometer."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"aneroid barometer." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/aneroid-barometer
+, 
+"aneroid barometer." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/aneroid-barometer
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+an·er·oid 
+/ ˈanəˌroid/
+•
+adj.
+relating to or denoting a barometer that measures air pressure by the action of the air in deforming the elastic lid of an evacuated box or chamber.
+
+•
+n.
+a barometer of this type.
+
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"aneroid."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"aneroid." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/aneroid
+, 
+"aneroid." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/aneroid
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"aneroid."
+
+The Concise Oxford Dictionary of English Etymology.
+.
+
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"aneroid." 
+The Concise Oxford Dictionary of English Etymology.
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/aneroid-0
+, 
+"aneroid." 
+The Concise Oxford Dictionary of English Etymology.
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/aneroid-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, aneroid barometer: see barometer., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"aneroid barometer."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+12 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"aneroid barometer." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 12, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/aneroid-barometer
+, 
+"aneroid barometer." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 12, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/aneroid-barometer
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

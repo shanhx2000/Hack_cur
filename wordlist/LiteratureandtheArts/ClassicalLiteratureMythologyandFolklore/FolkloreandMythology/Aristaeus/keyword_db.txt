@@ -1,0 +1,99 @@
+[(fl. ca. 350–330 b.c.), mathematics., Aristaeus lived after Menaechmus and was an older contemporary of Euclid. Nothing is known of his life, but he was definitely not the son-in-law of Pythagoras mentioned by Iamblichus. Pappus, whose Collectio (Book VII) is our chief source, calls him Aristaeus the Elder, so presumably there was a later mathematician with the same name., None of Aristaeus’ writings have been preserved. On the other hand, Pappus (some 650 years later) had in his possession Aristaeus’ treatment of conic sections as loci, the Five Books Concerning Solid Loci. He mentions the work in his Treasury of Analysis. In another place, he speaks of the solid loci of Aristaeus as “standing in relation to conic sections,”1 For that reason, and because in a scholium there is mention of Five Books of the Elements of Conic Sections, some have concluded that Aristaeus wrote another work of this nature. According to Heiberg’s investigations, this is untrue. Pappus also reports that Aristaeus introduced the terms “section of the acute-angled, rightangled, and obtuse-angled cone.”, As for its contents it can be determined from the passages by Pappus and Apollonius that the “locus with respect to three or four lines” was treated by Aristaeus.2 Well-founded suppositions have been expressed concerning other loci treated by him, in connection with vergings (νεν´σειs) by means of conic sections, trisection of an angle with the aid of a hyperbola, and above all the focus-directrix property of conic sections; Pappus establishes them in a lemma to the lost Surface Loci of Euclid. Since Euclid evidently supposes that the principle necessary for an understanding of surface loci is well known, it could have originated with Aristaeus., In any case, Aristaeus played a major part in the development of the conic section theory, which began with Menaechmus.3 Zeuthen and Heath give a comprehensive presentation of his accomplishments. In 1645 Viviani undertook a revision of the Solid Loci, starting from the same general interpretation of the contents that was used later by Zeuthen., , Hypsicles (ca. 180 b.c.), the editor of Book XIV of Euclid’s Elements, reports another work, Concerning the Comparison of Five Regular Solids, from which he quotes a proposition.4 It is not certain whether Hypsicles had in mind here the author of the Solid Loci. One would suppose a younger Aristaeus; in that case, Euclid’s dependence (in Book XIII) on Aristaeus, which has been maintained by Heath but has been denied with good reasons by Sachs, would not be a point of contention., After Aristaeus, Euclid was the next to deal with conic sections; his work was rendered out-of-date by Apollonius and became superfluous. From a statement by Pappus one must assume that Euclid had no intention of developing further the treatment of conic sections as loci, but that he sought—as did Apollonius—to give a general, synthetic construction. The solution of the problem of the “Locus with respect to three or four lines” must have been incomplete in Aristaeus’ works, for the “proposition of powers” (pro. Euclid III, 36) extended to conics and the second branch of the hyperbola were still missing. Apollonius, who must have had the complete solution,5 notes additionally that the problem could not be completely solved without the propositions he discovered. He does not give the solution, but in the third book Apollonius does prove the converse of the proposition.6, After Apollonius and Pappus became well known again during the Renaissance, the problem of loci again began to attract interest. It appears in letters from Golius to Mydorge (after 1629) and Descartes (1631), and in letters from Descartes to Mersenne (1632, 1634). Fermat gives (before 1637) a solution in the ancient manner; in a letter to him (4 August 1640), Roberval reports that he completely reconstructed the Solid Loci.7 In Descartes’s Géométrie (1637) the “locus with respect to three and four lines” forms the starting point for the new analytic treatment of conic sections. Descartes cites the pertinent passages in Pappus and, going beyond him, expands the problem to arbitrarily many straight lines. By means of this, he laid the foundation for a theory of the general properties of algebraic curves., 1.συνεχη τοιs κωνικοιs (Pappus VII, 672). Hultsch translates it freely as supplementum conicorum doctrinae., 2. The proposition is as follows: If from a given point arbitrarily directed lines a, b, c (or a, b, c, d) are drawn to meet at given angles three (or four) straight lines given in position, and then if ac: b2 (or ac:bd) is a given value. then the point lies on a conic section. Cf. Pappus VII, 678., 3. Sarton (Introduction, I, 125) calls him the greatest mathematician of the second half of the fourth century., 4. “The same circle circumscribes both the pentagon of the dodecahedron and the triangle of the icosahedron when both are inscribed in the same sphere.” (Euclid, Heiberg ed., V. 6 f.), 5. Descartes is of still another opinion. See also Zeuthen, Lehre, pp. 127 ff., 6. Heath, Apollonius, pp. cxxxviii ff. The proposition is this: For a point of a conic section the relationship given in note 2 holds true., 7. Tannery, “Note,” pp. 46 ff. From Fermat only the solution for the locus of three straight lines survived., Aristaeus is also discussed in J. L. Coolidge, A History of the Conic Sections and Quadric Surfaces (Oxford, 1945, 1947), chs. 1 (para 2), 3, 5; P. ver Eecke, Les coniques d’Apollonius de Perge (Paris, 1932, 1959), pp. x. xvii, 2; and Poppus d’Alexandrie, I (Paris-Bruges, 1933), pp. lxxxix-ci; Euclid Elementa, J. L. Heiberg, ed., V (Leipzig, 1888), 6 f.; T. L. Heath, Apollonius of Perga (Cambridge, 1896), pp. xxxviii, cxxxviii ff.; and A History of Greek Mathematics, I (Oxford, 1921), 143 f., 420; J. L. Heiberg, Apollonii Pergaei quae Graece exstant, I (Leipzig, 1891), 4 ; and Geschichte der Mathematik und Naurwissenschaften im Altetum (Leipzig, 1925, 1960), p. 13; F. Hultsch, trans., Pappi Alexandrini Collection is quae supersunt, II (Berlin, 1877), 634, 636, 672 ff., 1004 ff.; Pauly-Wissowa, Real Encyclopädie, supp. III (1918), 157 f.; E. Sachs, Die fünf platonischen Körper (Berlin, 1917). pp. 107 ff.; G. Sarton, Introduction to the History of Science, I, 125; P. Tannery “Note sur le probléme de Pappus,” in Mémoires scientifiques, 3 (1915), 42–50; V. Viviani, De locis solidis secunda divinatio geometrica in quinque libros injuria temporum amissos Aristaei senioris geometrae (Florence, 1673, 1701); and H. G. Zeuthen, Die Lehre von den Kegelschnitten im Altertum, R. von Fischer-Benzon, ed. (Copenhagen, 1886), repr. with foreword and index by J. E. Hofmann (Hildesheim, 1966), pp. 127 ff., 276, and Geschichte der Mathematik im Altertum und Mittelalter (Copenhagen, 1890), pp. 197 ff., Kurt Vogel, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Aristaeus."
+
+Complete Dictionary of Scientific Biography.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Aristaeus." 
+Complete Dictionary of Scientific Biography.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/aristaeus
+, 
+"Aristaeus." 
+Complete Dictionary of Scientific Biography.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/aristaeus
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, A charlatan who lived in the time of Croesus (sixth century B.C.E.). He claimed that his soul could leave his body whenever he wished and then return to it. Some maintain that it escaped in the sight of his wife and children in the figure of a stag. Johan Weyer stated that it took the shape of a crow., According to Herodotus, in his fourth book, Aristaeus fell dead upon entering a fuller's shop, and the fuller ran to break the news to his parents. When they came to bury him, no corpse could be found. The whole town was astonished. Then some men returning from a voyage assured them that they had met Aristaeus on the way to Crotona and that he appeared to be a species of vampire. Herodotus added that Aristaeus reappeared at the end of seven years, composed a poem, and died again., Leloyer, who regarded Aristaeus as a sorcerer or ecstatic, quoted a certain Apollonius, who said that at the same hour as the vampire disappeared for the second time, he was transported to Sicily, where he became a school master., Aristaeus is again heard of 340 years later in the town of Metapontus, where he caused certain monuments to be raised that were to be seen in the time of Herodotus. So many wonderful happenings inspired the Sicilians with awe, that they raised a temple to him and worshipped him as a demigod., Herodotus. The Histories of Herodotus of Halicarnassus. London: Oxford University Press, 1962., Weyer, Johannes. Witches, Devils, and Doctors in the Renaissance: Johann Weyer, De Praestigiis. Edited by George Mora. Binghamton, N.Y.: Medieval and Renaissance Texts and Studies, 1991., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Aristaeus (ca. sixth century B.C.E.)."
+
+Encyclopedia of Occultism and Parapsychology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+ "Aristaeus (ca. sixth century B.C.E.)." 
+Encyclopedia of Occultism and Parapsychology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aristaeus-ca-sixth-century-bce
+, 
+"Aristaeus (ca. sixth century B.C.E.)." 
+Encyclopedia of Occultism and Parapsychology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aristaeus-ca-sixth-century-bce
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, Aristaeus (ărĬstē´əs), in Greek mythology, son of Apollo and Cyrene, especially honored as the inventor of beekeeping. Aristaeus tried to violate Eurydice, wife of Orpheus. Eurydice was fatally bitten by a snake while fleeing him. As punishment, the nymphs, who had previously been his mentors, caused all his bees to die. However, he sacrificed several cattle in atonement, and from their carcasses new swarms of bees were generated. Learned in the arts of medicine and soothsaying, Aristaeus wandered through many lands teaching his skills and curing the sick. He came to be widely worshiped as a beneficent deity., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Aristaeus."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Aristaeus." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/aristaeus
+, 
+"Aristaeus." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/aristaeus
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

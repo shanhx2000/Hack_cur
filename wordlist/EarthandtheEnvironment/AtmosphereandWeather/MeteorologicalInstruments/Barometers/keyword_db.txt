@@ -1,0 +1,667 @@
+[BAROMETER. The mercury barometer had its origins in the investigations being made in Italy during the early seventeenth century to discover why it was impossible to build a suction pump to raise water higher than about thirty feet (10 m). Once it was found that the height attainable was related to the density of the liquid, the experimenters exchanged their cumbersome metal tubes filled with water for shorter glass tubes with the heaviest fluid available—mercury—which was mined in Tuscany. The results of numerous experiments undertaken in Rome, Florence, and elsewhere were widely circulated and discussed., The first apparatus generally accepted as a barometer was that set up in Florence in 1644 by Evangelista Torricelli (1608–1647), a mathematician and physicist. Torricelli filled a glass tube with mercury, sealed it at one end, and inverted it with its open end in a dish of mercury. The level always fell a short way down the tube, then settled at a height of about thirty inches. He concluded correctly that the mercury column was sustained by the weight of the
+air pressing on the open surface of mercury, and further experiments convinced him that the space above the mercury in the tube was a vacuum. He noted that the level rose and fell with changing temperature, but he was unable to use his apparatus to measure variations in the weight of the atmosphere because he had not foreseen that temperature would affect the level of the mercury., , News of this experiment circulated quickly among European scientists, who hastened to replicate the experiment. Torricelli's conclusions were not universally accepted because some disputed whether the air had weight, while both Aristotle and the Catholic Church denied the possibility of a vacuum. In France, the philosopher René Descartes (1596–1650) seems to have been the first person, probably in 1647, to attach a graduated scale to the tube so that he could record any changes attributable to the weather. At around this time Duke Ferdinand II of Tuscany organized the first short-lived meteorological network among scientists in other Italian cities, gathering observations of pressure, temperature, humidity, wind direction, and state of the sky., Descartes, the Minim friar Marin Mersenne (1588–1648), an important nexus for scientific communications, and physicist Blaise Pascal (1623–1662) also discussed whether the mercury column would be shorter if the experiment was performed at the top of a mountain where, presumably, the atmosphere weighed less. Around 1648 Pascal's brother-in-law Florin Perier (1605–1672) set up a tube at Clermont, where it stood at 26 inches 3½ lines (the French line was one-twelfth of a French inch), and carried another tube to the summit of the Puy de Dôme, where the mercury stood at 23 inches 2 lines., By 1648, the barometer was serving the three purposes that it continued to serve thereafter: as an apparatus for testing the laws of physics, as an instrument for measuring altitude, and as a weather monitor and, later, prognosticator. The words baroscope and barometer, meaning 'instrument for measuring weight', first used by Robert Boyle in the early 1660s, were soon adopted into the Latin, French, German, and Italian languages., , Numerous experiments using variations of Torricelli's apparatus were performed by members of the Accademia del Cimento (The Academy of Trial, or Experiment), a group of Florentine virtuosi active from 1657 to 1667, and published in its Saggi di naturali esperienze fatti nell'Accademia del Cimento (Examples of experiments in natural philosophy made by the academy) in 1667. They sought to discover if the space above the mercury was filled with vapor or air diffused through the glass, and what effect different shaped tubes would have if the dish of mercury, or the entire apparatus, was covered. Many of these experiments were inconclusive, the academicians being unable to interpret their findings. With Otto Guericke's invention of the air pump, the barometer served as a means of measuring the strength of the vacuum created for a whole series of related experiments., By 1650, Pascal had probably devised the siphon barometer, which consisted simply of a sealed tube with its open end curved up at the bottom. In 1663, Robert Hooke, demonstrator to the Royal Society, devised the "wheel" barometer, in which a float on the open surface of mercury in a siphon tube was connected to a cord running over a pulley to a counterweight; a pointer on the pulley axle rotated on a large dial, amplifying the small daily variations in height. Many variations of form, usually to enhance portability or to amplify the scale, were proposed in the following century, often by people with no understanding of the glassblower's abilities or the problems of filling such tubes without admitting some air. Among the more practical forms, some of which still survive, were folded, conical, and angled tubes, and tubes with two liquids. By about 1670, the barometer had found its way into wealthier homes and various types could be bought in London and Paris., In June 1668, Robert Boyle described and illustrated his "portable" siphon, fastened to a board on which a graduated scale was marked, the idea being to send examples to distant places, but he admitted the difficulty of filling such a tube. Credit for the first truly portable barometer is disputed: the barometer maker John Patrick (1654–1730) may have invented the method, and he opposed the patent of 1695 filed by the clockmaker Daniel Quare (1648/9–1724). The tube was sealed into a boxwood cistern with a leather base; a movable plate driven by a screw pressed up on the bag until the mercury filled the tube, after which the instrument could be safely transported. Quare saw this as a means of making domestic barometers in London for sale to provincial customers, but this eminently practical device enabled the subsequent development of mountain and marine barometers., , The first such measurement in England was probably that made in 1653 by Henry Power, a physician of Halifax, Yorkshire, who reported that the mercury reached only 26 inches at the summit of his local hill. Robert Boyle recognized that, as the mercury fell, even when ascending a church steeple, so it would rise if the barometer was taken down into a mine. In 1672, this observation was confirmed by George Sinclair, a Scottish mining surveyor., In the early days, explorers and surveyors carried their glass tube, bowl, leather bag of mercury, and graduated rule, and assembled the barometer for each observation, a practice that extended into the eighteenth century, when French academicians sought to measure altitudes of the high Andean peaks, the highest mountains then known. The mathematical formula for the relationship between the altitude and height of mercury was difficult to establish, and astronomer Edmund Halley's 1685 proposal was only the first step on a complex path., Although the portable domestic barometer became available in the late seventeenth century, the Genevan scientist Jean-André de Luc (1727–1818) was the first to design, around 1750, a robust apparatus consisting of a siphon tube, with thermometers and a plumb-bob, neatly packed in a wooden case. A scale was laid alongside both levels of mercury to measure the distance between that in the tube and that in the open arm. After taking the reading, the tube was tilted until mercury filled it; then, by closing an ivory tap in the siphon and draining off the surplus liquid, the instrument could be carried safely to the next station. The Genevan scientist Horace-Bénédict de Saussure (1740–1799) carried a de Luc barometer to the summit of Mont Blanc, Europe's highest mountain, in 1787., , De Luc's siphons were soon replaced by straight-tube barometers fitted with a leather bag
+and portable screw, the whole being contained in a slender cylindrical case. In the higher mountains so much mercury descended from the tube, raising the level in the cistern, that the scale alongside the tube became inaccurate. Because the level in the cistern was invisible, a float was inserted in the cistern; as its protruding tip rose against a small graduated scale, the true distance between the two levels could be calculated from this reading., In his Discourse Concerning the Origins and Properties of Wind (1671), Ralph Bohun (1639–1716) called for the use of a barometer to predict hurricanes, particularly at sea. On board a moving ship, however, the mercury oscillated in the tube and, on occasion, struck the top of the tube and broke the glass. Numerous ineffective designs were proposed in France and England before the London instrument maker Edward Nairne (1725–1806) produced a tube whose central section was constricted to one-twentieth of an inch in diameter. This kept the mercury steady. The barometer, suspended in gimbals, performed satisfactorily on James Cook's second voyage of 1772–1775 and provided the model for marine barometers thereafter., The height of the mercury column was soon recognized as related to changes in the weather, but the first experimenters were surprised that the mercury fell on rainy days, when they supposed that the water-laden atmosphere was heavier. Soon, however, the correlation between high mercury and fine weather, and between falling or low mercury and rain, encouraged makers to add "Fair," "Changeable," and "Storm" to their scales. Because the mercury expanded and contracted with temperature, small thermometers were put on the frame to correct for this effect., The barograph, or self-recording barometer, made a late appearance on the architect Sir Christopher Wren's somewhat improbable "Weather Clock." Constructed in 1663, it consisted of several instruments, each of which registered by impressions on a paper chart moved by clockwork. Hooke added a barograph prior to 1681; from the description, he appears to have caused the pulley of a wheel barometer to make similar impressions on the chart. In 1765, the clockmaker Alexander Cumming (1733–1814) constructed a large and elegant continuously recording barograph for King George III (ruled 1760–1820); it was a siphon barometer, the float supporting a light frame carrying a pencil that marked a rotating circular chart. Within a few years similar instruments were being made in France., See also Academies, Learned ; Boyle, Robert ; Clocks and Watches ; Descartes, René ; Ferdinand II (Holy Roman Empire) ; Hooke, Robert ; Mersenne, Marin ; Pascal, Blaise ; Physics ; Scientific Instruments ; Technology ; Weather and Climate ; Wren, Christopher ., Archinard, Margarida. De Luc et la recherche barometrique. Geneva, 1980., Golinski, Jan. "Barometers of Change: Meteorological Instruments as Machines of Enlightenment." In The Sciences in Enlightened Europe, edited by William Clark, Jan Golinski, and Simon Schaffer (Chapter 3; pp. 69–93). Chicago, 1999., McConnell, Anita. "Origins of the Marine Barometer." Annals of Science. Forthcoming., Middleton, W. E. Knowles. The Experimenters: A Study of the Accademia del Cimento. Baltimore and London, 1971., ——. The History of the Barometer. Baltimore, 1964; reprint, Trowbridge, U.K., 1994., Anita McConnell, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Barometer."
+
+Europe, 1450 to 1789: Encyclopedia of the Early Modern World.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Barometer." 
+Europe, 1450 to 1789: Encyclopedia of the Early Modern World.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/barometer
+, 
+"Barometer." 
+Europe, 1450 to 1789: Encyclopedia of the Early Modern World.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/barometer
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, A barometer is an instrument for measuring atmospheric pressure. Two kinds of barometers are in common use, a mercury barometer and an aneroid barometer. The first makes use of a long narrow glass tube filled with mercury supported in a container of mercury, and the second makes use of an elastic disk whose size changes as a result of air pressure., The principle of the mercury barometer was discovered by the Italian physicist Evangelista Torricelli in about 1643. That principle can be illustrated as follows: a long glass tube is sealed at one end and then filled with liquid mercury metal. The filled tube is then turned upside down and inserted into a bowl of mercury, called a cistern. When this happens, a small amount of mercury runs out of the tube into the cistern, leaving a vacuum at the top of the tube. Vacuums, by nature, exert very little or no pressure on their surrounding environment., , As atmospheric pressure pushes down on the surface of the mercury in the cistern, that mercury in turn pushes up with an equal pressure on the mercury in the glass tube. The height of the mercury in the tube, therefore, reflects the total pressure exerted by the surrounding atmosphere. Under normal circumstances, the column of mercury in the glass tube stands at a height of about 30 inches (76 centimeters) when measured at sea level., In theory, a barometer could be made of any liquid whatsoever. Mercury is chosen, however, for a number of reasons. It is so dense that the column supported by air pressure is of a usable height. A similar barometer made of water, in comparison, would have to be more than 34 feet (100 meters) high. Mercury also has a low vapor pressure, meaning it does not evaporate very easily. Water has a greater vapor pressure. Because of this, the pressure exerted by water vapor at the top of the barometer would affect the level of the mercury in the tube and the barometric reading, a factor of almost no consequence with a mercury barometer., A major disadvantage of the mercury barometer is its bulkiness and fragility. The long glass tube can break easily, and mercury levels may be difficult to read under unsteady conditions, as on board a ship at sea. To resolve these difficulties, the French physicist Lucien Vidie invented the aneroid ("without liquid") barometer in 1843., An aneroid barometer is a container that holds a sealed chamber from which some air has been removed, creating a partial vacuum. An elastic disk covering the chamber is connected to a needle or pointer on the surface of the container by a chain, lever, and springs. As atmospheric pressure increases or decreases, the elastic disk contracts or expands, causing the pointer to move accordingly., One type of aneroid barometer has a pointer that moves from left to right in a semicircular motion over a dial, reflecting low or high pressure. The simple clocklike aneroid barometer hanging on the wall of many homes operates on this basis. Another type of aneroid barometer has the pointer resting on the side of a rotating cylinder wrapped with graph paper. As the cylinder rotates on its own axis, the pointer makes a tracing on the paper that reflects increases and decreases in pressure. A recording barometer of this design is known as a barograph., Altimeter: An aneroid barometer used to measure altitude., Barograph: An aneroid barometer modified to give a continuous reading of atmospheric pressures on graph paper., Vapor pressure: The amount of pressure exerted by liquid molecules in the vapor state., The altimeter. An important application of the aneroid barometer is the altimeter, an instrument used to measure one's distance above sea level. Atmospheric pressure is a function of altitude. The higher one is above sea level, the less the atmospheric pressure; the closer one is to sea level, the greater the atmospheric pressure. A simple aneroid barometer can be used to confirm these differences. If the barometer were mounted in an airplane, a balloon, or some other device that travels up and down in the atmosphere, one could determine the altitude by noting changes in atmospheric pressure., [See also Atmospheric pressure ], 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Barometer."
+
+UXL Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Barometer." 
+UXL Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/barometer-1
+, 
+"Barometer." 
+UXL Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/barometer-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Aristotle, whose teachings sometimes otherwise inhibited the advancement of science, was right on target in his belief that the atmosphere surrounding the Earth had weight. Moreover, Aristotle stated that as air density decreased, it would be possible for an object to move faster. However, he did not believe in the concept of a vacuum because the absence of an atmosphere meant an object could move infinitely fast, and since infinite speed was not possible, a vacuum that allowed infinite speed was not considered possible either. Galileo disputed some of Aristotle's contentions. In 1638, Galileo published a book in which he asserted a vacuum was possible. But Galileo did not hold that air had a weight that could exert a pressure, even though his own experiments showed clearly that air exerted a force on objects. This was perhaps because he discounted everything Aristotle said, even when he happened to be right. Consequently, the thermometer Galileo invented was inaccurate because it did not take the effect of air pressure into account. Otto von Guericke became interested in air pressure because of Galileo's comments on the subject. In a public demonstration in 1657, Guericke became the first to use an air pump and create a vacuum, thus ending the debate on whether one could exist., In 1643, in Florence, Italy, Evangelista Torricelli furthered Guericke's work. Filling a narrow tube with mercury and upending it in a bowl of mercury, Torricelli found that only a portion of the tube emptied. He correctly surmised that the atmospheric pressure upon the mercury in the bowl kept the tube from draining completely, and the vacant area at the top of the tube was a vacuum. He noticed the height of the column of mercury fluctuated from day to day, indicating that the atmospheric pressure changed. The barometer, a device to measure the pressure of the atmosphere, was born, yet that name wouldn't exist for another 20 years., Mathematician Blaise Pascal duplicated the experiments of Torricelli, and he expanded on them. In 1648, Pascal, who suffered from ill health, had his brother-in-law make measurements of air pressure at various altitudes on a mountain. As expected, the higher the altitude, the less pressure registered on the barometer. Obviously, the weight of the air at the surface of the Earth was greater because it has to support the atmosphere above it. Robert Boyle duplicated Torricelli's experiment as well. In 1660, Boyce placed his mercury-filled tube in a container and removed the surrounding air, creating a vacuum. As the air was removed, the column of mercury dropped. When completely evacuated, the mercury showed zero air pressure in the container. It was Boyle who coined the word "barometer" in 1665., Today, it is known that the weight of Earth's atmosphere is more than five quadrillion tons. The weight of air pressing down on one's shoulders is about one ton, but we aren't flattened because we are supported on all sides by an equal amount of pressure. The normal barometric pressure at sea level, equal to one atmosphere (1 atm) of pressure equals 14.7 psi (pounds per square inch), or 760 mm (29.92 inches) of mercury., See also  Air masses and fronts; Weather forecasting, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Atmospheric Pressure."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Atmospheric Pressure." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/atmospheric-pressure
+, 
+"Atmospheric Pressure." 
+World of Earth Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/atmospheric-pressure
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Copyright The Columbia University Press, barometer (bərŏm´ətər), instrument for measuring atmospheric pressure. It was invented in 1643 by the Italian scientist Evangelista Torricelli, who used a column of water in a tube 34 ft (10.4 m) long. This inconvenient water column was soon replaced by mercury, which is denser than water and requires a tube about 3 ft (0.9 m) long. The mercurial barometer consists of a glass tube, sealed at one end and filled with pure mercury. After being heated to expel the air, it is inverted in a small cup of mercury called the cistern. The mercury in the tube sinks slightly, creating above it a vacuum (the Torricellian vacuum). Atmospheric pressure on the surface of the mercury in the cistern supports the column in the tube, which varies in height with variations in atmospheric pressure and hence with changes in elevation, generally decreasing with increases in height above sea level. Standard sea-level pressure is 14.7 lb per sq in. (1,030 grams per sq cm), which is equivalent to a column of mercury 29.92 in. (760 mm) in height; the decrease with elevation is approximately 1 in. (2.5 cm) for every 900 ft (270 m) of ascent. In weather forecasting, barometric readings are usually measured on electronically controlled instruments often tied to computers. The results are plotted on base maps so that analyses of weather-producing pressure systems can be made. At a given location a storm is generally anticipated when the barometer is falling rapidly; when the barometer is rising, fair weather may usually be expected. The aneroid barometer is a metallic box so made that when the air has been partially removed from the box the surface depresses or expands with variation of air pressure on it; this motion is transmitted by a train of levers to a pointer which shows the pressure on a graduated scale. A barograph is a self-recording aneroid barometer; an altimeter is often an aneroid barometer used to calculate altitude., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"barometer."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"barometer." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/barometer
+, 
+"barometer." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+ https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/barometer
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Earth's atmosphere consists of gases that surround the surface of the planet. Like any gas, which is made up of molecules that are constantly in motion, the atmosphere exerts a force or pressure on everything within it. This force, divided by the area over which it acts, is the atmospheric pressure. The atmospheric pressure at sea level—considered the mean atmospheric pressure—has an average value of 14.7 pounds per square inch or 29.92 inches of mercury (as measured by a barometer). This means that a one-inch-square column of air stretching from sea level to about 120 miles (200 kilometers) into the atmosphere would weigh 14.7 pounds., Atmospheric pressure decreases with increasing altitude. The reason for this change with altitude is that atmospheric pressure at any point is a measure of the weight, per unit area, of the atmosphere above that point. Higher altitudes have a lower atmospheric pressure because there is less atmosphere weighing down from above. At an altitude of about 3.1 miles (5 kilometers), the atmospheric pressure is half of its value at sea level., Atmospheric pressure is closely related to weather. Regions of pressure that are slightly higher or slightly lower than the mean atmospheric pressure develop as air circulates around Earth. The air rushes from regions of high pressure to low pressure, causing winds. The properties of the moving air (cool or warm, dry or humid) will determine the weather for the areas through which it passes. Knowing the location of high and low pressure areas is vital to weather forecasting, which is why they are shown on the weather maps printed in newspapers and shown on television., [See also Atmosphere, composition and structure; Barometer; Weather; Weather forecasting ], 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Atmospheric Pressure."
+
+UXL Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Atmospheric Pressure." 
+UXL Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/atmospheric-pressure-2
+, 
+"Atmospheric Pressure." 
+UXL Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/atmospheric-pressure-2
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"barometer."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"barometer." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/barometer
+, 
+"barometer." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/barometer
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"atmospheric pressure."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"atmospheric pressure." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/atmospheric-pressure-0
+, 
+"atmospheric pressure." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/atmospheric-pressure-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"atmospheric pressure."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"atmospheric pressure." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/atmospheric-pressure
+, 
+"atmospheric pressure." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/atmospheric-pressure
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"mercury."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"mercury." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/mercury-1
+, 
+"mercury." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/mercury-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Mercury."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Mercury." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/mercury-0
+, 
+"Mercury." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/mercury-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"barometer."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"barometer." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/barometer-0
+, 
+
+"barometer." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/barometer-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"barometer."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"barometer." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/barometer
+, 
+"barometer." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/barometer
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+ba·rom·e·ter 
+/ bəˈrämitər/
+•
+n.
+an instrument measuring atmospheric pressure, used esp. in forecasting the weather and determining altitude.
+ ∎ 
+something that reflects changes in circumstances or opinions:
+furniture is a barometer of changing tastes.
+
+
+DERIVATIVES: 
+bar·o·met·ric
+/ ˌbarəˈmetrik/ adj.
+bar·o·met·ri·cal
+adj.
+ba·rom·e·try
+/ -ˈrämitrē/ n.
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"barometer."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"barometer." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/barometer-0
+, 
+"barometer." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/barometer-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"atmospheric pressure."
+
+World Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"atmospheric pressure." 
+World Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/atmospheric-pressure
+, 
+"atmospheric pressure." 
+World Encyclopedia.
+. Retrieved
+July 13, 2019
+ from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/atmospheric-pressure
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"barometer."
+
+The Concise Oxford Dictionary of English Etymology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"barometer." 
+The Concise Oxford Dictionary of English Etymology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/barometer-1
+, 
+"barometer." 
+The Concise Oxford Dictionary of English Etymology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/barometer-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"barometer."
+
+Oxford Dictionary of Rhymes.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+
+"barometer." 
+Oxford Dictionary of Rhymes.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/barometer
+, 
+"barometer." 
+Oxford Dictionary of Rhymes.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/barometer
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The Earth’s atmosphere exerts a force on everything within it. This force, divided by the area over which it acts, is the atmospheric pressure. The atmospheric pressure at sea level has an average value of 1,013.25 millibars. Expressed with other units, this pressure is 14.7 lb per square inch, 29.92 inches of mercury, or 1.01× 105 pascals. Atmospheric pressure decreases with increasing altitude: it is half of the sea level value at an altitude of about 3.1 mi (5 km) and falls to only 20% of the surface pressure at the cruising altitude of a jetliner. Atmospheric pressure also changes slightly from day to day as weather systems move through the atmosphere., The Earth’s atmosphere consists of gases that surround the surface. A gas is made up of molecules that are constantly in motion. If the gas is in a container, some gas molecules are always bouncing off the container walls. When they do so, they exert a tiny force on the walls. With a sufficient number of molecules, their impacts add up to make a force that can easily be measured. Dividing the total force by the area over which it is measured gives the gas pressure. Anything else the gas touches will also have this pressure exerted on it. Thus, anywhere we go within Earth’s atmosphere we can detect atmospheric pressure., Atmospheric pressure decreases as one climbs higher in the atmosphere; it increases the closer one gets to Earth’s surface. The reason for this change with altitude is that atmospheric pressure at any point is really a measure of the weight, per unit area, of the atmosphere above that point. At sea level, for example, the pressure is 14.7 pounds per square inch. This means that a slice of the atmosphere in the shape of a long, thin column as tall as the top of the atmosphere (at least 120 mi or 200 km), with a one square inch base, would have air within the column weighing 14.7 lb (6.7 kg). At a higher elevation, such as the top of a 10,000 ft (3,048 m) mountain, one is above some of the atmosphere. Here the atmospheric pressure is lower than at sea level, because there is less air weighing down from above. As the distance from the surface of the Earth increases, atmospheric pressure progressively lessens until, at the outer limit of the planets’ atmosphere, pressure becomes virtually zero., In contrast, a person feels this sort of pressure effect when diving to the bottom of a lake or deep swimming pool. As the diver descends deeper into the water, more and more water lies overhead. The extra water exerts an increasing pressure that the diver can feel on the skin (and especially on the eardrums)., Atmospheric pressure is closely related to weather. Regions of pressure that are slightly higher or slightly lower than the mean atmospheric pressure develop as air circulates around Earth. The air rushes from regions of high pressure to low pressure, causing winds. The properties of the moving air (cool or warm, dry or humid) will determine the weather for the areas through which it passes. Knowing the location of high and low pressure areas is vital to weather forecasting, which is why they are shown on the weather maps printed in newspapers and shown on television., Atmospheric pressure is measured by a barometer, of which there are several designs. The first barometer was made by Evangelista Torricelli (1608–1647) in 1643; she used a column partially filled with mercury and closed at one end. The column was placed vertically in a small pool of mercury with the open end downward. In this arrangement, the mercury does not run out the open end. Rather, it stays at a height such that the pressure exerted by the suspended mercury upon the pool will equal the atmospheric pressure on the pool. The mercury barometer is still in common use today (this is the reason pressure is still given the units “inches of mercury” on weather reports). Modern barometers include the aneroid barometer, which substitutes a sealed container of air for the mercury column, and the electronic capacitance manometer, which senses pressure electronically., James Marti, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Atmospheric pressure."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Atmospheric pressure." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/atmospheric-pressure-0
+, 
+"Atmospheric pressure." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/atmospheric-pressure-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The earth's atmosphere exerts a force on everything within it. This force, divided by the area over which it acts, is the atmospheric pressure . The atmospheric pressure at sea level has an average value of 1,013.25 millibars. Expressed with other units, this pressure is 14.7 lb per square inch, 29.92 inches of mercury, or 1.01 × 105 pascals. Atmospheric pressure decreases with increasing altitude: it is half of the sea level value at an altitude of about 3.1 mi (5 km) and falls to only 20% of the surface pressure at the cruising altitude of a jetliner. Atmospheric pressure also changes slightly from day to day as weather systems move through the atmosphere., The earth's atmosphere consists of gases that surround the surface, and like any gas, the atmosphere exerts a pressure on everything within it. A gas is made up of molecules that are constantly in motion . If the gas is in a container, some gas molecules are always bouncing off the container walls. When they do so, they exert a tiny force on the walls. With a sufficient number of molecules, their impacts add up to make a force that can easily be measured. Dividing the total force by the area over which it is measured gives the gas pressure. Anything else the gas touches will also have this pressure exerted on it. Thus anywhere we go within the earth's atmosphere we can detect atmospheric pressure., Atmospheric pressure decreases as one climbs higher in the atmosphere, and increases the closer one gets to the earth's surface. The reason for this change with altitude is that atmospheric pressure at any point is really a measure of the weight, per unit area, of the atmosphere above that point. At sea level, for example, the pressure is 14.7 pounds per square inch. This means that a slice of the atmosphere in the shape of a long, thin column, with a one square inch base and as tall as the top of the atmosphere (at least 120 mi or 200 km), would have air within the column weighing 14.7 lb (6.7 kg). At a higher elevation, such as the top of a 10,000 ft (3,048 m) mountain, one is above some of the atmosphere. Here the atmospheric pressure is lower than at sea level, because there is less air weighing down from above. A person feels this sort of pressure effect when they dive to the bottom of a lake or deep swimming pool. As the diver descends deeper into the water , more and more water lies overhead. The extra water exerts an increasing pressure that the diver can feel on his or her skin (and especially on the eardrums)., Atmospheric pressure is closely related to weather. Regions of pressure that are slightly higher or slightly lower than the mean atmospheric pressure develop as air circulates around the earth . The air rushes from regions of high pressure to low pressure, causing winds. The properties of the moving air (cool or warm, dry or humid) will determine the weather for the areas through which it passes. Knowing the location of high and low pressure areas is vital to weather forecasting , which is why they are shown on the weather maps printed in newspapers and shown on television ., Atmospheric pressure is measured by a barometer , of which there are several designs. The first barometer was made by Evangelista Torricelli in 1643, using a column closed at one end and partially filled with mercury. The column was placed vertically in a small pool of mercury with the open end downward. In this arrangement, the mercury does not run out the open end. Rather, it stays at a height such that the pressure exerted by the suspended mercury upon the pool will equal the atmospheric pressure on the pool. The mercury barometer is still in common use today (this is the reason pressure is still given the units "inches of mercury" on weather reports). Modern barometers include the aneroid barometer, which substitutes a sealed container of air for the mercury column, and the electronic capacitance manometer, which senses pressure electronically., James Marti, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Atmospheric Pressure."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Atmospheric Pressure." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/atmospheric-pressure-1
+, 
+"Atmospheric Pressure." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/atmospheric-pressure-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Mercury barometers, Aneroid barometer, The altimeter, The Weather, Resources, A barometer is an instrument for measuring atmospheric pressure. Two kinds of barometers are in common use, a mercury barometer and an aneroid barometer. The first one makes use of a long narrow glass tube filled with mercury supported in a container of mercury, and the second one makes use of a diaphragm whose size changes as a result of air pressure., The principle of the mercury barometer was discovered by Italian physicist Evangelista Torricelli (1608–1647) in about 1643. The principle can be illustrated in the following manner. A long glass tube is sealed at one end and then filled with liquid mercury metal. The filled tube is then inverted and its open end inserted into a bowl of mercury. When this happens, a small amount of mercury metal runs out of the tube, leaving a vacuum at the top of the tube., , Under normal circumstances, the column of mercury in the glass tube stands at a height of about 30 in (76 cm). The column is sustained because air pressure pushes down on the surface of the mercury in the bowl at the bottom of the barometer. At the same time, the vacuum at the top of the glass tube exerts essentially no pressure on the column of mercury. The height of the mercury column in the glass tube, then, reflects the total pressure exerted by the atmosphere at the moment of measurement., In theory, a barometer could be made of any liquid whatsoever. Mercury is chosen, however, for a number of reasons. In the first place, it is so dense that the column sustained by air pressure is of practicable height. A similar barometer made of water, in comparison, would have to be more than 34 ft (100 m) high. In addition, mercury has a low vapor pressure and does not, therefore, evaporate easily. In a water barometer, the situation would be very different. Water has a much greater vapor pressure, and one would have to take into consideration the pressure exerted by water vapor at the top of the barometer, a factor of almost no consequence with a mercury barometer., Two important additions needed to increase the accuracy of a barometer are a vernier scale and a thermometer. The vernier allows one to make an even more accurate measurement than is possible by reading the scale itself. The thermometer is needed because the density of mercury and other materials used in the construction of a barometer change with temperature. Most barometers come equipped with thermometers attached to them, therefore, along with conversion charts that permit one to correct barometer readings for a range of actual temperatures., , The barometer described above is adequate for making rough measurements of atmospheric pressure. When more accurate readings are needed, however, modifications in the basic design of the barometer must be made. The most important factor to be considered in making such modifications is changes that take place in the mercury reservoir at the bottom of the barometer as a result of changes in atmospheric pressure., When the atmospheric pressure decreases, for example, air pressure is able to sustain a slightly smaller column of mercury, and some mercury flows out of the glass tube into the reservoir. One might hope to find the new pressure by reading the new level of the mercury in the glass tube. However, the level of the mercury in the glass tube must be compared to the level of the mercury in the reservoir, and the latter has changed also as a result of a new atmospheric pressure., This problem is dealt with in one of two ways. In one instrument, the English Kew barometer, no modification is made in the mercury reservoir itself. Instead, changes that take place in the mercury level within the reservoir, due to changes in atmospheric pressures, are compensated by making small changes in the measuring scale mounted to the glass tube. As one moves upward along the scale, the graduations between markings become slightly smaller to correct for the changing level of the mercury in the reservoir., , A second type of barometer, the Fortin barometer, contains a flexible bag that holds an extra supply of mercury metal. The flow of mercury into and out of that bag and then out of and into the glass tube is controlled by an adjustable screw whose point is moved so as just to touch the surface of the mercury in the reservoir. As atmospheric pressure and mercury levels change, modifications of the adjustable screw keep the mercury level at a constant height., A major disadvantage of the mercury barometer is its bulkiness and fragility. The long glass tube can break easily, and mercury levels may be difficult to read under unsteady conditions, as on board a ship at sea. To resolve these difficulties, French physicist Lucien Vidie (1805–1866) invented the aneroid (without liquid) barometer in 1843., An aneroid barometer can be compared to a coffee can whose sides are flexible, like the bellows on an accordion. Attached to one end of the coffee can (aneroid barometer) is a pointer. As atmospheric pressure increases or decreases, the barometer contracts or expands. The movement of the barometer is reflected in the motion of the pointer, which rides up and down with changes in atmospheric pressure., One way to observe the motion of the pointer is to attach it to the hand on a dial that moves around a circular scale, from low pressure to high pressure. The simple clock-like aneroid barometer hanging on the wall of many homes operates on this basis. Another way to observe the movement of the pointer is to have it rest on the side of a rotating cylinder wrapped with graph paper. As the cylinder rotates on its own axis, the pen makes a tracing on the paper that reflects increases and decreases in pressure. A recording barometer of this design is known as a barograph., Altimeter— An aneroid barometer used to measure altitude., Barograph— An aneroid barometer modified to give a continuous reading of atmospheric pressures on graph paper., English Kew barometer— A mercury barometer with a contracting measuring scale and a constant reservoir of mercury., Fortin barometer— A mercury barometer with a fixed measuring scale and an adjustable reservoir of mercury., Vapor pressure— The amount of pressure exerted by liquid molecules in the vapor state., Vernier scale— A movable scale for measuring a fractional part of one division on a fixed scale., , An important application of the aneroid barometer is the altimeter, an instrument used to measure one’s distance above sea level. Atmospheric pressure is a function of altitude. The farther one is above sea level, the less the atmospheric pressure, and the closer one is to sea level, the greater the atmospheric pressure. A simple aneroid barometer can be used to confirm these differences. If the barometer is now mounted in an airplane, a balloon, or some other device that travels up and down in the atmosphere, one’s height above the ground (or above sea level) can be found by noting changes in atmospheric pressure., In order to accurately predict the weather for any particular location the use of barometers are used continuously at several observation points. This barometric system is used to secure data of the motions, sizes, and shapes of air masses as they travel across land masses and bodies of water. Consequently, barometers are essential to meteorology, the study of Earth’s atmosphere and, especially, its weather., Banfield, Edwin. Barometers: Aneroid and Barographs. Trowbridge, Wiltshire, England: Baros Books, 1985., Brombacher, W. G. Mercury Barometers and Manometers. Washington, DC: U.S. Department of Commerce, National Bureau of Standards, 1960., The Illustrated Science and Invention Encyclopedia. Westport, CT: H. S. Stuttman, 1982, vol. 2: 238-40., Middleton, W. E. Knowles. The History of the Barometer. Baltimore: Johns Hopkins Press, 1964., Caristi, Anthony J. “Build a Portable Barometer.” Popular Electronics (January 1994):31-6., Walker, Jearl. “Making a Barometer that Works with Water in Place of Mercury,” Scientific American. (April 1987):122-27., David E. Newton, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Barometer."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Barometer." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/barometer
+, 
+"Barometer." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/barometer
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, A barometer is an instrument for measuring atmospheric pressure . Two kinds of barometers are in common use, a mercury barometer and an aneroid barometer. The first makes use of a long narrow glass tube filled with mercury supported in a container of mercury, and the second makes use of a diaphragm whose size changes as a result of air pressure ., The principle of the mercury barometer was discovered by the Italian physicist Evangelista Torricelli in about 1643. That principle can be illustrated in the following manner. A long glass tube is sealed at one end and then filled with liquid mercury metal . The filled tube is then inverted and its open end inserted into a bowl of mercury. When this happens, a small amount of mercury metal runs out of the tube, leaving a vacuum at the top of the tube., , Under normal circumstances, the column of mercury in the glass tube stands at a height of about 30 in (76 cm). The column is sustained because air pressure pushes down on the surface of the mercury in the bowl at the bottom of the barometer. At the same time, the vacuum at the top of the glass tube exerts essentially no pressure on the column of mercury. The height of the mercury column in the glass tube, then, reflects the total pressure exerted by the atmosphere at the moment of measurement., In theory, a barometer could be made of any liquid whatsoever. Mercury is chosen, however, for a number of reasons. In the first place, it is so dense that the column sustained by air pressure is of practicable height. A similar barometer made of water , in comparison, would have to be more than 34 ft (100 m) high. Also, mercury has a low vapor pressure and does not, therefore, evaporate easily. In a water barometer, the situation would be very different. Water has a much greater vapor pressure, and one would have to take into consideration the pressure exerted by water vapor at the top of the barometer, a factor of almost no consequence with a mercury barometer., Two important additions needed to increase the accuracy of a barometer are a vernier scale and a thermometer . The vernier allows one to make an even more accurate measurement than is possible by reading the scale itself. The thermometer is needed because the density of mercury and other materials used in the construction of a barometer change with temperature . Most barometers come equipped with thermometers attached to them, therefore, along with conversion charts that permit one to correct barometer readings for a range of actual temperatures., , The barometer described above is adequate for making rough measurements of atmospheric pressure. When more accurate readings are needed, however, modifications in the basic design of the barometer must be made. The most important factor to be considered in making such modifications is changes that take place in the mercury reservoir at the bottom of the barometer as a result of changes in atmospheric pressure., When the atmospheric pressure decreases, for example, air pressure is able to sustain a slightly smaller column of mercury, and some mercury flows out of the glass tube into the reservoir. One might hope to find the
+
+new pressure by reading the new level of the mercury in the glass tube. However, the level of the mercury in the glass tube must be compared to the level of the mercury in the reservoir, and the latter has changed also as a result of a new atmospheric pressure., This problem is dealt with in one of two ways. In one instrument, the English Kew barometer, no modification is made in the mercury reservoir itself. Instead, changes that take place in the mercury level in the reservoir as a result of changes in atmospheric pressures are compensated for by making small changes in the measuring scale mounted to the glass tube. As one moves upward along the scale, the graduations between markings become slightly smaller to correct for the changing level of the mercury in the reservoir., , A second type of barometer, the Fortin barometer, contains a flexible bag that holds an extra supply of mercury metal. The flow of mercury into and out of that bag and then out of and into the glass tube is controlled by an adjustable screw whose point is moved so as just to touch the surface of the mercury in the reservoir. As atmospheric pressure and mercury levels change, modifications of the adjustable screw keep the mercury level at a constant height., A major disadvantage of the mercury barometer is its bulkiness and fragility. The long glass tube can break easily, and mercury levels may be difficult to read under unsteady conditions, as on board a ship at sea. To resolve these difficulties, the French physicist Lucien Vidie invented the aneroid ("without liquid") barometer in 1843., An aneroid barometer can be compared to a coffee can whose sides are flexible, like the bellows on an accordion. Attached to one end of the coffee can (aneroid barometer) is a pointer. As atmospheric pressure increases or decreases, the barometer contracts or expands. The movement of the barometer is reflected in the motion of the pointer, which rides up and down with changes in atmospheric pressure., One way to observe the motion of the pointer is to attach it to the hand on a dial that moves around a circular scale, from low pressure to high pressure. The simple clock-like aneroid barometer hanging on the wall of many homes operates on this basis. Another way to observe the movement of the pointer is to have it rest on the side of a rotating cylinder wrapped with graph paper . As the cylinder rotates on its own axis, the pen makes a tracing on the paper that reflects increases and decreases in pressure. A recording barometer of this design is known as a barograph., , An important application of the aneroid barometer is the altimeter, an instrument used to measure one's distance above sea level . Atmospheric pressure is a function of altitude. The farther one is above sea level, the less the atmospheric pressure, and the closer one is to sea level, the greater the atmospheric pressure. A simple aneroid barometer can be used to confirm these differences. If the barometer is now mounted in an airplane, a balloon , or some other device that travels up and down in the atmosphere, one's height above the ground (or above sea level) can be found by noting changes in atmospheric pressure., Banfield, Edwin. Barometers: Aneroid and Barographs. Trowbridge, Wiltshire, England: Baros Books, 1985., Brombacher, W. G. Mercury Barometers and Manometers. Washington, DC: U.S. Department of Commerce, National Bureau of Standards, 1960., The Illustrated Science and Invention Encyclopedia. Westport, CT: H. S. Stuttman, 1982, vol. 2: 238-40., Middleton, W. E. Knowles. The History of the Barometer. Baltimore: Johns Hopkins Press, 1964., Caristi, Anthony J. "Build a Portable Barometer." Popular Electronics (January 1994):31-6., Walker, Jearl. "Making a Barometer that Works with Water in Place of Mercury," Scientific American. (April 1987):122-27., David E. Newton, —An aneroid barometer used to measure altitude., —An aneroid barometer modified to give a continuous reading of atmospheric pressures on graph paper., —A mercury barometer with a contracting measuring scale and a constant reservoir of mercury., —A mercury barometer with a fixed measuring scale and an adjustable reservoir of mercury., —The amount of pressure exerted by liquid molecules in the vapor state., —A movable scale for measuring a fractional part of one division on a fixed scale., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Barometer."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Barometer." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/barometer-0
+, 
+"Barometer." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/barometer-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

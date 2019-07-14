@@ -1,0 +1,99 @@
+[A tornado is a rapidly spinning column of air formed in severe thunderstorms. The rotating column, or vortex, forms inside the storm cloud and grows downward until it touches the ground. Although a tornado is not as large as its parent thunderstorm, it is capable of extreme damage because it packs very high wind speeds into a compact area . Tornadoes have been known to shatter buildings, drive straws through solid wood, lift locomotives from their tracks, and pull the water out of small streams. Due to a combination of geography and meteorology , the United States experiences most of the world's tornadoes. An average of 800 tornadoes strike the United States each year. Based on statistics kept since 1953, Texas, Oklahoma, and Kansas are the top three tornado states. Tornadoes are responsible for about 80 deaths, 1500 injuries, and many millions of dollars in property damage annually. While it is still impossible to predict exactly when and where tornadoes will strike, progress has been made in predicting tornado development and detecting tornadoes with Doppler radar., Most tornadoes form in the Northern Hemisphere during the months of March through June. These are months when conditions are right for the development of severe thunderstorms. To understand why tornadoes form, consider the formation and growth of a thunderstorm. Thunderstorms are most likely to develop when the atmosphere is unstable, that is, when atmospheric temperature drops rapidly with height. Under unstable conditions, air near the surface that begins rising will expand and cool, but remains warmer (and less dense) than its surroundings. The rising air acts like a hot air balloon; because it is less dense than the surrounding air, it continues to rise. At some point, the rising air cools to the dew point where the water vapor in the air condenses to form liquid water droplets. The rising column of air is now a visible cloud. If the rising air, or updraft, is sustained long enough, water droplets will begin to fall out of the rising air column, making it a rain cloud., , This cloud will become a severe storm capable of producing tornadoes only under certain circumstances. Severe storms are often associated with a very unstable atmosphere and moving low-pressure systems that bring cold air into contact with warmer, more humid air masses. Such weather situations commonly occur in the eastern and Midwestern United States during the spring and summer months. Large-scale weather systems often sweep moist warm air from the Gulf of Mexico over these regions in a layer 1.2–1.9 mi (2–3 km) deep. At the same time, winds aloft (above about 2.5 mi [4 km] in altitude) from the southwest bring cool dry air over the region. Cool air overlying humid air creates very unstable atmospheric conditions and sets the stage for the growth of strong thunderstorms., The warm surface air is separated from colder air lying farther north by a fairly sharp temperature boundary called a front. A low-pressure center near Earth's surface causes the cold air to advance into the warmer air. The edge of the advancing cold air, called a cold front, forces the warmer air ahead of the front to rise and cool. Because the atmosphere is unstable, the displaced air keeps rising and a cloud quickly forms. Rain that begins to fall from the cloud causes downdrafts (sinking air) in the rear of the cloud. Meanwhile the advancing edge of the storm has strong updrafts and humid air is pulled into the storm. The water vapor in this air condenses to form more water droplets as it rises and cools. When water vapor condenses, it releases latent heat. This warms the air and forces it to rise more vigorously, strengthening the storm., The exact mechanism of tornado formation inside severe thunderstorms is still a matter of dispute, but it appears that tornadoes grow in a similar fashion to the small vortices that form in draining bathtubs. Tornadoes appear to be upside down versions of this phenomenon. As updrafts in a severe thunderstorm cloud get stronger, more air is pulled into the base of the cloud to replace the rising air. Some of this air may be rotating slightly since the air around the base of a thunderstorm usually contains some rotation , or vorticity. As the air converges into a smaller area, it begins to rotate faster due to a law of physics known as the conservation of angular momentum. This effect can be seen when an ice skater begins spinning with arms outstretched. As the skater brings his or her arms inward, his or her rotational speed increases. In the same way, air moving into a severe storm begins to move in a tighter column and increases its rotational speed. A wide vortex is created, called the mesocyclone. The mesocyclone begins to build vertically, extending itself upward throughout the entire height of the cloud. The rapid air movement causes the surrounding air pressure to drop, pulling more air into the growing vortex. The lowered pressure causes the incoming air to cool quickly and form cloud droplets before they rise to the cloud base. This forms the wall cloud, a curtain-shaped cloud that is often seen before a tornado forms. The mesocyclone continues to contract while growing from the base of the storm cloud all the way up to 6.2 mi (10 km) above the surface. When the mesocyclone dips below the wall cloud, it is called a funnel cloud because of its distinctive funnel shape. This storm is on its way to producing a tornado., , A funnel cloud may form in a severe storm and never reach the ground. If and when it does, the funnel officially becomes a tornado. The central vortex of a tornado is typically about 328.1 ft (100 m) in diameter. Wind speeds in the vortex have been measured at greater than 220 mph (138 km/h). These high winds make incredible feats of destruction possible. They also cause the air pressure in the tornado to drop below normal atmospheric pressure by over 100 millibars (the normal day-to-day pressure variations we experience are about 15 millibars). The air around the vortex is pulled into this low-pressure zone where it expands and cools rapidly., This causes water droplets to condense from the air, making the outlines of the vortex visible as the characteristic funnel-shaped cloud. The low pressure inside the vortex picks up debris such as soil particles, which may give the tornado an ominous dark color. The damage path of a tornado may range from 900 ft (275 m) to over 0.5 mi (1 km) wide., Tornadoes move with the thunderstorm that they are attached to, traveling at average speeds of about 10–30 mph (15–45 kph), although some tornadoes have been seen to stand still, while other tornadoes have been clocked at 60 mph (90 kph). Because a typical tornado has a lifetime of about 5–10 minutes, it may stay on the ground for 5–10 miles. Occasionally, a severe tornado may cut a path of destruction over 200 mi (320 km) long. Witnesses to an approaching tornado often describe a loud roaring noise made by the storm similar to jet engines at takeoff., The destructive path of tornadoes appears random. One house may be flattened while its neighbor remains untouched. This has been explained by the tornado skipping or lifting up off the surface briefly and then descending again to resume its destructive path. Studies made of these destructive paths after the storm suggest another possible explanation; some tornadoes may have two to three smaller tornado-like vortices circling around the main vortex. According to this theory, these suction vortices may be responsible for much of the actual damage associated with tornadoes. As they rotate around the main tornado core, they may hit or miss objects directly in the tornado's path depending on their position. The tornado's skipping behavior is still not completely understood., , When houses or other structures are destroyed by a tornado, they are not simply blown down by the high winds; they appear to explode. High wind passing over a house roof acts like the air moving over an airplane wing: it gives the roof an upward force or lift, which tends to raise the roof vertically off the house. Winds also enter the building through broken windows or doors pressurizing the house as one would blow up a balloon. The combination of these forces tends to blow the walls and roof off the structure from the inside out, giving the appearance of an explosion., Tornado strength is classified by the Fujita scale, which uses a scale of one to six to denote tornado wind speed. Since direct measurements of the vortex are not possible, the observed destruction of the storm is used to estimate its "F scale" rating., The single most violent tornado in United States history was the Tri-State tornado on March 18, 1925. Beginning in Missouri, the tornado stayed on the ground for over 220 mi (350 km), crossing Illinois, moving into Indiana, and leaving a trail of damage over 1 mi (1.6 km) wide in places. Tornado damage often is limited since they usually strike unpopulated areas, but the Tri-State tornado plowed through nine towns and destroyed thousands of homes. When the storm was over, 689 people had lost their lives and over 2,000 were injured, making the Tri-State the deadliest tornado on record., On May 3, 1999, a storm started in southwestern Oklahoma, near the town of Lawton. By late in the day, it had grown into a violent storm system with 76 reported tornadoes. As the storm system tore across central Oklahoma and into Kansas, over 43 people were killed, over 500 injured and more than 1,500 buildings were destroyed. One of the tornadoes, classed as a F-5, was as much as a mile wide at times and stayed on the ground for over four hours., The precise tracking and prediction of tornadoes is not yet a reality. Meteorologists can identify conditions that are likely to lead to severe storms. They can issue warnings when atmospheric conditions are right for the development of tornadoes. They can use radar to track the path of thunderstorms that might produce tornadoes. It is still not possible, however, to detect a funnel cloud by radar and predict its path, touchdown point, and other important details. Much progress has recently been made in the detection of tornadoes using Doppler radar., Doppler radar can measure not just the distance to an object, but also its velocity by using the Doppler effect: if an object is moving toward an observer, radar waves bounced off the object will have a higher frequency than if the object were moving away. This effect can be demonstrated with sound waves. If a car is approaching with its horn sounding, the pitch of the horn (that is, the frequency of the sound waves) seems to rise. It reaches a peak just as the car passes, then falls as the car speeds away from the listener., Doppler radar is used to detect the motion of raindrops and hail in a thunderstorm, which gives an indication of the motion of the winds. With present technology, it is possible to detect the overall storm circulation and even a developing mesocyclone. The relatively small size of most tornadoes makes direct detection difficult with the current generation of Doppler radar. In addition, any radar is limited by the curvature of Earth. Radar waves go in straight lines, which means distant storms that are below the horizon from the radar cannot be probed with this technique., See also  Atmospheric pressure; Clouds and cloud types; Weather forecasting; Weather forecasting methods; Weather radar; Weather satellite, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Tornado."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Tornado." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/tornado
+, 
+"Tornado." 
+World of Earth Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/tornado
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Radio Detection And Ranging systems, known as radar, were developed in Britain in the 1930s as a defense against German bombing raids. While their military use flourished during World War II, radar was not used commercially until the 1950s. Today, radar has become commonplace. Flight crews routinely use radar-tracking features to navigate aircraft to their destinations safely. Radar is also commonly used by meteorologists to track weather patterns. For most television viewers of the weather forecast, the image of a green, circular radar screen—complete with a sweeping arm of light—is a familiar one. Using a high-intensity microwave transmission, meteorologists can detect and follow large masses of precipitation , whether they occur as rain, snow, or clouds ., A weather radar projection begins with a pulsed microwave beam that travels until it hits an obstacle (for meteorological purposes, a cloud or band of precipitation). It is then reflected back to the source, where it is received by a radar antenna. By measuring the time taken for the signal to reach the obstacle and return, its distance can be easily calculated. With thousands of pulses emitting and returning, a two-dimensional image of the weather formation is displayed on a cathode-ray tube, showing its precise position. A more elaborate version of radar tracking, called Doppler radar, uses a continuous signal rather than a pulsed wave. Doppler radar can determine both the direction and velocity of wind patterns, as well as areas of precipitation. Doppler radar measures the shift in frequency caused by a moving particle. If the returning frequency is higher than when transmitted, the particle is moving toward the source; if it is lower, the particle is moving away. However, the system only works when a particle is approaching or receding from the transmitter; Doppler radar cannot detect the velocity of a particle moving perpendicular to the radar signal. For this reason, signals from more than one radar source must be combined to produce an image free of gaps., Unlike standard radar, a Doppler system can reliably detect the presence of funnel clouds and tornadoes, and is now used quite commonly by weather forecasters, as well as radio and television stations, to monitor thunderstorms for the presence of strong winds and tornadoes. Doppler radar can provide potentially life-saving readings at a relatively small cost increase over standard radar., See also  Air masses and fronts; Weather forecasting methods; Weather satellite, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Weather Radar."
+
+World of Earth Science.
+.
+Encyclopedia.com.
+ 13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Weather Radar." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/weather-radar
+, 
+"Weather Radar." 
+World of Earth Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/weather-radar
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Next Generation Weather Radar."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Next Generation Weather Radar." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+ https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/next-generation-weather-radar
+, 
+"Next Generation Weather Radar." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/next-generation-weather-radar
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

@@ -1,0 +1,653 @@
+[Why do different species occur in the places they do? Biogeography is the study of why animal species (and also plants) live in different regions on Earth. This includes both organisms alive today as well as those that have become extinct. Any particular animal species is found where it is because that species either evolved and originated there or came there from some other place. The two divisions of biogeography reflect these two ways that animals come to occupy an area. Biogeography can be broken down into historical biogeography, which studies the past history and evolution of a species, and ecological biogeography, which studies the environment of a species., Ecological biogeography studies how animal species are distributed in relation to the environment. The environment that influences what animals are present in a region includes both nonliving, abiotic factors (such as climate or soil composition) as well as living, biotic factors (such as other plants and animals). Earth is divided into major ecological areas called biomes . Biomes are regions of distinct climate and plant life. There are several kinds of biomes. Examples include the dry, hot desert in which cactuses and other plants are adapted to low water conditions, and the tropical evergreen forest with heavy year-round rainfall and lush plant life., , Dispersal occurs when an animal moves away from the area in which it was born and lives in another area. Dispersal increases the biogeographic range of a species, spreading the population. However, the extent to which an animal can disperse may be limited by ecological factors. Animals that disperse into areas for which they are not adapted will not survive. For example, alligators cannot disperse into central North America because it is too cold during the winter. These ecological limits to dispersal help determine the range of an animal species., Historical biogeography is the study of how animals that are present in a geographical region today relate to the animals that lived there in the past. A major factor explaining why a species is present in a region today is the presence of the same species in the past, or the presence of a closely related species that once lived there and from which the current species has descended. That is to say, a species is located somewhere because it was there in the past, or because an ancestor of the species lived there., Continental drift is a major factor in determining current species distributions. All the continents on Earth were once part of one single land mass called Pangaea. About 200 million years ago, this landmass began to drift apart to form the continents of today. There are correspondingly six major biogeographic regions. They are the Neararctic, covering North America; the Neotropical, covering South America; the Ethiopian, covering Africa; the Oriental, covering India and southeastern Asia; the Palearctic, covering Europe and northern Asia; and the Australian, covering Australia., , Each of these regions has a group of animals that are more closely related to each other than to animals in other biogeographic regions. This is
+because of local diversification by speciation (the forming of new species) and the radiation (spread) of species within a biogeographical region; animals in a region are descendants from the ancestors that were previously there. The same is true for plants. Many animal species that are closely related stay in the same biogeographical region because it is hard to disperse or move between these regions. These regions are isolated from one another by an ocean or a very large mountain range, or are connected by only a narrow landmass (an isthmus ). This isolation serves as a barrier to dispersal; most animals simply can not swim across the ocean to colonize another continent. Likewise, most animals that live in the Pacific Ocean cannot cross the land bridge that joins North and South America to reach the Atlantic Ocean, and vice versa., Sometimes a population of animals is split into two populations by the sudden appearance of a physical barrier across which no individual can disperse; this is called a vicariant event. These two populations can become separate species over time because of isolation. An example of a natural vicariant event is an earthquake making a new canyon that is too wide for mice on either side to disperse across. Humans create obstacles that can also cause vicariance, such as highways that would stop mice from dispersing., Humans can help promote dispersal. As technology has increased worldwide travel and transportation in the nineteenth and twentieth centuries, some animals have been able to disperse into new biogeographic regions on boats, trucks, or planes. How all the organisms in one place interact with each other and their environment is called the community ecology of an area. Biogeographic regions strongly determine the community ecology of an area. As a consequence, species that successfully disperse to new biogeographic areas can cause huge ecological impacts. For example, the brown tree snake began invading Pacific islands late in the twentieth century. The local animals, especially birds, are easy prey for brown tree snakes because they have not adapted to snake predators. The snakes can quickly wipe out the bird populations that can not adapt fast enough., see also Living Fossils., Laura A. Higgins , Brown, James H., and Mark V. Lomolino. Biogeography, 2nd ed. Sunderland, MA: Sinauer Associates, Inc., 1998., Purves, William K. et al. Life: The Science of Biology, 5th ed. Sunderland, MA: Sinauer Associates, Inc., 1998., An example of a species that created an ecological impact through its migration is the brown tree snake. This species began invading Pacific islands late in the twentieth century by stowing away on shipping boats. As no snakes were native to the islands, the local animals, especially birds, became easy prey for them, and the native bird populations on the islands were negatively affected. , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Biogeography."
+
+Animal Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Biogeography." 
+Animal Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/biogeography-0
+, 
+"Biogeography." 
+Animal Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/biogeography-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, An enormous variety of species live in the thin layer on Earth's surface that makes up the biosphere. None of these species is found everywhere on Earth's surface. Instead, the number and kinds of species change dramatically as one moves from one place to the next. The science that studies the past and present distribution patterns of organisms and seeks to understand the mechanisms that underlie these patterns is called biogeography., Biogeographers explain the distributions of species using four basic principles regarding the nature of Earth and the organisms that live on it:, , The first two principles indicate that the current geographic distribution of a species is determined by how its ecological limitations are related to the environmental conditions it encounters. Species with similar requirements will be found together in the same locations. Regions on continents or in oceans where the species share similar ecological limitations are called biomes. For example, deserts are biomes where the species are all able to withstand relatively hot, dry climates., The third and fourth principles indicate that as continents move about across the face of Earth, they carry with them the species that inhabit them. When continents that were once connected separate, populations are fragmented, and subsequent evolutionary changes in related species will occur independently. The timing of such independent evolutionary changes provides clues about the timing of Earth's history. Much of the history of continental drift, for example, can be reconstructed by examining the geographical distribution of fossils and of related groups of living species., All four principles suggest that as the conditions on Earth change over long periods of time, each species will respond to these changes in one of three distinct ways. First, a species may change its geographic distribution to track changes in the location of its favored set of ecological conditions. For instance, during ice ages, many species moved southward. Second, a
+species may undergo evolutionary change to adapt to changing conditions. Third, if a species cannot shift its geographic range or undergo evolutionary change, the species will go extinct. Over the history of Earth, no species has been able to persist unchanged as the biosphere has changed., see also Biodiversity; Biome; Evolution, Brian Maurer , Brown, J. H., and M. V. Lomolino. Biogeography. Sunderland, MA: Sinauer Associates, Inc., 1998., Cox, B. C., and P. D. Moore. Biogeography: An Ecological and Evolutionary Approach. Boston: Blackwell Scientific Publications, 1985., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Biogeography."
+
+Biology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Biogeography." 
+Biology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/biogeography-1
+, 
+"Biogeography." 
+Biology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/biogeography-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Biogeography is the study of the patterns of distribution of the world's living organisms. It tries to determine where plants and animals occur, why they occur where they do, and when and how the patterns developed. Bio-geographic patterns are largely determined by climate, geology, soil conditions, and historical events. Individual plant species are generally restricted to particular habitats, but many plants have widely overlapping ecological requirements so that many different kinds grow together in communities., Rainfall has a significant impact on the distribution of plant types. Savannas, steppes, and prairies occur where rainfall patterns result in long, dry periods at certain times of the year. During the dry season, fires often sweep through these areas. Woody plants, with buds for future vegetative growth borne above ground, are killed by the flames. Grasses and other herbaceous plants, whose reproductive buds are produced on underground shoots, and, therefore, protected from fires survive and thrive. Where annual rainfall is greater and more uniform throughout the year, fires are less frequent and woodlands develop. In contrast, deserts develop where rainfall is severely limited., , Vegetation is also influenced by temperature and length of growing season. In the Arctic, where the ground is frozen for several months of the year and the growing season is measured in weeks, only a relatively few, specialized species of dwarf plants are able to grow. Diversity under such conditions is considerably less than in the tropics, where annual temperatures
+and rainfall often remain favorable, and the growing season extends throughout the year. Trees in the tropics can grow to a large size and provide further habitats for epiphytic plants and animals among their branches in the forest canopy., While climate is a major force in determining the patterns of biogeography, other factors are also important, including the physiological requirements and tolerances of individual species. Although many plants overlap in their ecological tolerances, they all vary from each other. Individual species of plants rarely occur continuously in the landscape to the exclusion of all others. For instance, the red maple (Acer rubrum ) in eastern North America is a plant of acid soils and commonly grows with other wetland species in lowlands from eastern Canada to Florida and from the Atlantic to the Mississippi, but it can also grow on dry ridges and hilltops with a different association of plants within the same geographic region. When we examine the distribution of red maple carefully, we also see that the individual plants are not continuous, but occur only where growing conditions are favorable. Some individuals may occur next to each other, but others live some distance away. The individuals within a reasonably close distance to each other, and which are capable of interbreeding, are called populations. Populations, just like individuals, may occur next to each other or be widely separated. Populations occurring far from the main range of distribution of a species are generally referred to as disjunct populations, or simply as disjuncts., Highly specialized habitats such as bogs, barrens, rock outcrops, and vernal pools, which themselves occur in a scattered fashion across the landscape, are frequently home to disjunct species that are especially adapted to those particular ecological conditions. These habitats can be further divided by soil types. Barrens may occur over serpentine, limestone, sandstone, granite, and other less common types of rocks, and each supports a different group of plants particularly adapted to that specific habitat. One particular
+plant that has a wide distribution in North America from the southeastern United States to eastern and central Canada is the pitcher plant (Sarracenia purpurea ). When the populations are plotted on a map the species appears to have a continuous distribution throughout its range, but in reality, individual populations occur only in scattered, highly acidic, boggy situations., , Looking at the distribution of plants today, we see it only as a single slice of time. Studying historical data, we find a very different picture of the position of continents and the distribution of plants and animals. One of the most challenging problems faced by biogeographers is to explain intercontinental disjunctions, in which closely related plants are found on opposite sides of the world from each other and separated by major oceans. One intercontinental disjunction that has attracted particular attention is the one between eastern Asia and eastern North America. About seventy-five genera of plants are restricted to these two areas and occur nowhere else in the world. These plants have no or few close relatives in their respective regions, and there is no confusion over their close relationship to their disjunct sister taxa . Swedish botanist Carl Linnaeus first noticed that closely related plants grew in these two areas in 1750, but it was not until Asa Gray published a series of papers between 1840 and 1860 that this disjunction was brought into prominence. In fact, Gray's series of papers, which were written in response to requests by Charles Darwin for statistics on the North American flora, are often considered to be the seminal papers in the field of biogeography., The genera belonging to this pattern often occur in what are considered to be ancient lineages , and include Magnoliaceae, Berberidaceae, Schisandraceae, Illiciaceae, Hamamelidaceae, and Saururaceae, but some more modern groups such as Rubiaceae and Asteraceae also contain a few genera with close relatives on opposite sides of the world and nowhere else. Gray tried to explain this pattern by proposing migrations across a Bering land bridge connecting the Asian and American continents during periods when sea levels were lower and corridors for migration were available in the center of North America. This was a simple and plausible explanation, but in reality the origin of this pattern of distribution has proven to be much more complex., Later, the German botanist Adolf Engler (1844-1930), in writing about the vegetational history of Earth, made use of rapidly accumulating fossil evidence, particularly from the Arctic, to show that the forests in which these disjunct plants now occurred had once been more widespread and continuous at higher latitudes in the northern hemisphere: they essentially circled the globe in a zone where boreal forests now exist. Engler believed that deteriorating climates and the uplifting of mountains worldwide, and increasing aridity in the western part of North America, led to the extinction of this vegetation type in large portions of the world during the latter portion of the Tertiary period . (This group of plants is still frequently referred to as the Arcto-Tertiary geoflora .) It was also believed that the Pleistocene glaciations of the last two million years further contributed to the extinction of many of the plants in North America and Europe. It has been postulated that the major east-west mountain ranges in Europe—the Pyrenees, Alps, Carpathians, and Balkans—would have blocked the migration of plants in front of the southwardly moving ice sheet, thereby resulting in extinction.
+In contrast, north-south ranges, such as the Appalachians, allowed southerly migration and survival., , Many of the plants and animals restricted to eastern Asia and eastern North America today are known from fossils in Europe and western Asia, and geological evidence indicates that the Bering land bridge was not the only route available for migration between Eurasia and America. Until about forty-nine million years ago and perhaps as recently as about thirty-seven million years ago, North America, Greenland, Iceland, and Europe existed close enough to each other to allow direct migration of plants and animals across the North Atlantic. At that same time, the connection across the Bering Straight was also at a higher latitude than it is today, and climate may have been a controlling factor in plant and animal migrations. It is interesting to note that many genera of plants— Magnolia, Liriodendron, Juglans, Sassafras, Acer, and so forth—that now occur primarily or have their greatest diversity in eastern and southeast Asia and eastern North America are known from the Miocene of Iceland. According to Malcolm McKenna in the Annals of the Missouri Botanical Garden (1983), the closest relatives of Iceland's plants at that time were in North America. Since the end of the Pleistocene glaciations, the composition of Iceland's flora has become more European in character., Islands require special examination. In a sense, islands are like isolated laboratories where long-term experiments in adaptation and evolution are taking place. Many factors have to be considered to understand the origin and development of an island's biota . Such factors include size and elevation of the island, latitude, distance from nearest landmass, age of the island and how long it has remained above sea level, past connections to mainlands, source of migrants, frequency of arrival of new colonists, wind direction, and rainfall patterns. Extinctions and recolonizations, too, have to be analyzed to understand the biological patterns present on islands., Hawaii and the Galapagos Islands are classic examples where processes of island biogeography have been studied. Hawaii has never been connected to another landmass but instead sits over one of Earth's geological hot spots. As the Pacific plate moves to the west-northwest in conveyor belt fashion, new islands are created as magma flows up through Earth's crust to form volcanoes that eventually reach far above sea level. Activity of the hot spot is apparently intermittent, since the volcanoes are separated by gaps of varying sizes. As the islands move away from the hot spot, they are gradually eroded by the elements and eventually consumed as the Pacific plate dives under the Asian continent. This process has been going for at least seventy million years. Since the islands were barren at their creation, the plants and animals on the Hawaiian islands must have originally come from elsewhere. The nearest major landmasses to Hawaii, and the most likely sources of plant and animal colonists, are more than 4,000 kilometers away., , The first colonists to reach Hawaii would have encountered a rich diversity of wide-open ecological niches ranging from sea level to the tops of mountains (some of which exceed 4,000 meters). The diversity of unoccupied habitats is thought to have promoted rapid speciation . Because of the great distance from the major sources of colonists, the number of successful colonizations is estimated to be only 270 to 280 species of plants. These
+have evolved to about 1,000 native species today, although some botanists who place greater emphasis on minor variations consider the number to be much higher. The Hawaiian flora is also considered to be disharmonious, meaning its species distribution differs from that of similar mainland regions. For example, only three native orchids are found on Hawaii, although one would expect many more because of the archipelago's tropical location and wide range of habitats. Conversely, the Campanulaceae (bluebell family) is the most speciose family in the islands, with 110 species of native plants. In other regions of the tropics, the family is an insignificant portion of the flora., see also Biodiversity; Evolution of Plants; Gray, Asa; Orchidaceae., David E. Boufford , Carlquist, S. Island Biology. New York: Columbia University Press, 1974., Cox, C. B., and P. D. Moore. Biogeography: An Ecological and Evolutionary Approach. New York: John Wiley &amp; Sons, 1973., Daubenmire, R. Plant Geography: With Special Reference to North America. New York:Academic Press, 1978., De Laubenfels, D. J. "Botany of Japan and Its Relations to That of Central and Northern Asia, Europe, and North America." Proceedings of the American Academy of Arts and Sciences 4 (1860): 130-35., ——. A Geography of Plants and Animals. Dubuque, IA: William C. Brown Co.,1972., McKenna, M. C. "Holarctic Landmass Rearrangement, Cosmic Events, and Cenezoic Terrestrial Organisms." Annals of the Missouri Botanical Garden 70 (1983): 459-89., Pears, N. Basic Biogeography. Whitstable, KY: Whitstable Litho Ltd., 1977., Pielou, E. C. Biogeography. New York: John Wiley &amp; Sons, 1979., Stott, P. Historical Plant Geography. London: George Allen &amp; Unwin, 1981., Wagner, W. L., D. R. Herbst, and S. H. Sohmer. Manual of the Flowering Plants of Hawaii, rev. ed. Honolulu, HI: University of Hawaii Press, Bishop Museum Press, 1999., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Biogeography."
+
+Plant Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Biogeography." 
+Plant Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/biogeography
+, 
+"Biogeography." 
+Plant Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/biogeography
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"biogeographical region."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"biogeographical region." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeographical-region
+, 
+"biogeographical region." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeographical-region
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"biogeographical region."
+
+A Dictionary of Zoology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"biogeographical region." 
+A Dictionary of Zoology.
+
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeographical-region-1
+, 
+"biogeographical region." 
+A Dictionary of Zoology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeographical-region-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"biogeographical region."
+
+A Dictionary of Plant Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"biogeographical region." 
+A Dictionary of Plant Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeographical-region-0
+, 
+
+"biogeographical region." 
+A Dictionary of Plant Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeographical-region-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"biogeographical province."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"biogeographical province." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeographical-province
+, 
+"biogeographical province." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeographical-province
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"biogeographical barrier."
+
+A Dictionary of Plant Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"biogeographical barrier." 
+A Dictionary of Plant Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeographical-barrier-0
+, 
+"biogeographical barrier." 
+A Dictionary of Plant Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeographical-barrier-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"biogeographical barrier."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"biogeographical barrier." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeographical-barrier
+, 
+"biogeographical barrier." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeographical-barrier
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"biogeographical barrier."
+
+A Dictionary of Zoology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"biogeographical barrier." 
+A Dictionary of Zoology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeographical-barrier-1
+, 
+"biogeographical barrier." 
+A Dictionary of Zoology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeographical-barrier-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"biogeography."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+
+"biogeography." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeography
+, 
+"biogeography." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeography
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"biogeography."
+
+A Dictionary of Zoology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"biogeography." 
+A Dictionary of Zoology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeography-2
+, 
+"biogeography." 
+A Dictionary of Zoology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeography-2
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"biogeography."
+
+A Dictionary of Plant Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"biogeography." 
+A Dictionary of Plant Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeography-1
+, 
+"biogeography." 
+A Dictionary of Plant Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeography-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+ Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"biogeographical province."
+
+A Dictionary of Plant Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"biogeographical province." 
+A Dictionary of Plant Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeographical-province-0
+, 
+"biogeographical province." 
+A Dictionary of Plant Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeographical-province-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"biogeographical province."
+
+A Dictionary of Zoology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"biogeographical province." 
+A Dictionary of Zoology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeographical-province-1
+, 
+"biogeographical province." 
+A Dictionary of Zoology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeographical-province-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"biogeography."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"biogeography." 
+A Dictionary of Ecology.
+
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeography-0
+, 
+"biogeography." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeography-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"biogeography."
+
+A Dictionary of Biology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"biogeography." 
+A Dictionary of Biology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeography-3
+, 
+"biogeography." 
+A Dictionary of Biology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/biogeography-3
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Biogeography is the study of the spatial distribution of plants and animals, both today and in the past. Developed during the course of nineteenth century efforts to explore, map, and describe the earth, biogeography asks questions about regional variations in the numbers and kinds of species : Where do various species occur and why? What physical and biotic factors limit or extend the range of a species? In what ways do species disperse (expand their ranges), and what barriers block their dispersal? How has species distribution changed over centuries or millennia, as shown in the fossil record? What controls the makeup of a biotic community (the combination of species that occur together)? Biogeography is an interdisciplinary science: many other fields, including paleontology, geology, botany, oceanography, and climatology, both contribute to biogeography and make use of ideas developed by biogeographers., Because physical and biotic environments strongly influence species distribution, the study of ecology is closely tied to biogeography. Precipitation, temperature ranges, soil types, soil or water salinity , and insolation (exposure to the sun) are some elements of the physical environment that control the distribution of plants and animals. Biotic limits to distribution, constraints imposed by other living things, are equally important. Species interact in three general ways: competition with other species (for space, sunlight, water, or food), predation (e.g., an owl species relying on rodents for food), and mutualism (e.g., an insect pollenizing a plant while the plant provides nourishment for the insect). The presence or absence of a key plant or animal may function as an important control on another species' spatial distribution. Community ecology , the ways in which an assemblage of species coexist, is also important. Biotic communities have a variety of niches, from low to high trophic levels, from generalist roles to specialized ones. The presence or absence of species filling one of these roles influences the presence or survival of a species filling another role., , Two other factors that influence a region's biotic composition or the range of a particular species are dispersal, or spreading, of a species from one place to another; and barriers, environmental factors that block dispersal. In some cases a species can extend its range by gradually colonizing adjacent, hospitable areas. In other cases a species may cross a barrier, such as a mountain range, an ocean, or a desert , and establish a colony beyond that barrier. The cattle egret (Bubulcus ibis ) exemplifies both types of movement. Late in the nineteenth century these birds crossed the formidable barrier of the Atlantic Ocean, perhaps in a storm, and established a breeding colony in Brazil. During the past one hundred years this small egret has found suitable habitat and gradually expanded its range around the coast of South America and into North America, so that by 1970 it had been seen from southern Chile to southern Ontario., The study of dispersal has special significance in island biogeography . The central idea of island biogeography, proposed in 1967 by R. H. MacArthur and Edward O. Wilson , is that an island has an equilibrium number of species that increases with the size of the land mass and its proximity to other islands. Thus species diversity should be extensive on a large or nearshore island, with enough complexity to support large carnivores or species with very specific food or habitat requirements. Conversely, a small or distant island may support only small populations of a few species, with little complexity or niche specificity in the biotic community., Principles of island biogeography have proven useful in the study of other "island" ecosystems, such as isolated lakes, small mountain ranges surrounded by deserts, and insular patches of forest left behind by clearcut logging . In such threatened areas as the Pacific Northwest and the Amazonian rain forests, foresters are being urged to leave larger stands of trees in closer proximity to each other so that species at high trophic levels and those with specialized food or habitat requirements (e.g., Northern spotted owls and Amazonian monkeys) might survive. In such areas as Yellowstone National Park , which national policy designates as an insular unit of habitat, the importance of adjacent habitat has received increased consideration. Recognition that clearcuts and farmland constitute barriers has led some planners to establish forest corridors to aid dispersal, enhance genetic diversity, and maintain biotic complexity in unsettled islands of natural habitat., [Mary Ann Cunningham Ph.D. ], Brown, J. H., and A. C. Gibson. Biogeography. St. Louis: Mosby, 1983., MacArthur, R. H., and E. O. Wilson. The Theory of Island Biogeography. Vol. 1, Monographs in Population Biology. Princeton: Princeton University Press, 1967., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Biogeography."
+
+Environmental Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Biogeography." 
+Environmental Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/biogeography
+, 
+"Biogeography." 
+Environmental Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/biogeography
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Biogeography is concerned with biodiversity (the various types and numbers of creatures that are present in a particular environment). Biogeography can be descriptive, studying a list of species present in a given environment. Alternatively, historical biogeography involves the study of biodiversity with the passage of time in the particular environment., The goals of biogeography are to gain a better understanding of the types of environments various organisms live in, their populations, and why some environments support populations of certain organisms but not others., The time frame for biogeographical studies can be on the order of millions of years, involving factors like the advance and retreat of glaciers during ice ages, changes in the course of rivers due to erosion and surface movement, and species extinction. Biogeography can also involve shorter time frames. For example, the effect of global warming—the warming of Earth’s atmosphere due to human activites—on biodiversity has only been evident for about 100 years, as this atmospheric warming did not begin until the mid-nineteenth century., Biogeography is important in helping determine how an area can be treated to sustain the life that is present, and in revealing the effects of environmental change on a scale that ranges from local to global., Biogeography as a scientific theory was developed during the nineteenth century by evolutionary scientists who were studying the distribution of flowers and creatures in various natural environments, including the English naturalist Alfred Russel Wallace (1823–1913)., These early studies tended to describe the observations made in a given environment, with no extension of the observations to consider the consequences of a change in an environment on biodiversity. This merely descriptive view of biogeography expanded with the 1967 publication of The Theory of Island Biogeography by American biologists Robert MacArthur (1930–1972) and Edward O. Wilson (1929–). By studying the biodiversity on islands, the authors demonstrated that the types and abundance of life in an isolated environment could be influenced by factors such as geographical area, the rate at which new species entered the environment, and the removal or extinction of species., This approach to biogeography, which considers the changes that can occur over time, is known as historical biogeography., , There are several major biogeographical zones (or ecozones) over Earth’s surface. These are Nearctic (which comprises North America and Greenland), Palearctic (which comprises Europe, Russia, northern Asia, and northern Africa), Neotropical (which comprises South America), Ethiopian, Oriental, Australian, and Oceanic (which comprises the Pacific Ocean)., The discovery of the structure of deoxyribonucleic acid (DNA) in the mid-1950s and the increasing sophistication in determining the sequence of the components of DNA in a variety of species in the following decades has increased the power of modern biogeography. In addition to visual observations of species, the relatedness of species can be probed by comparing their DNA sequences. Two species that are closely related such as human and chimpanzees, for example, have DNA that is nearly identical. In contrast, species that diverged from one another long ago will have more differences in their DNA., Molecular studies of biogeography can also be used to trace the geographical expansion of a single species, since the adaptation of the species to new territories can be reflected in genetic changes., These studies are part of a branch of biogeography known as paleobiogeography, which combines the study of fossils and changes that have taken place on Earth over billions of years with molecular techniques to chart how the distribution of life has changed over long periods of time. As one example, paloebiogeography research has demonstrated that passerine (perching) birds, which are the largest group of birds, originated in present-day Australia and Antarctica and spread outward across the globe over millions of years. The rate of the spread has been useful in clarifying timing and rate of the separation of the continents from one another., Biogeography is important in determining the distribution of species in a given area and also the distribution of various habitats. This descriptive type of biogeography is still crucial in decisions concerning land use and in deciding on conservation strategies., Historical biogeography is also important in revealing changes that are occurring in a region and providing clues as to the reasons for the change. For example, studies of the Amazon rain forest have linked over-logging to declining biodiversity., On a global scale, the changing patterns of species distribution and abundance is reinforcing the view that the accelerating warming of the atmosphere is affecting life on Earth, and biogeography is helping spur efforts to curb atmospheric warming that is occurring due to the release of gases generated by human activity., ECOZONE: A broad section of Earth’s surface that features distinct climate patterns, ocean conditions, types of landscapes, and species of plants and animals., FOSSIL: A remnant of a past geological age that was embedded and has been preserved in Earth’s crust., HABITAT: The natural location of an organism or a population., , See Also Ecosystem Diversity; Genetic Diversity; Reef Ecosystems, Books , Lomolino, Mark, and Lawrence Heaney. Frontiers of Biogeography. Sunderland, MA: Sinauer Associates, 2004., Lomolino, Mark, Brett Riddle, and James Brown. Biogeography. 3rd ed. Sunderland, MA: Sinauer Associates, 2005., Sax, Dov, John Stachowicz, and Steven Gaines. Species Invasions: Insights into Ecology, Evolution, and Biogeography. Sunderland, MA: Sinauer Associates, 2005., Web Sites , GeoCommunity.http://www.geocomm.com/ (accessed April 10, 2008)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Biogeography."
+
+Environmental Science: In Context.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Biogeography." 
+Environmental Science: In Context.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/energy-government-and-defense-magazines/biogeography
+, 
+"Biogeography." 
+Environmental Science: In Context.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/energy-government-and-defense-magazines/biogeography
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, The global spread and growth of human populations has had a profound, lasting, and often irreversible impact on the flora and fauna of continents, islands, and oceans. Humans depend on nature's living resources for food, energy, medicine, construction, recreation, and education. Even low human densities may lead to overexploitation and extinction of a plant or animal species, especially if the animals are big and have a restricted diet and distribution like the giant panda (Ailuropoda melanoleuca) of China. High human densities inevitably cause the displacement of nonhuman natural habitats, the simplification of ecosystems, and the proliferation of waste products that may act as pollutants of natural systems. Human-caused extinction processes have exceeded the natural extinction rates of flora and fauna for several centuries., Birds provide a good example of the human impact on biodiversity. They are the best known group of animals, occur on all continents, and respond quickly to changing environmental factors. Some 12 percent (1,186 bird species) of all birds are globally threatened with extinction; among these, habitat loss, fragmentation, and degradation constitute the major survival threat for 1,008 bird species. Exploitation and the impact of invasive species are the second-and third-most important risk factors., In prehistoric times, human dispersal across the globe was followed by rapid and major extinction waves of vertebrate animals on several continents as well as on many Pacific islands; scores of flightless island bird species vanished within a few hundred years after the arrival of the Polynesian settlers., , The domestication of plants and animals was a revolutionary event in human history that stimulated human population growth and changed the face of the earth. The need for cropland and pastures has not abated and massive deforestation, the transformation of natural prairies, and the draining of wetlands continue worldwide. In Europe, only 15.6 percent of the land remains undisturbed as of 2003; equivalent values for North America are 56.3 and for Africa 48.9 percent. Only 22 percent of the earth's original forest remains in large natural blocks., Habitat destruction and degradation have emerged as the most pervasive threat to U.S. biodiversity, endangering 85 percent of imperiled and federally listed species. The historic range and population of the California condor (Gymnogyps californianus) collapsed along the Pacific coast of North America when Europeans settled there and began to convert California's Central Valley into rangeland and later into cotton, alfalfa, and rice fields., Urbanization causes a sometimes drastic reduction in native species. The birds of Honolulu are almost completely non-native, introduced birds from Asia, Europe, and Central America. Other metropolitan regions in India, China, South America, and Africa contain species sets that have adapted and benefited from high human densities. Many weed, pest, and disease species thrive in dense human conglomerations; indeed, some disease organisms can only maintain themselves in urban landscapes. Some predict that this species set will constitute the global flora and fauna of the twenty-first century., , The introduction of alien species has become the second-most important risk factor for threatened U.S. biota. Competition with or predation by alien species affects some 49 percent of the imperiled species. Some of the alien species originate from deliberate introductions (many game fish species) while others are escaped pets or have inadvertently been transported on trucks, planes, and ships into the country. Some lakes and rivers in the United States have more alien than native fish species. Additional survival problems in U.S. waterways arise from chemical and thermal pollution. After flowering plants (1,031 species critically imperiled), native aquatic life is most at risk: freshwater fishes (300), stone flies (260), freshwater mussels (202), and crayfishes (165 species)., The American West still contains large blocks of wildlands that have never been modified; a unique patchwork of urban, rural, and protected open space constitutes the modern bio-landscape. Southern California is a "hotspot" of global biogeographic significance with an unusually high number of endemic species restricted to this region. The development pressure on the remaining open space lands is intense, transportation links have fragmented wildlife habitats, and pollution threatens entire ecosystems. A similar situation exists in Florida where heavy human immigration and rapid urbanization processes threaten the survival of the Everglades and other irreplaceable ecosystems., Many of the biologically richest and most threatened landscapes are in the tropics. After Australia, the four countries richest in endemic higher vertebrates (mammals, birds, reptiles, and amphibians) found nowhere else are Mexico (761), Brazil (725), Indonesia (673), and the Philippines (473 species). These countries face difficult problems in their rural environments due to burgeoning human populations. The management and conservation of their increasingly fragmented forest landscapes constitutes a major national and international challenge. A remarkable conservation endeavor concerns the fate of the remaining five tiger (Panthera tigris) subspecies stretching from India to Northeast Siberia; three subspecies are already extinct (Caspian, Bali, and Javan tiger). A powerful coalition of conservation groups with worldwide support has slowed the habitat loss in tiger habitats and hopes to safeguard the remaining wild tiger populations in reserves that often lie adjacent to densely populated agricultural areas., , In the oceans of the world, fish resources have been overexploited in the Atlantic and Northern Pacific. Large whales were nearly exterminated before a worldwide ban on whaling was agreed upon by most whaling nations. The exceptional richness of coral reef ecosystems in the Pacific and Southeast Asia is also at risk due to high demand for tropical fishes and corals in Europe, North America, and East Asia. The reefs are poisoned and plundered by impoverished fishermen, a classic repetition of the overexploitation of living resources that culminated in the extinction of some 484 animal species since 1600., In hindsight, the case histories of extinct animals show the human folly of reckless habitat destruction, hunting, and trapping as well as the absence of sustainable use and resource management. The benefits of nature's riches and the unique species diversity of each continent are at greater risk in the early twenty-first century than ever before in human history. Both the developed and the developing countries face challenging land-use decisions for their human and non-human inhabitants., See also: Carrying Capacity; Geography, Population; Sustainable Development., Bird Life International. 2000. Threatened Birds of the World. Barcelona and Cambridge, Eng.: Lynx Edicions and Bird Life International., Cox, George W. 1999. Alien Species in North America and Hawaii: Impacts on Natural Ecosystems. Washington, D.C.: Island Press., Flannery, Tim, and Peter Schouten. 2001. A Gap in Nature: Discovering the World's Extinct Animals. New York: Atlantic Monthly Press., Groombridge, Brian, ed. 1992. Global Biodiversity: Status of the Earth's Living Resources. London: Chapman and Hall., Heywood, Vernon H., ed. 1995. Global Biodiversity Assessment. New York: Cambridge University Press., Quinn, John R. 1994. Wildlife Survivors: The Flora and Fauna of Tomorrow. Blue Ridge Summit, PA: TAB Books/McGraw-Hill., Seidensticker, John, Sarah Christie, and Peter Jackson, eds. 1999. Riding the Tiger: Tiger Conservation in Human-Dominated Landscapes. Cambridge, Eng.: Cambridge University Press., Steadman, David W. 1995. "Prehistoric Extinctions of Pacific Island Birds: Biodiversity Meets Zooarchaeology." Science 267: 1,123–1,131., Stein, Bruce A., Lynn S. Kutner, and Jonathan S. Adams. 2000. Precious Heritage: The Status of Biodiversity in the United States. New York: Oxford University Press., Hartmut S. Walter, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Biogeography."
+
+Encyclopedia of Population.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Biogeography." 
+ Encyclopedia of Population.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/biogeography
+, 
+"Biogeography." 
+Encyclopedia of Population.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/biogeography
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

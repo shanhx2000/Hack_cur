@@ -1,0 +1,78 @@
+[Copyright The Columbia University Press, echo sounder, an older instrumentation system for indirectly determining ocean floor depth. Echo sounding is based on the principle that water is an excellent medium for the transmission of sound waves and that a sound pulse will bounce off a reflecting layer, returning to its source as an echo. The time interval between the initiation of a sound pulse and echo returned from the bottom can be used to determine the depth of the bottom. An echo-sounding system consists of a transmitter, a receiver that picks up the reflected echo, electronic timing and amplification equipment, and an indicator or graphic recorder. The first patent for an echo-sounding device was granted in 1907. The Fathometer, a registered trademark often loosely applied to all depth-sounding gear, was developed (1914) as a result of research by the Canadian engineer R. A. Fessenden in the application of echo-sounding principles to iceberg detection. Application of echo-sounding principles to submarine detection during World War II resulted in the development of equipment to sound all ocean depths. In 1954 an advanced, highly accurate echo sounder called the precision depth recorder (PDR) was developed. By the early 1960s, the U.S. Navy used the new technique of Sonar Array Survey System (SASS). The National Oceanic and Atmospheric Administration has recently used an unclassified version of SASS, Sea Beam, to map more detailed representations of the seafloor. Sea Beam employs an array of sound transducers across the hull of the survey vessel which radiate sound in a swathe, thereby allowing a wide region of the seafloor to be mapped. This type of swathe-mapping technology is now the norm for seafloor mapping. Another sonar instrument called SeaMARC uses a torpedo-shaped
+"fish"
+to measure the strength of sound signals, rather than the elapsed time of the returning signals, and covers larger areas of the ocean floor., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"echo sounder."
+
+The Columbia Encyclopedia, 6th ed..
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"echo sounder." 
+The Columbia Encyclopedia, 6th ed..
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/echo-sounder
+, 
+"echo sounder." 
+The Columbia Encyclopedia, 6th ed..
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/echo-sounder
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, 
+ech·o sound·er 
+•
+n.
+a device for determining the depth of the seabed or detecting objects in water by measuring the time taken for sound echoes to return to the listener.
+
+DERIVATIVES: 
+ech·o sound·ing
+(also ech·o-sound·ing) n.
+, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"echo sounder."
+
+The Oxford Pocket Dictionary of Current English.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"echo sounder." 
+The Oxford Pocket Dictionary of Current English.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/echo-sounder
+, 
+"echo sounder." 
+The Oxford Pocket Dictionary of Current English.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/humanities/dictionaries-thesauruses-pictures-and-press-releases/echo-sounder
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

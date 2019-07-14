@@ -1,0 +1,75 @@
+[Abatement is a general term used for methods or technologies that reduce the amount of pollutant generated in a chemical or other manufacturing facility. In contrast, the terms cleanup and remediation refer to removal or appropriate disposal of the pollutants after they have been generated; these methods are also often referred to as end-of-the-pipe treatment. Current industrial practice places more emphasis on abatement (also known as pollution prevention) and follows the following simple rule: "If you don't make it, you don't treat it.", Pollution abatement involves source reduction, in-process recycling, in-plant recycling, design modifications, off-site recycling, and treatment to make the waste less hazardous. Source reduction refers to the examination of various processing units in detail to determine if wastes can be minimized. The step involves several layers of study: (1) Waste inventory is generated. (2) Critical processes leading to waste are identified. (3) Alternative processing strategies are studied to reduce the amount of waste generated in these processes. The collection of waste inventory is an important part of such an analysis. In addition, the inputs that generate these wastes are identified. These data then suggest ideas for source reduction., , In batch reactors, for example, especially in the manufacture of dyestuffs, rinsing of the reactors in between batches is needed to avoid the contamination of the product made in the next batch. This generates a stream of wastewater. The quantity can be reduced by optimal batch scheduling, that is, making similar dyes for a while before switching to a different color. This requires less rinsing between batches since the next dye to be made is of the same color. Another example is the use of solvents. Contaminated solvent from one part of the process may still be good enough for another part of the plant, and the overall generation of the contaminated solvent can be reduced by properly identifying the solvent needs of the entire plant., In-process recycling refers to the reuse of unreacted materials (after suitable purification) in the same process. Chemical reactions, for example, cannot always be driven to completion due to thermodynamic limitations. In such cases, one needs to separate the product from the unconverted raw material, the latter ending up as a waste stream. The waste generation is abated by recycling the raw materials back to the process. The recycling of spent solvent after some needed purification (e.g., carbon adsorption or steam stripping) is another example of this strategy., In-plant recycling refers to the use of waste generated in one part of the production as a raw material for another part of the plant. Examples of in-plant recycling include solvent reuse and water reuse in the chemical industry., Design modifications play an important role in waste minimization. Often, minor modifications in the existing equipment can result in considerable waste reduction. The better design of cyclone separators can reduce the number of dust particles exiting a process. For storage tanks, floating roofs are often used in place of fixed roof tanks to avoid "breathing" losses, or losses from a tank when the ambient conditions (temperature and pressure) change. For example, if the atmospheric pressure drops, some vapor escapes from the tank in order to equilibrate the pressure, leading to air pollution. Proper insulation can reduce the waste sludge formation in distillation column reboilers because these may now be operated at a lower temperature. A distillation column reboiler is a component of a distillation column and is widely used in refineries and other chemical plants., , Off-site recycling applies to the situation where the waste generated in one plant is a raw material for another industry. For example, gypsum (calcium sulfate) is a waste from stack gas (sulfur dioxide) cleaner in the coal industry, but a raw material in the cement industry. The proximity of industries is an important consideration in off-site recycling since transportation costs can then be minimized. Waste exchange agencies are often able to provide a geographical profile of generated wastes and a description of their potential use in other industries. Once a proper match is established, both parties benefit economically in addition to the reduction in pollution., If any of the methods suggested here are not applicable, the next step is to examine how to make the waste stream less hazardous. Often, this is an important consideration since the costs for disposal of hazardous wastes are significantly higher than those for nonhazardous wastes. An example is the wastes from a wastewater stream. A single "catch-all" facility is used to collect all the wastewater from different parts of a plant or factory, and this stream is treated or sent to a publicly owned treatment works (POTW) facility. If the wastewater contains hazardous material, then this step may not be followed since the POTW would not accept such a stream. An overlooked solution is the segregation of wastewater (rather than one catch-all combined treatment) and in-process purification. For example, carbon adsorption can be used in certain streams before sending it to a catch-all stream. A second example is the treatment of water condensate from chemical reactors. These often contain a significant amount of valuable (but hazardous) raw material. Examples of such contaminants are benzene, toluene, and a variety of lowboiling hydrocarbons. The raw material may be recovered by steam stripping followed by condensation, which recovers it. The raw material is then recycled, and the wastewater from the reactor becomes less hazardous., In summary, a number of techniques discussed here can be used to reduce pollution in manufacturing facilities. Success often depends on engineering experience, insights into the process, and multidisciplinary team efforts. The rewards are a cleaner environment and, in many cases, the added benefit of cost savings and increased profits., see also
+Bioremediation;
+Brownfield;
+Catalytic Converter;
+Cleanup;
+Technology, Pollution Prevention;
+Scrubbers;
+Superfund;
+Wastewater Treatment., allen, d.t., and rosselot, k.s. (1997). pollution prevention in chemical industries. new york: wiley-interscience., allen, d.t., and shonnard, david r. (2002). green engineering. upper saddle river, nj: prentice-hall., rossiter, a.p., ed. (1995). waste minimization through process design. new york: mcgraw-hill., u.s. environmental protection agency, office of research and development, risk reduction engineering laboratory. (1992). pollution prevention case studies compendium. epa/600/r-92/046. cincinnati., u.s. environmental protection agency web site. available from http://www.epa.gov., P.A. Ramachandran , The term abatement is often used in nontechnical communication to cover a broad range of activities that eliminate or reduce exposure to contamination or toxic substances. Abatement may leave contamination in place, but install some barrier to prevent its migration or exposure to it. Thus, the abatement of lead paint in a home may involve the installation of paneling, new wallboard, or a sealant coating over the old paint. The more specific terms cleanup and removal are used literally; the contamination is physically cleaned up, removed, and properly disposed of., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Abatement."
+
+Pollution A to Z.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Abatement." 
+Pollution A to Z.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/educational-magazines/abatement
+, 
+"Abatement." 
+Pollution A to Z.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/educational-magazines/abatement
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, A reduction, a decrease, or a diminution. The suspension or cessation, in whole or in part, of a continuing charge, such as rent., With respect to estates, an abatement is a proportional diminution or reduction of the monetary legacies, a disposition of property by will, when the funds or assets out of which such legacies are payable are insufficient to pay them in full. The intention of the testator, when expressed in the will, governs the order in which property will abate. Where the will is silent, abatement occurs in the following order: intestate property, gifts that pass by the residuary clause in the will, general legacies, and specific legacies., In the context of taxation, an abatement is a decrease in the amount of tax imposed. Abatement of taxes relieves property of its share of the burdens of taxation after the assessment has been made and the levy of the tax has been accomplished., Taxation; Will., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Abatement."
+
+West's Encyclopedia of American Law.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Abatement." 
+West's Encyclopedia of American Law.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/law/encyclopedias-almanacs-transcripts-and-maps/abatement
+, 
+"Abatement." 
+West's Encyclopedia of American Law.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/law/encyclopedias-almanacs-transcripts-and-maps/abatement
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

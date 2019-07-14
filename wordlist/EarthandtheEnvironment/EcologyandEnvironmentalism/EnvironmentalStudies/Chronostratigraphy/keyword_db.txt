@@ -1,0 +1,165 @@
+[The term chronostratigraphy refers to that aspect of the field of stratigraphy dealing with temporal (time) relations and ages of rock bodies. Chronostratigraphic classification in the field of stratigraphy organizes rocks on the basis of their age or the time of their genesis., Chronostratigraphic units are defined as bodies of rock—stratified and non-stratified—that formed during a specific interval of geologic time . Chronostratigraphic units are thus special rock bodies that are conceptual, as well as being material. They can be thought of as the subset of rocks formed during a specified geologic time interval., For example, the Devonian System is the set of all rocks (sedimentary as well as igneous and metamorphic), wherever they occur on Earth, formed during the Devonian Period . The boundaries of this conceptual set of rocks are synchronous (i.e., are the same age everywhere) and the Devonian System is isochronous (i.e., the same age and age span everywhere). When written with a proper noun, e.g., Devonian System, both parts of the name of any chronostratigraphic unit are capitalized., , Chronostratigraphic units, like the system, are the basis for the Phanerozoic time scale. Chronostratigraphic units have a hierarchy, wherein there are corresponding geochronologic units. The chronostratigraphic hierarchy (with corresponding geochronologic term and example proper name) is as follows:, Because chronostratigraphic units are potentially vast vertical section of rock, geologists observe the following conventions with regard to reference markers placed at agreed sites, which represent the best reference examples of the lower boundaries of chronostratigraphic units. These sites, called Global Stratotype Sections and Points (GSSPs), help define chronostratigraphic units. Not all the necessary GSSPs have been assigned yet, and the work continues under the auspices of the International Union of Geological Sciences (IUGS)., The system is the fundamental chronostratigraphic unit, meaning that it is the most commonly used and referenced chronostratigraphic unit. Further, the system was the original unit conceived of in early chronostratigraphic classification. The system is a major subdivision within the hierarchy of chronostratigraphic units, and the largest system spans approximately 152 million years of Earth history. However, most systems span fewer years. Some systems are subdivided into two subsystems (i.e., Tertiary System is subdivided into Neogene and Paleogene Subsystems and Carboniferous System is subdivided into Pennsylvanian and Mississippian Subsystems). A list of the main Phanerozoic systems (with approximate age ranges in millions of years) are: Quaternary (0 to 1.64 millions of years); Tertiary (1.64 to 65 millions of years); Cretaceous (65 to 145.8 millions of years); Jurassic (145.8 to 208 millions of years); Triassic (208 to 245 millions of years); Permian (245 to 290 millions of years); Carboniferous (290 to 362.5 millions of years); Devonian (362.5 to 408.5 millions of years); Silurian (408.5 to 439 millions of years); Ordovician (439 to 505 millions of years); Cambrian (505 to 570 millions of years)., The boundary ages are determined by radiometric agebracketing and biostratigraphic relationships., Names of systems are of diverse origin arising from workers of the eighteenth and nineteenth centuries. System names indicate either (1) chronostratigraphic position (e.g., Tertiary and Quaternary), (2) geologic characteristics, e.g., Carboniferous and Cretaceous (Creta is Latin for "chalk"), (3) geographic locations, e.g., Devonian and Permian (named for the Perm Province of Czarist Russi), and (4) native people's tribal names, e.g., Ordovician and Silurian (named for Celtic tribes of southern England). Proper names of systems have no common spelling for their endings, despite some attempts in the past to standardize them. Systems and corresponding periods have the same proper name., Names of relatively new and all future series, stages, and substages come from local geographic features in the vicinity of their designated stratotype (i.e., the place where the unit is defined for reference purposes) or their GSSP (i.e., the place where the base of the unit is defined for reference purposes). However, some older names (pre-1970s) have come from other sources before the geographic convention was established. Within some systems, names of series are formed from the system plus a positional adjective (lower, middle, or upper). Most names have an "-ian" or "-an" ending. Epochs, ages, and subages have the same name as the corresponding chronostratigraphic unit (i.e., series, stage, and substage). The only exception is where a series bears a positional adjective. In these instances, the positional adjective for the series is replaced by a temporal adjective to form the corresponding epoch. For example, the Lower Devonian Series was formed during the Early Devonian Epoch, Middle Devonian Series was formed during the Middle Devonian Epoch, and Upper Devonian Series was formed during the Late Devonian Epoch., Names of Erathems and Eonothems reflect major changes in existing life on Earth. Regarding the Erathems, Paleozoic means "old life," Mesozoic means "middle life,"' and Cenozoic means "recent life." For Eonothems, Phanerozoic (which encompasses Paleozoic, Mesozoic, and Cenozoic) means "evident life." Older Eonothems are Hadean (in reference to the fiery beginning of Earth), Archean (in reference to ancient times), and Proterozoic (in reference to primitive life). Erathems and Eonothems (with their corresponding approximate ages in millions of years) age span chronostratigraphic units; Phanerozoic—Cenozoic (0 to 65 millions of years), Mesozoic (65to 245 millions of years), and Paleozoic (245 to 570 millions of years)—Proterozoic (570 to 2450 millions of years); Archean (2450 to 3800 millions of years) and Hadean (3800 to 4560 millions of years)., See also  Dating methods; Phanerozoic Eon; Stratigraphy, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Chronostratigraphy."
+
+World of Earth Science.
+.
+
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Chronostratigraphy." 
+World of Earth Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/chronostratigraphy
+, 
+"Chronostratigraphy." 
+World of Earth Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/chronostratigraphy
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"chronostratigraphy."
+
+A Dictionary of Zoology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"chronostratigraphy." 
+A Dictionary of Zoology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/chronostratigraphy-2
+, 
+"chronostratigraphy." 
+A Dictionary of Zoology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/chronostratigraphy-2
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"chronostratigraphy."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"chronostratigraphy." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+ https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/chronostratigraphy-0
+, 
+"chronostratigraphy." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/chronostratigraphy-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"chronostratigraphy."
+
+A Dictionary of Plant Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"chronostratigraphy." 
+A Dictionary of Plant Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/chronostratigraphy-1
+, 
+"chronostratigraphy." 
+A Dictionary of Plant Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/chronostratigraphy-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"chronostratigraphy."
+
+A Dictionary of Earth Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+
+"chronostratigraphy." 
+A Dictionary of Earth Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/chronostratigraphy
+, 
+"chronostratigraphy." 
+A Dictionary of Earth Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/chronostratigraphy
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

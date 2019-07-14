@@ -1,0 +1,231 @@
+[Community ecology is the study of the organization and functioning of communities of organisms. As populations of species interact with one another, they form biological communities. A community of organisms consists of all the interacting populations of the species living within a particular area or within a particular habitat. Community ecology also studies the relationships of the members of a community to their environment. Community
+ecology is usually subdivided according to habitat or biome . Typical habitats include forest, grassland, desert, and stream or lake environments., All biological communities have a similar structure called a trophic pyramid. Each pyramid contains four or five levels. Food energy is passed from one level to the next along a food chain. Since energy is lost to heat at each level in the pyramid, it takes many organisms at a given trophic level to support those in the next level up. The base of the pyramid in every biological community is composed of species called autotrophs, organisms that harvest sunlight (or in rare cases, heat) directly through photosynthesis (or chemosynthesis). All other organisms in the pyramid are called heterotrophs., , A food chain typically contains four or five links, from autotrophs, through grazers and other herbivores, then culminating with a carnivore as top predator. Many animals, however, eat more than one species. Also, animals may eat different foods at different stages of their growth. Many animals eat both plants and other animals and therefore feed at more than one trophic level. Consequently, food chains are usually interconnected into highly complex food webs., In addition to eating one another, species also compete for resources and interact in other ways within a community. Nontrophic relationships between species are as important as food chains and food webs in shaping the organization of biological communities., Through the process of ecological succession, communities are constantly changing. Disturbances to communities may be local, such as a tree falling and opening the canopy to allow more sunlight, or widespread, such as fires and storms. Whether local or general, each disturbance creates an opportunity for a new species to colonize that region. These new species can alter the biological structure of the community and create an environment that is suitable to other new species. By this process, the community evolves over time., In some environments, succession eventually produces a stable community dominated by a small number of species. This is called a climax community. The web of biological interactions has become so intricate and interconnected that no other species can successfully compete for food resources. In other environments, small disturbances produce communities that are a diverse mix of species. Some tropical forests contain hundreds of thousands of species within a square kilometer. When a tree dies and falls, the dense canopy is opened and new space is available for different species to take root. Some coral reefs contain thousands of different species, and whichever species is able to rapidly colonize a new disturbance patch will be successful., , The way of life of an organism is shaped by its environment and by its interactions with other organisms through the processes of evolution. The role an organism plays in its relation to other species and its environment
+is known as its ecological niche. The niche of an organism includes what it eats, how it obtains food, where in the environment it lives, what temperature it prefers, how much light it can tolerate, and many other factors., Some similar species have evolved strategies that allow them to allocate resources in a way that avoids competition. For example, different species of warblers that prey on the same species of insects may forage at different levels in the same trees. A group of organisms that share a common food resource is called a guild. Guild members may have strong interactions with each other but only weak interactions with other members of the community. In the American Southwest, birds, rodents, and ants constitute a guild that competes for the same seeds. Whereas birds exploit temporary patches of seeds, rodents and ants are permanent residents. Ants generally take smaller seeds than rodents. In East Africa, communities of animals form a guild of grazers. First, elephants and buffalo eat the tall, coarse grasses and then move on. They are able to consume large quantities of this low-nutrition food source. Zebras follow along behind the elephants, reducing the plant biomass even more. The zebras are followed by a still smaller animal, the wildebeest, which selects among the lower growing plants that remain after the zebras have fed. Finally, the smallest grazers, such as Thompson's gazelles, are able to reach the young, protein-rich sprouts of grass missed by the wildebeest., The interactive relationships that arise between populations of different species form the interactive web of communities. These interactions range from antagonistic to cooperative and have positive, negative, or neutral effects on the species involved. In antagonistic relationships the interaction is detrimental to individuals of either one or both species; in commensal relationships (commensalism) one species benefits while the other remains unaffected; and in mutualistic relationships (mutualism) both species benefit.
+The organization and stability of biological communities results from the mix of these different kinds of interaction., , There are many different kinds of interspecific interactions within an ecological community. These relationships between species are not static; they evolve as natural selection continually shapes and reshapes them. The complex relationships between prey and predators, for example, are snapshots of one instant during the evolution of interactions. As interactions between species evolve, the nature of relationships may shift. Nineteenth-century British naturalist Charles Darwin called this ever-changing mix of species and their interactions the "entangled bank" and stressed its importance in the evolutionary process. While antagonistic relationships, such as predator-prey or parasite-host, are the most dramatic kinds of relationships, other forms of interaction such as mutualism or commensalism are just as important., This is a relationship where both participants in the interaction receive benefit. For example, plants are hosts for insects that pollinate them or eat their fruit and for microorganisms that attach themselves to their roots. Mutualistic associations between animals and microorganisms are an important part of the structure of communities. Most animals rely on the microorganisms in their gut to properly digest and metabolize food., This is possibly the most common way of life in nature. Parasitic organisms may account for half of all living species. The majority of species of wasps are tiny parasites that lay their eggs on a specific host organism. Some wasps are parasitic on plants, some are parasitic on insects, some even parasitize other wasps! The larvae hatch and burrow into the host species. As it is consumed from the inside out, the host species survives long enough to allow the larvae to mature., , Antagonism is a form of relationship where one species benefits and the other is harmed. Grazing, parasitism, and predation are examples of antagonistic relationships. While we generally think of grazers as large herbivores, a grazer is defined as any species that moves from one organism to another, feeding on part of each without actually killing it outright. Grasshoppers are grazers that jump from plant to plant, chewing a portion of the leaves of each one they visit. Some caterpillars are grazers that crawl from one plant to another during development rather than remain as parasites on an individual plant. The grazing lifestyle differs from the parasitic lifestyle in a few important ways. Individuals can vary their diets with different foods. Also, because grazers do not remain attached to a single individual for long periods, their victims do not have time to develop induced specialized defenses, such as an immune response that a host can develop against a parasite., This form of relationship differs from both parasitism and grazing. In predation, the victims are killed and often consumed immediately. Predators therefore differ from parasites and grazers in their effects on the dynamics of populations and the organization of communities. As with parasitism and grazing, predation is an interaction that has arisen many times in many taxonomic groups worldwide., Competition is an important form of interaction in communities in which neither species benefits. In competitive interactions, species evolve
+either to avoid each other, to tolerate the presence of the other, or to aggressively exclude the other., Species compete for almost every conceivable kind of resource. Birds compete for nesting sites. Male birds compete for preferred sites to defend as territories for attracting females. While species compete for many resources at the same time, there is often a single resource, called the limiting resource, that is in scarce supply. This resource restricts the growth of each species. In deserts, water is often the limiting resource., In this kind of interaction, one species benefits and the other is unaffected. For example, cattle egrets (Bubulcus ibis) forage around the feet of cattle. The grazing behavior of the cattle stirs up many small insects and other arthropods that the cattle egrets eat. The cattle egrets receive a benefit, but there is no indication that the cattle are affected in any way., The richness and ubiquity of interactions among populations of organisms demonstrate that the characteristics of all species have been influenced by the interaction with other species. Species have coevolved with each other. Predators have evolved along with their prey. Parasites evolve with their hosts. Rarely is only one interaction responsible for the evolution of a species, however. More common is a sort of diffuse coevolution where the traits of a single species are influenced by interactions with many other species. Such diffuse coevolution may prevent a sort of evolutionary "arms race," where predator and prey become ever faster or stronger., see also Coevolution; Ecology; Ecosystem; Habitat., Elliot Richmond , Billington, Elizabeth T. Understanding Ecology. New York: F. Warne, 1971., Curtis, Helena, and N. Sue Barnes. Biology, 5th ed. New York: Worth Publishing, 1989., Miller, G. Tyler, Jr. Living in the Environment, 6th ed. Belmont, CA: Wadsworth, 1990., Purves, William K., and Gordon H. Orians. Life: The Science of Biology. Sunderland, MA: Sinauer, 1987., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Community Ecology."
+
+ Animal Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Community Ecology." 
+Animal Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/community-ecology
+, 
+"Community Ecology." 
+Animal Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/news-wires-white-papers-and-books/community-ecology
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"community ecology."
+
+A Dictionary of Ecology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"community ecology." 
+A Dictionary of Ecology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/community-ecology
+, 
+"community ecology." 
+A Dictionary of Ecology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/community-ecology
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"community ecology."
+
+A Dictionary of Plant Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"community ecology." 
+A Dictionary of Plant Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/community-ecology-0
+, 
+"community ecology." 
+A Dictionary of Plant Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/community-ecology-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"community ecology."
+
+A Dictionary of Zoology.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"community ecology." 
+A Dictionary of Zoology.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/community-ecology-1
+, 
+"community ecology." 
+A Dictionary of Zoology.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/community-ecology-1
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, In biological ecology , the concept of community has been defined in various ways, each definition offering particular advantages and creating its own set of problems. As the authors of one article in a 1987 British Ecological Society symposium on community ecology noted, "Community ecology may be unique amongst the branches of science in lacking a consensus definition of the entity with which it is principally concerned." Daniel Botkin provides a summary of the major alternatives: an ecological community is "either (1) a set of interacting populations of different species found in an area, meaning that the community is the living part of an ecosystem ; or (2) all of the species found in a local area, whether or not they actually interact; or (3) all of the species of the same kind found in a local area, as in a 'plant community' or 'animal community'." Peter Taylor describes an ecological community as consisting "of the populations of different species co-inhabiting a site—a lake, the leaf litter layer in a forest, a dung pat, and so on.", A definition of community is significant because so many different parts of the environment are investigated under that rubric in ecology: animal, plant, insect, primate, forest, even herbaceous plant communities. Often what is described is a component of a community rather than a whole community made up of many different species of plants and animals. Such a whole assemblage in community ecology has no scale, but it does denote a certain level of organization and is different from components of a community, guilds, or taxons., Community ecology thus focuses on the living part of ecosystems, mostly on communities of interacting populations, however circumscribed. While a community can include species thrown together by locale that do not necessarily interact, community ecology generally emphasizes the wide diversity of species interactions that exist within the area., , Community ecologists investigate interactions under numerous labels and categories, including on-going studies of traditional topics such as predation, competition , trophic exchanges, and others. Borrowing concepts from other disciplines, such as physics, ecologists are also beginning to look closely at the linkages and assemblages that emerge from strong versus weak interactions, or from positive compared to negative interactions. Researchers continue to investigate the relative importance of intra-species and inter-species interactions in terms of their importance to community composition and rates of succession . One recent study, for example, analyzed the importance of interspecific interactions in the structuring of the geographical distribution and abundance of a tropical stream fish community., The importance of trophic relationships and food web dynamics have always been recognized by ecologists, but a recent article in the journal Ecology can still suggest that "a step toward understanding the dynamics of communities is to describe the pathways along which feeding interactions occur." Ecologists are beginning to quantify feeding interactions, and are moving far beyond the old, linear food chain studies to recognize the complex, multiple linkages created by the feeding relationships among large assemblages of species. Current research also recognizes the composite effects that trophic interactions have on the whole community., One example of the significance of feeding relationships is the continuing role of predation in community ecology. A study might conclude that "Alaskan kelp forests are broadly dependent on sea otter predation for protection against destructive grazing." Another might look at the timing of predation, and conclude that "temporal variability in predation by whelks can have distinctive effects on prey, create distinctive community compositions, and affect successional paths in [an] intertidal community.", , Community ecologists still emphasize species interactions that have been prominent through all the decades of field research. Ecologists still claim, for example, that "assumptions about competition lie at the heart of several models of plant community organization." Other articles in the same journal Ecology reinforce this emphasis, stating e.g., "that competition is pervasive in the [Chihuahuan desert rodent] community." Another example, in the Journal of Ecology indicates that "interspecific competition may limit the growth, branching, survival and berry production by Vaccinium dwarf shrubs in a subarctic plant community.", The degree of pattern or randomness of community structure has long been an issue in community ecology. Natural communities are immensely complex and it is difficult to simplify this complexity down to useable, predictive models. Researchers continue to investigate the extent to which species' interactions can result in a unit organized enough to be considered a coherent community. The mechanics of community assembly depend heavily on invasions, rates of succession, and on changes in the physical environment, as well as a diversity of co-evolutionary patterns., A debate still continues among community ecologists about the importance of complexity, the role of species diversity and richness in the maintenance of a community. Community structure patterns might be dependent, in part, on factors as seemingly trivial as seed weight. Accuracy in estimations of the number of species in a given community is difficult, including the large number of microorganisms as yet unidentified and unnamed. Statistical inference can help to dilute this issue somewhat., , Disturbances and perturbations are important factors in the composition and character of communities. One study may focus on the role of fire in tall tussock grasslands . Another recent study of old-growth forests in British Columbia concluded that "small-scale natural disturbances involving the death of one to a few trees and creating gaps in the forest canopy are key processes in the...community ecology of many forests." In the recent "landscape view" emerging in ecology, some research indicates that natural communities may persist in patches, as long as they remain interconnected. This underlines again the importance of context in any attempt to understand community ecology., The most significant source of disturbance and change in natural communities is human activity. Recent studies in community ecology have documented the impact of human removal and then reintroduction of a keystone species such as largemouth bass into a lake; have questioned the impact of "importing" an alien seaweed from Japan to expand Brit tan's kelp farms; and have indicated that "human fishing pressure has influenced Caribbean coral reef community structure by affecting predator-herbivore relationships." Humans can also have positive effects through deliberate attempts to offset destructive impacts. A recent study published in the journal Nature described the deliberate modification of pH levels in lakes by adding phosphate fertilizer , which reversed acidification without "drastically altering the community structure." Such manipulations, modifications, alterations, and disruptions by humans could obviously be expanded into a very long list, but the idea should be clear., One other type of human impact, however, is receiving a lot of attention: evidence is mounting that climate change is increasingly impacting natural communities. For example, one recent study suggested that "increased warming could change the dominant vegetation of a widespread meadow habitat , changing the competitive relationships between sagebrush and cinquefoil." Another indicated that "regional climatic warming may be altering the species composition of Alaskan arctic tundra" through changes in light, temperature and nutrients that affect community and ecosystem processes., The information gained in community ecology studies is becoming increasingly important to achieving conservation objectives and establishing guidelines to management of the natural systems on which all humans depend. For example, clearer understanding of linkages established in communities through trophic exchanges can help predict the impacts of concentrations of toxins and pollutants. Better understanding of organismic interactions in a community context can help in comprehending the processes that lead to extinction of species, information critical to attempts to slow the loss of biological diversity. Research into community dynamics can result in better decisions about establishing preserves and refuges, and can create sustainable harvesting strategies., The professional ecology journals do not publish research on the importance of community for the human species. Yet, few concepts are more significant in human affairs than the role of different kinds of community in establishing ties and linkages among human individuals and between humans and the locales in which they live. Equally important is the lack of community, the looseness of ties and the alienation from locale and from others that stem from failures to establish a sense of community. As in natural communities, interactions among human individuals create community and are in turn shaped by community., [Gerald L. Young Ph.D. ], Diamond, J., and T. Case, eds. Community Ecology. New York: Harper &amp; Row, 1986., Putman, R. J. Community Ecology. New York: Chapman and Hall, 1994., Taylor, P. "Community," Keywords in Evolutionary Biology, ed. by E.F. Keller and E.A. Lloyd. Cambridge, MA: Harvard University Press, 1992., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Community Ecology."
+
+Environmental Encyclopedia.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Community Ecology." 
+Environmental Encyclopedia.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/community-ecology
+, 
+"Community Ecology." 
+Environmental Encyclopedia.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/community-ecology
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Within the field of ecology, a community is a group of organisms coexisting within a defined area. Community ecology is the study of the interactions that occur among populations of that live within a specific region. It is also concerned with the distribution andabundance of the various populations within the area. For example, a community ecologist might consider the ways in which the white pine and the white pine weevil in an old-growth forest in Maine affect one another’s survival and reproduction., Most communities are quite complex, containing many coexisting plant, animal, bacterial, fungal, and protozoal (single-celled) populations. Community ecology seeks to understand how species interact by studying many different kinds of relationships between these populations. Animal-animal interactions, animal-plant interactions, and plant-plant interactions are examples of community relationships considered. A plant-plant interaction might include the ways in which weeds affect growth of tomatoes in a garden, or how a tall tree blocks sunlight from smaller plants in a Costa Rican rain forest. An important type of animal-animal interaction is competition, such as that between two populations of finches for seeds for food on an island in the Galapogos. Another animal-animal interaction is predations, for example understanding how snakes prey on mice in a meadow in western Texas. Plant-animal interactions include herbivory (animals eating plants) or in rare cases plant carnivory (plants eating animals; an example is a Venus fly trap plant ingesting insects). Symbioses are another type of interaction that may involve plants, animals, fungi or bacteria. These relationships involve the beneficial and parasitic coexistence of any of these organisms, such as the symbiosis between photosynthetic algae, called zooxanthellae, in the dermis of stony corals., Along with studying relationships among populations, community ecology is concerned with understanding the ecological niche of different populations, species diversity, and the biogeography of species. Community ecology is concerned with all of these concepts as ameans to understanding what types of forces may result in changes to or may increase the stability of biological communities., Terry Watkins, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Community Ecology."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Community Ecology." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/community-ecology
+, 
+"Community Ecology." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/community-ecology
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Within the science of ecology , a community is a set of organisms coexisting within a defined area. Community ecology, then, is the study of the interactions that occur among groups of species coexisting within a region. For example, a community ecologist might consider the ways in which plants and animals within a forest affect one another's growth. Contrary to popular usage, the term ecology itself does not refer to recycling (conservation ). Rather, it refers to the study of the distribution and abundance of living organisms and their interchange with each other and with the non-living (abiotic) world. Community ecology is concerned with the distribution, abundance, and interactions of mixtures of many different kinds of living things in a defined area., By definition, a community is composed of two different species. Therefore, a set of birds consisting of two species of finches would constitute a very simple community. Most communities are much more complex, however, containing many coexisting plant , animal , bacterial, fungal, and protozoal (single-celled) individuals. Interestingly, a community is really defined by the person who is considering the community; the geographical boundaries of a community are arbitrary. The concept of a "community," depends on how it is defined., Community ecology seeks to understand how species interact by studying many different kinds of relationships between organisms. Animal-animal interactions, animal-plant interactions, and plant-plant interactions are examples of community relationships considered. A plant-plant interaction might be the ways in which weeds affect growth of tomatoes in a garden, or how a tall tree blocks sunlight from smaller plants. An example of an animal-animal interaction is competition between birds for limited seeds for food, or how snakes prey upon mice in meadows. Plant-animal interactions include herbivory (eating of plants by animals) or Venus fly trap plants capturing and digesting insects ., Commuity ecology also looks to understand such concepts as niche , diversity, biogeography, diversity, species assembly, predation, competition, and symbiosis (the beneficial and parasitic coexistence of organisms). The major theme within community ecology is competition as the driving force for change in environments. This specialized field of biology is important because it helps scientists understand how communities are structured and how they change over time . Also, an understanding of community structure is vital to predict the effects of decline in, or extinction of, species (loss of diversity). Therefore, in order to fully understand the effect that humankind has upon our environment, knowledge of community ecology is needed., Terry Watkins, 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Community Ecology."
+
+The Gale Encyclopedia of Science.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Community Ecology." 
+The Gale Encyclopedia of Science.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/community-ecology-0
+, 
+"Community Ecology." 
+The Gale Encyclopedia of Science.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/community-ecology-0
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]

@@ -1,0 +1,99 @@
+[BIBLIOGRAPHY, The post–World War II (1939-1945) period saw the emergence at the University of Chicago of a significant alternative in economics to both the tradition of American institutionalism and the emerging traditions of Keynesianism and general equilibrium theorizing. Usually associated with the work of Milton Friedman (monetarism) and George Stigler, and their students Gary Becker and Robert Emerson Lucas, the Chicago approach to economics is also present in the agricultural and development economics of Theodore W. Schultz, D. Gale Johnson, and Zvi Griliches; the labor economics of H. Gregg Lewis, Al Rees, and Sherwin Rosen; the industrial economics of Lester Telser, Harold Demsetz, and Sam Peltzman; the law and economics of Aaron Director, Ronald H. Coase, and Richard Posner; the economic history of Robert Fogel and Deidre McCloskey; the international economics of Harry Johnson and Arnold Harberger; and the social economics of Kevin Murphy and Steven Levitt. Two themes tie together these various manifestations of the Chicago approach: in each of them, Marshallian price theory is taken seriously, and economics is understood to be an applied science., At a time when the economics discipline was moving toward both formalized general equilibrium models and refined econometric techniques, Chicago economists continued the interwar tradition of price theory taught by Jacob Viner and Frank H. Knight. From 1930 to the mid-1980s, graduate students read and reread a canon of books and essays by Viner, Knight, Henry Simons, Friedman, Stigler, Coase, and Becker to gain an intuitive appreciation for how economics could be applied to any social or economic problem. As Friedman’s 1953 essay “The Methodology of Positive Economics” made clear, the Chicago approach applied a small set of simple tools to economic problems because they retained their predictive success despite their generality. Chicago’s predilection for the application of price theoretic models to policy issues was also supported by the analytical egalitarianism of Becker and Stigler’s 1977 essay “De Gustibus Non Est Disputandum”: look for explanations of economic change in the set of cost constraints individuals face, because people across time and place are assumed to hold similar values and tastes., , The methodological underpinnings of the Chicago approach were driven home to graduate students and faculty alike every week in the workshops that met regularly in the University of Chicago’s Department of Economics, Graduate School of Business, and Law School. Starting in the mid-1940s, the workshops became the locus of most research and graduate training in economics at Chicago. After passing comprehensive examinations at the end of the first year, graduate students associated themselves with one or more workshops. Each workshop met weekly for critical examination of papers by faculty members, invited external guests, or senior graduate students. Most workshops functioned by “Chicago rules”: papers were distributed prior to the meeting, which was devoted to discussion, rather than presentation, in order to uncover the methodological, theoretical, or empirical problems in the paper. The collective enterprise embodied in the workshop model encouraged faculty and graduate students to pursue interesting applications of price theory in settings where it was commonly understood to not be applicable: antitrust and anticompetition policy, economic development, crime and habitual behavior, law, religion, corporate finance, the family, history, and politics. In all these areas, Chicago economics extended the reach of the discipline by showing that useful, empirically based criticisms of policy frameworks could be built upon basic price-theoretic analytical foundations (Reder 1987)., Chicago economics has not shied away from controversy, either internal or external. The circle around Knight sparred with institutionalists and empirical economists within and outside the department during the 1930s and 1940s. From 1939 to 1955, the University of Chicago was the home of the Cowles Commission, a leader in formal modeling and hence at odds with the Chicago School approach. Alfred Cowles brought Oskar Lange, Jacob Marschak, and Tjalling Koopmans to Chicago, and played an important role in the development of both econometrics and Walrasian general equilibrium theory. The creation of the Shadow Open Market Committee in the early 1970s provided a public forum for the longstanding dispute between Chicago monetarists and the Federal Reserve System’s general Keynesian orientation. Finally, the Chicago department’s long-standing relation with Latin American students became the center of controversy when a group of Chicago-trained economists became the architects of economic transformation in Chile under General Augusto Pinochet. The impact of Chicago-inspired reforms there contributed to the spread of the Chicago approach across the developing world, and became the center of a global debate over privatization and market-based reforms., SEE ALSO Becker, Gary; Business Cycles, Real; Friedman, Milton; Harris, Abram L.; Laissez Faire; Law and Economics; Monetarism; Money Illusion; Permanent Income Hypothesis , Friedman, Milton. 1953. The Methodology of Positive Economics. In Essays in Positive Economics, 3-43. Chicago: University of Chicago Press., Reder, Melvin W. 1987. Chicago School. In The New Palgrave: A Dictionary of Economics, ed. John Eatwell, Murray Milgate, and Peter Newman, vol. 1, 413-418. New York: Stockton., Stigler, George J., and Gary S. Becker. 1977. De Gustibus Non Est Disputandum. American Economic Review 67 (2): 76-90., Ross B. Emmett  , 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Chicago School."
+
+International Encyclopedia of the Social Sciences.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Chicago School." 
+International Encyclopedia of the Social Sciences.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/chicago-school
+, 
+"Chicago School." 
+International Encyclopedia of the Social Sciences.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/chicago-school
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, Among contemporary movements in U.S. law, few have had as much influence as the Chicago school. This school of thought helped revolutionize legal thinking on economics from the 1970s to the 1980s. At the heart of its philosophy is the idea that economic efficiency should be the goal of national policy and law. This argument left its mark, in particular, in the area of antitrust, where the Chicago school swayed the U.S. Supreme Court for more than a decade. Although they received less attention in the 1990s than they had earlier, the school's leaders continued to rank among the preeminent—and more controversial—figures on the legal landscape., The Chicago school takes its name from the University of Chicago, with which most of its core proponents were all affiliated at one time. These include Professor Ronald H. Coase, Judge Frank H. Easterbrook, Professor Richard A. Epstein, Professor Daniel R. Fischel, Judge richard a. posner, and Judge Ralph K. Winter Jr. robert h. bork, another prominent member, was a professor at Yale. The early work of the Chicago school, produced in the 1960s, built on scholarship by Professor Aaron Director. Director's specialty had been antitrust, the area of law that addresses unfair competition in business. Antitrust has a long history, in which ideas have come and gone. Through the late 1960s, the U.S. Supreme Court took a harsh view of restraints on trade. The Court ruled that certain anticompetitive practices were per se illegal—so harmful to competition that they need not even be evaluated on a case-by-case basis., , The Chicago school urged the Court to take another look. Scholars of the school praised economic efficiency. If they could show, for instance, that certain restraints on trade were actually a result of efficient competition, then why should these practices be considered illegal by courts? Underlying this view was the contention that markets could take care of themselves without the need for heavy regulation. It was not long before the Chicago school's ideas began to influence the Supreme Court. In 1977, the Court abandoned its reliance on per se rules in Continental T.V. v. GTE Sylvania, 433 U.S. 36, 97 S. Ct. 2549, 53 L. Ed 2d 568, and turned instead to a rule of "reason," opening a new era in antitrust law., Throughout the 1970s, the Chicago school continued to refine its economic theory in numerous essays and treatises such as Posner's Antitrust Law (1976) and Robert H. Bork's The Antitrust Paradox (1978), both of which attacked the idea that big business is necessarily bad. The school argued that an unrestricted market, in which producers and consumers acted freely, will operate rationally and efficiently all by itself. The hands-off implications of this picture had broad significance for corporate law and national policy. Chicago school theory influenced the Reagan administration's attack on government regulation., President ronald reagan appointed several Chicago school members to the federal bench: Posner in 1981 to the Seventh Circuit, Winter in 1982 to the Second Circuit, and Easterbrook in 1985 to the Seventh Circuit. Bork, a judge on the U.S. Court of Appeals for the District of Columbia Circuit, was nominated to the U.S. Supreme Court in 1987. However, widespread protest over his views led the U.S. Senate to block his confirmation., In the 1990s the Chicago school continued to provoke lively debate. Bork, despite resigning from the judiciary in 1988 following his failed nomination to the Supreme Court, attracted attention with publications such as his 1990 book The Tempting of America: The Political Seduction of the Law. But in the area of antitrust, at least, the heyday of the school's influence was over. For years, the Chicago school's theory had been undergoing a reevaluation, with critics questioning its faith in government nonintervention., Katz, Ronald S., and Janet S. Arnold. 1993. "Kodak v. Image Technical Services: Downfall of the Chicago School of Antitrust Economics." American Law Institute (January 21)., Posner, Richard A. 1975. "The Economic Approach to Law." Texas Law Review 53., Protos, Jill Dickey. 1993. "Kodak v. Image Technical Services: A Setback for the Chicago School of Antitrust Analysis." Case Western Reserve Law Review (spring)., Rosenthal, Douglas E. 1993. "Reevaluating the Chicago School Paradigm for Promoting Innovation and Competitiveness." Canada–United States Law Journal., Simpson, Alexander G. 1993. "Shareholder Voting and the Chicago School: Now Is the Winter of Our Discontent." Duke Law Journal (October)., 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+ "Chicago School."
+
+West's Encyclopedia of American Law.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Chicago School." 
+West's Encyclopedia of American Law.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/law/encyclopedias-almanacs-transcripts-and-maps/chicago-school
+, 
+"Chicago School." 
+West's Encyclopedia of American Law.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/law/encyclopedias-almanacs-transcripts-and-maps/chicago-school
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , Bibliography,  Charernbhak (1984); Condit (1952, 1960, 1961, 1964, 1968); Peisch (1964); Randall (1949); Tallmadge (1941); Jane Turner (1996), 
+Cite this article 
+
+Pick a style below, and copy the text for your bibliography.
+
+, 
+"Chicago School."
+
+A Dictionary of Architecture and Landscape Architecture.
+.
+Encyclopedia.com.
+13 Jul. 2019
+&lt;https://www.encyclopedia.com&gt;.
+, 
+"Chicago School." 
+A Dictionary of Architecture and Landscape Architecture.
+. Encyclopedia.com.
+(July 13, 2019). 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/chicago-school
+, 
+"Chicago School." 
+A Dictionary of Architecture and Landscape Architecture.
+. Retrieved
+July 13, 2019
+from Encyclopedia.com: 
+https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/chicago-school
+, 
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+, 
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+, 
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+, http://www.mla.org/style, http://www.chicagomanualofstyle.org/tools_citationguide.html, http://apastyle.apa.org/, , 
+© 2016 Encyclopedia.com | All rights reserved.
+]
