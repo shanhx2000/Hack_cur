@@ -13,12 +13,10 @@ class profile:
         self.badtag = [' ','is','and','to','are']
     
     def add(self,dict):
-        flag = False
         for tag in dict['tags']:
             if(tag not in self.taglist and tag not in self.badtag):
-                flag = True
                 self.taglist.append(tag)
-        if flag:
+        if self.file.find({'content':dict['content']}):
             self.file.insert_one(dict)
 
     def add_auto(self,text):
