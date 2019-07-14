@@ -53,4 +53,7 @@ body,html {
 
 input{
     text-align:center;
- }
+}
+.bg-mycolor{
+    background-color: #2196f3;
+}

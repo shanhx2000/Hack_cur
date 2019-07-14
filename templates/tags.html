@@ -22,6 +22,8 @@
 </head>
 
 <body>
+	<nav class="navbar navbar-expand-lg navbar-light bg-mycolor" style="height: 36px;">
+	</nav>
 	<div class="container row" id="big">
 		<div class="col-md-3">
 			<div class="form-group">
@@ -67,7 +69,8 @@
 									</div>
 									<div class="col-md-9 right">
 										{% for tag in data.tags %}
-										<button type="button" class="btn btn-info" href=/{{tag}} onclick=javascript:f(this);>#{{tag}}</button>
+										<button type="button" class="btn btn-info" href=/{{tag}}
+											onclick=javascript:f(this);>#{{tag}}</button>
 										{% endfor %}
 									</div>
 								</div>
@@ -78,11 +81,16 @@
 				</div>
 			</div>
 		</div>
-		<footer class="footer col-md-12">
-			<div class="text-center">
-				<a href="github" target="_blank">group name</a>
-			</div>
-		</footer>
+		<div class="footer-basic">
+			<footer>
+				<div class="social">
+					<a href="https://github.com/shanhx2000/Hack_cur">
+						<i class="icon mark-github"></i>
+					</a>
+				</div>
+				<p class="copyright">Team ? 2019</p>
+			</footer>
+		</div>
 	</div>
 </body>
 
